@@ -45,15 +45,15 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
     </tr>
     <tr>
         <td><img alt="img_Joao" src="./req-grupo1/docs/images/João_Vitor.jpg" style="border-radius:50%" width="100"></td>
-        <td>Renata Quadros Kurzawa</td>
-        <td>rekurzawa28@gmail.com</td>
-        <td><a href="github.com/Renatinha28">@Renatinha28</a></td>
+        <td>João Vitor Lopes Ribeiro</td>
+        <td>joao.vitortnt5@gmail.com</td>
+       <td><a href="https://github.com/Joa0V">@Joa0V</a></td>
     </tr>
     <tr>
         <td><img alt="img_Renata" src="./req-grupo1/docs/images/Renata.jpeg" style="border-radius:50%" width="100"></td>
         <td>Renata Quadros Kurzawa</td>
-        <td>joao.vitortnt5@gmail.com</td>
-        <td><a href="https://github.com/Joa0V">@Joa0V</a></td>
+        <td>rekurzawa28@gmail.com</td>
+        <td><a href="github.com/Renatinha28">@Renatinha28</a></td>
     </tr>
     </table>
     <p>Tabela 1: Integrantes do Grupo 1 (Fonte: autores, 2024)</p>
