@@ -70,5 +70,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-
-  
+  - Planejamento:
+      - Ferramentas: Planejamento/ferramentas.md
