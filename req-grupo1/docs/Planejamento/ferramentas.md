@@ -34,7 +34,7 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
                 <td>Controle de versão e repositório de código para o projeto.</td>
             </tr>
             <tr>
-                <td><img src="../images/mkdocs.png" style="width: 50px; height: 50px; object-fit: cover;"></td>
+                <td><img src="../images/mkdocs.png" style="width: 200px; height: 50px; object-fit: cover;"></td>
                 <td>MkDocs</td>
                 <td>Criação de documentação estruturada para o projeto.</td>
             </tr>
@@ -49,7 +49,7 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
                 <td>Comunicação rápida entre os membros da equipe durante o projeto.</td>
             </tr>
             <tr>
-                <td><img src="../images/youtube.png"  style="width: 50px; height: 50px; object-fit: cover;"></td>
+                <td><img src="../images/youtube.png"  style="width: 200px; height: 50px; object-fit: cover;"></td>
                 <td>YouTube</td>
                 <td>Referência de tutoriais e conteúdos técnicos relacionados ao projeto.</td>
             </tr>
