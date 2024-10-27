@@ -70,5 +70,5 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-
-  
+  - Etapa 1:
+    - Cronograma: etapa1/cronograma.md
