@@ -22,7 +22,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 28/10 - Fim: 28/10      | Renata                            | Início: 28/10 - Fim: 28/10       | João Vitor                                 |
 | Correção pós apresentação           | Início: 31/10 - Fim: 03/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 03/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
 
-<p align="center">Fonte: <a href "https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 2
     Tabela 2: Cronograma planejado - Etapa 2 - Elicitação
@@ -44,7 +44,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 23/11 - Fim: 23/11 | Renata | Início: 23/11 - Fim: 23/11 | Davi | 
 | Correção pós apresentação | Início: 26/11 - Fim: 30/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 30/11 - Fim: 31/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
 
-<p align="center">Fonte: <a href "https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 3
     Tabela 3: Cronograma planejado - Etapa 3 - Modelagem de Requisitos 1
@@ -58,7 +58,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 07/12 - Fim: 07/12 | Renata | Início: 07/12 - Fim: 07/12 | Davi | 
 | Correção pós apresentação | Início: 10/12 - Fim: 15/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 15/12 - Fim: 15/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
 
-<p align="center">Fonte: <a href "https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 4
     Tabela 4: Cronograma planejado - Etapa 4 - Modelagem de Requisitos 2
@@ -69,9 +69,54 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 |NFR Framework|Início: 09/12 - Fim: 13/12 | Renata e João Vitor| Início: 13/12 - Fim: 13/12 | Davi e Carla |
 | Gravação da apresentação e entrega | Início: 14/12 - Fim: 14/11  | Carla e Renata | Início: 14/12- Fim: 14/12 | João Vitor | 
 | Atualização do cronograma executado | Início: 14/12 - Fim: 14/12 | Renata | Início: 14/12 - Fim: 14/12 | Davi | 
-| Correção pós apresentação | Início: 17/12 - Fim: 20/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 20/12 - Fim: 20/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
+| Correção pós apresentação | Início: 17/12 - Fim: 20/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 20/12 - Fim: 20/12 | Carla, Eduarda, Davi, João Vitor, Renata | 
 
-<p align="center">Fonte: <a href "https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+
+## Etapa 5.1
+    Tabela 5: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
+| Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Verificação 1  | Início: 21/12<br>Fim: 23/01    	|  Carla, Davi, João Vitor  | Início: 26/12 Fim: 26/12 |   Renata 	|
+|   Validação 1   	| Início: 26/12<br>Fim: 28/01  	|   Renata, Davi, Eduarda   | Início: 28/12 Fim: 29/12 	|     João Vitor   	|
+|   Atualização do cronograma executado     | Início: 28/12<br>Fim: 28/12    	|   Eduarda, Renata	| Início: 29/12 Fim: 29/12 	|     Carla, Davi, João Vitor   	|
+
+<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+## Etapa 6
+    Tabela 6: Cronograma planejado - Etapa 6 - Pós-Rastreabilidade - Gerência II
+| Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Pós-rastreabilidade: Backward-from  | Início: 11/01<br>Fim: 13/01 |  Eduarda, João Vitor	| Início: 14/01<br>Fim: 14/01 	|  Eduarda	|
+|   Pós-rastreabilidade: Forward-from    	| Início: 11/01<br>Fim: 13/01  	|Carla, Davi  | Início: 14/01<br>Fim: 14/01 	| Renata |
+|   Pós-rastreabilidade: Matriz de rastreabilidade    	| Início: 15/01<br>Fim: 16/01  	| Eduarda, Renata | Início: 17/11 Fim: 17/11 	| Davi |
+|   Gravação da Apresentação e Entrega 	| Início: 18/01<br>Fim: 18/01    	|   Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 19/01<br>Fim: 19/01  	| Davi, João Vitor 	|
+| Atualização do cronograma executado | Início: Início: 18/01<br>Fim: 18/01     | Renata                            | Início: 18/01<br>Fim: 18/01       | João Vitor 
+|   Correção pós apresentação	| Início: 20/01<br>Fim: 22/01 	|  Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 23/01<br>Fim: 23/01 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
+
+<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+## Etapa 5.2
+    Tabela 7: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
+| Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Verificação 2  | Início: 24/01<br>Fim: 26/01    	|  Carla, João Vitor, Eduarda  | Início: 27/01 Fim: 27/01 	|    Renata, Davi	|
+|   Validação 2   	| Início: 24/01<br>Fim: 26/01  	|   Eduarda, Davi, Renata    | Início: 27/01 Fim: 27/01 	|      Carla, João Vitor  	|
+|   Gravação da Apresentação e Entrega     | Início: 28/01<br>Fim: 28/01    	|   Eduarda, Davi	| Início: 29/01 Fim: 29/01 	|     Carla, Eduarda, Davi, João Vitor, Renata   	|
+| Atualização do cronograma executado | Início: 28/01<br>Fim: 28/01     | Renata                            | Início: 28/01<br>Fim: 28/01       | João Vitor                                 |
+|   Correção pós apresentação	| Início: 30/02<br>Fim: 01/02 	|  Carla, Eduarda, Davi, João Vitor, Renata	| Início: 02/02<br>Fim: 03/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
+
+<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+## Etapa Final
+    Tabela 8: Cronograma planejado - Etapa Final
+| Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Desenvolvimento do projeto final (correção e complemento) 	| Início: 04/02<br>Fim: 07/02    	| Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 08/02 Fim: 08/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
+|   Gravação da Apresentação e Entrega  	| Início: 09/02<br>Fim: 09/02 	|  Carla,  Renata 	| Início: 09/02<br>Fim: 09/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
+|   Correção pós entrega	| Início: 10/02<br>Fim: 11/02 	|  Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 11/02<br>Fim: 11/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
+
+<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -88,8 +133,8 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
         <tr>
             <td>27/10</td>
             <td>1.0</td>
-            <td>Criação do cronograma planejado (etapa 1 até 4)</td>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>Criação do cronograma planejado (Renata Quadros: etapa 1 até 4 / João Ribeiro: 5.1 até Etapa Final)</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a> <a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
             <td></td>
         </tr>
