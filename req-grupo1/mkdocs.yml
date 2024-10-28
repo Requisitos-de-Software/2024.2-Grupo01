@@ -69,8 +69,8 @@ markdown_extensions:
           - overrides/.icons 
 
 nav:
-  - Home: index.md
-  - Planejamento:
-      - Ferramentas: etapa1/Planejamento/ferramentas.md
-  - Etapa 1:
-    - Cronograma: etapa1/cronograma.md
+  - Home: Home/index.md
+
+  - Desenvolvimento:
+    - Cronograma: Desenvolvimento/cronograma.md
+    - Ferramentas: Desenvolvimento/ferramentas.md
