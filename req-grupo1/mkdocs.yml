@@ -71,4 +71,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Planejamento:
-      - Ferramentas: Planejamento/ferramentas.md
+      - Ferramentas: etapa1/Planejamento/ferramentas.md
+  - Etapa 1:
+    - Cronograma: etapa1/cronograma.md
