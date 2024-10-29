@@ -78,7 +78,7 @@ A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasil
 Este Rich Picture representa o fluxo de informações e os principais componentes do sistema no aplicativo da
 Carteira de Trabalho Digital, destacando as interações dos usuários com as funcionalidades oferecidas pelo
 app.
-<img src="/assets/images/rp.png"  style="width: 70%; height: auto; object-fit: cover;">
+<img src="../../assets/images/rp.png"  style="width: 70%; height: auto; object-fit: cover;">
 
 #### Descrição dos Componentes
 1. Usuário:
