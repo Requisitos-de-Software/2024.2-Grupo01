@@ -26,31 +26,31 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <th>GitHub</th>
     </tr>
     <tr>
-        <td><img alt="img_Carla" src="./req-grupo1/docs/images/Carla_Clementino.jpeg" style="border-radius:50%" width="100"></td>
+        <td><img alt="img_Carla" src="./req-grupo1/docs/assets/images/Carla_Clementino.jpeg" style="border-radius:50%" width="100"></td>
         <td>Carla A. C. Ribeiro</td>
         <td>carlacarlaclementino@gmail.com</td>
         <td><a href="https://github.com/ccarlaa">@ccarlaa</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Duda" src="./req-grupo1/docs/images/Eduarda_Tavares.JPG" style="border-radius:50%" width="100"></td>
+        <td><img alt="img_Duda" src="./req-grupo1/docs/assets/images/Eduarda_Tavares.JPG" style="border-radius:50%" width="100"></td>
         <td>Eduarda Rodrigues Tavares</td>
         <td>erteduarda@gmail.com</td>
         <td><a href="https://github.com/erteduarda">@erteduarda</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Davi" src="./req-grupo1/docs/images/Davi_Nobre.jpg" style="border-radius:50%" width="100"></td>
+        <td><img alt="img_Davi" src="./req-grupo1/docs/assets/images/Davi_Nobre.jpg" style="border-radius:50%" width="100"></td>
         <td>Davi dos Santos Brito Nobre</td>
         <td>davinobre.ik@gmail.com</td>
         <td><a href="https://github.com/Jagaima">@Jagaima</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Joao" src="./req-grupo1/docs/images/João_Vitor.jpg" style="border-radius:50%" width="100"></td>
+        <td><img alt="img_Joao" src="./req-grupo1/docs/assets/images/João_Vitor.jpg" style="border-radius:50%" width="100"></td>
         <td>João Vitor Lopes Ribeiro</td>
         <td>joao.vitortnt5@gmail.com</td>
        <td><a href="https://github.com/Joa0V">@Joa0V</a></td>
     </tr>
     <tr>
-        <td><img alt="img_Renata" src="./req-grupo1/docs/images/Renata.jpeg" style="border-radius:50%" width="100"></td>
+        <td><img alt="img_Renata" src="./req-grupo1/docs/assets/images/Renata.jpeg" style="border-radius:50%" width="100"></td>
         <td>Renata Quadros Kurzawa</td>
         <td>rekurzawa28@gmail.com</td>
         <td><a href="github.com/Renatinha28">@Renatinha28</a></td>
