@@ -39,7 +39,7 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
             <td>Eduarda</td>
         </tr>
         <tr>
-            <td><a href="#app-5">App 5</a></td>
+            <td><a href="#bluesky">BlueSky</a></td>
             <td>João Vitor</td>
         </tr>
     </table>
@@ -55,6 +55,14 @@ O Sistema Único de Saúde (SUS) é o sistema público de saúde brasileiro, cri
 -	Variedade de funcionalidades: Oferece múltiplos serviços como agendamento de consultas, histórico de vacinas, resultados de exames, localização de unidades de saúde, entre outros, possibilitando um estudo abrangente de requisitos.
 -	Relevância na atualidade: Com a digitalização dos serviços de saúde e a demanda por soluções mais acessíveis, a análise do Meu SUS Digital se torna importante para entender requisitos de sistemas que impactam diretamente a população.
 -	Contribuição prática para formação: Permite uma experiência de aprendizado alinhada com demandas reais, preparando para projetos de grande uso e importância social.
+
+## BlueSky
+A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às redes sociais tradicionais com uma abordagem descentralizada. Assim, sua proposta é promover a expressão de seus usuários de acordo com suas próprias regras, sem estar a mercê das decisões de uma grande corporação. Dentre os pontos positivos para a escolha do BlueSky para o projeto da disciplina Requisitos de Software estão:
+
+- Relevância: redes socias tem grande relevância na sociedade atual com inegável impacto na maneira como o ser humano se relaciona com o próximo.
+- Gama de funcionalidades: a BlueSky aprensenta grande variedade de ações para seus usuários como postar textos, imagens e vídeos, troca de mensagens, personalizar feed, editar perfil e preferências, entre outros.
+- Caracteríscas interessantes: a escolha de descentralização direcionou à utilização de um protocolo que permite a comunicação direta entre BlueSky e demais platafomas que o implementam e a maior participação de sua comunidade na moderação da plataforma.
+- Crescente comunidade: a plataforma que já possui uma grande comunidade continua a receber novos usuários com a procura por alternativas às redes sociais já existentes.
 
 ## :round_pushpin: Histórico de Versão 
 
