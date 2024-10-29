@@ -7,9 +7,10 @@ O objetivo deste documento é documentar as avaliações individuais dos aplicat
 ## Metodologia
 Para garantir uma avaliação justa e objetiva, adotamos uma metodologia que contempla os seguintes passos:
 
--	Seleção individual de aplicativos: Cada membro do grupo escolheu um aplicativo para avaliação, considerando fatores como relevância, base de usuários, variedade de funcionalidades e acessibilidade.
--	Análise comparativa: A partir das avaliações individuais, faremos uma comparação detalhada dos pontos fortes e fracos de cada app.
--	Seleção final: Com base na análise comparativa, escolheremos o aplicativo que mais se destaca nos critérios estabelecidos, tornando-o o candidato ideal para o estudo de requisitos.
+- **Seleção individual de aplicativos:** Cada membro do grupo escolheu um aplicativo para avaliação, considerando fatores como relevância, base de usuários, variedade de funcionalidades e acessibilidade.
+    - **Rich Picture:** Representação visual que integra diferentes aspectos e perspectivas do aplicativo escolhido, permitindo uma visão ampla e não estruturada das funcionalidades, interações e desafios. Essa representação facilita o entendimento do contexto, possibilita identificar pontos de melhoria e auxilia na comunicação entre os envolvidos na análise.
+- **Análise comparativa:** A partir das avaliações individuais, faremos uma comparação detalhada dos pontos fortes e fracos de cada app.
+- **Seleção final:** Com base na análise comparativa, escolheremos o aplicativo que mais se destaca nos critérios estabelecidos, tornando-o o candidato ideal para o estudo de requisitos.
 
 ## Tabela de apps avaliados
 A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho de cada descrição da avaliação neste documento, além do membro do grupo responsável pela avaliação.
@@ -35,8 +36,8 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
             <td>Davi</td>
         </tr>
         <tr>
-            <td><a href="#app-4">App 4</a></td>
-            <td>Eduarda</td>
+            <td><a href="#carteira-de-trabalho-digital">Carteira de Trabalho Digital</a></td>
+            <td><a href="https://github.com/erteduarda">Eduarda</a></td>
         </tr>
         <tr>
             <td><a href="#bluesky">BlueSky</a></td>
@@ -64,6 +65,36 @@ A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às r
 - Caracteríscas interessantes: a escolha de descentralização direcionou à utilização de um protocolo que permite a comunicação direta entre BlueSky e demais platafomas que o implementam e a maior participação de sua comunidade na moderação da plataforma.
 - Crescente comunidade: a plataforma que já possui uma grande comunidade continua a receber novos usuários com a procura por alternativas às redes sociais já existentes.
 
+## Carteira de Trabalho Digital
+A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasileiro para simplificar o acesso e gestão das informações trabalhistas dos cidadãos. Entre os benefícios de escolher a Carteira de Trabalho Digital para o projeto da disciplina de Requisitos de Software, destacam-se:
+
+- Relevância: O app digitaliza um documento essencial para o trabalhador brasileiro, com impacto direto na formalização e histórico profissional.
+- Gama de funcionalidades: A plataforma permite acesso ao histórico de empregos, visualização de contratos, consulta de dados trabalhistas, aviso de férias e direitos, além de integração com outros serviços.
+- Facilidade e conveniência: A digitalização elimina a necessidade do documento físico, facilitando o acesso rápido às informações trabalhistas.
+- Atualização: Informações sobre novos vínculos empregatícios e direitos trabalhistas são atualizadas de forma automática, permitindo que o trabalhador acompanhe suas relações de trabalho de maneira prática e eficiente.
+- Popularidade crescente: Cada vez mais trabalhadores aderem à plataforma devido à praticidade e confiança, fortalecendo a comunidade de usuários e incentivando melhorias contínuas no aplicativo.
+
+### Rich Picture - Carteira de Trabalho Digital
+Este Rich Picture representa o fluxo de informações e os principais componentes do sistema no aplicativo da
+Carteira de Trabalho Digital, destacando as interações dos usuários com as funcionalidades oferecidas pelo
+app.
+<img src="/assets/images/rp.png"  style="width: 70%; height: auto; object-fit: cover;">
+
+#### Descrição dos Componentes
+1. Usuário:
+    - Representado pelo ícone de uma pessoa, o usuário tem acesso a várias funcionalidades do aplicativo, como
+cadastro, consulta e compartilhamento de informações.
+2. Funcionalidades Principais:
+    - Relatório de Contratos: Permite aos usuários visualizar e acessar relatórios de contratos de trabalho. Essa funcionalidade se conecta diretamente com o dashboard, onde as informações são agregadas e analisadas.
+    - Cadastro no Banco de Vagas: Usuários podem cadastrar-se em um banco de vagas, utilizando formulários que coletam e organizam suas informações para oportunidades de emprego.
+    - Consulta Abono Salarial: A função de consulta permite que o usuário verifique seu status em relação
+ao abono salarial, possivelmente acessando informações sobre elegibilidade e valores disponíveis.
+    - Compartilhar Carteira de Trabalho: Permite ao usuário compartilhar informações de sua carteira de
+trabalho de forma digital, conectando-se diretamente com a internet para enviar dados.
+3. Formulários e Pesquisa:
+    - O app usa formulários para coletar dados dos usuários para o banco de vagas, e uma função de pesquisa
+para facilitar a consulta de informações sobre abono salarial, de forma ágil e intuitiva.
+
 ## :round_pushpin: Histórico de Versão 
 
 <div align="center">
@@ -82,7 +113,15 @@ A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às r
             <td>Criação do documento e add Meu SUS digital </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>29/10</td>
+            <td>1.1</td>
+            <td>Criação do documento e add Carteira de Trabalho Digital</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td></td>
+            <td><a href=""></a></td>
         </tr>
     </table>
 </div>
