@@ -5,7 +5,7 @@
 - **`main`**: Branch de produção. Apenas uma pessoa autorizada fará o merge de `beta` para `main`.
 
 ## 2. Criação de Branches
-- Para **novos desenvolvimentos**: `JP-[atividade]`, com o nome da atividade em camelCase. Exemplo: `FT-adicionarRichPicture`.
+- Para **novos desenvolvimentos**: `FT-[atividade]`, com o nome da atividade em camelCase. Exemplo: `FT-adicionarRichPicture`.
 - Para **correções de erros**: `BUG-[correção]`, com o nome da correção em camelCase. Exemplo: `BUG-corrigirNavbar`.
 
 #### Comandos:
@@ -14,11 +14,11 @@ git checkout beta
 
 git pull origin beta  # Atualizar a beta antes de criar uma nova branch
 
-git checkout -b JP-[atividade]  # Criar a nova branch
+git checkout -b FT-[atividade]  # Criar a nova branch
 ```
 
 ## 3. Fluxo de Trabalho
-- Desenvolva na sua branch específica (JP-[atividade] ou BUG-[correção]).
+- Desenvolva na sua branch específica (FT-[atividade] ou BUG-[correção]).
 - Faça commits pequenos e com mensagens claras.
 #### Comandos
 ```bash
