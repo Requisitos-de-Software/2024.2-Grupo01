@@ -37,8 +37,8 @@ Após a análise dos resultados coletados, foi decidido que as reuniões ocorrer
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementinol</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

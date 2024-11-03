@@ -57,6 +57,31 @@ O Sistema Único de Saúde (SUS) é o sistema público de saúde brasileiro, cri
 -	Relevância na atualidade: Com a digitalização dos serviços de saúde e a demanda por soluções mais acessíveis, a análise do Meu SUS Digital se torna importante para entender requisitos de sistemas que impactam diretamente a população.
 -	Contribuição prática para formação: Permite uma experiência de aprendizado alinhada com demandas reais, preparando para projetos de grande uso e importância social.
 
+### Rich Picture - Meu SUS Digital
+Foi feito para o Meu SUS Digital uma representação, mostrado na Figura 1, em Rich Picture, que ajuda a ilustrar de forma visual e simplificada os processos e interações envolvidos. Através dessa abordagem visual, é possível visualizar melhor o funcionamento do sistema e facilitar a comunicação entre diferentes membros da equipe ou stakeholders que talvez não estejam familiarizados com os detalhes técnicos do projeto.
+
+<figure>
+    <img src="../../assets/images/rp-renata.png"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Figura 1: Rich Picture Meu SUS Digital</figcaption>
+</figure>
+
+### Descrição dos Componentes
+
+1. Usuário:
+    - Representados pelos desenhos de pessoas, o usuário tem acesso a algumas funcionalidades como adicionar medicamentos, adicionar alergia, consultar vacinas, entre outros. Além disso, temos dois tipos de usuários: um representando o usuário que está fora do SUS e outro o que está no SUS. Este último irá passar informações para a funcionária (também representada por um desenho de pessoa), que terá acesso restrito a algumas funcionalidades, como registrar exames e agendamentos, além de também ter acesso a funcionalidades que o usuário possui, como vacinas, medicamentos e alergias.
+2. Funcionalidades Principais:
+     - Medicamentos : Permite ao usuário adicionar e visualizar medicamentos passados por médicos, além de permitir a funcionária visualizar todos os medicamentos adicionados.
+    - Alergias : Permite ao usuário adicionar e visualizar alergias, além de permitir a funcionária visualizar todos as alergias adicionadas.
+    - Rede de saúde : Permite ao usuário visualizar as redes de saúde mais próxima da sua localização atual.
+    - Vacinas : Permite a funcionária registrar vacinas do usuário e a visualização para o usuário.
+    - Agendamentos : Permite a funcionária registrar os agendamentos do usuário e a visualização para o usuário. 
+    - Exames : Permite a funcionária registrar os exames do usuário e a visualização para o usuário. 
+3. Adicionais:
+    -  Os balões desenhados indicam possiveís pensamentos dos usuários, facilitando a compreensão.
+    - Os nomes de cada ator são descritos logo abaixo do desenho de cada um.
+    - Algumas descrições são utilizadas no fluxo (setas) para facilitar o entendimento
+
+
 ## BlueSky
 A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às redes sociais tradicionais com uma abordagem descentralizada. Assim, sua proposta é promover a expressão de seus usuários de acordo com suas próprias regras, sem estar a mercê das decisões de uma grande corporação. Dentre os pontos positivos para a escolha do BlueSky para o projeto da disciplina Requisitos de Software estão:
 
@@ -120,7 +145,8 @@ para facilitar a consulta de informações sobre abono salarial, de forma ágil 
             <td>1.1</td>
             <td>Criação do documento e add Carteira de Trabalho Digital</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td><a href=""></a></td>
         </tr>
     </table>

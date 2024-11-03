@@ -74,7 +74,8 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
             <td>1.0</td>
             <td>Criação inicial</td>
             <td><a href="https://github.com/Jagaima">Davi</a></td>
-            <td></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td><a href=""></a></td>
          </tr>
         </table>

@@ -62,21 +62,21 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
 
 ## :round_pushpin: Histórico de Versão 
 <div align="center">
-    <table style="margin: auto;">
+    <table>
         <tr>
             <th>Data</th>
-            <th>Data de Revisão</th>
             <th>Versão</th>
             <th>Descrição</th>
             <th>Autor</th>
+            <th>Data da Revisão</th>
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>22/10/2024</td>
-            <td>27/10/2024</td>
+            <td>22/10</td>
             <td>1.0</td>
-            <td>Criação inicial</td>
-            <td><a href="https://github.com/ccarlaa">Carla</a></td>
+            <td>Criação do documento</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementinol</a></td>
+            <td>03/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>

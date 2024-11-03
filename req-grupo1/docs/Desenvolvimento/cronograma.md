@@ -11,16 +11,16 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
     Tabela 1: Cronograma planejado - Etapa 1 - Planejamento
 | Atividade                           | Período de Desenvolvimento      | Responsáveis                      | Período de Revisão               | Revisores                                  |
 |-------------------------------------|---------------------------------|-----------------------------------|----------------------------------|--------------------------------------------|
-| Heatmap                             | Início: 25/10 - Fim: 27/10      | Carla                             | Início: 27/10 - Fim: 28/10       | Renata                                     |
-| Apps avaliados                      | Início: 25/10 - Fim: 27/10      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 27/10 - Fim: 28/10       | -                                          |
-| App selecionado                     | Início: 27/10 - Fim: 28/10      | -                                 | Início: 28/10 - Fim: 28/10       | -                                          |
-| Cópia do termo de uso do app        | Início: 27/10 - Fim: 28/10      | -                                 | Início: 28/10 - Fim: 28/10       | -                                          |
-| Ferramentas selecionadas            | Início: 25/10 - Fim: 27/10      | Davi                              | Início: 27/10 - Fim: 28/10       | Eduarda                                    |
-| Cronograma planejado                | Início: 25/10 - Fim: 27/10      | João Vitor e Renata               | Início: 27/10 - Fim: 28/10       | Carla, Eduarda, Davi, João Vitor, Renata   |
-| Rich picture                        | Início: 25/10 - Fim: 27/10      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 27/10 - Fim: 28/10       | Carla, Eduarda, Davi, João Vitor, Renata   |
-| Gravação da apresentação e entrega  | Início: 28/10 - Fim: 28/10      | Renata                            | Início: 28/10 - Fim: 28/10       | Carla                                      |
-| Atualização do cronograma executado | Início: 28/10 - Fim: 28/10      | Renata                            | Início: 28/10 - Fim: 28/10       | João Vitor                                 |
-| Correção pós apresentação           | Início: 31/10 - Fim: 03/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 03/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
+| Heatmap                             | Início: 25/10 - Fim: 03/11      | Carla                             | Início: 03/11 - Fim: 04/11       | Renata                                     |
+| Apps avaliados                      | Início: 25/10 - Fim: 03/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi, João Vitor, Renata                                          |
+| App selecionado                     | Início: 27/10 - Fim: 03/11      | João Vitor                                 | Início: 03/11 - Fim: 04/11       | Renata                                           |
+| Cópia do termo de uso do app        | Início: 27/10 - Fim: 03/11      | João Vitor                                 | Início: 03/11 - Fim: 04/11       | Carla                                         |
+| Ferramentas selecionadas            | Início: 25/10 - Fim: 27/10      | Davi                              | Início: 27/10 - Fim: 04/11       | Eduarda                                    |
+| Cronograma planejado                | Início: 25/10 - Fim: 03/11      | João Vitor e Renata               | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi   |
+| Rich picture                        | Início: 25/10 - Fim: 03/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
+| Gravação da apresentação e entrega  | Início: 05/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | Carla                                      |
+| Atualização do cronograma executado | Início: 06/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | João Vitor                                 |
+| Correção pós apresentação           | Início: 07/11 - Fim: 09/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 09/11 - Fim: 10/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -28,18 +28,18 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
     Tabela 2: Cronograma planejado - Etapa 2 - Elicitação
 | Atividade       | Período de desenvolvimento | Responsáveis    | Período de Revisão             | Revisores |  
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: | 
-| Planejamento e realização das perguntas do questionário e das entrevistas | Início: 29/10 - Fim: 03/11 | Renata e Davi | Início: 03/11 - Fim: 03/11 | Carla, Eduarda, Davi, João Vitor, Renata |
-| Entrevista/Questionários para o perfil de usuário | Início: 04/11 - Fim: 10/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 10/11 - Fim: 13/11 | Carla, Eduarda, Davi, João Vitor, Renata |
-| Criação de personas e perfis de usuários | Início: 10/11 - Fim: 13/11 | Carla e João Vitor | Início: 13/11 - Fim: 15/11 | Eduarda e Davi |
-| Técnicas de elicitações de requisitos utilizadas | Início: 29/10 - Fim: 05/11 | Eduarda, João Vitor e Carla |  Início: 05/11 - Fim: 07/11 | Renata e Davi |
-| Elicitação dos requisitos: Brainstorm | Início: 13/11 - Fim: 17/11 | Carla | Início: 17/11 - Fim: 17/11 | Renata |
-| Elicitação dos requisitos: Introspecção | Início: 13/11 - Fim: 17/11 | Renata | Início: 17/11 - Fim: 17/11 | João Vitor |
-| Elicitação dos requisitos: Observação | Início: 13/11 - Fim: 17/11 | Davi | Inínio: 17/11 - Fim: 17/11 | Eduarda |
-| Elicitação dos requisitos: Questionário | Início: 13/11 - Fim: 17/11 | João Vitor e Eduarda | Início: 17/11 - Fim: 17/11 | Davi e Carla |
-| Técnicas de priorização utilizadas | Início: 18/11 - Fim: 22/11 | Renata e Carla | Início: 22/11 - Fim: 23/11 | Jõao Vitor e Eduarda |
-| Priorização dos requisitos: $100 | Início: 18 /11 - Fim: 22/11 | Eduarda | Início: 22/11 - Fim: 23/11 | Carla |
-| Priorização dos requisitos: First Things First | Início: 18 /11 - Fim: 22/11 | Davi | Início: 22/11 - Fim: 23/11 | Eduarda |
-| Priorização dos requisitos: In our Out | Início: 18 /11 - Fim: 22/11 | João Vitor | Início: 22/11 - Fim: 23/11 | Davi |
+| Planejamento e realização das perguntas do questionário e das entrevistas | Início: 07/11 - Fim: 09/11 | Renata e Davi | Início: 09/11 - Fim: 09/11 | Carla, Eduarda, Davi, João Vitor, Renata |
+| Entrevista/Questionários para o perfil de usuário | Início: 09/11 - Fim: 11/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 11/11 - Fim: 11/11 | Carla, Eduarda, Davi, João Vitor, Renata |
+| Criação de personas e perfis de usuários | Início: 12/11 - Fim: 14/11 | Carla e João Vitor | Início: 14/11 - Fim: 15/11 | Eduarda e Davi |
+| Técnicas de elicitações de requisitos utilizadas | Início: 07/11 - Fim: 10/11 | Eduarda, João Vitor e Carla |  Início: 10/11 - Fim: 11/11 | Renata e Davi |
+| Elicitação dos requisitos: Brainstorm | Início: 12/11 - Fim: 16/11 | Carla | Início: 16/11 - Fim: 17/11 | Renata |
+| Elicitação dos requisitos: Introspecção | Início: 12/11 - Fim: 16/11 | Renata | Início: 16/11 - Fim: 17/11 | João Vitor |
+| Elicitação dos requisitos: Observação | Início: 12/11 - Fim: 16/11 | Davi | Inínio: 16/11 - Fim: 17/11 | Eduarda |
+| Elicitação dos requisitos: Questionário | Início: 12/11 - Fim: 16/11 | João Vitor e Eduarda | Início: 16/11 - Fim: 17/11 | Davi e Carla |
+| Técnicas de priorização utilizadas | Início: 17/11 - Fim: 20/11 | Renata e Carla | Início: 20/11 - Fim: 22/11 | Jõao Vitor e Eduarda |
+| Priorização dos requisitos: $100 | Início: 17 /11 - Fim: 20/11 | Eduarda | Início: 20/11 - Fim: 22/11 | Carla |
+| Priorização dos requisitos: First Things First | Início: 17 /11 - Fim: 20/11 | Davi | Início: 20/11 - Fim: 22/11 | Eduarda |
+| Priorização dos requisitos: In our Out | Início: 17 /11 - Fim: 20/11 | João Vitor | Início: 20/11 - Fim: 22/11 | Davi |
 | Gravação da apresentação e entrega | Início: 23/11 - Fim: 23/11  | Carla e Renata | Início: 23/11 - Fim: 23/11 | João Vitor | 
 | Atualização do cronograma executado | Início: 23/11 - Fim: 23/11 | Renata | Início: 23/11 - Fim: 23/11 | Davi | 
 | Correção pós apresentação | Início: 26/11 - Fim: 30/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 30/11 - Fim: 31/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
@@ -135,6 +135,14 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
             <td>1.0</td>
             <td>Criação do cronograma planejado (Renata Quadros: etapa 1 até 4 / João Ribeiro: 5.1 até Etapa Final)</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a> <a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>03/11</td>
+            <td>1.1</td>
+            <td>Atualização do cronograma</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td></td>
             <td></td>
         </tr>
