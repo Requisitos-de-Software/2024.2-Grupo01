@@ -90,6 +90,32 @@ A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às r
 - Caracteríscas interessantes: a escolha de descentralização direcionou à utilização de um protocolo que permite a comunicação direta entre BlueSky e demais platafomas que o implementam e a maior participação de sua comunidade na moderação da plataforma.
 - Crescente comunidade: a plataforma que já possui uma grande comunidade continua a receber novos usuários com a procura por alternativas às redes sociais já existentes.
 
+### Rich Picture - Bluesky
+
+O rich picture a seguir ilustra os processos e interações do sistema da Bluesky
+
+<figure>
+    <img src="../../assets/images/rp-bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Figura 2: Rich Picture Bluesky</figcaption>
+</figure>
+
+#### Descrição dos componentes
+
+1. Usuário:
+    - Um usuário da Bluesky pode interagir com outros usuários do sistema por meio de publicações e mensagens diretas, além de gerenciar sua própria conta.
+
+2. Funcionalidades Principais:
+
+    - Publicar: um usuário pode compartilhar pequenos textos, fotos e vídeos.
+    - Explorar publicações: um usuário pode explorar as publicações de outros usuários e interagir com elas, sendo possível curtir, comentar ou compartilha-las.
+    - Seguir: um usuário pode seguir uma conta e torna-la mais evidente em seu feed.
+    - Enviar mensagens: um usuário pode enviar mensagens privadas a contas de outros usuários.
+    - Configurar conta: um usuário pode gerenciar sua conta, bem como configurar opções de exibição de conteúdo e privacidade.
+
+3. Adicionais:
+
+    - Um usuário moderador tem a capacidade de classificar contas por meio de rótulos com base em suas ações no sistema. Além disso, é possível que um moderador bloqueie uma conta, caso a mesma infrinja os termos de uso.
+
 ## Carteira de Trabalho Digital
 A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasileiro para simplificar o acesso e gestão das informações trabalhistas dos cidadãos. Entre os benefícios de escolher a Carteira de Trabalho Digital para o projeto da disciplina de Requisitos de Software, destacam-se:
 
