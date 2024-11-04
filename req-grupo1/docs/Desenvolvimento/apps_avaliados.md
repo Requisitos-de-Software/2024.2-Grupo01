@@ -41,7 +41,7 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
         </tr>
         <tr>
             <td><a href="#bluesky">BlueSky</a></td>
-            <td>João Vitor</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 
@@ -120,6 +120,14 @@ para facilitar a consulta de informações sobre abono salarial, de forma ágil 
             <td>1.1</td>
             <td>Criação do documento e add Carteira de Trabalho Digital</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>29/10</td>
+            <td>1.2</td>
+            <td>Adição do Bluesky</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
             <td><a href=""></a></td>
         </tr>
