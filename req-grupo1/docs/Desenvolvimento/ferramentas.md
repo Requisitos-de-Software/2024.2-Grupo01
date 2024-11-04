@@ -49,6 +49,11 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
                 <td>Comunicação rápida entre os membros da equipe durante o projeto.</td>
             </tr>
             <tr>
+                <td><img src="../../assets/ferramentas/IA.jpeg"  style="width: 10%; height: auto; object-fit: cover;"></td>
+                <td>ThisPersonDoesNotExist</td>
+                <td>Criação de rosto para personas, que não sejam vinculadas a um indivíduo real ou que seja coberto por direitos autorais.</td>
+            </tr>
+            <tr>
                 <td><img src="../../assets/ferramentas/youtube.png"  style="width: 10%; height: auto; object-fit: cover;"></td>
                 <td>YouTube</td>
                 <td>Referência de tutoriais e conteúdos técnicos relacionados ao projeto.</td>
@@ -78,5 +83,14 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td><a href=""></a></td>
          </tr>
+        <tr>
+            <td>03/11</td>
+            <td>1.1</td>
+            <td>Adição de nova ferramenta</td>
+            <td><a href="https://github.com/Jagaima">Davi</a></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td><a href=""></a></td>
+         </tr>        
         </table>
     </div>

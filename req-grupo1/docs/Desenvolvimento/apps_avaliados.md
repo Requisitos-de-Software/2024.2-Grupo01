@@ -32,8 +32,8 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
             <td>Carla</td>
         </tr>
         <tr>
-            <td><a href="#app-3">App 3</a></td>
-            <td>Davi</td>
+            <td><a href="#fab">Força áerea brasileira</a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td><a href="#carteira-de-trabalho-digital">Carteira de Trabalho Digital</a></td>
@@ -120,6 +120,37 @@ trabalho de forma digital, conectando-se diretamente com a internet para enviar 
     - O app usa formulários para coletar dados dos usuários para o banco de vagas, e uma função de pesquisa
 para facilitar a consulta de informações sobre abono salarial, de forma ágil e intuitiva.
 
+## Força áerea brasileira
+Força áerea brasileira é uma organização militar brasileira que tem com o intuito manter a segurança áerea nacional. Sua comunicação principal com a população e a mídia se dá através de seu site e de deu app que será avaliado aqui. entre os pontos positivos para a escolha do app da FAB para o projeto da disciplina Requisitos de Software estão os seguintes:
+
+- Relevância: O app é uma fonte de informações primordial para o meio jornalistico, pois é aqui que os mesmos disponibilizam suas notícias para todos os veículos de mídia. 
+- Base de usuários ampla: O app possui funções tanto para usuários que compõe o corpo militar (como informações monetárias) até para civis, com direcionamento ao alistamento e uma rádio da própria FAB.
+- Funcionalidades: O app possui diversas funcionalidades (algumas não funcionando) que podem ter seus requisitos validados ou o estudo de novos requisitos em cima de funções pré existentes 
+- Contribuição acadêmica: Por se tratar de um software governamental aparentemente com baixa manutenção mas de uma base aceitavel de uso, se torna ideal em seu estágio atual sua pesquisa. 
+
+### Rich Picture - Força áerea brasileira
+Este Rich Picture representa o fluxo de informações e os principais elementos do sistema na Força Aérea Brasileira. Destacando suas interações com o usuário e demais papeis que representam um todo de funcionalidades do app. 
+
+<figure>
+    <img src="../../assets/images/img4.jpg"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Figura 3: Rich Picture App da FAB</figcaption>
+</figure>
+
+### Descrição dos Componentes
+
+1. Usuário:
+    - Representados por ícones de pessoas, os usuários possuem acesso a diversas funcionalidades relacionadas à Força Aérea Brasileira (FAB). Eles podem realizar ações como pesquisar notícias, consultar localização de bases e realizar o alistamento. Há diferentes tipos de usuários, incluindo jornalistas, que podem publicar dados e noticiar acontecimentos. Esses usuários interagem com o sistema e têm diferentes níveis de acesso às informações e funções, com algumas funcionalidades exclusivas para setores internos da FAB.
+2. Funcionalidades Principais:
+    - Base de Notícias: Centraliza as informações e anúncios da FAB, transmitindo dados importantes e atualizações para os usuários. Jornalistas e outros usuários podem pesquisar notícias e compartilhar informações com o público.
+    - Base de Dados de Locais da FAB: Permite aos usuários acessar informações sobre localizações e instalações da FAB. Facilita a pesquisa por localização e ajuda a direcionar as ações e informações relevantes.
+    - Publicação de Dados: Usuários autorizados, como jornalistas, podem publicar dados e comunicar feitos da FAB ao público, como datas de alistamento e eventos significativos.
+    Alistamento: Permite aos usuários realizar o processo de alistamento, que é enviado para a base de dados da FAB e fica acessível para setores internos.
+    - Envio de Dados e Avaliações: O sistema permite o envio de datas importantes para avaliações e ações dentro da FAB, assegurando que o fluxo de informações chegue aos departamentos adequados.
+3. Adicionais:
+    -  As formas ovais representam funções sendo exceutadas. 
+    - Os nomes de cada ator são descritos na área de legenda das imagens
+    - Algumas descrições são utilizadas no fluxo (setas) para facilitar o entendimento
+
 ## :round_pushpin: Histórico de Versão 
 
 <div align="center">
@@ -137,8 +168,8 @@ para facilitar a consulta de informações sobre abono salarial, de forma ágil 
             <td>1.0</td>
             <td>Criação do documento e add Meu SUS digital </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>29/10</td>
@@ -154,6 +185,14 @@ para facilitar a consulta de informações sobre abono salarial, de forma ágil 
             <td>1.2</td>
             <td>Adição do Bluesky</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>03/11</td>
+            <td>1.3</td>
+            <td>Adição da FAB</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td></td>
             <td><a href=""></a></td>
         </tr>
