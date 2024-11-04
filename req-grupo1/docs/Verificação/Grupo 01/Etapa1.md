@@ -70,3 +70,26 @@ Aqui estão as fontes usadas para referência da criação das checklists.
 2. SERRANO, MAURÍCIO; SERRANO, Milene. *Slides da aula Requisitos – Aula 04*. Disponível em: <https://aprender3.unb.br/pluginfile.php/2972425/mod_resource/content/4/Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf>. Acesso em: 03 de novembro de 2024.
 
 3. SOMMERVILLE, Ian. *Engenharia de software*. 08. ed. São Paulo: Pearson Addison Wesley, 2007.
+
+
+## :round_pushpin: Histórico de Versão 
+<div align="center">
+    <table style="margin: auto;">
+        <tr>
+            <th>Data</th>
+            <th>Data de Revisão</th>
+            <th>Versão</th>
+            <th>Descrição</th>
+            <th>Autor</th>
+            <th>Revisor</th>
+        </tr>
+        <tr>
+            <td>03/11/2024</td>
+            <td></td>
+            <td>1.0</td>
+            <td>Criação inicial</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
