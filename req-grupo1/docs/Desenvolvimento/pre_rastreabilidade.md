@@ -15,22 +15,21 @@ Um "rich picture" é uma ferramenta visual que permite explorar, reconhecer e de
 
 ## :round_pushpin: Histórico de Versão 
 <div align="center">
-    <table style="margin: auto;">
+    <table>
         <tr>
             <th>Data</th>
-            <th>Data de Revisão</th>
             <th>Versão</th>
             <th>Descrição</th>
             <th>Autor</th>
+            <th>Data da Revisão</th>
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>28/10/2024</td>
-            <td></td>
+            <td>28/10</td>
             <td>1.0</td>
-            <td>Criação inicial</td>
+            <td>Criação inicial </td>
             <td><a href="https://github.com/erteduarda">Eduarda</a></td>
-            <td><a href=></a></td>
+            <td></td>
         </tr>
     </table>
 </div>
