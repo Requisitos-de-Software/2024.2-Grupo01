@@ -41,7 +41,7 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
         </tr>
         <tr>
             <td><a href="#bluesky">BlueSky</a></td>
-            <td>João Vitor</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 
@@ -168,8 +168,8 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
             <td>1.0</td>
             <td>Criação do documento e add Meu SUS digital </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>29/10</td>
@@ -178,6 +178,22 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>03/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>29/10</td>
+            <td>1.2</td>
+            <td>Adição do Bluesky</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td><a href=""></a></td>
+        </tr>
+        <tr>
+            <td>03/11</td>
+            <td>1.3</td>
+            <td>Adição da FAB</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td></td>
             <td><a href=""></a></td>
         </tr>
     </table>
