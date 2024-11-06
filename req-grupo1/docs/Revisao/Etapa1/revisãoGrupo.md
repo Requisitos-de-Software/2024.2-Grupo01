@@ -20,16 +20,18 @@ Esse processo, dependendo da disponibilidade dos membros, será realizado de for
 A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o integrante responsável pela realização do checklist e o integrante responsável pela avaliação em si.
 
     Tabela 1: Organização da revisão
-| Artefato | Versão | Integrante responsável pelo checklist | Integrante responsável pela revisão |
-| :---------: | :-------: | :---------------------: | :---------------------------:|
-| Home | 1.0 | Renata | Davi |
-| ATAs | 1.0 | Renata | - |
-| Apresentação | 1.0 | Renata | - |
-| Cronograma | 1.1 | - | - |
-| Disponibilidade | 1.0 | Renata | Davi |
-| Ferramentas | 1.0 | João Ribeiro | - |
-| Apps Avaliados | 1.4 | Davi |Carla, Davi, Eduarda, João Vitor, Renata |
-| App escolhido | 1.0 | João Ribeiro | - |
+|    Artefato     | Versão | Integrante responsável pelo checklist |   Integrante responsável pela revisão    |
+| :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
+|      Home       |  1.0   |                Renata                 |                   Davi                     |
+|      ATAs       |  1.0   |                Renata                 |                     Eduarda                     |
+|  Apresentação   |  1.0   |                Renata                 |                    -                     |
+|   Cronograma    |  1.1   |          Eduarda                  |                    -                     |
+| Disponibilidade |  1.0   |                Renata                 |                    Davi                     |
+|   Ferramentas   |  1.0   |             João Ribeiro              |                    Renata                     |
+| Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
+|  App escolhido  |  1.0   |             João Ribeiro              |                    Renata                    |
+
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -49,7 +51,7 @@ A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata]
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/9778qsS3u7s">Link</a></p>  
 
-### Conclusão Tabela 2.
+### Conclusão Home.
 
 Baseado nas perguntas e tendo em vista que somente uma não se aplicou totalmente a situação conforme nosso registro. Consideramos os padrões alcançados nesta verificação.
 
@@ -69,9 +71,26 @@ A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído p
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM">Link</a></p> 
 
-### Conclusão Tabela 6.
+### Conclusão Disponibilidade
 
 Fica evidente neste caso que o padrão da criação do heatmap foi bem executado conforme os padrões e as necessidades específicas do projeto e de seus integrantes.
+
+## Ferramentas
+A tabela 7 representa a revisão do artefato Ferramentas, a verificação foi realizada pela [Renata](https://github.com/Renatinha28) e com o auxílio da integrante [Eduarda](https://github.com/erteduarda). 
+
+    Tabela 7: Checklist das ferramentas
+
+|  ID   |                                   Descrição                                   | Avaliação |                                                                   Referência                                                                   |
+| :---: | :---------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  41   |                            Possui uma introdução ?                            |     SIM   | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  42   |           Possui tabela com as ferramentas utilizadas no projeto ?            |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  43   | As ferramentas presentes na tabela possuem sua finalidade de uso no projeto ? |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  44   |                  Possui o histórico de versão padronizado ?                   |     SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  45   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                   |     SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+
+### Conclusão Ferramentas
+
+Como visto pela tabela 7, o artefato "Ferramentas" atendeu todas as espectativas e, portanto, não precisa ser corrigido.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -90,16 +109,23 @@ Fica evidente neste caso que o padrão da criação do heatmap foi bem executado
             <td>1.0</td>
             <td>Criação do documento e inserção das primeiras revisões </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a</a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
          <tr>
             <td>05/11</td>
             <td>1.1</td>
             <td>Adição de Conclusão nas tabelas </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>06/11</td>
+            <td>1.2</td>
+            <td>Add revisão Ferramentas </td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td></td>
-            <td><a</a></td>
         </tr>
     </table>
 </div>
