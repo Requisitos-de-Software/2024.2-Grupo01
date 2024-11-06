@@ -18,7 +18,7 @@ Esse processo, assim como na avaliação das revisões da etapa 1 como um todo, 
 
 ## Rich Pictures
 
-A tabela 1 mostra o checklist do rich picture Carteira de Trabalho Digital e foi construído pelo integrante: Eduarda. Cada membro fez ao menos uma pergunta do checklist.
+A tabela 1 mostra o checklist do rich picture Carteira de Trabalho Digital e foi construído pelo integrante: Eduarda. Cada membro fez ao menos uma pergunta do checklist. A realização desta verificação foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
     Tabela 1: Checklist da Rich Picture Carteira de trabalho Digital
 | ID | Descrição | Avaliação | Referência |
@@ -33,6 +33,11 @@ A tabela 1 mostra o checklist do rich picture Carteira de Trabalho Digital e foi
 | 40 | Os principais clientes, autores, donos do sistema estão sendo identificados? | SIM | [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png) |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/kR6O71EsSFc">Link</a></p> 
+
+
+### Conclusão Rich Picture 1. 
+
+O rich picture avaliado atingiu praticamente todas as especificações exigidas, com excessão das formas retangulares como base de dados, o tornando em pequena parte incorreto. 
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -50,6 +55,14 @@ A tabela 1 mostra o checklist do rich picture Carteira de Trabalho Digital e foi
             <td>05/11</td>
             <td>1.0</td>
             <td>Criação do documento e inserção do rich Picture da Eduarda </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td></td>
+            <td><a</a></td>
+        </tr>
+        <tr>
+            <td>06/11</td>
+            <td>1.1</td>
+            <td>Criação da conclusão </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td></td>
             <td><a</a></td>

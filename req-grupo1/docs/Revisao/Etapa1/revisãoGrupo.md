@@ -34,7 +34,7 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Home
-A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata](https://github.com/Renatinha28). A verificação dos itens desta tabela foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
     Tabela 2: Checklist da home
 | ID | Descrição | Avaliação | Referência |
@@ -49,10 +49,14 @@ A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata]
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/9778qsS3u7s">Link</a></p>  
 
+### Conclusão Tabela 2.
+
+Baseado nas perguntas e tendo em vista que somente uma não se aplicou totalmente a situação conforme nosso registro. Consideramos os padrões alcançados nesta verificação.
+
 ## Cronograma
 
 ## Disponibilidade
-A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Renata](https://github.com/Renatinha28).A verificação dos itens desta tabela foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
     Tabela 6: Checklist das disponibilidades
 | ID | Descrição | Avaliação | Referência |
@@ -63,7 +67,11 @@ A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído p
 | 24 | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |SIM| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 | 25 | Possui uma introdução ? |SIM| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM"></a>Link</p> 
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM">Link</a></p> 
+
+### Conclusão Tabela 6.
+
+Fica evidente neste caso que o padrão da criação do heatmap foi bem executado conforme os padrões e as necessidades específicas do projeto e de seus integrantes.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -81,6 +89,14 @@ A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído p
             <td>05/11</td>
             <td>1.0</td>
             <td>Criação do documento e inserção das primeiras revisões </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td></td>
+            <td><a</a></td>
+        </tr>
+         <tr>
+            <td>05/11</td>
+            <td>1.1</td>
+            <td>Adição de Conclusão nas tabelas </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td></td>
             <td><a</a></td>
