@@ -70,6 +70,7 @@ markdown_extensions:
 
 nav:
   - Home: Home/index.md
+  - Apresentações: Home/apresentacoes.md
 
   - Desenvolvimento:
     - Cronograma: Desenvolvimento/cronograma.md
