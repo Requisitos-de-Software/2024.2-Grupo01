@@ -70,7 +70,9 @@ markdown_extensions:
 
 nav:
   - Home: Home/index.md
-
+  - Atas:
+    - 1º reuniao: Atas/reuniao_1.md
+    - 2º reuniao: Atas/reuniao_2.md
   - Desenvolvimento:
     - Cronograma: Desenvolvimento/cronograma.md
     - Disponibilidade dos Integrantes: Desenvolvimento/disponibilidade.md
