@@ -1,14 +1,14 @@
 ## Introdução
 
-Neste documento são apresentados os critérios e motivações para a escolha do **Bluesky**, aplicativo escolhido pelo grupo para o projeto da disciplina de Requisitos de Software.
+Neste documento são apresentados os critérios e motivações para a escolha do **Bluesky**, aplicativo escolhido pelo grupo para o projeto da disciplina de Requisitos de Software. Também será apresentado um rich picture e os termos de serviço do aplicativo. 
 
 ## Objetivo
 
-O objetivo deste documento é esclarecer o processo de escolha do aplicativo a ser utilizado no projeto estabelecendo os critérios e as motivações da escolha, bem como apresentar os termos de serviço do app selecionado.
+O objetivo deste documento é esclarecer o processo de escolha do aplicativo a ser utilizado no projeto estabelecendo os critérios e as motivações da escolha, bem como ilustrar o sistema, seus principais componentes e fluxo de informação. Além disso, esse documento também tem como fim comprovar que o uso do app escolhido no projeto não infringe seus termos de serviço.
 
 ## Metodologia
 
-Seguindo a metodologia estabelecida na seção de [apps avaliados](apps_avaliados.md), foi feita uma análise comparativa entre os aplicativos analisados individualmente por cada integrante do grupo a fim de compreender qual app melhor se encaixa nos critérios estabelecidos para a escolha. Com base nessa análise, a seleção final da aplicação foi efetuada.
+Seguindo a metodologia estabelecida na seção de [apps avaliados](apps_avaliados.md), foi feita uma análise comparativa entre os aplicativos analisados individualmente por cada integrante do grupo a fim de compreender qual app melhor se encaixa nos critérios estabelecidos para a escolha. Com base nessa análise, a seleção final da aplicação foi efetuada. Para a representação do sistema será utillizado um rich picture, ferramenta visual que permite explorar, reconhecer e definir uma situação de forma não estruturada, representando-a em um diagrama com símbolos, desenhos e palavras. Essa técnica ajuda a compreender diversos aspectos e perspectivas de um contexto, facilitando discussões e gerando entendimento compartilhado entre as partes envolvidas. Ela foi desenvolvida dentro da Soft Systems Methodology (SSM) (2008) de Peter Checkland. [1](#c1)
 
 ## Critérios para escolha
 
@@ -26,11 +26,37 @@ Baseado nos critérios supracitados, o aplicativo BlueSky foi escolhido pelos se
 - **Descentralização:** esse aplicativo apresenta um modelo de rede social descentralizada, o que levanta questões quanto à privacidade, segurança, transparencia, responsabilidade e controle de dados dos usuários. Além dessas importantes questões, ainda existem outros aspectos diretamente influenciados pela descentralização como as estruturas decisórias dessa rede, quem irá decidir sobre suas regras, políticas e funcionamento.
 - **Concordância com os critérios de escolha:** o aplicativo se encaixa em todos os critérios para escolha.
 
+### Rich Picture
+
+O rich picture a seguir ilustra os processos e interações do sistema da Bluesky
+
+<figure>
+    <img src="../../assets/images/rp-bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Figura 2: Rich Picture Bluesky</figcaption>
+</figure>
+
+#### Descrição dos componentes
+
+1. Usuário:
+    - Um usuário da Bluesky pode interagir com outros usuários do sistema por meio de publicações e mensagens diretas, além de gerenciar sua própria conta.
+
+2. Funcionalidades Principais:
+
+    - Publicar: um usuário pode compartilhar pequenos textos, fotos e vídeos.
+    - Explorar publicações: um usuário pode explorar as publicações de outros usuários e interagir com elas, sendo possível curtir, comentar ou compartilha-las.
+    - Seguir: um usuário pode seguir uma conta e torna-la mais evidente em seu feed.
+    - Enviar mensagens: um usuário pode enviar mensagens privadas a contas de outros usuários.
+    - Configurar conta: um usuário pode gerenciar sua conta, bem como configurar opções de exibição de conteúdo e privacidade.
+
+3. Adicionais:
+
+    - Um usuário moderador tem a capacidade de classificar contas por meio de rótulos com base em suas ações no sistema. Além disso, é possível que um moderador bloqueie uma conta, caso a mesma infrinja os termos de uso.
+
 ## Termo de serviço
 
 Com o intuito de realizar o trabalho dentro da legalidade, [os termos de serviço da BlueSky](https://bsky.social/about/support/tos) foram verificados para garantir que não hajam restrições para o uso do app no projeto da disciplina. Segundo os termos de serviço:
 
-"7. **Open Source.** Some of Bluesky Social’s software is subject to open source licenses from MIT or Apache. Those portions of the software may be used in accordance with those open source licenses, which may be found in each open source repository.". [¹](#c1)
+"7. **Open Source.** Some of Bluesky Social’s software is subject to open source licenses from MIT or Apache. Those portions of the software may be used in accordance with those open source licenses, which may be found in each open source repository.". [2](#c2)
 
 Ainda, em seus repositórios, temos sua licença MIT:
 
@@ -40,7 +66,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.". [²](#c2)
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.". [3](#c3)
 
 A seguir a licença Apache 2.0:
 
@@ -94,16 +120,18 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS". [³](#c3)
+END OF TERMS AND CONDITIONS". [4](#c4)
 
 Assim, tem-se que os termos do aplicativo BlueSky permitem seu uso para estudo na disciplina.
 
 ## Referências
 <a id="c1"></a>
-> 1. Bluesky PBC. Bluesky, 2024. Termos de serviço. Disponível em: https://bsky.social/about/support/tos. Acesso em: 03 nov. 2024.
+> 1. BETTEREVALUATION. Rich Pictures. Disponível em: https://www.betterevaluation.org/methods-approaches/methods/rich-pictures. Acesso em: 29 out. 2024.
 <a id="c2"></a>
-> 2. Bluesky PBC. Github, 2024. Licença MIT em repositório da Bluesky. Disponível em: https://github.com/bluesky-social/social-app/blob/main/LICENSE. Acesso em: 03 nov. 2024.
+> 1. Bluesky PBC. Bluesky, 2024. Termos de serviço. Disponível em: https://bsky.social/about/support/tos. Acesso em: 03 nov. 2024.
 <a id="c3"></a>
+> 2. Bluesky PBC. Github, 2024. Licença MIT em repositório da Bluesky. Disponível em: https://github.com/bluesky-social/social-app/blob/main/LICENSE. Acesso em: 03 nov. 2024.
+<a id="c4"></a>
 > 3. The Apache Software Foundation. Apache, 2004. Apache License 2.0. Disponível em: https://www.apache.org/licenses/LICENSE-2.0.txt. Acesso em: 03 nov. 2024.
 
 ## :round_pushpin: Histórico de Versão 
