@@ -27,9 +27,9 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 | Apresentação | 1.0 | Renata | - |
 | Cronograma | 1.1 | - | - |
 | Disponibilidade | 1.0 | Renata | - |
-| Ferramentas | 1.0 | - | - |
-| Apps Avaliados | Carla, Davi, Eduarda, João Vitor, Renata | - |Carla, Davi, Eduarda, João Vitor, Renata |
-| Pré-Restreabilidade | - | - |
+| Ferramentas | 1.0 | João Ribeiro | - |
+| Apps Avaliados | 1.4 | Davi |Carla, Davi, Eduarda, João Vitor, Renata |
+| App escolhido | 1.0 | João Ribeiro | - |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -97,6 +97,19 @@ A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído p
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Ferramentas
+A tabela 7 mostra a checklist das ferramentas utilizadas/a serem utilizadas no projeto.
+
+    Tabela 7: Checklist das ferramentas
+
+| ID | Descrição | Avaliação | Referência |
+| :----: | :------------: | :----------: | :-----------: |
+| 41 | Possui uma introdução ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 42 | Possui tabela com as ferramentas utilizadas no projeto ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 43 | As ferramentas presentes na tabela possuem sua finalidade de uso no projeto ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 44 | Possui o histórico de versão padronizado ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 45 | Possui o(s) autor(es) e o(s) revisor(es) ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+
+<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## APPS Avaliados
 
@@ -133,7 +146,26 @@ A tabela 9 mostra o checklist dos rich pictures e foi construído pelos integran
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
-## Pré-Restreabilidade
+## App escolhido
+A tabela 9 mostra a checklist do documento do app escolhido para o projeto e seu rich picture.
+
+    Tabela 9: Checklist do app escolhido
+
+| ID | Descrição | Avaliação | Referência |
+| :----: | :------------: | :----------: | :-----------: |
+| 46 | Possui uma introdução ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 47 | Possui a motivação e os critérios de escolha do aplicativo ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 47 | Possui cópia do termo de serviço do aplicativo permitindo o estudo na disciplina ? |- | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+| 48 | A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos) | - | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
+| 49 | As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses? | - | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png) |
+| 50 | Os armazenamentos de dados são representados por retângulos? | - | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png) |
+| 51 | As setas estão fazendo a devida função de mostrar a direção do fluxo de dados? | - | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png) |
+| 52 | O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis? | - |[Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png) |
+| 53 | A rich picture tem uma conceitualização clara de uma solução de design? | - |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png) |
+| 54 | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? | - |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png) |
+| 55 | Os principais clientes, autores, donos do sistema estão sendo identificados? | - | [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png) |
+
+<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Referências Bibliográficas
 
@@ -162,6 +194,14 @@ A tabela 9 mostra o checklist dos rich pictures e foi construído pelos integran
             <td>1.1</td>
             <td>Adição de checklist de Apps </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td></td>
+            <td><a</a></td>
+        </tr>
+        <tr>
+            <td>05/11</td>
+            <td>1.2</td>
+            <td>Add checklists de ferramenta e app escolhido </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
             <td><a</a></td>
         </tr>
