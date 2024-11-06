@@ -177,6 +177,11 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
     - Os nomes de cada ator são descritos na área de legenda das imagens
     - Algumas descrições são utilizadas no fluxo (setas) para facilitar o entendimento
 
+## Referência Bibliográfica / Bibliografia
+[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+<a id="c1"></a>
+> 1. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
+
 ## :round_pushpin: Histórico de Versão 
 
 <div align="center">
@@ -219,8 +224,9 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
             <td>1.3</td>
             <td>Adição da FAB</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td><a href=""></a></td>>
         </tr>
     </table>
 </div>
