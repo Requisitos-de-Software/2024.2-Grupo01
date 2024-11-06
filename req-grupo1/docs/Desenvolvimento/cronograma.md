@@ -81,8 +81,8 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
     Tabela 5: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
 | Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Verificação 1  | Início: 21/12<br>Fim: 23/01    	|  Carla, Davi, João Vitor  | Início: 26/12 Fim: 26/12 |   Renata 	|
-|   Validação 1   	| Início: 26/12<br>Fim: 28/01  	|   Renata, Davi, Eduarda   | Início: 28/12 Fim: 29/12 	|     João Vitor   	|
+|   Verificação 1  | Início: 21/12<br>Fim: 23/01    	|  Carla, Davi, João Vitor  | Início: 27/12 Fim: 28/12 |   Renata 	|
+|   Validação 1   	| Início: 21/12<br>Fim: 23/01  	|   Renata, Davi, Eduarda   | Início: 27/12 Fim: 28/12 	|     João Vitor   	|
 |   Atualização do cronograma executado     | Início: 28/12<br>Fim: 28/12    	|   Eduarda, Renata	| Início: 29/12 Fim: 29/12 	|     Carla, Davi, João Vitor   	|
 
 <p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
@@ -91,12 +91,12 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
     Tabela 6: Cronograma planejado - Etapa 6 - Pós-Rastreabilidade - Gerência II
 | Atividade   | Período de desenvolvimento 	| Responsáveis   | Revisão                  	| Revisores       	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Pós-rastreabilidade: Backward-from  | Início: 11/01<br>Fim: 13/01 |  Eduarda, João Vitor	| Início: 14/01<br>Fim: 14/01 	|  Eduarda	|
+|   Pós-rastreabilidade: Backward-from  | Início: 07/01<br>Fim: 09/01 |  Eduarda, João Vitor	| Início: 10/01<br>Fim: 10/01 	|  Eduarda	|
 |   Pós-rastreabilidade: Forward-from    	| Início: 11/01<br>Fim: 13/01  	|Carla, Davi  | Início: 14/01<br>Fim: 14/01 	| Renata |
 |   Pós-rastreabilidade: Matriz de rastreabilidade    	| Início: 15/01<br>Fim: 16/01  	| Eduarda, Renata | Início: 17/11 Fim: 17/11 	| Davi |
 |   Gravação da Apresentação e Entrega 	| Início: 18/01<br>Fim: 18/01    	|   Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 19/01<br>Fim: 19/01  	| Davi, João Vitor 	|
 | Atualização do cronograma executado | Início: Início: 18/01<br>Fim: 18/01     | Renata                            | Início: 18/01<br>Fim: 18/01       | João Vitor 
-|   Correção pós apresentação	| Início: 20/01<br>Fim: 22/01 	|  Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 23/01<br>Fim: 23/01 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
+|   Correção pós apresentação	| Início: 21/01<br>Fim: 22/01 	|  Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 23/01<br>Fim: 23/01 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
 
 <p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
@@ -107,8 +107,8 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 |   Verificação 2  | Início: 24/01<br>Fim: 26/01    	|  Carla, João Vitor, Eduarda  | Início: 27/01 Fim: 27/01 	|    Renata, Davi	|
 |   Validação 2   	| Início: 24/01<br>Fim: 26/01  	|   Eduarda, Davi, Renata    | Início: 27/01 Fim: 27/01 	|      Carla, João Vitor  	|
 |   Gravação da Apresentação e Entrega     | Início: 28/01<br>Fim: 28/01    	|   Eduarda, Davi	| Início: 29/01 Fim: 29/01 	|     Carla, Eduarda, Davi, João Vitor, Renata   	|
-| Atualização do cronograma executado | Início: 28/01<br>Fim: 28/01     | Renata                            | Início: 28/01<br>Fim: 28/01       | João Vitor                                 |
-|   Correção pós apresentação	| Início: 30/02<br>Fim: 01/02 	|  Carla, Eduarda, Davi, João Vitor, Renata	| Início: 02/02<br>Fim: 03/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
+| Atualização do cronograma executado | Início: 28/01<br>Fim: 28/01     | Renata                            | Início: 29/01<br>Fim: 29/01       | João Vitor                                 |
+|   Correção pós apresentação	| Início: 30/01<br>Fim: 01/02 	|  Carla, Eduarda, Davi, João Vitor, Renata	| Início: 02/02<br>Fim: 03/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
 
 <p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
