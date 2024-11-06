@@ -22,14 +22,14 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
     Tabela 1: Organização da revisão
 |    Artefato     | Versão | Integrante responsável pelo checklist |   Integrante responsável pela revisão    |
 | :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
-|      Home       |  1.0   |                Renata                 |                    -                     |
-|      ATAs       |  1.0   |                Renata                 |                    -                     |
+|      Home       |  1.0   |                Renata                 |                   Davi                     |
+|      ATAs       |  1.0   |                Renata                 |                     Eduarda                     |
 |  Apresentação   |  1.0   |                Renata                 |                    -                     |
-|   Cronograma    |  1.1   |                   -                   |                    -                     |
-| Disponibilidade |  1.0   |                Renata                 |                    -                     |
-|   Ferramentas   |  1.0   |             João Ribeiro              |                    -                     |
+|   Cronograma    |  1.1   |          Eduarda                  |                    -                     |
+| Disponibilidade |  1.0   |                Renata                 |                    Davi                     |
+|   Ferramentas   |  1.0   |             João Ribeiro              |                    Renata                     |
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
-|  App escolhido  |  1.0   |             João Ribeiro              |                    -                     |
+|  App escolhido  |  1.0   |             João Ribeiro              |                    Renata                    |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
