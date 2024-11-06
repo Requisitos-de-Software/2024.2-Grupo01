@@ -161,6 +161,12 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
     <figcaption>Figura 3: Rich Picture Github Mobile. (Fonte: Carla A. C. Ribeiro) </figcaption>
 </figure>
 
+<figure>
+    <img src="../assets/images/rich_description.jpg"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Figura 3: Legenda - Rich Picture Github Mobile. (Fonte: Carla A. C. Ribeiro) </figcaption>
+</figure>
+
+
 
 ### Descrição dos Componentes
 
