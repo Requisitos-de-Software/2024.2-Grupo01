@@ -211,8 +211,8 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
             <td>1.2</td>
             <td>Adição do Bluesky</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>03/11</td>
