@@ -151,6 +151,28 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
     - Os nomes de cada ator são descritos na área de legenda das imagens
     - Algumas descrições são utilizadas no fluxo (setas) para facilitar o entendimento
 
+
+## Github Mobile
+
+<p>O aplicativo escolhido para a atividade de confecção de uma Rich Picture foi o GitHub Mobile. A escolha se deu pelo fato de o aplicativo ser um projeto open source, o que facilita o acesso às informações sobre sua estrutura e funcionalidades. Além disso, o grupo teria fácil acesso a diversos usuários da plataforma, tornando a coleta de dados mais viável e enriquecedora. Outro fator relevante é o grande interesse dos participantes, dado o uso frequente do GitHub em atividades acadêmicas ao longo do curso.</p> <p>Considerando um trabalho sobre requisitos de software, a análise do GitHub Mobile se torna particularmente relevante pelos seguintes pontos:</p> <ul> <li><strong>Relevância das funcionalidades:</strong> O GitHub Mobile oferece funcionalidades essenciais para o gerenciamento de projetos de desenvolvimento, como controle de versões, gerenciamento de repositórios e comunicação entre colaboradores. A análise dessas funcionalidades permite entender como o software atende às necessidades de seus usuários e como requisitos adicionais ou melhorias podem ser identificados.</li> <li><strong>Facilidade de uso e experiência do usuário (UX):</strong> O app precisa garantir uma interface intuitiva e uma navegação eficiente. A coleta de requisitos sobre a usabilidade e a experiência do usuário pode fornecer informações sobre a eficácia das funcionalidades do app e como elas podem ser aprimoradas, considerando a fluidez das interações e a facilidade de execução das tarefas.</li> <li><strong>Desempenho e confiabilidade:</strong> O GitHub Mobile deve ser capaz de realizar operações rápidas e sem falhas, especialmente considerando a base de usuários ativa. O desempenho do aplicativo é um requisito crítico que impacta diretamente a satisfação do usuário e deve ser analisado em termos de tempo de resposta e estabilidade.</li> <li><strong>Requisitos de segurança:</strong> Como o GitHub Mobile lida com repositórios de código e dados sensíveis, a segurança é um requisito fundamental. A análise de como o aplicativo gerencia a autenticação, criptografia de dados e permissões de acesso é crucial para garantir que os usuários estejam protegidos enquanto utilizam o serviço.</li> <li><strong>Compatibilidade com diferentes dispositivos:</strong> O GitHub Mobile precisa ser compatível com uma variedade de dispositivos móveis e versões de sistemas operacionais. O estudo da compatibilidade e dos requisitos para garantir uma experiência consistente em diferentes plataformas é importante para avaliar a cobertura de usuários do aplicativo e identificar possíveis falhas de implementação em dispositivos específicos.</li> </ul>
+
+<figure>
+    <img src="../assets/images/carla_rich_picture.jpg"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Figura 3: Rich Picture Github Mobile. (Fonte: Carla A. C. Ribeiro) </figcaption>
+</figure>
+
+
+### Descrição dos Componentes
+
+1. Usuário
+Representados por ícones de usuários, os usuários do GitHub Mobile têm acesso a diversas funcionalidades essenciais para o gerenciamento e colaboração em projetos de software. Eles podem realizar ações como logar na plataforma, hospedar seus próprios projetos, visualizar outros projetos, contribuir com código e melhorias, debater sobre questões e ideias relacionadas aos projetos, além de acompanhar e ver diferentes versões de um repositório. 
+
+2. Funcionalidades Principais: 
+
+<p>O GitHub Mobile oferece diversas funcionalidades que permitem aos usuários interagir de forma eficiente com seus projetos e colaborar com outros desenvolvedores. Entre as funcionalidades disponíveis, destacam-se:</p> <ul> <li><strong>Login:</strong> Permite aos usuários fazerem login na plataforma, garantindo acesso seguro e personalizado às suas informações e projetos.</li> <li><strong>Hospedagem de Projetos:</strong> Usuários podem hospedar seus próprios projetos, facilitando o compartilhamento e gerenciamento de código-fonte com colaboradores e a comunidade.</li> <li><strong>Visualizar Projetos:</strong> Os usuários podem explorar outros projetos hospedados na plataforma, contribuindo para a comunidade e aprendendo com diferentes abordagens e soluções de software.</li> <li><strong>Contribuição:</strong> Permite que os usuários contribuam com código ou melhorias para projetos de outros desenvolvedores, por meio de pull requests e submissões de alterações.</li> <li><strong>Debate:</strong> O GitHub Mobile possibilita a interação entre desenvolvedores por meio de discussões em issues, onde é possível debater ideias, tirar dúvidas e colaborar nas decisões de projeto.</li> <li><strong>Visualizar Versões:</strong> Usuários podem acessar e comparar diferentes versões de um projeto, analisando histórico de mudanças, correções de bugs e novas funcionalidades implementadas.</li> </ul>
+
+
+
 ## :round_pushpin: Histórico de Versão 
 
 <div align="center">
@@ -185,8 +207,8 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
             <td>1.2</td>
             <td>Adição do Bluesky</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>05/11</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
         <tr>
             <td>03/11</td>
