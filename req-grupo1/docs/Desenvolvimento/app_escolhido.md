@@ -124,7 +124,7 @@ END OF TERMS AND CONDITIONS". [4](#c4)
 
 Assim, tem-se que os termos do aplicativo BlueSky permitem seu uso para estudo na disciplina.
 
-## Referências
+## Referência Bibliográfica / Bibliografia
 <a id="c1"></a>
 > 1. BETTEREVALUATION. Rich Pictures. Disponível em: https://www.betterevaluation.org/methods-approaches/methods/rich-pictures. Acesso em: 29 out. 2024.
 <a id="c2"></a>
@@ -151,8 +151,8 @@ Assim, tem-se que os termos do aplicativo BlueSky permitem seu uso para estudo n
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

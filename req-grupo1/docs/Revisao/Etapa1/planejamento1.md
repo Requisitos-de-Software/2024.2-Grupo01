@@ -194,16 +194,16 @@ A tabela 9 mostra a checklist do documento do app escolhido para o projeto e seu
             <td>1.1</td>
             <td>Adição de checklist de Apps </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a</a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
         <tr>
             <td>05/11</td>
             <td>1.2</td>
             <td>Add checklists de ferramenta e app escolhido </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a</a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

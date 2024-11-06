@@ -17,7 +17,8 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Cópia do termo de uso do app        | Início: 27/10 - Fim: 03/11      | João Vitor                                 | Início: 03/11 - Fim: 04/11       | Carla                                         |
 | Ferramentas selecionadas            | Início: 25/10 - Fim: 27/10      | Davi                              | Início: 27/10 - Fim: 04/11       | Eduarda                                    |
 | Cronograma planejado                | Início: 25/10 - Fim: 03/11      | João Vitor e Renata               | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi   |
-| Rich picture                        | Início: 25/10 - Fim: 03/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
+| Rich picture                        | Início: 25/10 - Fim: 03/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi, João Vitor, Renata   |  
+| Revisão |  Início: 05/11 - Fim: 06/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 05/11 - Fim: 06/11|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega  | Início: 05/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | Carla                                      |
 | Atualização do cronograma executado | Início: 06/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | João Vitor                                 |
 | Correção pós apresentação           | Início: 07/11 - Fim: 09/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 09/11 - Fim: 10/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
@@ -40,6 +41,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Priorização dos requisitos: $100 | Início: 17 /11 - Fim: 20/11 | Eduarda | Início: 20/11 - Fim: 22/11 | Carla |
 | Priorização dos requisitos: First Things First | Início: 17 /11 - Fim: 20/11 | Davi | Início: 20/11 - Fim: 22/11 | Eduarda |
 | Priorização dos requisitos: In our Out | Início: 17 /11 - Fim: 20/11 | João Vitor | Início: 20/11 - Fim: 22/11 | Davi |
+| Revisão |  Início: 20/11 - Fim: 22/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 22/11 - Fim: 22/11|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega | Início: 23/11 - Fim: 23/11  | Carla e Renata | Início: 23/11 - Fim: 23/11 | João Vitor | 
 | Atualização do cronograma executado | Início: 23/11 - Fim: 23/11 | Renata | Início: 23/11 - Fim: 23/11 | Davi | 
 | Correção pós apresentação | Início: 26/11 - Fim: 30/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 30/11 - Fim: 31/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
@@ -54,6 +56,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Léxico | Início: 28/11 - Fim: 01/12 | Davi e João Vitor | Início: 01/12 - Fim: 02/12 | Carla e Eduarda |
 | Use Case | Início: 30/11 - Fim: 03/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/12 - Fim: 04/12 | Carla, Eduarda, Davi, João Vitor, Renata |
 | Especificação Suplementar | Início: 30/11 - Fim: 04/12 | Eduarda e Carla | Início: 04/12 - Fim: 05/12 | Renata e Carla |
+| Revisão |  Início: 05/12 - Fim: 06/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 06/12 - Fim: 06/12|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega | Início: 07/12 - Fim: 07/11  | Carla e Renata | Início: 07/12- Fim: 07/12 | João Vitor | 
 | Atualização do cronograma executado | Início: 07/12 - Fim: 07/12 | Renata | Início: 07/12 - Fim: 07/12 | Davi | 
 | Correção pós apresentação | Início: 10/12 - Fim: 15/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 15/12 - Fim: 15/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
@@ -67,6 +70,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 |História de usuário| Início: 09/12 - Fim: 13/12 |Carla e Davi| Início: 13/12 - Fim: 13/12 | Renata e Eduarda |
 |Backlogs|Início: 09/12 - Fim: 13/12 | Eduarda | Início: 13/12 - Fim: 13/12 | Carla e Renata |
 |NFR Framework|Início: 09/12 - Fim: 13/12 | Renata e João Vitor| Início: 13/12 - Fim: 13/12 | Davi e Carla |
+| Revisão |  Início: 13/12 - Fim: 14/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 14/12 - Fim: 14/12|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega | Início: 14/12 - Fim: 14/11  | Carla e Renata | Início: 14/12- Fim: 14/12 | João Vitor | 
 | Atualização do cronograma executado | Início: 14/12 - Fim: 14/12 | Renata | Início: 14/12 - Fim: 14/12 | Davi | 
 | Correção pós apresentação | Início: 17/12 - Fim: 20/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 20/12 - Fim: 20/12 | Carla, Eduarda, Davi, João Vitor, Renata | 
@@ -117,6 +121,9 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 |   Correção pós entrega	| Início: 10/02<br>Fim: 11/02 	|  Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 11/02<br>Fim: 11/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
 
 <p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
+## Referência Bibliográfica / Bibliografia
+[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
 ## :round_pushpin: Histórico de Versão 
 
