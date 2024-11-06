@@ -90,6 +90,32 @@ A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às r
 - Caracteríscas interessantes: a escolha de descentralização direcionou à utilização de um protocolo que permite a comunicação direta entre BlueSky e demais platafomas que o implementam e a maior participação de sua comunidade na moderação da plataforma.
 - Crescente comunidade: a plataforma que já possui uma grande comunidade continua a receber novos usuários com a procura por alternativas às redes sociais já existentes.
 
+### Rich Picture - Bluesky
+
+O rich picture a seguir ilustra os processos e interações do sistema da Bluesky
+
+<figure>
+    <img src="../../assets/images/rp-bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Figura 2: Rich Picture Bluesky</figcaption>
+</figure>
+
+#### Descrição dos componentes
+
+1. Usuário:
+    - Um usuário da Bluesky pode interagir com outros usuários do sistema por meio de publicações e mensagens diretas, além de gerenciar sua própria conta.
+
+2. Funcionalidades Principais:
+
+    - Publicar: um usuário pode compartilhar pequenos textos, fotos e vídeos.
+    - Explorar publicações: um usuário pode explorar as publicações de outros usuários e interagir com elas, sendo possível curtir, comentar ou compartilha-las.
+    - Seguir: um usuário pode seguir uma conta e torna-la mais evidente em seu feed.
+    - Enviar mensagens: um usuário pode enviar mensagens privadas a contas de outros usuários.
+    - Configurar conta: um usuário pode gerenciar sua conta, bem como configurar opções de exibição de conteúdo e privacidade.
+
+3. Adicionais:
+
+    - Um usuário moderador tem a capacidade de classificar contas por meio de rótulos com base em suas ações no sistema. Além disso, é possível que um moderador bloqueie uma conta, caso a mesma infrinja os termos de uso.
+
 ## Carteira de Trabalho Digital
 A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasileiro para simplificar o acesso e gestão das informações trabalhistas dos cidadãos. Entre os benefícios de escolher a Carteira de Trabalho Digital para o projeto da disciplina de Requisitos de Software, destacam-se:
 
@@ -178,6 +204,10 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
 <p>O GitHub Mobile oferece diversas funcionalidades que permitem aos usuários interagir de forma eficiente com seus projetos e colaborar com outros desenvolvedores. Entre as funcionalidades disponíveis, destacam-se:</p> <ul> <li><strong>Login:</strong> Permite aos usuários fazerem login na plataforma, garantindo acesso seguro e personalizado às suas informações e projetos.</li> <li><strong>Hospedagem de Projetos:</strong> Usuários podem hospedar seus próprios projetos, facilitando o compartilhamento e gerenciamento de código-fonte com colaboradores e a comunidade.</li> <li><strong>Visualizar Projetos:</strong> Os usuários podem explorar outros projetos hospedados na plataforma, contribuindo para a comunidade e aprendendo com diferentes abordagens e soluções de software.</li> <li><strong>Contribuição:</strong> Permite que os usuários contribuam com código ou melhorias para projetos de outros desenvolvedores, por meio de pull requests e submissões de alterações.</li> <li><strong>Debate:</strong> O GitHub Mobile possibilita a interação entre desenvolvedores por meio de discussões em issues, onde é possível debater ideias, tirar dúvidas e colaborar nas decisões de projeto.</li> <li><strong>Visualizar Versões:</strong> Usuários podem acessar e comparar diferentes versões de um projeto, analisando histórico de mudanças, correções de bugs e novas funcionalidades implementadas.</li> </ul>
 
 
+## Referência Bibliográfica / Bibliografia
+[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+<a id="c1"></a>
+> 1. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -213,16 +243,17 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
             <td>1.2</td>
             <td>Adição do Bluesky</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td>05/11</td>
-            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>03/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>03/11</td>
             <td>1.3</td>
             <td>Adição da FAB</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td><a href=""></a></td>>
         </tr>
     </table>
 </div>
