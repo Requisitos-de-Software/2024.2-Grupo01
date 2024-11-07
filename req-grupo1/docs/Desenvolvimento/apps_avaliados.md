@@ -29,7 +29,7 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
         </tr>
         <tr>
             <td><a href="#app-2">GitHub Mobile</a></td>
-            <td>Carla</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
         <tr>
             <td><a href="#fab">Força áerea brasileira</a></td>
@@ -253,6 +253,15 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>06/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td><a href=""></a></td>>
+        </tr>
+        <tr>
+            <td>05/11</td>
+            <td>1.4</td>
+            <td>Adição do Github Mobile</td>
+            <td><a href="https://github.com/Jagaima">Carla Clementino</a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
             <td><a href=""></a></td>>
         </tr>
     </table>

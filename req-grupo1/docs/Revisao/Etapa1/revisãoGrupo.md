@@ -25,7 +25,7 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 |      Home       |  1.0   |                Renata                 |                   Davi                   |
 |      ATAs       |  1.0   |                Renata                 |                 Eduarda                  |
 |  Apresentação   |  1.0   |                Renata                 |                    João Ribeiro                     |
-|   Cronograma    |  1.1   |                Eduarda                |                    -                     |
+|   Cronograma    |  1.1   |                Eduarda                |                    Carla                     |
 | Disponibilidade |  1.0   |                Renata                 |                   Davi                   |
 |   Ferramentas   |  1.0   |             João Ribeiro              |                  Renata                  |
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
