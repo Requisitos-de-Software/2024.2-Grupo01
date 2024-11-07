@@ -41,6 +41,29 @@ A tabela 1 mostra o checklist do rich picture Carteira de Trabalho Digital e foi
 
 O rich picture avaliado atingiu praticamente todas as especificações exigidas, com excessão das formas retangulares como base de dados, o tornando em pequena parte incorreto. 
 
+## Github Mobile
+
+A tabela 2 mostra o checklist do rich picture do Github Mobile, a realização desta verificação foi feita pelo integrante [João Ribeiro](https://github.com/Joa0V). A integrante [Eduarda](https://github.com/erteduarda) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
+
+    Tabela 2: Checklist da Rich Picture Github Mobile
+| ID | Descrição | Avaliação | Referência |
+| :----: | :------------: | :----------: | :-----------: |
+| 33 | A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos) | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
+| 34 | As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses? | NÃO | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png) |
+| 35 | Os armazenamentos de dados são representados por retângulos? | NÃO | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png) |
+| 36 | As setas estão fazendo a devida função de mostrar a direção do fluxo de dados? | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png) |
+| 37 | O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis? | SIM |[Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png) |
+| 38 | A rich picture tem uma conceitualização clara de uma solução de design? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png) |
+| 39 | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png) |
+| 40 | Os principais clientes, autores, donos do sistema estão sendo identificados? | SIM | [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png) |
+
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a> <br/>Gravação diponível neste <a href="https://youtu.be/vGyj1yBfGVY">Link</a></p> 
+
+
+### Conclusão  Github Mobile
+
+O rich picture avaliado atingiu praticamente todas as especificações exigidas, apenas a escolha das formas de representação das operações e armazenamento de dados estiveram em discordância com a checklist.
+
 ## Bluesky (app escolhido)
 A tabela 9 mostra a verificação do App escolhido, foi realizada pela [Renata](https://github.com/Renatinha28) e com o auxílio da integrante [Eduarda](https://github.com/erteduarda).
 
@@ -100,7 +123,15 @@ Como podemos ver na tabela 9 o Bluesky foi realizado atendendo todos os critéri
             <td>Add revisão Bluesky </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>06/11</td>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>06/11</td>
+            <td>1.3</td>
+            <td>Add revisão Github Mobile </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>06/11</td>
+            <td><a href=""></a></td>
         </tr>
     </table>
 </div>

@@ -8,7 +8,9 @@ O objetivo deste documento é consolidar as apresentações do Grupo 01, permiti
 A metodologia adotada para este documento consiste na gravação de todas as apresentações realizadas pelo Grupo 01 ao longo do semestre. Cada apresentação foi registrada em vídeo para garantir a preservação do conteúdo e facilitar o acesso a ele a qualquer momento. Além disso, todas as apresentações vão ser alocadas no YouTube na categoria "não listado"
 
 ## Apresentação 1
-Nesta etapa foram entregues: Cronograma planejado, aplicativos avaliados, aplicativo escolhido, rich pictures, disponibilidade dos integrantes, ferramentas utilizadas e verificação da etapa 1. O vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 06/11/2024 e todos os integrantes estavam presentes.
+Nesta etapa foram entregues: Cronograma planejado, aplicativos avaliados, aplicativo escolhido, rich pictures, disponibilidade dos integrantes, ferramentas utilizadas e verificação da etapa 1. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 06/11/2024 e todos os integrantes estavam presentes.
+
+<p align="center"><a href="https://youtu.be/HLAM63wwySk">Link para a apresentação 1</a></p> 
 
 <div align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HLAM63wwySk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
