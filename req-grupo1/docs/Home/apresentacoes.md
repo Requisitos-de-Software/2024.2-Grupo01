@@ -10,6 +10,10 @@ A metodologia adotada para este documento consiste na gravação de todas as apr
 ## Apresentação 1
 Nesta etapa foram entregues: Cronograma planejado, aplicativos avaliados, aplicativo escolhido, rich pictures, disponibilidade dos integrantes, ferramentas utilizadas e verificação da etapa 1. O vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 06/11/2024 e todos os integrantes estavam presentes.
 
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HLAM63wwySk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Referência Bibliográfica / Bibliografia
 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
@@ -29,9 +33,9 @@ Nesta etapa foram entregues: Cronograma planejado, aplicativos avaliados, aplica
             <td>06/11</td>
             <td>1.0</td>
             <td>Criação do documento</td>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a> <a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>

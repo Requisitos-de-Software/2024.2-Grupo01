@@ -99,7 +99,8 @@ Como podemos ver na tabela 9 o Bluesky foi realizado atendendo todos os critéri
             <td>1.2</td>
             <td>Add revisão Bluesky </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

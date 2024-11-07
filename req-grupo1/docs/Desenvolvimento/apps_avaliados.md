@@ -28,7 +28,7 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
         <tr>
-            <td><a href="#app-2">App 2</a></td>
+            <td><a href="#app-2">GitHub Mobile</a></td>
             <td>Carla</td>
         </tr>
         <tr>
@@ -183,12 +183,12 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
 <p>O aplicativo escolhido para a atividade de confecção de uma Rich Picture foi o GitHub Mobile. A escolha se deu pelo fato de o aplicativo ser um projeto open source, o que facilita o acesso às informações sobre sua estrutura e funcionalidades. Além disso, o grupo teria fácil acesso a diversos usuários da plataforma, tornando a coleta de dados mais viável e enriquecedora. Outro fator relevante é o grande interesse dos participantes, dado o uso frequente do GitHub em atividades acadêmicas ao longo do curso.</p> <p>Considerando um trabalho sobre requisitos de software, a análise do GitHub Mobile se torna particularmente relevante pelos seguintes pontos:</p> <ul> <li><strong>Relevância das funcionalidades:</strong> O GitHub Mobile oferece funcionalidades essenciais para o gerenciamento de projetos de desenvolvimento, como controle de versões, gerenciamento de repositórios e comunicação entre colaboradores. A análise dessas funcionalidades permite entender como o software atende às necessidades de seus usuários e como requisitos adicionais ou melhorias podem ser identificados.</li> <li><strong>Facilidade de uso e experiência do usuário (UX):</strong> O app precisa garantir uma interface intuitiva e uma navegação eficiente. A coleta de requisitos sobre a usabilidade e a experiência do usuário pode fornecer informações sobre a eficácia das funcionalidades do app e como elas podem ser aprimoradas, considerando a fluidez das interações e a facilidade de execução das tarefas.</li> <li><strong>Desempenho e confiabilidade:</strong> O GitHub Mobile deve ser capaz de realizar operações rápidas e sem falhas, especialmente considerando a base de usuários ativa. O desempenho do aplicativo é um requisito crítico que impacta diretamente a satisfação do usuário e deve ser analisado em termos de tempo de resposta e estabilidade.</li> <li><strong>Requisitos de segurança:</strong> Como o GitHub Mobile lida com repositórios de código e dados sensíveis, a segurança é um requisito fundamental. A análise de como o aplicativo gerencia a autenticação, criptografia de dados e permissões de acesso é crucial para garantir que os usuários estejam protegidos enquanto utilizam o serviço.</li> <li><strong>Compatibilidade com diferentes dispositivos:</strong> O GitHub Mobile precisa ser compatível com uma variedade de dispositivos móveis e versões de sistemas operacionais. O estudo da compatibilidade e dos requisitos para garantir uma experiência consistente em diferentes plataformas é importante para avaliar a cobertura de usuários do aplicativo e identificar possíveis falhas de implementação em dispositivos específicos.</li> </ul>
 
 <figure>
-    <img src="../assets/images/carla_rich_picture.jpg"  style="width: 70%; height: auto; object-fit: cover;">
+    <img src="../../assets/images/carla_rich_picture.jpg"  style="width: 70%; height: auto; object-fit: cover;">
     <figcaption>Figura 3: Rich Picture Github Mobile. (Fonte: Carla A. C. Ribeiro) </figcaption>
 </figure>
 
 <figure>
-    <img src="../assets/images/rich_description.jpg"  style="width: 70%; height: auto; object-fit: cover;">
+    <img src="../../assets/images/rich_description.jpg"  style="width: 70%; height: auto; object-fit: cover;">
     <figcaption>Figura 3: Legenda - Rich Picture Github Mobile. (Fonte: Carla A. C. Ribeiro) </figcaption>
 </figure>
 

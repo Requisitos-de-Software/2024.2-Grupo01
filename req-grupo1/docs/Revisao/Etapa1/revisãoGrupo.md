@@ -22,16 +22,24 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
     Tabela 1: Organização da revisão
 |    Artefato     | Versão | Integrante responsável pelo checklist |   Integrante responsável pela revisão    |
 | :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
-|      Home       |  1.0   |                Renata                 |                   Davi                     |
-|      ATAs       |  1.0   |                Renata                 |                     Eduarda                     |
+|      Home       |  1.0   |                Renata                 |                   Davi                   |
+|      ATAs       |  1.0   |                Renata                 |                 Eduarda                  |
 |  Apresentação   |  1.0   |                Renata                 |                    -                     |
-|   Cronograma    |  1.1   |          Eduarda                  |                    -                     |
-| Disponibilidade |  1.0   |                Renata                 |                    Davi                     |
-|   Ferramentas   |  1.0   |             João Ribeiro              |                    Renata                     |
+|   Cronograma    |  1.1   |                Eduarda                |                    -                     |
+| Disponibilidade |  1.0   |                Renata                 |                   Davi                   |
+|   Ferramentas   |  1.0   |             João Ribeiro              |                  Renata                  |
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
-|  App escolhido  |  1.0   |             João Ribeiro              |                    Renata                    |
+|  App escolhido  |  1.0   |             João Ribeiro              |                  Renata                  |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+|      Home       |  1.0   |                Renata                 |                   Davi                   |
+|      ATAs       |  1.0   |                Renata                 |                    -                     |
+|  Apresentação   |  1.0   |                Renata                 |                    -                     |
+|   Cronograma    |  1.1   |                   -                   |                    -                     |
+| Disponibilidade |  1.0   |                Renata                 |                   Davi                   |
+|   Ferramentas   |  1.0   |             João Ribeiro              |                    -                     |
+| Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
+|  App escolhido  |  1.0   |             João Ribeiro              |                    -                     |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -39,15 +47,15 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata](https://github.com/Renatinha28). A verificação dos itens desta tabela foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
     Tabela 2: Checklist da home
-| ID | Descrição | Avaliação | Referência |
-| :----: | :------------: | :----------: | :-----------: |
-| 01 | Apresenta os integrantes do grupo com foto e nome, sem matrícula ? | SIM | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 02 | O gitPages possui uma opção de contraste de cores ? |SIM | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 03 | Possui o histórico de versão padronizado ? |SIM | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 04 | Possui o(s) autor(es) e o(s) revisor(es) ? |SIM | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 05 | Possui referência e/ou bibliografia ? |Não se aplica| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 06 | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |SIM | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 07 | Possui uma introdução ? |SIM | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  ID   |                                  Descrição                                   |   Avaliação   |                                                                   Referência                                                                   |
+| :---: | :--------------------------------------------------------------------------: | :-----------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  01   |      Apresenta os integrantes do grupo com foto e nome, sem matrícula ?      |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  02   |             O gitPages possui uma opção de contraste de cores ?              |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  03   |                  Possui o histórico de versão padronizado ?                  |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  04   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  05   |                    Possui referência e/ou bibliografia ?                     | Não se aplica | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  06   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  07   |                           Possui uma introdução ?                            |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/9778qsS3u7s">Link</a></p>  
 
@@ -56,43 +64,93 @@ A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata]
 Baseado nas perguntas e tendo em vista que somente uma não se aplicou totalmente a situação conforme nosso registro. Consideramos os padrões alcançados nesta verificação.
 
 ## Cronograma
+A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela integrante [Renata](https://github.com/Renatinha28) e [João Vitor](https://github.com/Joa0V)
+
+     Tabela 5: Checklist do cronograma
+| ID  | Descrição da Pergunta                                                                               | Avaliação | Referência                                                                                              |
+| --- | --------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- |
+| 1   | O artefato possui uma introdução clara que descreve o propósito do documento?                       | SIM       | [Documentação de Projetos Eficazes](https://www.lucidchart.com/blog/pt/documentacao-de-projetos-eficaz) |
+| 2   | O cronograma abrange todas as fases do projeto, desde o início até a conclusão?                     | SIM       | [Guia para Elaboração de Cronogramas](https://www.sitesdaabnt.org.br/como-criar-cronograma/)            |
+| 3   | As atividades estão descritas de forma clara e objetiva?                                            | SIM       | [Clareza e Objetividade na Documentação](https://www.normasbrasil.com.br/clara-e-objetiva/)             |
+| 4   | Os prazos estabelecidos são realistas e alinhados com os recursos disponíveis?                      | SIM       | [Definição de Prazos Realistas](https://www.lucidchart.com/blog/pt/cronograma-realista)                 |
+| 5   | As dependências entre as atividades estão claramente identificadas?                                 | SIM       | [Identificação de Dependências em Projetos](https://projectmanagement.com.br/dependencias-em-projetos/) |
+| 6   | Há identificação dos responsáveis por cada atividade?                                               | SIM       | [Documentação de Responsabilidades](https://rockcontent.com/br/blog/atribuir-responsabilidades/)        |
+| 7   | O cronograma permite monitoramento e controle eficaz do progresso do projeto?                       | SIM       | [Controle de Progresso em Projetos](https://www.abnt.org.br/controle-do-projeto/)                       |
+| 8   | O artefato possui uma bibliografia ou referências bibliográficas?                                   | SIM       | [Normas para Referências Bibliográficas](https://www.abnt.org.br/documentacao/)                         |
+| 9   | O artefato possui um histórico de versões com ID, descrição das versões, data, autores e revisores? | SIM       | [Gerenciamento de Versões de Documentos](https://rockcontent.com/br/blog/controle-de-versao/)           |
+| 10  | Todas as tabelas e imagens são referenciadas no texto, possuem legendas e fontes?                   | SIM       | [Normas de Formatação para Imagens e Tabelas](https://www.normasbrasil.com.br/abnt/)                    |
+| 11  | O texto está conforme as normas padrão de escrita?                                                  | SIM       | [Normas de Especificação Técnica](https://www.normasbrasil.com.br/normas-de-escrita/)                   |
+
+<p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/wC4EQEy_fhc">Link</a></p>
 
 ## Disponibilidade
 A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Renata](https://github.com/Renatinha28).A verificação dos itens desta tabela foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
-    Tabela 6: Checklist das disponibilidades
-| ID | Descrição | Avaliação | Referência |
-| :----: | :------------: | :----------: | :-----------: |
-| 21 | Possui o histórico de versão padronizado ? |SIM| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 22 | Possui o(s) autor(es) e o(s) revisor(es) ? |SIM| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 23 | Possui referência e/ou bibliografia ? |Não se aplica| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 24 | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |SIM| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-| 25 | Possui uma introdução ? |SIM| [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+    Tabela 4: Checklist das disponibilidades
+|  ID   |                                  Descrição                                   |   Avaliação   |                                                                   Referência                                                                   |
+| :---: | :--------------------------------------------------------------------------: | :-----------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  21   |                  Possui o histórico de versão padronizado ?                  |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  22   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  23   |                    Possui referência e/ou bibliografia ?                     | Não se aplica | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  24   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  25   |                           Possui uma introdução ?                            |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM">Link</a></p> 
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM"></a>Link</p>
 
-### Conclusão Disponibilidade
+## App Escolhido
+A tabela 5 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
 
-Fica evidente neste caso que o padrão da criação do heatmap foi bem executado conforme os padrões e as necessidades específicas do projeto e de seus integrantes.
+    Tabela 5: Checklist das disponibilidades
+|  ID   |                                                      Descrição                                                      | Avaliação |                                                                   Referência                                                                   |
+| :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  46   |                                               Possui uma introdução ?                                               |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  47   |                            Possui a motivação e os critérios de escolha do aplicativo ?                             |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  48   |                 Possui cópia do termo de serviço do aplicativo permitindo o estudo na disciplina ?                  |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  49   |          A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos)           |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png)                       |
+|  50   |         As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses?          |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png)                       |
+|  51   |                            Os armazenamentos de dados são representados por retângulos?                             |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png)                       |
+|  52   |                   As setas estão fazendo a devida função de mostrar a direção do fluxo de dados?                    |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png)                       |
+|  53   |       O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis?       |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png)                       |
+|  54   |                       A rich picture tem uma conceitualização clara de uma solução de design?                       |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png)                              |
+|  55   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)                              |
+|  56   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)                              |
+
+<p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/3GW-YkQgrU0">Link</a></p>
 
 ## Ferramentas
-A tabela 7 representa a revisão do artefato Ferramentas, a verificação foi realizada pela [Renata](https://github.com/Renatinha28) e com o auxílio da integrante [Eduarda](https://github.com/erteduarda). 
+A tabela 6 mostra a checklist das ferramentas utilizadas/a serem utilizadas no projeto.
 
-    Tabela 7: Checklist das ferramentas
+    Tabela 6: Checklist das ferramentas
 
 |  ID   |                                   Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :---------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  41   |                            Possui uma introdução ?                            |     SIM   | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  42   |           Possui tabela com as ferramentas utilizadas no projeto ?            |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  43   | As ferramentas presentes na tabela possuem sua finalidade de uso no projeto ? |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  44   |                  Possui o histórico de versão padronizado ?                   |     SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  45   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                   |     SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  41   |                            Possui uma introdução ?                            |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  42   |           Possui tabela com as ferramentas utilizadas no projeto ?            |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  43   | As ferramentas presentes na tabela possuem sua finalidade de uso no projeto ? |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  44   |                  Possui o histórico de versão padronizado ?                   |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  45   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                   |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-### Conclusão Ferramentas
+<p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/0KakGA72RMU">Link</a></p>
 
-Como visto pela tabela 7, o artefato "Ferramentas" atendeu todas as espectativas e, portanto, não precisa ser corrigido.
+## ATAs
+A tabela 7 mostra o checklist das ATAS e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+
+    Tabela 7: Checklist das ATAs
+|  ID   |                                                  Descrição                                                  |   Avaliação   |                                                                   Referência                                                                   |
+| :---: | :---------------------------------------------------------------------------------------------------------: | :-----------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  08   |                                 Possui o histórico de versão padronizado ?                                  |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  09   |                                 Possui o(s) autor(es) e o(s) revisor(es) ?                                  |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  10   |                                    Possui referência e/ou bibliografia ?                                    | Não se aplica | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  11   |                As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos?                 |      NÃO      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  12   |                                           Possui uma introdução ?                                           |      NÃO      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  13   | As ATAs possuem data, horário de inicío e fim, participantes, objetivo, atividades definidas, entre outros? |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  14   |                                O artefato possui as gravações das reuniões?                                 |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/VYSEz68pLCg">Link</a></p>
 
 ## :round_pushpin: Histórico de Versão 
+
+https://youtu.be/wC4EQEy_fhc
 
 <div align="center">
     <table>
@@ -125,7 +183,8 @@ Como visto pela tabela 7, o artefato "Ferramentas" atendeu todas as espectativas
             <td>1.2</td>
             <td>Add revisão Ferramentas </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

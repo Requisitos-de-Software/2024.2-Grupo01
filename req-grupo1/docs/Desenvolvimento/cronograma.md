@@ -142,16 +142,16 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
             <td>1.0</td>
             <td>Criação do cronograma planejado (Renata Quadros: etapa 1 até 4 / João Ribeiro: 5.1 até Etapa Final)</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a> <a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>03/11</td>
             <td>1.1</td>
             <td>Atualização do cronograma</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
-            <td></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>

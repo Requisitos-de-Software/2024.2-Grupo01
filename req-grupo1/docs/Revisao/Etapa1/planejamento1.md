@@ -22,14 +22,14 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
     Tabela 1: Organização da revisão
 |    Artefato     | Versão | Integrante responsável pelo checklist |   Integrante responsável pela revisão    |
 | :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
-|      Home       |  1.0   |                Renata                 |                   Davi                     |
-|      ATAs       |  1.0   |                Renata                 |                     Eduarda                     |
+|      Home       |  1.0   |                Renata                 |                   Davi                   |
+|      ATAs       |  1.0   |                Renata                 |                 Eduarda                  |
 |  Apresentação   |  1.0   |                Renata                 |                    -                     |
-|   Cronograma    |  1.1   |          Eduarda                  |                    -                     |
-| Disponibilidade |  1.0   |                Renata                 |                    Davi                     |
-|   Ferramentas   |  1.0   |             João Ribeiro              |                    Renata                     |
+|   Cronograma    |  1.1   |                Eduarda                |                    -                     |
+| Disponibilidade |  1.0   |                Renata                 |                   Davi                   |
+|   Ferramentas   |  1.0   |             João Ribeiro              |                  Renata                  |
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
-|  App escolhido  |  1.0   |             João Ribeiro              |                    Renata                    |
+|  App escolhido  |  1.0   |             João Ribeiro              |                  Renata                  |
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -86,17 +86,17 @@ A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela in
      Tabela 5: Checklist do cronograma
 | ID  | Descrição da Pergunta                                                                               | Avaliação | Referência                                                                                              |
 | --- | --------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- |
-| 1   | O artefato possui uma introdução clara que descreve o propósito do documento?                       |           | [Documentação de Projetos Eficazes](https://www.lucidchart.com/blog/pt/documentacao-de-projetos-eficaz) |
-| 2   | O cronograma abrange todas as fases do projeto, desde o início até a conclusão?                     |           | [Guia para Elaboração de Cronogramas](https://www.sitesdaabnt.org.br/como-criar-cronograma/)            |
-| 3   | As atividades estão descritas de forma clara e objetiva?                                            |           | [Clareza e Objetividade na Documentação](https://www.normasbrasil.com.br/clara-e-objetiva/)             |
-| 4   | Os prazos estabelecidos são realistas e alinhados com os recursos disponíveis?                      |           | [Definição de Prazos Realistas](https://www.lucidchart.com/blog/pt/cronograma-realista)                 |
-| 5   | As dependências entre as atividades estão claramente identificadas?                                 |           | [Identificação de Dependências em Projetos](https://projectmanagement.com.br/dependencias-em-projetos/) |
-| 6   | Há identificação dos responsáveis por cada atividade?                                               |           | [Documentação de Responsabilidades](https://rockcontent.com/br/blog/atribuir-responsabilidades/)        |
-| 7   | O cronograma permite monitoramento e controle eficaz do progresso do projeto?                       |           | [Controle de Progresso em Projetos](https://www.abnt.org.br/controle-do-projeto/)                       |
-| 8   | O artefato possui uma bibliografia ou referências bibliográficas?                                   |           | [Normas para Referências Bibliográficas](https://www.abnt.org.br/documentacao/)                         |
-| 9   | O artefato possui um histórico de versões com ID, descrição das versões, data, autores e revisores? |           | [Gerenciamento de Versões de Documentos](https://rockcontent.com/br/blog/controle-de-versao/)           |
-| 10  | Todas as tabelas e imagens são referenciadas no texto, possuem legendas e fontes?                   |           | [Normas de Formatação para Imagens e Tabelas](https://www.normasbrasil.com.br/abnt/)                    |
-| 11  | O texto está conforme as normas padrão de escrita?                                                  |           | [Normas de Especificação Técnica](https://www.normasbrasil.com.br/normas-de-escrita/)                   |
+| 1   | O artefato possui uma introdução clara que descreve o propósito do documento?                       | -         | [Documentação de Projetos Eficazes](https://www.lucidchart.com/blog/pt/documentacao-de-projetos-eficaz) |
+| 2   | O cronograma abrange todas as fases do projeto, desde o início até a conclusão?                     | -         | [Guia para Elaboração de Cronogramas](https://www.sitesdaabnt.org.br/como-criar-cronograma/)            |
+| 3   | As atividades estão descritas de forma clara e objetiva?                                            | -         | [Clareza e Objetividade na Documentação](https://www.normasbrasil.com.br/clara-e-objetiva/)             |
+| 4   | Os prazos estabelecidos são realistas e alinhados com os recursos disponíveis?                      | -         | [Definição de Prazos Realistas](https://www.lucidchart.com/blog/pt/cronograma-realista)                 |
+| 5   | As dependências entre as atividades estão claramente identificadas?                                 | -         | [Identificação de Dependências em Projetos](https://projectmanagement.com.br/dependencias-em-projetos/) |
+| 6   | Há identificação dos responsáveis por cada atividade?                                               | -         | [Documentação de Responsabilidades](https://rockcontent.com/br/blog/atribuir-responsabilidades/)        |
+| 7   | O cronograma permite monitoramento e controle eficaz do progresso do projeto?                       | -         | [Controle de Progresso em Projetos](https://www.abnt.org.br/controle-do-projeto/)                       |
+| 8   | O artefato possui uma bibliografia ou referências bibliográficas?                                   | -         | [Normas para Referências Bibliográficas](https://www.abnt.org.br/documentacao/)                         |
+| 9   | O artefato possui um histórico de versões com ID, descrição das versões, data, autores e revisores? | -         | [Gerenciamento de Versões de Documentos](https://rockcontent.com/br/blog/controle-de-versao/)           |
+| 10  | Todas as tabelas e imagens são referenciadas no texto, possuem legendas e fontes?                   | -         | [Normas de Formatação para Imagens e Tabelas](https://www.normasbrasil.com.br/abnt/)                    |
+| 11  | O texto está conforme as normas padrão de escrita?                                                  | -         | [Normas de Especificação Técnica](https://www.normasbrasil.com.br/normas-de-escrita/)                   |
 
 <p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
@@ -228,8 +228,8 @@ A tabela 9 mostra a checklist do documento do app escolhido para o projeto e seu
             <td>1.3</td>
             <td>Add checklists do cronograma </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td></td>
-            <td><a</a></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
