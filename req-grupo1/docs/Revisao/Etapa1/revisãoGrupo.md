@@ -24,14 +24,12 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 | :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
 |      Home       |  1.0   |                Renata                 |                   Davi                     |
 |      ATAs       |  1.0   |                Renata                 |                     Eduarda                     |
-|  Apresentação   |  1.0   |                Renata                 |                    -                     |
+|  Apresentação   |  1.0   |                Renata                 |                    João Ribeiro                     |
 |   Cronograma    |  1.1   |          Eduarda                  |                    -                     |
 | Disponibilidade |  1.0   |                Renata                 |                    Davi                     |
 |   Ferramentas   |  1.0   |             João Ribeiro              |                    Renata                     |
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
 |  App escolhido  |  1.0   |             João Ribeiro              |                    Renata                    |
-
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -54,6 +52,25 @@ A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata]
 ### Conclusão Home.
 
 Baseado nas perguntas e tendo em vista que somente uma não se aplicou totalmente a situação conforme nosso registro. Consideramos os padrões alcançados nesta verificação.
+
+## Apresentação
+A tabela 4 mostra o checklist da apresentação após avaliação feita pelo integrante [João Ribeiro](https://github.com/Joa0V) da documentação da apresentação 1.
+
+    Tabela 4: Checklist das apresentações
+|  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
+| :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|  15   |                  Possui o histórico de versão padronizado ?                  |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  16   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  17   |                    Possui referência e/ou bibliografia ?                     |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  18   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  19   |                           Possui uma introdução ?                            |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  20   |   As apresentações possuem vídeos na categoria "não listado" no youtube ?    |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+
+<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+
+### Conclusão Apresentação.
+
+Os padrões estabelecidos pela lista de verificação da aprensentação foram atendidos conforme tabela acima.
 
 ## Cronograma
 
@@ -125,7 +142,16 @@ Como visto pela tabela 7, o artefato "Ferramentas" atendeu todas as espectativas
             <td>1.2</td>
             <td>Add revisão Ferramentas </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
+            <td>06/11</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+                <tr>
+            <td>06/11</td>
+            <td>1.3</td>
+            <td>Add revisão Apresentação </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td>06/11</td>
+        <td><a href="https://github.com/ccarlaa">Carla</a></td>
         </tr>
     </table>
 </div>
