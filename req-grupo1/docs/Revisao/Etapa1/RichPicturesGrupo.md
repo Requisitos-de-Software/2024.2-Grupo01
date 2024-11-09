@@ -89,6 +89,14 @@ A tabela 9 mostra a verificação do App escolhido, foi realizada pela [Renata](
 
 Como podemos ver na tabela 9 o Bluesky foi realizado atendendo todos os critérios estabelecidos. Com o rich picture realizado foi possível ter uma melhor clareza do aplicativo e insentivando sua escolha para o projeto.
 
+## Referências Bibliográficas/Bibliográfia
+
+> David Benyon, 2011, 2ª ed, Interação Humano-Computador
+ 
+> Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”
+
+> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+
 ## :round_pushpin: Histórico de Versão 
 
 <div align="center">
@@ -131,7 +139,7 @@ Como podemos ver na tabela 9 o Bluesky foi realizado atendendo todos os critéri
             <td>Add revisão Github Mobile </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>06/11</td>
-            <td><a href=""></a></td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

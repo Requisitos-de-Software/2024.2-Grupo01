@@ -24,8 +24,8 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 | :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
 |      Home       |  1.0   |                Renata                 |                   Davi                   |
 |      ATAs       |  1.0   |                Renata                 |                 Eduarda                  |
-|  Apresentação   |  1.0   |                Renata                 |                    -                     |
-|   Cronograma    |  1.1   |                Eduarda                |                    -                     |
+|  Apresentação   |  1.0   |                Renata                 |                    João                     |
+|   Cronograma    |  1.1   |                Eduarda                |                    Carla                     |
 | Disponibilidade |  1.0   |                Renata                 |                   Davi                   |
 |   Ferramentas   |  1.0   |             João Ribeiro              |                  Renata                  |
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
@@ -165,9 +165,9 @@ A tabela 9 mostra o checklist dos rich pictures e foi construído pelos integran
 <p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## App escolhido
-A tabela 9 mostra a checklist do documento do app escolhido para o projeto e seu rich picture.
+A tabela 10 mostra a checklist do documento do app escolhido para o projeto e seu rich picture.
 
-    Tabela 9: Checklist do app escolhido
+    Tabela 10: Checklist do app escolhido
 
 |  ID   |                                                      Descrição                                                      | Avaliação |                                                                   Referência                                                                   |
 | :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -185,8 +185,14 @@ A tabela 9 mostra a checklist do documento do app escolhido para o projeto e seu
 
 <p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
-## Referências Bibliográficas
+## Referências Bibliográficas/Bibliográfia
 
+> David Benyon, 2011, 2ª ed, Interação Humano-Computador
+ 
+> Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”
+
+> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+ 
 ## :round_pushpin: Histórico de Versão 
 
 <div align="center">

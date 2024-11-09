@@ -28,7 +28,7 @@ Baseado nos critérios supracitados, o aplicativo BlueSky foi escolhido pelos se
 
 ### Rich Picture
 
-O rich picture a seguir ilustra os processos e interações do sistema da Bluesky
+O rich picture mostrado na figura 1 ilustra os processos e interações do sistema da Bluesky
 
 <figure>
     <img src="../../assets/images/rp-bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">

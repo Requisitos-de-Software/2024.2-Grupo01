@@ -10,6 +10,7 @@ A metodologia para o mapeamento de disponibilidade dos membros foi estruturada e
 Após a coleta, os dados foram organizados em uma planilha compartilhada, permitindo uma visão integrada das preferências de cada membro. Nesta planilha, as disponibilidades foram agrupadas e categorizadas por dia da semana, facilitando a visualização de dias e horários com maior compatibilidade entre os integrantes.
 
 ## Resultados
+A tabela 1 apresenta as disponibilidades dos integrantes.
 
 ![alt text](image.png)
 
