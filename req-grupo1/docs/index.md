@@ -7,6 +7,11 @@
 ## :round_pushpin: Sobre o projeto:
 
 Esta página reúne os artefatos produzidos ao longo da disciplina de Requisitos de Software na Universidade de Brasília (UnB) durante o segundo semestre de 2024.2. O projeto do grupo teve como foco principal a análise dos requisitos funcionais e não funcionais do aplicativo Bluesky, disponível para dispositivos mobile.
+
+<figure>
+    <img src="./assets/images/bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
+</figure>
+
 <!-- 
 ## :round_pushpin: Nome do app
 Link do site: <a href="" target="_blank"></a> -->

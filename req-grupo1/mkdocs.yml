@@ -81,9 +81,13 @@ nav:
     - Ferramentas: Desenvolvimento/ferramentas.md
     - Apps Avaliados: Desenvolvimento/apps_avaliados.md
     - App Escolhido: Desenvolvimento/app_escolhido.md
+
   - Inspeção: 
     - Etapa 1:
       - Planejamento Etapa 1: Revisao/Etapa1/planejamento1.md
       - Inspeção etapa 1: Revisao/Etapa1/revisãoGrupo.md
       - Rich Pictures do grupo: Revisao/Etapa1/RichPicturesGrupo.md
       - Inspesão grupo 02: Revisao/Etapa1/Inspesao02.md
+
+  - Elicitação: 
+    - Questionário Perfil do Usuário: PerfilUsuario/PerfilUser.md
