@@ -1,6 +1,8 @@
 ## Introdução 
 Para a produção de um levantamento de projeto consistente em requisitos é necessário entendermos seu público alvo. O bluesky como uma rede social descentralizada que busca ser uma alternativa livre a uma grande corporação como o X (Twitter) tem um público alvo bem definido a qual almejamos alcançar e compreender com um Perfil de Usuário. 
 
+## Objetivo
+O objetivo deste documento é armazenar o questionário feito a fim da construção do perfil de usuário.
 
 ## Metodologia: 
 
@@ -8,47 +10,38 @@ Nossa metodologia vai ser a obtenção desses dados através de um sistema de qu
 
 # Perguntas para Determinação do Perfil de Usuário na Bluesky
 
-| Tema                         | Pergunta                                                                                                                             |
-|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **Dados Demográficos**       | Qual sua idade?                                                                                                                     |
-|                              | Qual sua ocupação ou área de atuação?                                                                                                |
-|                              | Com que frequência você usa redes sociais?                                                                                           |
-| **Experiência com Tecnologia** | Qual é seu nível de conforto ao utilizar tecnologias digitais?                                                                       |
-|                              | Em uma escala de 1 a 5, o quanto você considera importante estar atualizado em relação a novas tecnologias?                          |
-|                              | Você costuma explorar todas as funcionalidades das redes sociais que usa, ou prefere um uso mais básico?                            |
-| **Objetivos e Motivação**    | Por que você utiliza redes sociais? (ex.: comunicação, entretenimento, trabalho, atualização de notícias)                           |
-|                              | O que você mais valoriza em uma rede social? (ex.: privacidade, liberdade de expressão, conteúdo interessante, conexão com amigos)   |
-|                              | Quais são suas principais expectativas ao participar de uma nova rede social?                                                       |
-| **Comportamento de Uso**     | Com que frequência você compartilha conteúdo em redes sociais?                                                                      |
-|                              | Em que situações você considera um conteúdo importante o suficiente para compartilhar com seus seguidores?                          |
-|                              | Você prefere consumir conteúdo criado por amigos, empresas ou por perfis de entretenimento e notícias?                              |
-| **Preferências de Interação** | Qual o tipo de conteúdo você mais gosta de ver? (ex.: texto, vídeo, imagens)                                                        |
-|                               |Você possui rejeição ou aprovação a conteúdo gerado por IA?    | 
-|                              | Como você prefere interagir em redes sociais: comentando, curtindo ou compartilhando?                                               |
-|                              | Você valoriza uma experiência de rede social mais personalizada ou prefere interações mais amplas e abertas?                        |
-| **Expectativas sobre Privacidade e Segurança** | Como você enxerga a questão da privacidade em redes sociais?                                                      |
-|                              | Em uma escala de 1 a 5, qual a sua preocupação com a segurança de dados nas redes sociais?                                          |
-|                              | Quais são suas expectativas em relação ao controle do que é compartilhado sobre você?                                               |
-| **Objetivos Pessoais e Sociais** | Você utiliza redes sociais para fortalecer conexões pessoais ou para expandir sua rede profissional?                             |
-|                              | Que tipo de feedback você espera receber nas suas postagens? (ex.: comentários, curtidas, novas conexões)                           |
-|                              | Como você acredita que a Bluesky pode ajudar a alcançar seus objetivos pessoais e sociais?                                          |
+| Tema                                     | ID | Pergunta                                                                                                                         | Referência |
+|------------------------------------------|----|-----------------------------------------------------------------------------------------------------------------------------------|------------|
+| *Dados Demográficos*                   | 01 | Qual o seu nome?                                                                                                                 | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 02 | Qual sua idade?                                                                                                                  | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 03 | Qual sua ocupação ou área de atuação?                                                                                            |[Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+|           *Experiência com Tecnologia*                                 | 04 | Com que frequência você usa redes sociais?                                                                                       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|          | 05 | Qual é seu nível de conforto ao utilizar tecnologias digitais?                                                                   | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 06 | Em uma escala de 1 a 5, o quanto você considera importante estar atualizado em relação a novas tecnologias?                     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil2.png) |
+|                                          | 07 | Você costuma explorar todas as funcionalidades das redes sociais que usa, ou prefere um uso mais básico?                         |[Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil2.png) |
+| *Objetivos e Motivação*                | 08 | Por que você utiliza redes sociais? (ex.: comunicação, entretenimento, trabalho, atualização de notícias)                        | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 09 | O que você mais valoriza em uma rede social? (ex.: privacidade, liberdade de expressão, conteúdo interessante, conexão com amigos) | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 10 | Quais são suas principais expectativas ao participar de uma nova rede social?                                                    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+| *Comportamento de Uso*                 | 11 | Com que frequência você compartilha conteúdo em redes sociais?                                                                   | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 12 | Em que situações você considera um conteúdo importante o suficiente para compartilhar com seus seguidores?                       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 13 | Você prefere consumir conteúdo criado por amigos, empresas ou por perfis de entretenimento e notícias?                           | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+| *Preferências de Interação*            | 14 | Qual o tipo de conteúdo você mais gosta de ver? (ex.: texto, vídeo, imagens)                                                     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 15 | Você possui rejeição ou aprovação a conteúdo gerado por IA?                                                                      | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/img1.png) |
+|                                          | 16 | Como você prefere interagir em redes sociais: comentando, curtindo ou compartilhando?                                            | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+|                                          | 17 | Você valoriza uma experiência de rede social mais personalizada ou prefere interações mais amplas e abertas?                     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+| *Expectativas sobre Privacidade e Segurança* | 18 | Como você enxerga a questão da privacidade em redes sociais?                                                          | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+|                                          | 19 | Em uma escala de 1 a 5, qual a sua preocupação com a segurança de dados nas redes sociais?                                       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+|                                          | 20 | Quais são suas expectativas em relação ao controle do que é compartilhado sobre você?                                            | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+| *Objetivos Pessoais e Sociais*         | 21 | Você utiliza redes sociais para fortalecer conexões pessoais ou para expandir sua rede profissional?                             | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+|                                          | 22 | Que tipo de feedback você espera receber nas suas postagens? (ex.: comentários, curtidas, novas conexões)                         | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
+|                                          | 23 | Como você acredita que a Bluesky pode ajudar a alcançar seus objetivos pessoais e sociais?                                       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
 
+<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a> e <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
-## Referências Bibliográficas
+## Referências Bibliográficas / Bibliográfias
 
-Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.;
-Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
+> Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 Autopublicação. ISBN: 978-65-00-19677-1.
-
-Desenvolvimento feito com base nos seguintes pontos do texto disponíveis no link abaixo:
-
-<div align="center">                                                                        
-    <a href="../../assets/images/img1.png" target="_blank">Imagem 1</a>     
-    e
-    <a href="../../assets/images/img2.png" target="_blank">Imagem 2</a>
-</div>
-
-
 
 
 ## :round_pushpin: Histórico de Versão 
@@ -68,8 +61,16 @@ Desenvolvimento feito com base nos seguintes pontos do texto disponíveis no lin
             <td>1.0</td>
             <td>Criação do questionário</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a</a></td>>
+            <td>10/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>10/11</td>
+            <td>1.1</td>
+            <td>Completando questionário</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>10/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
