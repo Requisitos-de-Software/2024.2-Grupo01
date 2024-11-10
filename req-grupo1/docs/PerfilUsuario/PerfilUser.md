@@ -38,6 +38,22 @@ Nossa metodologia vai ser a obtenção desses dados através de um sistema de qu
 
 <p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a> e <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
+## Termo de Consentimento para Participação no Formulário
+
+Este formulário faz parte de um projeto acadêmico de Requisitos de Software, com o objetivo de entender melhor o comportamento e as preferências dos usuários da plataforma Bluesky. As informações coletadas nos ajudarão a criar um perfil de usuário que guie o desenvolvimento de uma experiência mais personalizada.
+
+Ao prosseguir, você concorda com os seguintes termos:
+    1.    Participação Voluntária: Sua participação é voluntária, e você pode interromper o preenchimento a qualquer momento.
+    2.    Uso dos Dados: Suas respostas serão usadas exclusivamente para fins acadêmicos, de forma anônima e agregada, para evitar sua identificação pessoal.
+    3.    Confidencialidade: Suas informações serão mantidas em sigilo, armazenadas de forma segura e acessíveis apenas à equipe do projeto.
+
+Ao continuar com o formulário, você indica que leu e concorda com os termos acima. Se não concordar, 
+interrompa o preenchimento.
+
+## Link para o formulário
+
+O link para o formulário está disponível em [link](https://forms.gle/Y3YUwNC7gEcobcwP9)
+
 ## Referências Bibliográficas / Bibliográfias
 
 > Referência: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.

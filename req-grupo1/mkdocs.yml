@@ -74,9 +74,10 @@ nav:
     - 1º reuniao: Atas/reuniao_1.md
     - 2º reuniao: Atas/reuniao_2.md
   - Apresentações: Home/apresentacoes.md
+  - Cronograma Executado: Home/cronogramaex.md
 
   - Desenvolvimento:
-    - Cronograma: Desenvolvimento/cronograma.md
+    - Cronograma Planejado: Desenvolvimento/cronograma.md
     - Disponibilidade dos Integrantes: Desenvolvimento/disponibilidade.md
     - Ferramentas: Desenvolvimento/ferramentas.md
     - Apps Avaliados: Desenvolvimento/apps_avaliados.md
