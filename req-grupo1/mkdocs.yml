@@ -46,16 +46,16 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: orange
-      accent: orange
+      primary: light blue
+      accent: light blue
       toggle:
         icon: custom-icons/contrast-light
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: orange
-      accent: orange
+      primary: light blue
+      accent: light blue
       toggle:
         icon: custom-icons/contrast-dark
         name: Modo Escuro
@@ -92,3 +92,4 @@ nav:
 
   - Elicitação: 
     - Questionário Perfil do Usuário: PerfilUsuario/PerfilUser.md
+    - Resultado Perfil do Usuário: PerfilUsuario/Resultado.md
