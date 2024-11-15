@@ -2,7 +2,7 @@
 Nesta etapa documentaremos a revisão exclusiva dos artefatos rich picture desenvolvidos pelo grupo na etapa 1. Garantindo assim seu devido registro e classificação conforme os padrões estabelecidos no nosso projeto. 
 
 ## Objetivo
-O objetivo deste artefato é responder um conjunto estruturado de perguntas (Checklists) para a revisão de cada artefato criado na etapa 1. Por meio dessas perguntas, busca-se verificar e validar se os artefatos atendem aos critérios definidos no projeto e na ementa da disciplina, garantindo a consistência e a qualidade da entrega. As perguntas servirão como guia para a revisão, permitindo identificar problemas e corrigir possíveis falhas antes das etapas seguintes do projeto para um eventual app escolhido. Cada Checklist respondida terá também um vídeo comprovando a execução de tal atividade. 
+O objetivo deste artefato é responder um conjunto estruturado de perguntas (lista de verificação) para a revisão de cada artefato criado na etapa 1. Por meio dessas perguntas, busca-se verificar e validar se os artefatos atendem aos critérios definidos no projeto e na ementa da disciplina, garantindo a consistência e a qualidade da entrega. As perguntas servirão como guia para a revisão, permitindo identificar problemas e corrigir possíveis falhas antes das etapas seguintes do projeto para um eventual app escolhido. Cada Checklist respondida terá também um vídeo comprovando a execução de tal atividade. 
 
 ## Metodologia
 Para a elaboração deste artefato de revisão, os membros do grupo seguirão uma estrutura de trabalho organizada em três papéis: o autor do artefato, o revisor responsável pela formulação das perguntas, e o verificador, que avaliará as respostas com base nas perguntas formuladas. Nenhum integrante poderá realizar as perguntas ou a verificação do próprio artefato para manter a imparcialidade do processo.
@@ -20,9 +20,9 @@ Esse processo, assim como na avaliação das revisões da etapa 1 como um todo, 
 
 ## Carteira de Trabalho Digital
 
-A tabela 1 mostra o checklist do rich picture Carteira de Trabalho Digital e foi construído pelo integrante: Eduarda. Cada membro fez ao menos uma pergunta do checklist. A realização desta verificação foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
+A tabela 1 mostra a lista de verificação do rich picture Carteira de Trabalho Digital e foi construído pelo integrante: Eduarda. Cada membro fez ao menos uma pergunta do checklist. A realização desta verificação foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
-    Tabela 1: Checklist da Rich Picture Carteira de trabalho Digital
+    Tabela 1: Rich Picture Carteira de trabalho Digital
 | ID | Descrição | Avaliação | Referência |
 | :----: | :------------: | :----------: | :-----------: |
 | 33 | A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos) | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
@@ -43,9 +43,9 @@ O rich picture avaliado atingiu praticamente todas as especificações exigidas,
 
 ## Github Mobile
 
-A tabela 2 mostra o checklist do rich picture do Github Mobile, a realização desta verificação foi feita pelo integrante [João Ribeiro](https://github.com/Joa0V). A integrante [Eduarda](https://github.com/erteduarda) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
+A tabela 2 mostra a lista de verificação do rich picture do Github Mobile, a realização desta verificação foi feita pelo integrante [João Ribeiro](https://github.com/Joa0V). A integrante [Eduarda](https://github.com/erteduarda) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
-    Tabela 2: Checklist da Rich Picture Github Mobile
+    Tabela 2: Rich Picture Github Mobile
 | ID | Descrição | Avaliação | Referência |
 | :----: | :------------: | :----------: | :-----------: |
 | 33 | A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos) | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
@@ -65,9 +65,9 @@ A tabela 2 mostra o checklist do rich picture do Github Mobile, a realização d
 O rich picture avaliado atingiu praticamente todas as especificações exigidas, apenas a escolha das formas de representação das operações e armazenamento de dados estiveram em discordância com a checklist.
 
 ## Bluesky (app escolhido)
-A tabela 9 mostra a verificação do App escolhido, foi realizada pela [Renata](https://github.com/Renatinha28) e com o auxílio da integrante [Eduarda](https://github.com/erteduarda).
+A tabela 9 mostra a lista de verificação do App escolhido, foi realizada pela [Renata](https://github.com/Renatinha28) e com o auxílio da integrante [Eduarda](https://github.com/erteduarda).
 
-    Tabela 9: Checklist do app escolhido
+    Tabela 9: app escolhido: bluesky
 
 |  ID   |                                                      Descrição                                                      | Avaliação |                                                                   Referência                                                                   |
 | :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |

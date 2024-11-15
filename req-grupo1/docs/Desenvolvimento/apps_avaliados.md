@@ -12,6 +12,16 @@ Para garantir uma avaliação justa e objetiva, adotamos uma metodologia que con
 - **Análise comparativa:** A partir das avaliações individuais, faremos uma comparação detalhada dos pontos fortes e fracos de cada app.
 - **Seleção final:** Com base na análise comparativa, escolheremos o aplicativo que mais se destaca nos critérios estabelecidos, tornando-o o candidato ideal para o estudo de requisitos.
 
+Todos os Rich Pictures foram feitos contendo os elementos principais, de acordo com "Introducing Rich Pictures - Rich Picture Drawing Guidelines", como mostra a figura 1.
+
+<div style="text-align: center;">
+    <h2>Figura 1: Elementos - Rich Picture</h2>
+</div>
+<figure>
+    <img src="../../assets/images/RP0.png"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Fonte: Introducing Rich Pictures - Rich Picture Drawing Guidelines  </figcaption>
+</figure>
+
 ## Tabela de apps avaliados
 A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho de cada descrição da avaliação neste documento, além do membro do grupo responsável pela avaliação.
 
@@ -45,7 +55,7 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
         </tr>
     </table>
 
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
+    <p>Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
 </div>
 
 ## Meu SUS Digital
@@ -58,13 +68,15 @@ O Sistema Único de Saúde (SUS) é o sistema público de saúde brasileiro, cri
 -	Contribuição prática para formação: Permite uma experiência de aprendizado alinhada com demandas reais, preparando para projetos de grande uso e importância social.
 
 ### Rich Picture - Meu SUS Digital
-Foi feito para o Meu SUS Digital uma representação, mostrado na Figura 1, em Rich Picture, que ajuda a ilustrar de forma visual e simplificada os processos e interações envolvidos. Através dessa abordagem visual, é possível visualizar melhor o funcionamento do sistema e facilitar a comunicação entre diferentes membros da equipe ou stakeholders que talvez não estejam familiarizados com os detalhes técnicos do projeto.
+Foi feito para o Meu SUS Digital uma representação, mostrado na Figura 2, em Rich Picture, que ajuda a ilustrar de forma visual e simplificada os processos e interações envolvidos. Através dessa abordagem visual, é possível visualizar melhor o funcionamento do sistema e facilitar a comunicação entre diferentes membros da equipe ou stakeholders que talvez não estejam familiarizados com os detalhes técnicos do projeto.
 
+<div style="text-align: center;">
+    <h2>Figura 2: Rich Picture: Meu SUS Digital</h2>
+</div>
 <figure>
-    <img src="../../assets/images/rp-renata.png"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Figura 1: Rich Picture Meu SUS Digital</figcaption>
+    <img src="../../assets/images/rp-renata.png" style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Autor: Renata Quadros</figcaption>
 </figure>
-
 ### Descrição dos Componentes
 
 1. Usuário:
@@ -92,11 +104,14 @@ A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às r
 
 ### Rich Picture - Bluesky
 
-O rich picture a seguir ilustra os processos e interações do sistema da Bluesky
+O rich picture da figura 3 ilustra os processos e interações do sistema da Bluesky
 
+<div style="text-align: center;">
+    <h2>Figura 3: Rich Picture: Bluesky</h2>
+</div>
 <figure>
     <img src="../../assets/images/rp-bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Figura 2: Rich Picture Bluesky</figcaption>
+    <figcaption>Autor: João Vitor</figcaption>
 </figure>
 
 #### Descrição dos componentes
@@ -126,10 +141,17 @@ A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasil
 - Popularidade crescente: Cada vez mais trabalhadores aderem à plataforma devido à praticidade e confiança, fortalecendo a comunidade de usuários e incentivando melhorias contínuas no aplicativo.
 
 ### Rich Picture - Carteira de Trabalho Digital
-Este Rich Picture representa o fluxo de informações e os principais componentes do sistema no aplicativo da
+O Rich Picture mostrado na figura 4 representa o fluxo de informações e os principais componentes do sistema no aplicativo da
 Carteira de Trabalho Digital, destacando as interações dos usuários com as funcionalidades oferecidas pelo
 app.
-<img src="../../assets/images/rp.png"  style="width: 70%; height: auto; object-fit: cover;">
+
+<div style="text-align: center;">
+    <h2>Figura 4: Rich Picture: Carteira de Trabalho Digital</h2>
+</div>
+<figure>
+    <img src="../../assets/images/rp.png"  style="width: 70%; height: auto; object-fit: cover;">
+    <figcaption>Autor: Eduarda </figcaption>
+</figure>
 
 #### Descrição dos Componentes
 1. Usuário:
@@ -155,11 +177,14 @@ Força áerea brasileira é uma organização militar brasileira que tem com o i
 - Contribuição acadêmica: Por se tratar de um software governamental aparentemente com baixa manutenção mas de uma base aceitavel de uso, se torna ideal em seu estágio atual sua pesquisa. 
 
 ### Rich Picture - Força áerea brasileira
-Este Rich Picture representa o fluxo de informações e os principais elementos do sistema na Força Aérea Brasileira. Destacando suas interações com o usuário e demais papeis que representam um todo de funcionalidades do app. 
+A figura 5 mostra o Rich Picture que representa o fluxo de informações e os principais elementos do sistema na Força Aérea Brasileira. Destacando suas interações com o usuário e demais papeis que representam um todo de funcionalidades do app. 
 
+<div style="text-align: center;">
+    <h2>Figura 5: Rich Picture: Força áerea brasileira</h2>
+</div>
 <figure>
     <img src="../../assets/images/img4.jpg"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Figura 3: Rich Picture App da FAB</figcaption>
+    <figcaption>Autor: Davi </figcaption>
 </figure>
 
 ### Descrição dos Componentes
@@ -181,15 +206,22 @@ Este Rich Picture representa o fluxo de informações e os principais elementos 
 ## Github Mobile
 
 <p>O aplicativo escolhido para a atividade de confecção de uma Rich Picture foi o GitHub Mobile. A escolha se deu pelo fato de o aplicativo ser um projeto open source, o que facilita o acesso às informações sobre sua estrutura e funcionalidades. Além disso, o grupo teria fácil acesso a diversos usuários da plataforma, tornando a coleta de dados mais viável e enriquecedora. Outro fator relevante é o grande interesse dos participantes, dado o uso frequente do GitHub em atividades acadêmicas ao longo do curso.</p> <p>Considerando um trabalho sobre requisitos de software, a análise do GitHub Mobile se torna particularmente relevante pelos seguintes pontos:</p> <ul> <li><strong>Relevância das funcionalidades:</strong> O GitHub Mobile oferece funcionalidades essenciais para o gerenciamento de projetos de desenvolvimento, como controle de versões, gerenciamento de repositórios e comunicação entre colaboradores. A análise dessas funcionalidades permite entender como o software atende às necessidades de seus usuários e como requisitos adicionais ou melhorias podem ser identificados.</li> <li><strong>Facilidade de uso e experiência do usuário (UX):</strong> O app precisa garantir uma interface intuitiva e uma navegação eficiente. A coleta de requisitos sobre a usabilidade e a experiência do usuário pode fornecer informações sobre a eficácia das funcionalidades do app e como elas podem ser aprimoradas, considerando a fluidez das interações e a facilidade de execução das tarefas.</li> <li><strong>Desempenho e confiabilidade:</strong> O GitHub Mobile deve ser capaz de realizar operações rápidas e sem falhas, especialmente considerando a base de usuários ativa. O desempenho do aplicativo é um requisito crítico que impacta diretamente a satisfação do usuário e deve ser analisado em termos de tempo de resposta e estabilidade.</li> <li><strong>Requisitos de segurança:</strong> Como o GitHub Mobile lida com repositórios de código e dados sensíveis, a segurança é um requisito fundamental. A análise de como o aplicativo gerencia a autenticação, criptografia de dados e permissões de acesso é crucial para garantir que os usuários estejam protegidos enquanto utilizam o serviço.</li> <li><strong>Compatibilidade com diferentes dispositivos:</strong> O GitHub Mobile precisa ser compatível com uma variedade de dispositivos móveis e versões de sistemas operacionais. O estudo da compatibilidade e dos requisitos para garantir uma experiência consistente em diferentes plataformas é importante para avaliar a cobertura de usuários do aplicativo e identificar possíveis falhas de implementação em dispositivos específicos.</li> </ul>
+A figura 6 e 7 representa o Rich Picture realizado.
 
+<div style="text-align: center;">
+    <h2>Figura 6: Rich Picture: Github Mobile</h2>
+</div>
 <figure>
     <img src="../../assets/images/carla_rich_picture.jpg"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Figura 3: Rich Picture Github Mobile. (Fonte: Carla A. C. Ribeiro) </figcaption>
+    <figcaption>Autor: Carla A. C. Ribeiro </figcaption>
 </figure>
 
+<div style="text-align: center;">
+    <h2>Figura 7: Legenda Github Mobile </h2>
+</div>
 <figure>
     <img src="../../assets/images/rich_description.jpg"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Figura 3: Legenda - Rich Picture Github Mobile. (Fonte: Carla A. C. Ribeiro) </figcaption>
+    <figcaption>Autor: Carla A. C. Ribeiro </figcaption>
 </figure>
 
 
@@ -205,9 +237,14 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
 
 
 ## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 <a id="c1"></a>
+
+> Monk, A., & Howells, K. (n.d.). Introducing Rich Pictures: Rich Picture Drawing Guidelines.
+
 > 1. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
+
+
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -261,6 +298,15 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
             <td>Adição do Github Mobile</td>
             <td><a href="https://github.com/Jagaima">Carla Clementino</a></td>
             <td>06/11</td>
+            <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
+            <td><a href=""></a></td>>
+        </tr>
+        <tr>
+            <td>15/11</td>
+            <td>1.5</td>
+            <td>Correções pós apresentação</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>15/11</td>
             <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
             <td><a href=""></a></td>>
         </tr>

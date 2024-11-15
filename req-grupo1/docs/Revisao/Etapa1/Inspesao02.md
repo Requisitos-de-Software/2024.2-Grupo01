@@ -5,7 +5,7 @@ A inspeção é uma técnica de revisão de qualidade que visa identificar defei
 O principal objetivo desta inspeção é identificar inconsistências, erros e possíveis melhorias nos artefatos produzidos pelo Grupo 02. Ao final do processo, espera-se que os feedbacks fornecidos pelo Grupo 01 contribuam para elevar a qualidade dos artefatos do Grupo 02, promovendo uma melhoria contínua no projeto.
 
 ## Metodologia
-Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elaborado pelo professor. Todas as perguntas foram retiradas do  [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+Para realizar a inspeção, o Grupo 01 utilizará uma lista de verificação específica elaborada pelo professor. Todas as perguntas foram retiradas do  [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
 ## Inspeção
 
@@ -30,7 +30,7 @@ Para realizar a inspeção, o Grupo 01 utilizará um checklist específico elabo
 | 17 | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | SIM |07/11 |
 | 18 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. | SIM |07/11 |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ### Conclusão
 A estrega está boa, mas foram encontrados alguns erros. Aqui vão algumas sugestões de melhoria:
@@ -67,6 +67,15 @@ A seguir se encontra o vídeo da verificação realizada pelo grupo 01, todos os
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a> </td>
             <td>07/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>15/11</td>
+            <td>1.1</td>
+            <td>Correções pós apresentação</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>15/11</td>
+            <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
+            <td><a href=""></a></td>>
         </tr>
     </table>
 </div>

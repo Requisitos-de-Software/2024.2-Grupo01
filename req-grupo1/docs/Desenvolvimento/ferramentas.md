@@ -117,11 +117,11 @@ Abaixo, listamos as ferramentas utilizadas ao longo do desenvolvimento do projet
          </tr>   
          <tr>
             <td>14/11</td>
-            <td>2.0</td>
+            <td>1.2</td>
             <td>Correções sugeridas em sala</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-             <td></td>
-             <td><a</a></td>
+            <td>15/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>     
         </table>
     </div>

@@ -2,7 +2,7 @@
 O artefato em desenvolvimento consiste em uma lista de perguntas projetadas para revisar a primeira etapa do projeto. Este documento de revisão é essencial para garantir que os artefatos entregues estejam em conformidade com os requisitos e padrões previamente estabelecidos pelo professor. Ele busca avaliar a qualidade dos artefatos e identificar melhorias necessárias, promovendo uma análise colaborativa. Esse processo envolve a participação de todos os membros do grupo, cada um assumindo uma função específica para garantir imparcialidade e objetividade na avaliação.
 
 ## Objetivo
-O objetivo deste artefato é fornecer um conjunto estruturado de perguntas (Checklists) para a revisão de cada artefato criado na etapa 1. Por meio dessas perguntas, busca-se verificar e validar se os artefatos atendem aos critérios definidos no projeto, garantindo a consistência e a qualidade da entrega. As perguntas servirão como guia para a revisão, permitindo identificar problemas e corrigir possíveis falhas antes das etapas seguintes do projeto.
+O objetivo deste artefato é fornecer um conjunto estruturado de perguntas (listas de verificações) para a revisão de cada artefato criado na etapa 1. Por meio dessas perguntas, busca-se verificar e validar se os artefatos atendem aos critérios definidos no projeto, garantindo a consistência e a qualidade da entrega. As perguntas servirão como guia para a revisão, permitindo identificar problemas e corrigir possíveis falhas antes das etapas seguintes do projeto.
 
 ## Metodologia
 Para a elaboração deste artefato de revisão, os membros do grupo seguirão uma estrutura de trabalho organizada em três papéis: o autor do artefato, o revisor responsável pela formulação das perguntas, e o verificador, que avaliará as respostas com base nas perguntas formuladas. Nenhum integrante poderá realizar as perguntas ou a verificação do próprio artefato para manter a imparcialidade do processo.
@@ -17,10 +17,10 @@ Cada pergunta será documentada em uma tabela com os seguintes campos:
 Esse processo, dependendo da disponibilidade dos membros, será realizado de forma iterativa para garantir a revisão completa de cada artefato. Assim, esse artefato cumpre tanto uma função de verificação – pois analisa a consistência e correção dos artefatos – quanto de validação, ao confirmar se os artefatos atendem aos objetivos do projeto.
 
 ## Artefados Revisados
-A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o integrante responsável pela realização do checklist e o integrante responsável pela avaliação em si.
+A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o integrante responsável pela realização da lista de verificação e o integrante responsável pela avaliação em si.
 
     Tabela 1: Organização da revisão
-|    Artefato     | Versão | Integrante responsável pelo checklist |   Integrante responsável pela revisão    |
+|    Artefato     | Versão | Integrante responsável pela lista de verificação |   Integrante responsável pela revisão    |
 | :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
 |      Home       |  1.0   |                Renata                 |                   Davi                   |
 |      ATAs       |  1.0   |                Renata                 |                 Eduarda                  |
@@ -31,12 +31,12 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
 |  App escolhido  |  1.0   |             João Ribeiro              |                  Renata                  |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Home
-A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 2 mostra a lista de verificação da página inicial e foi construído pela integrante [Renata](https://github.com/Renatinha28).
 
-    Tabela 2: Checklist da home
+    Tabela 2: página inicial
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  01   |      Apresenta os integrantes do grupo com foto e nome, sem matrícula ?      |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
@@ -47,12 +47,12 @@ A tabela 2 mostra o checklist da home e foi construído pela integrante [Renata]
 |  06   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  07   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
 ## ATAs
-A tabela 3 mostra o checklist das ATAS e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 3 mostra a lista de verificação das ATAS e foi construído pela integrante [Renata](https://github.com/Renatinha28).
 
-    Tabela 3: Checklist das ATAs
+    Tabela 3: ATAs
 |  ID   |                                                  Descrição                                                  | Avaliação |                                                                   Referência                                                                   |
 | :---: | :---------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  08   |                                 Possui o histórico de versão padronizado ?                                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
@@ -63,12 +63,12 @@ A tabela 3 mostra o checklist das ATAS e foi construído pela integrante [Renata
 |  13   | As ATAs possuem data, horário de inicío e fim, participantes, objetivo, atividades definidas, entre outros? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  14   |                                O artefato possui as gravações das reuniões?                                 |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Apresentação
-A tabela 4 mostra o checklist das apresentações e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 4 mostra a lista de verificação das apresentações e foi construído pela integrante [Renata](https://github.com/Renatinha28).
 
-    Tabela 4: Checklist das apresentações
+    Tabela 4: apresentações
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  15   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
@@ -78,12 +78,12 @@ A tabela 4 mostra o checklist das apresentações e foi construído pela integra
 |  19   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  20   |   As apresentações possuem vídeos na categoria "não listado" no youtube ?    |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata</a></p> 
 
 ## Cronograma
-A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela integrante [Renata](https://github.com/Renatinha28) e [João Vitor](https://github.com/Joa0V)
+A tabela 5 mostra a lista de verificação do cronograma do projeto e foi construído pela integrante [Renata](https://github.com/Renatinha28) e [João Vitor](https://github.com/Joa0V)
 
-     Tabela 5: Checklist do cronograma
+     Tabela 5: cronograma
 | ID  | Descrição da Pergunta                                                                               | Avaliação | Referência                                                                                              |
 | --- | --------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------- |
 | 1   | O artefato possui uma introdução clara que descreve o propósito do documento?                       | -         | [Documentação de Projetos Eficazes](https://www.lucidchart.com/blog/pt/documentacao-de-projetos-eficaz) |
@@ -98,12 +98,12 @@ A tabela 5 mostra o checklist do cronograma do projeto e foi construído pela in
 | 10  | Todas as tabelas e imagens são referenciadas no texto, possuem legendas e fontes?                   | -         | [Normas de Formatação para Imagens e Tabelas](https://www.normasbrasil.com.br/abnt/)                    |
 | 11  | O texto está conforme as normas padrão de escrita?                                                  | -         | [Normas de Especificação Técnica](https://www.normasbrasil.com.br/normas-de-escrita/)                   |
 
-<p align="center">Fonte: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center">Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Disponibilidade
-A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído pela integrante [Renata](https://github.com/Renatinha28).
+A tabela 6 mostra a lista de verificação da disponibilidade dos membros e foi construído pela integrante [Renata](https://github.com/Renatinha28).
 
-    Tabela 6: Checklist das disponibilidades
+    Tabela 6: disponibilidades
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |  21   |                  Possui o histórico de versão padronizado ?                  |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
@@ -112,12 +112,12 @@ A tabela 6 mostra o checklist da disponibilidade dos membros e foi construído p
 |  24   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  25   |                           Possui uma introdução ?                            |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Ferramentas
-A tabela 7 mostra a checklist das ferramentas utilizadas/a serem utilizadas no projeto.
+A tabela 7 mostra a lista de verificação das ferramentas utilizadas/a serem utilizadas no projeto.
 
-    Tabela 7: Checklist das ferramentas
+    Tabela 7: ferramentas
 
 |  ID   |                                   Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :---------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -127,13 +127,13 @@ A tabela 7 mostra a checklist das ferramentas utilizadas/a serem utilizadas no p
 |  44   |                  Possui o histórico de versão padronizado ?                   |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  45   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                   |     -     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## APPS Avaliados
 
-A tabela 8 mostra o checklist dos apps avaliados pelo grupo e foi construida pelo integrande [Davi](https://github.com/Jagaima).
+A tabela 8 mostra a lista de verificação dos apps avaliados pelo grupo e foi construida pelo integrande [Davi](https://github.com/Jagaima).
 
-    Tabela 8: Checklist dos apps avaliados
+    Tabela 8: apps avaliados
 | ID  | Descrição                                                                                   | Avaliação | Referência                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 26  | O app possui rich picture?                                                                  | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
@@ -144,13 +144,13 @@ A tabela 8 mostra o checklist dos apps avaliados pelo grupo e foi construida pel
 | 31  | O App é do governo ou de uma comunidade de software livre?                                  | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 | 32  | O app tem um público alvo acessivel as entrevistas e pesquisas??                            | -         | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Fonte: <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+<p align="center">Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 
 ## Rich Picture
-A tabela 9 mostra o checklist dos rich pictures e foi construído pelos integrantes: Carla, Davi, Eduarda, João Vitor e [Renata](https://github.com/Renatinha28). Cada membro fez ao menos uma pergunta do checklist.
+A tabela 9 mostra a lista de verificação dos rich pictures e foi construído pelos integrantes: Carla, Davi, Eduarda, João Vitor e [Renata](https://github.com/Renatinha28). Cada membro fez ao menos uma pergunta do checklist.
 
-    Tabela 9: Checklist da Rich Picture
+    Tabela 9: Rich Picture
 |  ID   |                                                      Descrição                                                      | Avaliação |                                             Referência                                             |
 | :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------------------------------------------------------------: |
 |  33   |          A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos)           |     -     | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
@@ -162,12 +162,12 @@ A tabela 9 mostra o checklist dos rich pictures e foi construído pelos integran
 |  39   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |     -     |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)        |
 |  40   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |     -     |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)        |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## App escolhido
-A tabela 10 mostra a checklist do documento do app escolhido para o projeto e seu rich picture.
+A tabela 10 mostra a lista de verificação do documento do app escolhido para o projeto e seu rich picture.
 
-    Tabela 10: Checklist do app escolhido
+    Tabela 10: app escolhido
 
 |  ID   |                                                      Descrição                                                      | Avaliação |                                                                   Referência                                                                   |
 | :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -183,7 +183,7 @@ A tabela 10 mostra a checklist do documento do app escolhido para o projeto e se
 |  54   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |     -     |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)                              |
 |  55   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |     -     |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)                              |
 
-<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Referências Bibliográficas/Bibliográfia
 
@@ -192,7 +192,7 @@ A tabela 10 mostra a checklist do documento do app escolhido para o projeto e se
 > Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”
 
 > [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
- 
+
 ## :round_pushpin: Histórico de Versão 
 
 <div align="center">
@@ -236,6 +236,15 @@ A tabela 10 mostra a checklist do documento do app escolhido para o projeto e se
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>06/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>15/11</td>
+            <td>1.4</td>
+            <td>Correções pós apresentação</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>15/11</td>
+            <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
+            <td><a href=""></a></td>>
         </tr>
     </table>
 </div>

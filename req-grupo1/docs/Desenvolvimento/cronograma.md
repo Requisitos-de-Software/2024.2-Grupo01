@@ -1,5 +1,5 @@
 ## Introdução
-O presente documento apresenta o cronograma planejado para a execução do projeto, detalhando as atividades de cada etapa, seus responsáveis e os períodos de desenvolvimento e revisão. Esse planejamento busca fornecer uma visão clara e organizada das tarefas, de modo a otimizar o tempo, garantir a eficiência no processo e facilitar o acompanhamento do progresso por todos os envolvidos.
+O presente documento apresenta o cronograma planejado para a execução do projeto, detalhando as atividades de cada etapa, seus responsáveis e os períodos de desenvolvimento e revisão. Esse planejamento busca fornecer uma visão clara e organizada das tarefas, de modo a otimizar o tempo, garantir a eficiência no processo e facilitar o acompanhamento do progresso por todos os envolvidos. O Cronograma foi realizado com base em projetos anteriores como descrito na bibliográfia.
 
 ## Objetivo
 O objetivo deste documento é fornecer um guia estruturado para o desenvolvimento do projeto, especificando as atividades e designando responsáveis para cada tarefa. Com a divisão das etapas e a definição dos prazos, espera-se garantir o cumprimento dos requisitos do projeto, bem como facilitar a comunicação e o alinhamento entre os membros da equipe, assegurando que cada um compreenda suas responsabilidades e contribua para o sucesso do projeto. Vale ressaltar que, este é um planejamento de cronograma, podendo, assim, sofrer ajustes sempre que necessário.
@@ -18,7 +18,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Ferramentas selecionadas            | Início: 25/10 - Fim: 27/10      | Davi                              | Início: 27/10 - Fim: 04/11       | Eduarda                                    |
 | Cronograma planejado                | Início: 25/10 - Fim: 03/11      | João Vitor e Renata               | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi   |
 | Rich picture                        | Início: 25/10 - Fim: 03/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 04/11       | Carla, Eduarda, Davi, João Vitor, Renata   |  
-| Revisão |  Início: 05/11 - Fim: 06/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 05/11 - Fim: 06/11|  Carla, Eduarda, Davi, João Vitor, Renata | 
+| Inspeção |  Início: 05/11 - Fim: 06/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 05/11 - Fim: 06/11|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega  | Início: 05/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | Carla                                      |
 | Atualização do cronograma executado | Início: 06/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | João Vitor                                 |
 | Correção pós apresentação           | Início: 07/11 - Fim: 09/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 09/11 - Fim: 10/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
@@ -41,7 +41,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Priorização dos requisitos: $100 | Início: 17 /11 - Fim: 20/11 | Eduarda | Início: 20/11 - Fim: 22/11 | Carla |
 | Priorização dos requisitos: First Things First | Início: 17 /11 - Fim: 20/11 | Davi | Início: 20/11 - Fim: 22/11 | Eduarda |
 | Priorização dos requisitos: In our Out | Início: 17 /11 - Fim: 20/11 | João Vitor | Início: 20/11 - Fim: 22/11 | Davi |
-| Revisão |  Início: 20/11 - Fim: 22/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 22/11 - Fim: 22/11|  Carla, Eduarda, Davi, João Vitor, Renata | 
+| Inspeção |  Início: 20/11 - Fim: 22/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 22/11 - Fim: 22/11|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega | Início: 23/11 - Fim: 23/11  | Carla e Renata | Início: 23/11 - Fim: 23/11 | João Vitor | 
 | Atualização do cronograma executado | Início: 23/11 - Fim: 23/11 | Renata | Início: 23/11 - Fim: 23/11 | Davi | 
 | Correção pós apresentação | Início: 26/11 - Fim: 30/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 30/11 - Fim: 31/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
@@ -56,7 +56,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Léxico | Início: 28/11 - Fim: 01/12 | Davi e João Vitor | Início: 01/12 - Fim: 02/12 | Carla e Eduarda |
 | Use Case | Início: 30/11 - Fim: 03/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/12 - Fim: 04/12 | Carla, Eduarda, Davi, João Vitor, Renata |
 | Especificação Suplementar | Início: 30/11 - Fim: 04/12 | Eduarda e Carla | Início: 04/12 - Fim: 05/12 | Renata e Carla |
-| Revisão |  Início: 05/12 - Fim: 06/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 06/12 - Fim: 06/12|  Carla, Eduarda, Davi, João Vitor, Renata | 
+| Inspeção |  Início: 05/12 - Fim: 06/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 06/12 - Fim: 06/12|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega | Início: 07/12 - Fim: 07/11  | Carla e Renata | Início: 07/12- Fim: 07/12 | João Vitor | 
 | Atualização do cronograma executado | Início: 07/12 - Fim: 07/12 | Renata | Início: 07/12 - Fim: 07/12 | Davi | 
 | Correção pós apresentação | Início: 10/12 - Fim: 15/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 15/12 - Fim: 15/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
@@ -70,7 +70,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 |História de usuário| Início: 09/12 - Fim: 13/12 |Carla e Davi| Início: 13/12 - Fim: 13/12 | Renata e Eduarda |
 |Backlogs|Início: 09/12 - Fim: 13/12 | Eduarda | Início: 13/12 - Fim: 13/12 | Carla e Renata |
 |NFR Framework|Início: 09/12 - Fim: 13/12 | Renata e João Vitor| Início: 13/12 - Fim: 13/12 | Davi e Carla |
-| Revisão |  Início: 13/12 - Fim: 14/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 14/12 - Fim: 14/12|  Carla, Eduarda, Davi, João Vitor, Renata | 
+| Inspeção |  Início: 13/12 - Fim: 14/12 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 14/12 - Fim: 14/12|  Carla, Eduarda, Davi, João Vitor, Renata | 
 | Gravação da apresentação e entrega | Início: 14/12 - Fim: 14/11  | Carla e Renata | Início: 14/12- Fim: 14/12 | João Vitor | 
 | Atualização do cronograma executado | Início: 14/12 - Fim: 14/12 | Renata | Início: 14/12 - Fim: 14/12 | Davi | 
 | Correção pós apresentação | Início: 17/12 - Fim: 20/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 20/12 - Fim: 20/12 | Carla, Eduarda, Davi, João Vitor, Renata | 
@@ -123,7 +123,11 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 <p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+
+> 2023.2 Economia DF. Econimia DF, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/. Acesso em: 15, nov. 2024.
+
+> Bilheteria Digital. Bilheteria Digital, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 15, nov. 2024.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -158,6 +162,17 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
             <td>2.0</td>
             <td>Correções sugeridas em sala</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>15/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>15/11</td>
+            <td>1.5</td>
+            <td>Correções pós apresentação</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>15/11</td>
+            <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
+            <td><a href=""></a></td>>
         </tr>
     </table>
 </div>

@@ -10,11 +10,13 @@ A metodologia para o mapeamento de disponibilidade dos membros foi estruturada e
 Após a coleta, os dados foram organizados em uma planilha compartilhada, permitindo uma visão integrada das preferências de cada membro. Nesta planilha, as disponibilidades foram agrupadas e categorizadas por dia da semana, facilitando a visualização de dias e horários com maior compatibilidade entre os integrantes.
 
 ## Resultados
-A tabela 1 apresenta as disponibilidades dos integrantes.
+A figura 1 apresenta as disponibilidades dos integrantes.
 
+<div style="text-align: center;">
+    <h2>Figura 1: disponibilidades</h2>
+</div>
 ![alt text](image.png)
-
-<p>Tabela 1: Disponibilidade dos integrantes do Grupo 1 (Fonte: autores, 2024)</p>
+<figcaption>Autor: Carla </figcaption>
 
 ## Conclusão
 
@@ -40,6 +42,15 @@ Após a análise dos resultados coletados, foi decidido que as reuniões ocorrer
             <td><a href="https://github.com/ccarlaa">Carla Clementinol</a></td>
             <td>03/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>15/11</td>
+            <td>1.1</td>
+            <td>Correções pós apresentação</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>15/11</td>
+            <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
+            <td><a href=""></a></td>>
         </tr>
     </table>
 </div>
