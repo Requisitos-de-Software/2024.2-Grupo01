@@ -27,7 +27,7 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 | Atualização do cronograma executado | Início: 06/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | João Vitor                                 |
 | Correção pós apresentação           | Início: 12/11 - Fim: 14/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 14/11 - Fim: 14/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Referência Bibliográfica / Bibliografia
 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
@@ -49,6 +49,16 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
             <td>1.0</td>
             <td>Criação do documento e add etapa 1</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a> </td>
+            <td>14/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>14/11</td>
+            <td>2.0</td>
+            <td>Correções sugeridas em sala</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+             <td></td>
+             <td><a</a></td>
         </tr>
     </table>
 </div>

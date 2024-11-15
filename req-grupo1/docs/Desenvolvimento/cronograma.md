@@ -23,7 +23,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 06/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | João Vitor                                 |
 | Correção pós apresentação           | Início: 07/11 - Fim: 09/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 09/11 - Fim: 10/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 2
     Tabela 2: Cronograma planejado - Etapa 2 - Elicitação
@@ -46,7 +46,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 23/11 - Fim: 23/11 | Renata | Início: 23/11 - Fim: 23/11 | Davi | 
 | Correção pós apresentação | Início: 26/11 - Fim: 30/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 30/11 - Fim: 31/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 3
     Tabela 3: Cronograma planejado - Etapa 3 - Modelagem de Requisitos 1
@@ -61,7 +61,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 07/12 - Fim: 07/12 | Renata | Início: 07/12 - Fim: 07/12 | Davi | 
 | Correção pós apresentação | Início: 10/12 - Fim: 15/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 15/12 - Fim: 15/11 | Carla, Eduarda, Davi, João Vitor, Renata | 
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 4
     Tabela 4: Cronograma planejado - Etapa 4 - Modelagem de Requisitos 2
@@ -75,7 +75,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 14/12 - Fim: 14/12 | Renata | Início: 14/12 - Fim: 14/12 | Davi | 
 | Correção pós apresentação | Início: 17/12 - Fim: 20/12  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 20/12 - Fim: 20/12 | Carla, Eduarda, Davi, João Vitor, Renata | 
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Etapa 5.1
     Tabela 5: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
@@ -85,7 +85,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 |   Validação 1   	| Início: 21/12<br>Fim: 23/01  	|   Renata, Davi, Eduarda   | Início: 27/12 Fim: 28/12 	|     João Vitor   	|
 |   Atualização do cronograma executado     | Início: 28/12<br>Fim: 28/12    	|   Eduarda, Renata	| Início: 29/12 Fim: 29/12 	|     Carla, Davi, João Vitor   	|
 
-<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Etapa 6
     Tabela 6: Cronograma planejado - Etapa 6 - Pós-Rastreabilidade - Gerência II
@@ -98,7 +98,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: Início: 18/01<br>Fim: 18/01     | Renata                            | Início: 18/01<br>Fim: 18/01       | João Vitor 
 |   Correção pós apresentação	| Início: 21/01<br>Fim: 22/01 	|  Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 23/01<br>Fim: 23/01 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
 
-<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Etapa 5.2
     Tabela 7: Cronograma planejado - Etapa 5.1 - Análise de Requisitos: Verificação e Validação
@@ -110,7 +110,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 | Atualização do cronograma executado | Início: 28/01<br>Fim: 28/01     | Renata                            | Início: 29/01<br>Fim: 29/01       | João Vitor                                 |
 |   Correção pós apresentação	| Início: 30/01<br>Fim: 01/02 	|  Carla, Eduarda, Davi, João Vitor, Renata	| Início: 02/02<br>Fim: 03/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
 
-<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Etapa Final
     Tabela 8: Cronograma planejado - Etapa Final
@@ -120,7 +120,7 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
 |   Gravação da Apresentação e Entrega  	| Início: 09/02<br>Fim: 09/02 	|  Carla,  Renata 	| Início: 09/02<br>Fim: 09/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
 |   Correção pós entrega	| Início: 10/02<br>Fim: 11/02 	|  Carla, Eduarda, Davi, João Vitor, Renata 	| Início: 11/02<br>Fim: 11/02 	| Carla, Eduarda, Davi, João Vitor, Renata 	|
 
-<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Referência Bibliográfica / Bibliografia
 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
@@ -151,6 +151,12 @@ Como proposto pelo professor Ándre, o projeto da desciplina foi dividido em vá
             <td>Atualização do cronograma</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>06/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>14/11</td>
+            <td>2.0</td>
+            <td>Correções sugeridas em sala</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
