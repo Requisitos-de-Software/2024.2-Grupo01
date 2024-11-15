@@ -34,7 +34,7 @@ A tabela 1 mostra o checklist do rich picture Carteira de Trabalho Digital e foi
 | 39 | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png) |
 | 40 | Os principais clientes, autores, donos do sistema estão sendo identificados? | SIM | [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/kR6O71EsSFc">Link</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/kR6O71EsSFc">Link</a></p> 
 
 
 ### Conclusão Crteira de Trabalho Digital. 
@@ -57,7 +57,7 @@ A tabela 2 mostra o checklist do rich picture do Github Mobile, a realização d
 | 39 | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png) |
 | 40 | Os principais clientes, autores, donos do sistema estão sendo identificados? | SIM | [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png) |
 
-<p align="center">Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a> <br/>Gravação diponível neste <a href="https://youtu.be/vGyj1yBfGVY">Link</a></p> 
+<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a> <br/>Gravação diponível neste <a href="https://youtu.be/vGyj1yBfGVY">Link</a></p> 
 
 
 ### Conclusão  Github Mobile
@@ -83,7 +83,7 @@ A tabela 9 mostra a verificação do App escolhido, foi realizada pela [Renata](
 |  54   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |     SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)                              |
 |  55   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |     SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)                              |
 
-<p align="center">Fonte: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ### Conclusão Bluesky
 
