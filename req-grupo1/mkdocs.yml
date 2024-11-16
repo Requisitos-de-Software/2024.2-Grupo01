@@ -67,6 +67,7 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons 
+  - footnotes 
 
 nav:
   - Home: Home/index.md
@@ -94,3 +95,4 @@ nav:
     - Questionário Perfil do Usuário: PerfilUsuario/PerfilUser.md
     - Resultado Perfil do Usuário: PerfilUsuario/Resultado.md
     - Personas: PerfilUsuario/Personas.md
+    - Questionário Elicitação: PerfilUsuario/Questionario.md

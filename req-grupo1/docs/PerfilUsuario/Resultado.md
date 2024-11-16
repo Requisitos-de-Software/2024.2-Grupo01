@@ -14,7 +14,7 @@ De acordo com a figura 1, a idade dos participantes em sua maioria são entre 22
 
 <center><p><b>Figura 1:</b> Questão 1</p></center>
 <center><img src="../../assets/questionario/image.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -22,7 +22,7 @@ De acordo com a figura 2, a área de atuação dos participantes em sua maioria 
 
 <center><p><b>Figura 2:</b> Questão 2</p></center>
 <center><img src="../../assets/questionario/image2.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -30,7 +30,7 @@ De acordo com a figura 3, a frequência de utilização de redes sociais dos par
 
 <center><p><b>Figura 3:</b> Questão 3</p></center>
 <center><img src="../../assets/questionario/image3.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -38,7 +38,7 @@ De acordo com a figura 4, o nível de conforto ao utilizar tecnologias digitais 
 
 <center><p><b>Figura 4:</b> Questão 4</p></center>
 <center><img src="../../assets/questionario/image4.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -46,7 +46,7 @@ De acordo com a figura 5, em uma escala de 1 a 5, a maioria considera importante
 
 <center><p><b>Figura 5:</b> Questão 5</p></center>
 <center><img src="../../assets/questionario/image5.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -54,7 +54,7 @@ De acordo com a figura 6, a maioria prefere um uso mais básico.
 
 <center><p><b>Figura 6:</b> Questão 6</p></center>
 <center><img src="../../assets/questionario/image6.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -85,7 +85,7 @@ De acordo com a tabela 1, seguem as respostas para a pergunta: Por que você uti
   <tr><td>Comunicação, entretenimento, estudos, atualização de notícias</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -116,7 +116,7 @@ De acordo com a tabela 2, seguem as respostas para a pergunta: O que você mais 
   <tr><td>Liberdade e conteúdos interessantes</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 ---
 
@@ -147,7 +147,7 @@ De acordo com a tabela 3, seguem as respostas para a pergunta: Quais são suas p
   <tr><td>Acessibilidade, conteúdo e interatividade</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 ---
 
@@ -155,7 +155,7 @@ De acordo com a figura 7, a maioria compartilha pouco conteúdo nas redes sociai
 
 <center><p><b>Figura 7:</b> Questão 10</p></center>
 <center><img src="../../assets/questionario/image10.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>FAutor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -186,7 +186,7 @@ De acordo com a tabela 4, seguem as respostas para a pergunta: Em que situaçõe
   <tr><td>Se for algo interessante para nós ou algo que eu ache engraçado e talvez a outra pessoa também</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 ---
 
@@ -195,7 +195,7 @@ notícias.
 
 <center><p><b>Figura 8:</b> Questão 12</p></center>
 <center><img src="../../assets/questionario/image12.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -226,7 +226,7 @@ De acordo com a tabela 5, seguem as respostas para a pergunta: Qual o tipo de co
   <tr><td>Vídeos e imagens</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 ---
 
@@ -234,7 +234,7 @@ De acordo com a figura 9, a maioria rejeita conteúdos gerados por IA.
 
 <center><p><b>Figura 9:</b> Questão 14</p></center>
 <center><img src="../../assets/questionario/image14.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -242,7 +242,7 @@ De acordo com a figura 10, a maioria prefere interagir em redes sociais através
 
 <center><p><b>Figura 10:</b> Questão 15</p></center>
 <center><img src="../../assets/questionario/image15.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -250,7 +250,7 @@ De acordo com a figura 11, a maioria valoriza uma experiência de rede social ma
 
 <center><p><b>Figura 11:</b> Questão 16</p></center>
 <center><img src="../../assets/questionario/image16.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -281,7 +281,7 @@ De acordo com a tabela 6, seguem as respostas para a pergunta: Como você enxerg
   <tr><td>Acho algo fundamental</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 ---
 
@@ -289,7 +289,7 @@ De acordo com a figura 12, em uma escala de 1 a 5, a maioria demonstra preocupa�
 
 <center><p><b>Figura 12:</b> Questão 18</p></center>
 <center><img src="../../assets/questionario/image18.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -320,7 +320,7 @@ De acordo com a tabela 7, seguem as respostas para a pergunta: Quais são suas e
   <tr><td>Acho que tudo deve ser exposto, porém com seus devidos avisos e cuidados</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 ---
 
@@ -328,7 +328,7 @@ De acordo com a figura 13, a maioria utiliza redes sociais para fortalecer conex
 
 <center><p><b>Figura 13:</b> Questão 20</p></center>
 <center><img src="../../assets/questionario/image20.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -359,7 +359,7 @@ De acordo com a tabela 8, seguem as respostas para a pergunta: Que tipo de feedb
   <tr><td>Curtidas</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 ---
 
@@ -390,13 +390,13 @@ De acordo com a tabela 9, seguem as respostas para a pergunta: Como você acredi
   <tr><td>Me mostrando conteúdos que sejam informativos e me entretenham</td></tr>
 </table>
 </center>
-<p align="center"><b>Fonte:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 
-### Avaliação Geral da Persona
+### Avaliação Geral do Perfil de Usuário
 Com base nas respostas coletadas, a persona desse estudo pode ser descrita como uma jovem adulta com idade entre 22 e 27 anos, predominantemente estudante e com alta frequência de uso de redes sociais. A persona utiliza as redes tanto para conexões pessoais quanto para objetivos profissionais, valorizando conteúdo interessante e informativo, privacidade e controle sobre o que compartilha.
 
-#### Principais Características da Persona
+#### Principais Características do Perfil de Usuário
 ##### Faixa Etária e Ocupação:
  - Jovem adulta, com maioria na faixa dos 22-27 anos.
  - Principalmente estudantes, indicando foco em aprendizado, atualização e conexão com temas acadêmicos e profissionais.
@@ -423,7 +423,7 @@ Com base nas respostas coletadas, a persona desse estudo pode ser descrita como 
  - A persona vê o Bluesky como uma alternativa ao Twitter, com um ambiente mais controlado e menos suscetível a conteúdos tóxicos e propagandas políticas.
  - Espera que a plataforma ajude a manter contato com pessoas com interesses semelhantes, possibilitando um ambiente seguro para engajamento e divulgação de conteúdo.
 
-#### Perfil Geral da Persona
+#### Perfil Geral do perfil de usuário
 Essa persona é um(a) jovem estudante preocupado(a) com privacidade, que busca se atualizar e conectar com pessoas e informações relevantes. Prefere uma experiência personalizada, espera controle sobre o que compartilha e é atraído(a) por redes sociais que possibilitam interação autêntica e segura, sem muita interferência de algoritmos comerciais. É ativo(a) nas redes, porém espera uma rede social que ofereça maior controle de dados e um ambiente positivo para engajamento.
 
 ## Referências Bibliográficas / Bibliográfias
@@ -447,7 +447,7 @@ Essa persona é um(a) jovem estudante preocupado(a) com privacidade, que busca s
             <td>1.0</td>
             <td>Adicionando resultado do questinário.</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td>-</td>
+            <td>16/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
