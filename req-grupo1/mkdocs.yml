@@ -1,1 +1,98 @@
-site_name: My Docs
+site_name: grupo1
+
+repo_name: '2024.2-Grupo01'
+repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo01
+# site_url: 
+edit_uri: edit/main/docs/
+
+# copyright: Copyright & copy; 2024 Nome do app
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
+
+theme:
+  custom_dir: overrides
+  name: material
+  language: pt-BR
+  # logo: assets/imagens/logo.png
+  # favicon: assets/imagens/logo.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - toc.integrate
+    - toc.follow
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+    - navigation.instant
+    - navigation.top
+
+  hide: 
+    - 
+    
+  extra:
+    social:
+      - icon: fontawesome/brands/mastodon
+        link: https://fosstodon.org/@squidfunk
+    
+  plugins: 
+    - search:
+        lang: pt-BR
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: custom-icons/contrast-light
+        name: Modo Claro
+    
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light blue
+      accent: light blue
+      toggle:
+        icon: custom-icons/contrast-dark
+        name: Modo Escuro
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons 
+  - footnotes 
+
+nav:
+  - Home: Home/index.md
+  - Atas:
+    - 1º reuniao: Atas/reuniao_1.md
+    - 2º reuniao: Atas/reuniao_2.md
+  - Apresentações: Home/apresentacoes.md
+  - Cronograma Executado: Home/cronogramaex.md
+
+  - Desenvolvimento:
+    - Cronograma Planejado: Desenvolvimento/cronograma.md
+    - Disponibilidade dos Integrantes: Desenvolvimento/disponibilidade.md
+    - Ferramentas: Desenvolvimento/ferramentas.md
+    - Apps Avaliados: Desenvolvimento/apps_avaliados.md
+    - App Escolhido: Desenvolvimento/app_escolhido.md
+
+  - Inspeção: 
+    - Etapa 1:
+      - Planejamento Etapa 1: Revisao/Etapa1/planejamento1.md
+      - Inspeção etapa 1: Revisao/Etapa1/revisãoGrupo.md
+      - Rich Pictures do grupo: Revisao/Etapa1/RichPicturesGrupo.md
+      - Inspesão grupo 02: Revisao/Etapa1/Inspesao02.md
+
+  - Elicitação: 
+    - Questionário Perfil do Usuário: PerfilUsuario/PerfilUser.md
+    - Resultado Perfil do Usuário: PerfilUsuario/Resultado.md
+    - Personas: PerfilUsuario/Personas.md
+    - Questionário Elicitação: PerfilUsuario/Questionario.md
