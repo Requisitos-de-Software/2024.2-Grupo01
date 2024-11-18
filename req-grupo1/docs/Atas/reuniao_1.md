@@ -10,7 +10,7 @@
 
 - Divisão dos artefatos a serem entregues
 
-## Atividades acordadas
+## Responsáveis pelos artefatos
 
 - Carla: Heatmap
 - Individual: Lista de app avaliados

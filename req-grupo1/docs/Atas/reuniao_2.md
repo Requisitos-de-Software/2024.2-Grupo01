@@ -14,11 +14,17 @@
 
 #### Aplicativos escolhidos por cada integrante 
 
-- Renata ⇒ SUS
-- Davi ⇒ FAB
-- Joao ⇒ BlueSky (app escolhido)
-- Duda ⇒ ITA
-- Carla ⇒  Github
+
+| **Integrante** | **Aplicativo Avaliado**|
+|-------------------|-----------------------------------------------------|
+| Renata             | SUS                   |
+| Davi             | FAB                   |
+| João             | BlueSky                   |
+| Duda             | ITA                   |
+| Carla             | Github                  |
+
+
+- O aplicativo escolhido após as discusões foi o BlueSky, considerando a facilidade de contato com os usuários da plataforma e a relevância no contexto atual, tendo em vista a maior visibilidade do aplicativo em decorrência da proibição do seu concorrente no Brasil.
 
 ## Link da gravação
 
