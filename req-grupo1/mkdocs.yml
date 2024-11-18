@@ -95,5 +95,8 @@ nav:
     - Questionário Perfil do Usuário: PerfilUsuario/PerfilUser.md
     - Resultado Perfil do Usuário: PerfilUsuario/Resultado.md
     - Personas: PerfilUsuario/Personas.md
-    - Questionário Elicitação: PerfilUsuario/Questionario.md
-    - Observação: PerfilUsuario/Observacao.md
+
+    - Técnicas:
+      - Questionário Elicitação: PerfilUsuario/Tecnicas/Questionario.md
+      - Observação: PerfilUsuario/Tecnicas/Observacao.md
+      - Introspecção: PerfilUsuario/Tecnicas/Introspeccao.md
