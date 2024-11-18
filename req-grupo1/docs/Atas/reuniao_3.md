@@ -8,18 +8,22 @@
 
 ## Objetivos da reunião
 
-- Lista de revisão
+- Definir quem ficá responsável pelas revisões e listas de virificação dos artefatos
 - Finalização dos artefatos
 
 ## Atividades acordadas
 
 - Cada integrante vai planejar a lista de verificação do artefato que vai verificar.
 
-- Renata ⇒ heatmap
-- Davi ⇒ cronograma
-- Joao ⇒ heatmap
-- Duda ⇒ ferramentas
-- Carla ⇒  rich picture
+| **Integrante** | **Artefato a verificar**                                         |
+|-------------------|-----------------------------------------------------|
+| Renata             | Heatmap                   |
+| Davi             | Cronograma                   |
+| João             | Heatmap                   |
+| Duda             | Ferramentas                   |
+| Carla             | Rich Picture                   |
+
+
 
 ## Link da gravação
 

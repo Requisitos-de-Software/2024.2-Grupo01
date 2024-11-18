@@ -62,7 +62,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td><a href="github.com/Renatinha28">@Renatinha28</a></td>
     </tr>
     </table>
-    <p>Tabela 1: Integrantes do Grupo 1 (Fonte: autores, 2024)</p>
+    <p>Tabela 1: Integrantes do Grupo 1 (Autor: Carla Clementino, 2024)</p>
 </div>
 
 

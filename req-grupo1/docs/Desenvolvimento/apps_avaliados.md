@@ -237,12 +237,11 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
 
 
 ## Referência Bibliográfica / Bibliografia
-> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 <a id="c1"></a>
-
-> Monk, A., & Howells, K. (n.d.). Introducing Rich Pictures: Rich Picture Drawing Guidelines.
-
-> 1. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
+> 2. Monk, A., & Howells, K. (n.d.). Introducing Rich Pictures: Rich Picture Drawing Guidelines.
+> 3. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
+> 4. GitHub Mobile. GitHub. Disponível em: https://github.com/mobile. Acesso em: 10 nov. 2024.
 
 
 

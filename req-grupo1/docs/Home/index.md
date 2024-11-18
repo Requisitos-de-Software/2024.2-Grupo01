@@ -61,7 +61,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td><a href="https://github.com/Renatinha28">@Renatinha28</a></td>
     </tr>
     </table>
-    <p>Tabela 1: Integrantes do Grupo 1 (Fonte: autores, 2024)</p>
+    <p>Tabela 1: Integrantes do Grupo 1 (Autor: Carla Clementino, 2024)</p>
 </div>
 
 
@@ -80,7 +80,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
             <td>22/10</td>
             <td>1.0</td>
             <td>Criação do documento</td>
-            <td><a href="https://github.com/ccarlaa">Carla Clementinol</a></td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>03/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
