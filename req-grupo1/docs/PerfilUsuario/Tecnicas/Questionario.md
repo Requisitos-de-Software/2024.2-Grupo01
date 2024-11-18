@@ -52,7 +52,7 @@ De acordo com a tabela 1, seguem as respostas para a pergunta: Por que você uti
 De acordo com a figura 1, a maioria prefere interagir em redes sociais através de curtidas.
 
 <center><p><b>Figura 1:</b> Questão 15</p></center>
-<center><img src="../../assets/questionario/image15.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><img src="../../../assets/questionario/image15.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 De acordo com a tabela 2, seguem as respostas para a pergunta: Como você acredita que a Bluesky pode ajudar a alcançar seus objetivos pessoais e sociais?
@@ -90,13 +90,13 @@ A seguir é mostrado os resultados do questionário realizado para elicitação 
 A figura 2 mostra o resultado da pergunta: Você usa ou já utilizou o o Bluesky?
 
 <center><p><b>Figura 2:</b> Questão 2</p></center>
-<center><img src="../../assets/questionario/q1.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><img src="../../../assets/questionario/q1.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 A figura 3 mostra o resultado da pergunta: Quais recursos do Bluesky você mais utiliza?
 
 <center><p><b>Figura 3:</b> Questão 3</p></center>
-<center><img src="../../assets/questionario/q2.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><img src="../../../assets/questionario/q2.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 A tabela 3 mostra os resultados da pergunta: Existem funcionalidades no Bluesky que você sente falta? Se sim, quais?
@@ -132,7 +132,7 @@ A tabela 4 mostra os resultados da pergunta: O que você mais gosta no Bluesky e
 A figura 4 mostra o resultado da pergunta: A aparência do Bluesky é agradável para você?
 
 <center><p><b>Figura 4:</b> Questão 6</p></center>
-<center><img src="../../assets/questionario/q3.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><img src="../../../assets/questionario/q3.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 A tabela 5 mostra os resultados da pergunta: Se pudesse mudar algo no Bluesky, o que seria? 
