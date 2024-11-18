@@ -49,7 +49,9 @@ Para minha introspeção eu imaginei o seguinte cenário: Eu coordeno um clube d
 
 ## Referência Bibliográfica
 
-> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2024. Disponível em <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> </br>
+> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2024. Disponível em <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> </br> cessado no dia 17/11/2024 ás 20:00
+
+> Analise de requisitos bilheteria digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/> Acessado no dia 17/11/2024 ás 21:36
 
 ## :round_pushpin: Histórico de Versão 
 <div align="center">
