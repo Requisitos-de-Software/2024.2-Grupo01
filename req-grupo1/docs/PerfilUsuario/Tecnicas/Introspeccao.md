@@ -120,8 +120,8 @@ Para a introspeção imaginei as [personas criadas](../Personas.md) em situaçõ
             <td>1.1</td>
             <td>Adição da introspecção de João Ribeiro</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a</a></td>
-         </tr>
+            <td>20/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
         </table>
     </div>

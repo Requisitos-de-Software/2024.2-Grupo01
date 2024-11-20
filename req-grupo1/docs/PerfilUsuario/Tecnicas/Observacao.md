@@ -108,8 +108,8 @@ Além dos requisitos elicitados, foi possível realizar algumas observações:
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>20/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

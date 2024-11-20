@@ -112,8 +112,9 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
             <td>1.0</td>
             <td>Criação do documento e das personas</td>
             <td><a href="https://github.com/Jao0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>20/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
         </tr>
     </table>
 </div>

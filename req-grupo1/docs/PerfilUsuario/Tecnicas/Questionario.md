@@ -164,7 +164,6 @@ Com base nos resultados, os requisitos elicitados através do questionário é m
 | 4 | O aplicativo deve permitir o sistema de tags fora do post | Não |
 | 5 | O aplicativo deve permitir Trending Topics | Não |
 | 6 | O aplicativo deve ter uma aparência agradavél ao usuário | Não |
-| 7 | O aplicativo deve ter a opção de "ler mais" em textos muito grandes | Não |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 

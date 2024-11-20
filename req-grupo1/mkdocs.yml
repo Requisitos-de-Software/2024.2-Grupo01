@@ -92,12 +92,15 @@ nav:
       - Rich Pictures do grupo: Revisao/Etapa1/RichPicturesGrupo.md
       - Inspesão grupo 02: Revisao/Etapa1/Inspesao02.md
 
-  - Elicitação: 
+  - Elicitação de Requisitos: 
     - Questionário Perfil do Usuário: PerfilUsuario/PerfilUser.md
     - Resultado Perfil do Usuário: PerfilUsuario/Resultado.md
     - Personas: PerfilUsuario/Personas.md
 
-    - Técnicas:
+    - Técnicas de Elicitação:
       - Questionário Elicitação: PerfilUsuario/Tecnicas/Questionario.md
       - Observação: PerfilUsuario/Tecnicas/Observacao.md
       - Introspecção: PerfilUsuario/Tecnicas/Introspeccao.md
+
+    - Tecnicas de Priorização:
+      - Three Level Sacale: PerfilUsuario/TecnicasPrior/Three.md
