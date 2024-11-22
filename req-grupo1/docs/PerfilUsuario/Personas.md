@@ -60,7 +60,7 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 - **Relacionamentos:** Convive com seus pais, colegas de faculdade e amigos do clube de livros que participa
 
 - **Objetivos:**
-    1. Divulgar seu portifólio
+    1. Divulgar seu portfólio
     2. Estabelecer conexões relacionadas a sua atuação como freelancer
 - **Expectativas quanto ao app:** 
     1. Encontrar no Bluesky um ambiente criativo e inspirador
@@ -74,7 +74,7 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
     3. Buscar por inspiração em seu feed
     4. Editar seu perfil
 
-- **Breve descrição:** Fernanda Ramos é uma estudante de 19 anos, apaixonada por design gráfico, que trabalha como freelancer para ganhar experiência e financiar seus estudos, gosta de ler e andar de bicicleta com sua mãe nas horas vagas. Vê as redes sociais como uma forma de divulgar seu trabalho e se conectar com outros profissionais da área e com possíveis clientes, ela publica suas criações ao menos duas vezes por semana e utiliza das curtidas e comentários para entender seu público, monitorando essas métricas diariamente. Ela valoriza o controle sobre sua presença online e está em busca de um ambiente que facilite a conexão com outras pessoas criativas, sem interferências de anuncios invasivos, conteúdos gerados por inteligência artificial ou mensagens nocivas.
+- **Breve descrição:** Fernanda Ramos é uma estudante de 19 anos, apaixonada por design gráfico, que trabalha como freelancer para ganhar experiência e financiar seus estudos, gosta de ler e andar de bicicleta com sua mãe nas horas vagas. Vê as redes sociais como uma forma de divulgar seu trabalho e se conectar com outros profissionais da área e com possíveis clientes, ela publica suas criações ao menos duas vezes por semana e utiliza das curtidas e comentários para entender seu público, monitorando essas métricas diariamente. Ela valoriza o controle sobre sua presença online e está em busca de um ambiente que facilite a conexão com outras pessoas criativas, sem interferências de anúncios invasivos, conteúdos gerados por inteligência artificial ou mensagens nocivas.
 
 ### **Persona 3 - secundária**
 
@@ -89,7 +89,7 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 - **Nome:** Juliana Almeida
 - **Idade:** 33
 - **Ocupação:** Psicóloga
-- **Educação e habilidades:** Formada em psicólogia
+- **Educação e habilidades:** Formada em psicologia
 - **Relacionamentos:** É casada e tutora de um cão, tem amigos em seua trabalho e ainda mantém contato com colegas de faculdade 
 
 - **Objetivos:**
@@ -135,7 +135,7 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 - **Tarefas:**
     1. Quando é visitado por seus netos, ele lê algumas publicações e assiste à alguns vídeos mostrados por seus netos em seus celulares
 
-- **Breve descrição:** Sérgio tem 72 anos, hoje aposentado, passou a maior parte da vida trabalhando como contador, frequenta livrarias e tem como passa-tempo a jardinagem. Mora sozinho na mesma cidade que seus filhos e netos os quais o visitam com frequência. Entretanto, sente-se frustrado por não conseguir conectar-se com seus netos, já que passam a maior parte do tempo jogando e utilizando de redes sociais e não dão atenção às pessoas a sua volta. Ele gostaria de passar mais tempo com seus entes queridos e compartilhar momentos significativos.
+- **Breve descrição:** Sérgio tem 72 anos, hoje aposentado, passou a maior parte da vida trabalhando como contador, frequenta livrarias e tem como passatempo a jardinagem. Mora sozinho na mesma cidade que seus filhos e netos os quais o visitam com frequência. Entretanto, sente-se frustrado por não conseguir conectar-se com seus netos, já que passam a maior parte do tempo jogando e utilizando de redes sociais e não dão atenção às pessoas a sua volta. Ele gostaria de passar mais tempo com seus entes queridos e compartilhar momentos significativos.
 
 ## Referência Bibliográfica
 
@@ -159,6 +159,14 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
             <td>13/11</td>
             <td>1.0</td>
             <td>Criação do documento e das personas</td>
+            <td><a href="https://github.com/Jao0V">João Ribeiro</a></td>
+            <td>20/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>22/11</td>
+            <td>1.1</td>
+            <td>Incrementando personas e alterando citações</td>
             <td><a href="https://github.com/Jao0V">João Ribeiro</a></td>
             <td></td>
             <td><a href=""></a></td>
