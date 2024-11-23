@@ -168,8 +168,8 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
             <td>1.1</td>
             <td>Incrementando personas e alterando citações</td>
             <td><a href="https://github.com/Jao0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href=""></a></td>
+            <td>23/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
