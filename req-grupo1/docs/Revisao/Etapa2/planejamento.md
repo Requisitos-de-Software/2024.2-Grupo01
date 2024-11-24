@@ -85,6 +85,19 @@ A tabela 4 se refere a inpeção das personas
 
 ## Questionário
 
+A tabela 5 se refere a inpeção das personas
+
+    Tabela 5: Questionário
+| **ID** |                                               **Descrição**                                                | **Avaliação** |                                                                                              **Referência**                                                                                               | **Autor** |
+| :----: | :--------------------------------------------------------------------------------------------------------: | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|   21    |          As perguntas foram cuidadosamente elaboradas para evitar ambiguidades e mal-entendidos?           |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspQuestionario1.PNG) |   Davi    |
+|   22    |        As perguntas possuem linguagem e organização de forma a não induzir a respostas "desejadas"?        |       -       |                                    [VAZQUEZ, C. E.; SIMÕES, G. S. Engenharia de Requisitos: software orientado ao negócio. 01. ed. Rio de Janeiro, Brasport, 2016.](../../assets/images/inspecao2/inspQuestionario4.PNG)                                     |  Renata   |
+|   23    |                                A forma como responder às perguntas é clara?                                |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspQuestionario1.PNG) |   Carla   |
+|   24    |   As perguntas fechadas incluem opções de respostas neutras ou alternativas? (Ex.: "não sei", "outros").   |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspQuestionario2.PNG) |   João    |
+|   25    | O questionário começa com informações demográficas básicas e detalhes relevantes quanto a sua experiência? |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspQuestionario3.PNG) |  Eduarda  |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
 ## Observação
 
 A tabela 6 descreve as perguntas para a inspeção da técnica de observação.
@@ -94,10 +107,10 @@ A tabela 6 descreve as perguntas para a inspeção da técnica de observação.
 
 |  ID   |                                  Descrição                                   | Avaliação | Referência |  Autor  |
 | :---: | :-------------------------------------------------------------------------: | :-------: | :--------: | :-----: |
-|   1   |              A observação tem objetivo bem definido?                       |     -     | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) |  Eduarda |
-|   2   | O usuário observado se enquadra no perfil de pesquisa?                     |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png)    |   Davi  |
-|   3   | O método de observação escolhido está apresentado no documento?            |     -     |   [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png)    |  João  |
-|   4   | Existem notas de detalhes na observação além da lista de requisitos?       |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png)     | Davi |
+|   26   |              A observação tem objetivo bem definido?                       |     -     | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) |  Eduarda |
+|   27   | O usuário observado se enquadra no perfil de pesquisa?                     |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png)    |   Davi  |
+|   28   | O método de observação escolhido está apresentado no documento?            |     -     |   [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png)    |  João  |
+|   29   | Existem notas de detalhes na observação além da lista de requisitos?       |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png)     | Davi |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>
 
@@ -107,19 +120,33 @@ A tabela 7 descreve as perguntas para a inspeção da técnica de Introspecção
     Tabela 7: Introspecção
 | ID  | Descrição                                                                                                | Avaliação | Referência                                                                                                         | Autor |
 | --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------ | ----- |
-| -   | O método de introspecção foi aplicado com base em cenários reais de uso da rede social?                  | -         | [Guia BABOK - Técnicas de Elicitação](https://www.iiba.org/babok-guide/)                                           | -     |
-| -   | Os requisitos elicitados refletem as principais funcionalidades esperadas por usuários de redes sociais? | -         | [Engenharia de Requisitos - Sommerville](https://www.pearson.com/store/p/software-engineering/P100000309253)       | -     |
-| -   | Foram identificados problemas ou limitações durante a aplicação da introspecção?                         | -         | [IEEE 29148 - Requisitos de Sistema e Software](https://standards.ieee.org/standard/29148-2018.html)               | -     |
-| -   | O método de introspecção capturou requisitos relacionados à privacidade e segurança de dados?            | -         | [Técnicas de Elicitação de Requisitos](https://requirements.com/)                                                  | -     |
-| -   | Os cenários descritos durante a introspecção são detalhados e incluem interações típicas dos usuários?   | -         | [Validação de Requisitos - PMI](https://www.pmi.org/learning/library/requirements-validation-7392)                 | -     |
-| -   | Os requisitos elicitados foram validados para garantir sua viabilidade técnica?                          | -         | [IEEE 830 - Documentação de Requisitos](https://standards.ieee.org/standard/830-1998.html)                         | -     |
-| -   | Foram identificados exemplos claros de situações em que a rede social seria utilizada?                   | -         | [Práticas de Engenharia de Requisitos](https://sciencedirect.com/topics/computer-science/requirements-engineering) | -     |
-| -   | Há evidências de que os requisitos elicitados estão alinhados com as expectativas dos usuários?          | -         | [Cenários de Uso - SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)            | -     |
+| 30   | O método de introspecção foi aplicado com base em cenários reais de uso da rede social?                  | -         | [Guia BABOK - Técnicas de Elicitação](https://www.iiba.org/babok-guide/)                                           | -     |
+| 31  | Os requisitos elicitados refletem as principais funcionalidades esperadas por usuários de redes sociais? | -         | [Engenharia de Requisitos - Sommerville](https://www.pearson.com/store/p/software-engineering/P100000309253)       | -     |
+| 32  | Foram identificados problemas ou limitações durante a aplicação da introspecção?                         | -         | [IEEE 29148 - Requisitos de Sistema e Software](https://standards.ieee.org/standard/29148-2018.html)               | -     |
+| 33  | O método de introspecção capturou requisitos relacionados à privacidade e segurança de dados?            | -         | [Técnicas de Elicitação de Requisitos](https://requirements.com/)                                                  | -     |
+| 34  | Os cenários descritos durante a introspecção são detalhados e incluem interações típicas dos usuários?   | -         | [Validação de Requisitos - PMI](https://www.pmi.org/learning/library/requirements-validation-7392)                 | -     |
+| 35  | Os requisitos elicitados foram validados para garantir sua viabilidade técnica?                          | -         | [IEEE 830 - Documentação de Requisitos](https://standards.ieee.org/standard/830-1998.html)                         | -     |
+| 36  | Foram identificados exemplos claros de situações em que a rede social seria utilizada?                   | -         | [Práticas de Engenharia de Requisitos](https://sciencedirect.com/topics/computer-science/requirements-engineering) | -     |
+| 37  | Há evidências de que os requisitos elicitados estão alinhados com as expectativas dos usuários?          | -         | [Cenários de Uso - SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)            | -     |
 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>  
 
 ## Brainstorm
+A tabela 8 descreve as perguntas para a inspeção da técnica de Brainstorm
+
+    Tabela 8: Brainstorm
+| **ID** |                                                                 **Descrição**                                                                  | **Avaliação** |                                                                                              **Referência**                                                                                               | **Autor** |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|   38   |                                                A sessão de brainstorm durou em torno de 1 hora?                                                |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm1.PNG) |  Renata   |
+|   39   |                                          A sessão de brainstorm contou com de 8 a 12 usuários finais?                                          |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm1.PNG) |   Carla   |
+|   40   |                                                       A sessão contou com um moderador?                                                        |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm2.PNG) |   João    |
+|   41   |                                  Os participantes foram informados sobre o objetivo da sessão de brainstorm?                                   |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm2.PNG) |  Eduarda  |
+|   42   |                                                        Foi realizada uma sessão-piloto?                                                        |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm4.PNG) |   João    |
+|   43   | A sessão de brainstorm começou com uma pergunta que sumarizou o objetivo de entender os desejos e necessidades dos usuários quanto ao produto? |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm1.PNG) |   Davi    |
+|   44   |                     Caso os participantes tenham se desviado do objetivo, as regras e a pergunta inicial foram repetidas?                      |       -       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm3.PNG) |   Davi    |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Three-level scaling
 
@@ -129,10 +156,10 @@ A tabela 9 descreve as perguntas para a inspeção da técnica *Three-level scal
     Tabela 9: Three-level scaling
 |  ID   |                                    Descrição                                    | Avaliação | Referência |  Autor  |
 | :---: | :----------------------------------------------------------------------------: | :-------: | :--------: | :-----: |
-|   1   | A técnica avalia os requisitos com base na importância e urgência?             |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)        |  Renata   |
-|   2   | Os requisitos de alta prioridade são definidos com clareza?                    |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)     |  Davi   |
-|   3   | Há distinção entre requisitos médios e de baixa prioridade?                    |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)      |  Carla   |
-|   4   | A técnica permite identificar prioridades de forma iterativa, se necessário?   |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T2.png)      |  Davi   |
+|   45   | A técnica avalia os requisitos com base na importância e urgência?             |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)        |  Renata   |
+|   46  | Os requisitos de alta prioridade são definidos com clareza?                    |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)     |  Davi   |
+|   47  | Há distinção entre requisitos médios e de baixa prioridade?                    |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)      |  Carla   |
+|   48  | A técnica permite identificar prioridades de forma iterativa, se necessário?   |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T2.png)      |  Davi   |
 
 ## $100
 A tabela 10 descreve as perguntas para a inspeção da técnica de priorização $100
@@ -140,25 +167,47 @@ A tabela 10 descreve as perguntas para a inspeção da técnica de priorização
     Tabela 10: $100
 |  ID   |                                                    Descrição                                                    | Avaliação |                                                                                          Referência                                                                                          |  Autor  |
 | :---: | :-------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: |
-|   -   |               Foi alocado 100 dólares para "comprar" os itens que gostariam de ter implementados?               |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) | Renata  |
-|   -   |                 Foi alocado maiores quantidades de dólares aos requisitos de maior prioridade?                  |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) |  Davi   |
-|   -   |                             Foi utilizado exclusivamente 100 dólares? nada a mais?                              |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) |  Carla  |
-|   -   | Foi realizado a soma do número total de dólares atribuídos a cada requisito para ver qual tem maior prioridade? |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) | Eduarda |
-|   -   |             A priorização de requisitos foi feita após um grupo de pessoas aplicar a técnica $100?              |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) |  João   |
+|   49   |               Foi alocado 100 dólares para "comprar" os itens que gostariam de ter implementados?               |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) | Renata  |
+|   50  |                 Foi alocado maiores quantidades de dólares aos requisitos de maior prioridade?                  |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) |  Davi   |
+|   51  |                             Foi utilizado exclusivamente 100 dólares? nada a mais?                              |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) |  Carla  |
+|   52  | Foi realizado a soma do número total de dólares atribuídos a cada requisito para ver qual tem maior prioridade? |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) | Eduarda |
+|   53  |             A priorização de requisitos foi feita após um grupo de pessoas aplicar a técnica $100?              |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/100.png) |  João   |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
 ## First Things First
 
+A tabela 11 descreve as perguntas para a inspeção da técnica de priorização First Things First
+
+    Tabela 11: First Things First
+| **ID** |                                                                                  **Descrição**                                                                                  | **Avaliação** |                                                                                                        **Referência**                                                                                                        | **Autor** |
+| :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|   54    |                                             Participaram da técnica representantes dos clientes e representantes da equipe técnica?                                             |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf1.PNG) |   Carla   |
+|   55   |                                                              Existiu um moderador durante a realização da técnica?                                                              |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf1.PNG) |   João    |
+|   56   |                                                            Os requisitos elicitados foram listados em uma planilha?                                                             |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf2.PNG) |   Davi    |
+|   57   |                                                Os valores estimados variam de 1 a 9, sendo 1 o valor mínimo e 9 o valor máximo?                                                 |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf3.PNG) |  Eduarda  |
+|   58   |                                  O usuário participante estimou a o benefício relativo e a penalidade de não implementação de cada requisito?                                   |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf3.PNG) |  Renata   |
+|   59   |                                      O desenvolvedor participante estimou a o custo relativo e o grau de risco relativo de cada requisito?                                      |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf3.PNG) |   Carla   |
+|   60   |                                   Benefício relativo, penalidade relativa, custo relativo e risco relativo tiveram seus pesos estabelecidos?                                    |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf4.PNG) |  Renata   |
+|   61   | O valor total de cada requisito foi obtido a partir da soma do (``Benefício Relativo * Peso do Benefício Relativo``) e (``Penalidade Relativa * Peso da Penalidade Relativa``)? |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf5.PNG) |  Eduarda  |
+|   62   |                                 A prioridade de cada requisito foi calculada como sendo `Valor% / (Custo% * Peso Custo + Risco% * Peso Risco)`?                                 |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf6.PNG) |   Carla   |
+|   63   |                                                   Os requisitos priorizados foram listado em ordem decrescente de prioridade?                                                   |       -       | [SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024](../../assets/images/inspecao2/inspFtf7.PNG) |   João    |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+
 ## Bibliográfia
 
-> 1 David Benyon, 2011, 2ª ed, Interação Humano-Computador
+> 1. David Benyon, 2011, 2ª ed, Interação Humano-Computador
  
-> 2 Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
+> 2. Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
 
-> 3 ASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.
+> 3. ASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.
 
-> 4 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> 4. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+
+> 5. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> 6. SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07. Apresentação de Slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972455/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 24/11/2024
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -180,13 +229,22 @@ A tabela 10 descreve as perguntas para a inspeção da técnica de priorização
             <td>23/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
-                <tr>
+            <tr>
             <td>24/11</td>
             <td>1.1</td>
             <td>Inspeção Obersavação e three level scaling </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
             <td>24/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        </tr>
+            <tr>
+            <td>24/11</td>
+            <td>1.2</td>
+            <td>Inspeção Questionário, Brainstorm e First-Things-First </td>
+            <td><a href="https://github.com/Joa0V"> João Ribeiro </a></td>
+            <td>24/11</td>
+            <td><a href="https://github.com/erteduarda"> Eduarda </a></td>
         </tr>
     </table>
 </div>
