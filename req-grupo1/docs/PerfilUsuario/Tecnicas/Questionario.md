@@ -151,33 +151,42 @@ A tabela 5 mostra os resultados da pergunta: Se pudesse mudar algo no Bluesky, o
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Requisitos Elicitados
-Com base nos resultados, os requisitos elicitados através do questionário é mostrado na tabela 6.
+Com base nos resultados, os requisitos elicitados através do questionário é mostrado nas tabelas 6 e 7.
 
-<center><p><b>Tabela 6:</b> Requisitos elicitados</p></center>
+<center><p><b>Tabela 6:</b> Requisitos Funcionais</p></center>
+
 
 |ID|Descrição|Implementação|
 |:----:|:-------:|:-------:|
-| 1 | O aplicativo deve permitir ao usuário a comunicação, entreterimento e informações atualizadas | Sim |
-| 2 | O aplicativo deve permitir a interação de usuários através de curtidas, comentários e compartilhamento | Sim |
-| 3 | O aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social" | Não |
-| 4 | O aplicativo deve permitir o sistema de tags fora do post | Não |
-| 5 | O aplicativo deve permitir Trending Topics | Não |
-| 6 | O aplicativo deve ter uma aparência agradavél ao usuário | Não |
+| QT1 | O aplicativo deve permitir ao usuário a comunicação, entreterimento e informações atualizadas | Sim |
+| QT2 | O aplicativo deve permitir a interação de usuários através de curtidas, comentários e compartilhamento | Sim |
+| QT3 | O aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social" | Não |
+| QT4 | O aplicativo deve permitir o sistema de tags fora do post | Não |
+| QT5 | O aplicativo deve permitir Trending Topics | Não |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
-## Referência Bibliográfica
+<center><p><b>Tabela 7:</b> Requisitos Não Funcionais</p></center>
+
+
+|ID|Descrição|Implementação|
+|:----:|:-------:|:-------:|
+| QT6 | O aplicativo deve ter uma aparência agradavél ao usuário | Não |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+
+## Referências Bibliográficas 
 > 1. <a id="ref1"></a> VAZQUEZ, C. SIMÕES, G (2016). Engenharia de Requisitos: Software Orientado a Negócio. BRASPORT. Rio de Janeiro, 2016.
 
 > 2. <a id="ref2"></a> 2023.2 Economia DF. Econimia DF, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/. Acesso em: 15, nov. 2024.
 
 > 3. <a id="ref3"></a> Meu INSS, 2024.1. Disponível em: https://vitorfleonardo.github.io/2024.1-Meu-INSS/. Acesso em 16, nov. 2024.
 
-## Bibliográfia
+## Bibliográfias
 
 > 1. <a name="1"></a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## :round_pushpin: Histórico de Versão
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

@@ -177,8 +177,8 @@ Na tabela 1 estão os resultados da priorização dos requisitos funcionais por 
             <td>1.0</td>
             <td>Criação do documento </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>24/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

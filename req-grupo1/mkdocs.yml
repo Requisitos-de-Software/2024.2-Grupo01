@@ -94,7 +94,7 @@ nav:
     - Etapa 2:
       - Planejamento Etapa 2: Revisao/Etapa2/planejamento.md
 
-  - Elicitação de Requisitos: 
+  - Elicitação de Requisitos:
     - Questionário Perfil do Usuário: PerfilUsuario/PerfilUser.md
     - Resultado Perfil do Usuário: PerfilUsuario/Resultado.md
     - Personas: PerfilUsuario/Personas.md
@@ -104,6 +104,7 @@ nav:
       - Observação: PerfilUsuario/Tecnicas/Observacao.md
       - Introspecção: PerfilUsuario/Tecnicas/Introspeccao.md
       - Brainstorm: PerfilUsuario/Tecnicas/Brainstorm.md
+      - Requisitos Elicitados: PerfilUsuario/Tecnicas/Requisitosel.md
     - Tecnicas de Priorização:
       - Three Level Sacale: PerfilUsuario/TecnicasPrior/Three.md
       - First Things First: PerfilUsuario/TecnicasPrior/FirstThingsFirst.md

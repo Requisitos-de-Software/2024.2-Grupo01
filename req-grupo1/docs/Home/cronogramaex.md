@@ -30,6 +30,27 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 
 <p align="center"><b>Autor: </b><a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
+## Etapa 2
+    Tabela 2: Cronograma planejado - Etapa 2 - Elicitação
+|                                 Atividade                                 | Período de desenvolvimento  |               Responsáveis               |     Período de Revisão     |                Revisores                 |
+| :-----------------------------------------------------------------------: | :-------------------------: | :--------------------------------------: | :------------------------: | :--------------------------------------: |
+| Planejamento e realização das perguntas do questionário  | Início: 07/11 - Fim: 10/11  |              Renata e Davi               | Início: 10/11 - Fim: 10/11 | Davi, Renata |
+|             Questionários para o perfil de usuário             | Início: 10/11 - Fim: 13/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 13/11 - Fim: 16/11 | Carla, Eduarda, Davi, João Vitor, Renata |
+|                 Criação de personas e perfis de usuários                  | Início: 13/11 - Fim: 14/11  |            Carla e João Vitor            | Início: 14/11 - Fim: 23/11 |              Renata                |
+|                   Elicitação dos requisitos: Brainstorm                   | Início: 14/11 - Fim: 24/11  |                  Eduarda                   | Início: 24/11 - Fim: 24/11 |                  Renata                  |
+|                  Elicitação dos requisitos: Introspecção                  | Início: 14/11 - Fim: 18/11  |                  Davi e João                  | Início: 18/11 - Fim: 20/11 |                João Vitor e Renata               |
+|                   Elicitação dos requisitos: Observação                   | Início: 14/11 - Fim: 17/11  |                   Carla                   | Inínio: 17/11 - Fim: 20/11 |               Renata                 |
+|                  Elicitação dos requisitos: Questionário                  | Início: 14/11 - Fim: 16/11  |          Renata          | Início: 16/11 - Fim: 17/11 |              Eduarda               |
+|                     Priorização dos requisitos: $100                      | Início: 17/11 - Fim: 24/11 |                 Eduarda e Carla                 | Início: 24/11 - Fim: 24/11 |                 Renata                 |
+|              Priorização dos requisitos: First Things First               | Início: 17/11 - Fim: 23/11 |                   Davi e João                  | Início: 23/11 - Fim: 24/11 |               Renata                |
+|                  Priorização dos requisitos: Three Level Scale                  | Início: 17 /11 - Fim: 24/11 |                Renata                | Início: 24/11 - Fim: 24/11 |                   Davi                   |
+|                                 Inspeção                                  | Início: 23/11 - Fim: 24/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 24/11 - Fim: 24/11 | Carla, Eduarda, Davi, João Vitor, Renata |
+|                    Gravação da apresentação e entrega                     | Início: 24/11 - Fim: 24/11  |              Carla e Renata              | Início: 24/11 - Fim: 24/11 |                João Vitor                |
+|                    Atualização do cronograma executado                    | Início: 24/11 - Fim: 24/11  |                  Renata                  | Início: 24/11 - Fim: 24/11 |                   Davi                   |
+|                         Correção pós apresentação                         | Início: 26/11 - Fim: 30/11  | Carla, Eduarda, Davi, João Vitor, Renata | Início: 30/11 - Fim: 31/11 | Carla, Eduarda, Davi, João Vitor, Renata |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+
 ## Bibliografia
 > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
@@ -59,11 +80,19 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
         </tr>
         <tr>
             <td>14/11</td>
-            <td>2.0</td>
+            <td>1.1</td>
             <td>Correções sugeridas em sala</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
              <td>15/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>24/11</td>
+            <td>1.2</td>
+            <td>Add etapa 2</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a> </td>
+            <td>24/11</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
