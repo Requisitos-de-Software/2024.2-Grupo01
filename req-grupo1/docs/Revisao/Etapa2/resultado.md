@@ -59,13 +59,13 @@ A tabela 3 se refere a inspeção do perfil de usuário.
     Tabela 3: inspeção perfil do usuário
 |  ID   |                                                                 Descrição                                                                  | Avaliação |                                                                                                              Referência                                                                                                               |  Autor  |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: |
-| 09 | O perfil de usuário detalha as características do usuário? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU1.png) | Renata |
-| 10 | O perfil de usuário detalha as características de interesse (função, cargo, experiência, nível de instrução, atividades principais, faixa etária, etc)? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU2.png) | Davi | 
-| 11 | O perfil de usuário foi definido através de um estudo para coletar os dados? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU3.png) | Eduarda |
-| 12 | O perfil de usuário foi construído com dados sobre o próprio usuário, sua relação com tecnologia, seu domínio do produto e tarefas que ustilizará com o produto? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU4.png) | Carla |
-| 13 | Os usuários são caracterizados em grupos, com base em suas semelhanças? | - | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU5.png) | João | 
+| 09 | O perfil de usuário detalha as características do usuário? | SIM | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU1.png) | Renata |
+| 10 | O perfil de usuário detalha as características de interesse (função, cargo, experiência, nível de instrução, atividades principais, faixa etária, etc)? | SIM | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU2.png) | Davi | 
+| 11 | O perfil de usuário foi definido através de um estudo para coletar os dados? | SIM | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU3.png) | Eduarda |
+| 12 | O perfil de usuário foi construído com dados sobre o próprio usuário, sua relação com tecnologia, seu domínio do produto e tarefas que ustilizará com o produto? | SIM | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU4.png) | Carla |
+| 13 | Os usuários são caracterizados em grupos, com base em suas semelhanças? | SIM | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/PU5.png) | João | 
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a> ; Gravação diponível neste <a href="https://youtu.be/OAkYIpKKvAc">Link</a></p> </p>  
 
 ## Personas 
 A tabela 4 se refere a inpeção das personas 
@@ -73,15 +73,15 @@ A tabela 4 se refere a inpeção das personas
     Tabela 4: Personas
 |  ID   |                                                                 Descrição                                                                  | Avaliação |                                                                                                              Referência                                                                                                               |  Autor  |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----: |
-|   14   |                                         As personas estão descrevendo usuários típicos do sistema?                                         |     -     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per1.png) | Renata  |
-|   15   | As personas têm os elementos principais (identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas)? |     -     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per2.png) |  Davi   |
-|   16   |                                    O projeto possui um elenco de personas de 3 a 12 personas distintas?                                    |     -     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per3.png) |  João   |
-|   17   |                                               O elenco possui ao menos uma persona primária?                                               |     -     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per4.png) |  Carla  |
-|   18   |                                              O elenco cobre os principais grupos de usuário?                                               |     -     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Eduarda |
-|   19   |                                                  O elenco possui três personas primárias?                                                  |     -     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Renata  |
-|   20   |                                      As personas possuem objetivos de experiência, finais e de vida?                                       |     -     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per6.png) | Renata  |
+|   14   |                                         As personas estão descrevendo usuários típicos do sistema?                                         |     SIM     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per1.png) | Renata  |
+|   15   | As personas têm os elementos principais (identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas)? |     SIM     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per2.png) |  Davi   |
+|   16   |                                    O projeto possui um elenco de personas de 3 a 12 personas distintas?                                    |     SIM     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per3.png) |  João   |
+|   17   |                                               O elenco possui ao menos uma persona primária?                                               |     SIM    | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per4.png) |  Carla  |
+|   18   |                                              O elenco cobre os principais grupos de usuário?                                               |     SIM     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Eduarda |
+|   19   |                                                  O elenco possui três personas primárias?                                                  |     SIM     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per5.png) | Renata  |
+|   20   |                                      As personas possuem objetivos de experiência, finais e de vida?                                       |     SIM     | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/Per6.png) | Renata  |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a> ; Gravação diponível neste <a href="https://youtu.be/ymsK9PikmrY">Link</a></p> </p>  
 
 ## Questionário
 
@@ -99,7 +99,7 @@ A tabela 6 descreve as perguntas para a inspeção da técnica de observação. 
 |   3   | O método de observação escolhido está apresentado no documento?            |     Sim     |   [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png)    |  João  |
 |   4   | Existem notas de detalhes na observação além da lista de requisitos?       |     Sim     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png)     | Davi |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a> ; Gravação diponível neste <a href="">Link</a></p>  
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a> ; Gravação diponível neste <a href="https://youtu.be/10OniGEM1bE">Link</a></p>  
 
 ## Conclusão Observação 
 Como fica evidente, a observação foi realizada de maneira correta e não foi identificado correções com base na tabela 6.
@@ -121,7 +121,7 @@ A tabela 7 descreve as perguntas para a inspeção da técnica de Introspecção
 | -   | Há evidências de que os requisitos elicitados estão alinhados com as expectativas dos usuários?          | Sim         | [Cenários de Uso - SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)            | -     |
 
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> ; Gravação diponível neste <a href="">Link</a></p>    
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> ; Gravação diponível neste <a href="https://youtu.be/V2K6wY-ebkA">Link</a></p>    
 
 ## Conclusão Introspecção
 Como fica evidente, a introspecção foi realizada de maneira correta e não foi identificado correções com base na tabela 7.
@@ -186,6 +186,14 @@ A tabela 10 descreve as perguntas para a inspeção da técnica de priorização
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>24/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>24/11</td>
+            <td>1.1</td>
+            <td>Inspeção dos documentos e adição de links </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>24/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
