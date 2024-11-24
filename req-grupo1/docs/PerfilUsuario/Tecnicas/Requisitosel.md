@@ -86,15 +86,14 @@ As tabelas 1 e 2 descreve os requisitos elicitados, e sua legenda é:
 | RNF6 | O sistema deve ter alta disponibilidade, operando continuamente com mínimas interrupções e implementando redundância de servidores para garantir estabilidade. | NIS5 | 
 | RNF7 | O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela. | NIS6 e BT9 | 
 | RNF8 | O sistema deve permitir que o usuário personalize seus feeds e notificações facilmente, com opções para ajustar preferências de conteúdo e formato. | NIS7 | 
-| RNF9 | O sistema deve garantir a privacidade do usuário, permitindo que ele controle quem pode ver suas atividades e reviews, com políticas claras sobre coleta e uso de dados. | NIS8 | 
-| RNF10 | O aplicativo deve ter um tempo de resposta para cada ação menor que 3 segundos | NIS9 | 
-| RNF11 | O aplicativo deve ter interface intuitiva para usuários frequentes de redes sociais, levando até 15min para que se familiarizem com feeds, listas. | NIS10, BT10 | 
-| RNF12 | O aplicativo deve prover ambientes saudáveis aos seus usuários, os protegendo de conteúdos nocivos |  NIS11 | 
-| RNF13 | O aplicativo deve ser transparente quanto ao uso dos dados de seus usuários, independente de onde se encontra, o usuário deve estar a menos de 5 cliques dos Termos de Serviço e Política de Privacidade | NIS12 | 
-| RNF14 | O aplicativo deve indicar ao usuário quando uma ação não pode ser concluída e o motivo para isso | NIS14 | 
-| RNF15 | O aplicativo deve ter uma aparência agradavél ao usuário | QT6 | 
-| RNF16 | A plataforma deve garantir transparência nos algoritmos de recomendação | QT6 |
-| RNF17 | O sistema deve proteger os dados dos usuários de acordo com a LGPD. | BT8 |
+| RNF9 | O aplicativo deve ter um tempo de resposta para cada ação menor que 3 segundos | NIS9 | 
+| RNF10 | O aplicativo deve ter interface intuitiva para usuários frequentes de redes sociais, levando até 15min para que se familiarizem com feeds, listas. | NIS10, BT10 | 
+| RNF11 | O aplicativo deve prover ambientes saudáveis aos seus usuários, os protegendo de conteúdos nocivos |  NIS11 | 
+| RNF12 | O aplicativo deve ser transparente quanto ao uso dos dados de seus usuários, independente de onde se encontra, o usuário deve estar a menos de 5 cliques dos Termos de Serviço e Política de Privacidade | NIS12 | 
+| RNF13 | O aplicativo deve indicar ao usuário quando uma ação não pode ser concluída e o motivo para isso | NIS14 | 
+| RNF14 | O aplicativo deve ter uma aparência agradavél ao usuário | QT6 | 
+| RNF15 | A plataforma deve garantir transparência nos algoritmos de recomendação | QT6 |
+| RNF16 | O sistema deve proteger os dados dos usuários de acordo com a LGPD. | BT8 |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
