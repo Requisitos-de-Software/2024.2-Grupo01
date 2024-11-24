@@ -248,10 +248,11 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
 
 ## Bibliografia
 > 1. Monk, A., & Howells, K. (n.d.). Introducing Rich Pictures: Rich Picture Drawing Guidelines.
-> 2. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
+> 2. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov. 2024.
 > 3. GitHub Mobile. GitHub. Disponível em: https://github.com/mobile. Acesso em: 10 nov. 2024.
 > 4. Carteira de trabalho digital. Disponível em: https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital. Acessado em: 05 nov. 2024.
-> 5. Força Áerea Brasileira. Disponível em: https://www.fab.mil.br/index.php. Acessado em 06 nov 2024.
+> 5. Força Áerea Brasileira. Disponível em: https://www.fab.mil.br/index.php. Acessado em 06 nov. 2024.
+> 6. Bluesky. Disponível em: https://bsky.app/. Acessado em 03 nov. 2024.
 
 ## :round_pushpin: Histórico de Versão 
 

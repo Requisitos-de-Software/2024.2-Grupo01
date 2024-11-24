@@ -149,17 +149,16 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
 Após a sessão de brainstorming, foi possível fazer a elicitação dos requisitos funcionais listados na Tabela RF e os requisitos não funcionais listados na Tabela RNF.
 
 #### Legenda das Tabelas RF e RNF:
- - FUNCx: Requisito Funcional nºx
- - NAO_FUNCx: Requisito Não-Funcional nºx
- - RFx e RFNx: Requisito nºx elicitado pelo Brainstorming.
+ - BTx: Requisito Funcional e Requisito Não-Funcional nºx
+ - RFx e RNFx: Requisito nºx elicitado pelo Brainstorming.
 <div align="center">
     <font size="3"><p style="text-align: center"><b>Tabela 3:</b> Tabela RF</p></font>
 <table>
     <thead>
         <tr>
-            <th>ID</th>
+            <th>Tipo</th>
             <th>Descrição</th>
-            <th>Código</th>
+            <th>ID</th>
             <th>Implementado</th>
         </tr>
     </thead>
@@ -167,31 +166,31 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
         <tr>
             <td>RF01</td>
             <td>O usuário deve poder criar comunidades ou grupos privados.</td>
-            <td>FUNC01</td>
+            <td>BT1</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RF02</td>
             <td>O usuário deve poder configurar a privacidade das postagens.</td>
-            <td>FUNC02</td>
+            <td>BT2</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RF03</td>
             <td>O sistema deve permitir recomendações baseadas nos interesses do usuário.</td>
-            <td>FUNC03</td>
+            <td>BT3</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RF04</td>
             <td>O sistema deve enviar notificações sobre eventos em tempo real.</td>
-            <td>FUNC04</td>
+            <td>BT4</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RF05</td>
             <td>O usuário deve poder acessar métricas sobre o alcance de suas postagens.</td>
-            <td>FUNC05</td>
+            <td>BT05</td>
             <td>Não</td>
         </tr>
     </tbody>
@@ -216,31 +215,31 @@ Após a sessão de brainstorming, foi possível fazer a elicitação dos requisi
         <tr>
             <td>RNF01</td>
             <td>A plataforma deve garantir transparência nos algoritmos de recomendação.</td>
-            <td>NAO_FUNC01</td>
+            <td>BT6</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RNF02</td>
             <td>O sistema deve oferecer alta disponibilidade e desempenho.</td>
-            <td>NAO_FUNC02</td>
+            <td>BT7</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RNF03</td>
             <td>O sistema deve proteger os dados dos usuários de acordo com a LGPD.</td>
-            <td>NAO_FUNC03</td>
+            <td>BT8</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RNF04</td>
             <td>O aplicativo deve ser responsivo, adaptando-se a diferentes dispositivos.</td>
-            <td>NAO_FUNC04</td>
+            <td>BT9</td>
             <td>Não</td>
         </tr>
         <tr>
             <td>RNF05</td>
             <td>As interfaces devem seguir boas práticas de usabilidade e design intuitivo.</td>
-            <td>NAO_FUNC05</td>
+            <td>BT10</td>
             <td>Não</td>
         </tr>
     </tbody>

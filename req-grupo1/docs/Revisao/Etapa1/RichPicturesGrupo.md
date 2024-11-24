@@ -83,7 +83,7 @@ A tabela 9 mostra a lista de verificação do App escolhido, foi realizada pela 
 |  54   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)                              |
 |  55   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)                              |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a>; Gravação diponível neste <a href="https://youtu.be/3GW-YkQgrU0">Link</a></p>
 
 ### Conclusão Bluesky
 
