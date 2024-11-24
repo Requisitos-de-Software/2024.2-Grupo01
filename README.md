@@ -1,29 +1,21 @@
-# :mag_right: Grupo 1 - Requisitos de Software
+# :mag_right: Bluesky - Requisitos de Software
 
-<!-- <div align="center">
-    Logo do nosso app
-</div> -->
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Bluesky</p></font>
+<figure>
+    <img src="./req-grupo1/docs/assets/images/Bluesky_app_icon.png"  style="width: 20%; height: auto; object-fit: cover;">
+</figure>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=en_US">Google Play</a>, 2024</p></font>
+</div>
 
 ## :round_pushpin: Sobre o projeto:
 
 Esta página reúne os artefatos produzidos ao longo da disciplina de Requisitos de Software na Universidade de Brasília (UnB) durante o segundo semestre de 2022. O projeto do grupo teve como foco principal a análise dos requisitos funcionais e não funcionais do aplicativo Bluesky, disponível para dispositivos mobile.
 
-<figure>
-    <img src="./req-grupo1/docs/assets/images/bluesky.png"  style="width: 50%; height: auto; object-fit: cover;">
-</figure>
-
-
-<!-- 
-## :round_pushpin: Nome do app
-Link do site: <a href="" target="_blank"></a> -->
-
-
-<!-- ## :round_pushpin: Direitos autorais e licença -->
-
-
 ## :round_pushpin: Equipe do projeto:
 Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
 <div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 1:</b>Integrantes</p></font>
     <table>
     <tr>
         <th>Foto</th>
@@ -62,7 +54,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td><a href="github.com/Renatinha28">@Renatinha28</a></td>
     </tr>
     </table>
-    <p>Tabela 1: Integrantes do Grupo 1 (Autor: Carla Clementino, 2024)</p>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> Carla Clementino</p></font>
 </div>
 
 
@@ -80,10 +72,18 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
     <tr>
         <td>22/10/2024</td>
         <td>22/10/2024</td>
-        <td>1.*</td>
+        <td>1.0</td>
         <td>Criação inicial</td>
         <td><a href="https://github.com/ccarlaa">Carla</a></td>
-        <td><a href="https://github.com/"></a></td>
+        <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+    </tr>
+    <tr>
+        <td>23/11/2024</td>
+        <td>23/11/2024</td>
+        <td>1.1</td>
+        <td>Ajustes.</td>
+        <td><a href="https://github.com/ccarlaa">Carla</a></td>
+        <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
     </tr>
     </table>
 </div>
