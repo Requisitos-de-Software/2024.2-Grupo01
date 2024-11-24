@@ -128,6 +128,26 @@ Como fica evidente, a introspecção foi realizada de maneira correta e não foi
 
 ## Brainstorm
 
+
+    Tabela 8: Brainstorm
+| **ID** |                                                                 **Descrição**                                                                  | **Avaliação** |                                                                                              **Referência**                                                                                               | **Autor** |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|   38   |                                                A sessão de brainstorm durou em torno de 1 hora?                                                |       Sim       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm1.PNG) |  Renata   |
+|   39   |                                          A sessão de brainstorm contou com de 8 a 12 usuários finais?                                          |       Não       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm1.PNG) |   Carla   |
+|   40   |                                                       A sessão contou com um moderador?                                                        |       Sim       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm2.PNG) |   João    |
+|   41   |                                  Os participantes foram informados sobre o objetivo da sessão de brainstorm?                                   |       Sim       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm2.PNG) |  Eduarda  |
+|   42   |                                                        Foi realizada uma sessão-piloto?                                                        |       Não       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm4.PNG) |   João    |
+|   43   | A sessão de brainstorm começou com uma pergunta que sumarizou o objetivo de entender os desejos e necessidades dos usuários quanto ao produto? |       Sim      | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm1.PNG) |   Davi    |
+|   44   |                     Caso os participantes tenham se desviado do objetivo, as regras e a pergunta inicial foram repetidas?                      |       Não se aplica       | [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/inspecao2/inspBrainstorm3.PNG) |   Davi    |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro e </a><a href='https://github.com/ccarlaa'>Carla Clementino</a>
+; Gravação diponível neste <a href="https://youtu.be/NGXFQKYLecU">Link</a></p>
+
+https://youtu.be/NGXFQKYLecU
+
+## Conclusão Brainstorm
+Apesar de não ter o número de participantes recomendado, a técnica de brainstom foi muito bem realizada permitindo a obtenção de resultados significativos para o trabalho.
+
 ## Three-level scaling
 
 A tabela 9 descreve as perguntas para a inspeção da técnica *Three-level scaling*.  
