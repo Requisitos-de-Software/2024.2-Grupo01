@@ -75,6 +75,20 @@ A tabela 4 se refere a inpeção das personas
 
 ## Observação
 
+A tabela 6 descreve as perguntas para a inspeção da técnica de observação.
+
+
+    Tabela 6: Observação
+
+|  ID   |                                  Descrição                                   | Avaliação | Referência |  Autor  |
+| :---: | :-------------------------------------------------------------------------: | :-------: | :--------: | :-----: |
+|   1   |              A observação tem objetivo bem definido?                       |     -     | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) |  Eduarda |
+|   2   | O usuário observado se enquadra no perfil de pesquisa?                     |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png)    |   Davi  |
+|   3   | O método de observação escolhido está apresentado no documento?            |     -     |   [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png)    |  João  |
+|   4   | Existem notas de detalhes na observação além da lista de requisitos?       |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png)     | Davi |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+
 ## Introspecção 
 A tabela 7 descreve as perguntas para a inspeção da técnica de Introspecção
 
@@ -95,7 +109,18 @@ A tabela 7 descreve as perguntas para a inspeção da técnica de Introspecção
 
 ## Brainstorm
 
-## Tree Level Scale
+## Three-level scaling
+
+A tabela 9 descreve as perguntas para a inspeção da técnica *Three-level scaling*.  
+
+
+    Tabela 9: Three-level scaling
+|  ID   |                                    Descrição                                    | Avaliação | Referência |  Autor  |
+| :---: | :----------------------------------------------------------------------------: | :-------: | :--------: | :-----: |
+|   1   | A técnica avalia os requisitos com base na importância e urgência?             |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)        |  Renata   |
+|   2   | Os requisitos de alta prioridade são definidos com clareza?                    |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)     |  Davi   |
+|   3   | Há distinção entre requisitos médios e de baixa prioridade?                    |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png)      |  Carla   |
+|   4   | A técnica permite identificar prioridades de forma iterativa, se necessário?   |     -     |     [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T2.png)      |  Davi   |
 
 ## $100
 A tabela 10 descreve as perguntas para a inspeção da técnica de priorização $100
@@ -115,11 +140,13 @@ A tabela 10 descreve as perguntas para a inspeção da técnica de priorização
 
 ## Bibliográfia
 
-> David Benyon, 2011, 2ª ed, Interação Humano-Computador
+> 1 David Benyon, 2011, 2ª ed, Interação Humano-Computador
  
-> Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
+> 2 Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
 
-> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> 3 ASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.
+
+> 4 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -140,6 +167,14 @@ A tabela 10 descreve as perguntas para a inspeção da técnica de priorização
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>23/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+                <tr>
+            <td>24/11</td>
+            <td>1.1</td>
+            <td>Inspeção Obersavação e three level scaling </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
+            <td>24/11</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
