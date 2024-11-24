@@ -1,8 +1,8 @@
-## Introdução
-O artefato em desenvolvimento consiste em uma lista de perguntas projetadas para revisar a segunda etapa do projeto. Este documento de revisão é essencial para garantir que os artefatos entregues estejam em conformidade com os requisitos e padrões previamente estabelecidos pelo professor. Ele busca avaliar a qualidade dos artefatos e identificar melhorias necessárias, promovendo uma análise colaborativa. Esse processo envolve a participação de todos os membros do grupo, cada um assumindo uma função específica para garantir imparcialidade e objetividade na avaliação.
+## Introdução 
+Nesta etapa documentaremos a revisão dos artefatos desenvolvidos pelo grupo na etapa 2. Garantindo assim seu devido registro e classificação conforme os padrões estabelecidos no nosso projeto. 
 
 ## Objetivo
-O objetivo deste artefato é fornecer um conjunto estruturado de perguntas (listas de verificações) para a revisão de cada artefato criado na etapa 2. Por meio dessas perguntas, busca-se verificar e validar se os artefatos atendem aos critérios definidos no projeto, garantindo a consistência e a qualidade da entrega. As perguntas servirão como guia para a revisão, permitindo identificar problemas e corrigir possíveis falhas antes das etapas seguintes do projeto.
+O objetivo deste artefato é responder um conjunto estruturado de perguntas para a inspeção de cada artefato criado na etapa 2. Por meio dessas perguntas, busca-se verificar e validar se os artefatos atendem aos critérios definidos no projeto, garantindo a consistência e a qualidade da entrega. As perguntas servirão como guia para a revisão, permitindo identificar problemas e corrigir possíveis falhas antes das etapas seguintes do projeto. Cada lista de verificação respondida terá também um vídeo comprovando a execução de tal atividade. 
 
 ## Metodologia
 Para a elaboração deste artefato de revisão, os membros do grupo seguirão uma estrutura de trabalho organizada em três papéis: o autor do artefato, o revisor responsável pela formulação das perguntas, e o verificador, que avaliará as respostas com base nas perguntas formuladas. Nenhum integrante poderá realizar as perguntas ou a verificação do próprio artefato para manter a imparcialidade do processo.
@@ -17,7 +17,7 @@ Cada pergunta será documentada em uma tabela com os seguintes campos:
 
 Esse processo, dependendo da disponibilidade dos membros, será realizado de forma iterativa para garantir a revisão completa de cada artefato. Assim, esse artefato cumpre tanto uma função de verificação – pois analisa a consistência e correção dos artefatos – quanto de validação, ao confirmar se os artefatos atendem aos objetivos do projeto.
 
-## Artefados
+## Artefados 
 A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o integrante responsável pela realização da lista de verificação e o integrante responsável pela avaliação em si.
 
     Tabela 1: Organização da inspeção
@@ -87,37 +87,44 @@ A tabela 4 se refere a inpeção das personas
 
 ## Observação
 
-A tabela 6 descreve as perguntas para a inspeção da técnica de observação.
+A tabela 6 descreve as perguntas para a inspeção da técnica de observação. A lista foi realizada pelo membro [Davi](https://github.com/Jagaima) e a avaliação foi feita pela integrante [Renata](https://github.com/Renatinha28)
 
 
     Tabela 6: Observação
 
 |  ID   |                                  Descrição                                   | Avaliação | Referência |  Autor  |
 | :---: | :-------------------------------------------------------------------------: | :-------: | :--------: | :-----: |
-|   1   |              A observação tem objetivo bem definido?                       |     -     | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) |  Eduarda |
-|   2   | O usuário observado se enquadra no perfil de pesquisa?                     |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png)    |   Davi  |
-|   3   | O método de observação escolhido está apresentado no documento?            |     -     |   [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png)    |  João  |
-|   4   | Existem notas de detalhes na observação além da lista de requisitos?       |     -     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png)     | Davi |
+|   1   |              A observação tem objetivo bem definido?                       |     Sim     | [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB1.png) |  Eduarda |
+|   2   | O usuário observado se enquadra no perfil de pesquisa?                     |     Sim     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB2.png)    |   Renata  |
+|   3   | O método de observação escolhido está apresentado no documento?            |     Sim     |   [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB3.png)    |  João  |
+|   4   | Existem notas de detalhes na observação além da lista de requisitos?       |     Sim     |    [ABNT: VASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.](../../assets/images/OB4.png)     | Davi |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a> ; Gravação diponível neste <a href="">Link</a></p>  
+
+## Conclusão Observação 
+Como fica evidente, a observação foi realizada de maneira correta e não foi identificado correções com base na tabela 6.
 
 ## Introspecção 
-A tabela 7 descreve as perguntas para a inspeção da técnica de Introspecção
+A tabela 7 descreve as perguntas para a inspeção da técnica de Introspecção. A lista foi realizada pela integrante [Eduarda](https://github.com/erteduarda) e a avaliação foi feita pela integrante [Renata](https://github.com/Renatinha28)
+
 
     Tabela 7: Introspecção
 | ID  | Descrição                                                                                                | Avaliação | Referência                                                                                                         | Autor |
 | --- | -------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------ | ----- |
-| -   | O método de introspecção foi aplicado com base em cenários reais de uso da rede social?                  | -         | [Guia BABOK - Técnicas de Elicitação](https://www.iiba.org/babok-guide/)                                           | -     |
-| -   | Os requisitos elicitados refletem as principais funcionalidades esperadas por usuários de redes sociais? | -         | [Engenharia de Requisitos - Sommerville](https://www.pearson.com/store/p/software-engineering/P100000309253)       | -     |
-| -   | Foram identificados problemas ou limitações durante a aplicação da introspecção?                         | -         | [IEEE 29148 - Requisitos de Sistema e Software](https://standards.ieee.org/standard/29148-2018.html)               | -     |
-| -   | O método de introspecção capturou requisitos relacionados à privacidade e segurança de dados?            | -         | [Técnicas de Elicitação de Requisitos](https://requirements.com/)                                                  | -     |
-| -   | Os cenários descritos durante a introspecção são detalhados e incluem interações típicas dos usuários?   | -         | [Validação de Requisitos - PMI](https://www.pmi.org/learning/library/requirements-validation-7392)                 | -     |
-| -   | Os requisitos elicitados foram validados para garantir sua viabilidade técnica?                          | -         | [IEEE 830 - Documentação de Requisitos](https://standards.ieee.org/standard/830-1998.html)                         | -     |
-| -   | Foram identificados exemplos claros de situações em que a rede social seria utilizada?                   | -         | [Práticas de Engenharia de Requisitos](https://sciencedirect.com/topics/computer-science/requirements-engineering) | -     |
-| -   | Há evidências de que os requisitos elicitados estão alinhados com as expectativas dos usuários?          | -         | [Cenários de Uso - SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)            | -     |
+| -   | O método de introspecção foi aplicado com base em cenários reais de uso da rede social?                  | Sim        | [Guia BABOK - Técnicas de Elicitação](https://www.iiba.org/babok-guide/)                                           | -     |
+| -   | Os requisitos elicitados refletem as principais funcionalidades esperadas por usuários de redes sociais? | Sim         | [Engenharia de Requisitos - Sommerville](https://www.pearson.com/store/p/software-engineering/P100000309253)       | -     |
+| -   | Foram identificados problemas ou limitações durante a aplicação da introspecção?                         | Sim         | [IEEE 29148 - Requisitos de Sistema e Software](https://standards.ieee.org/standard/29148-2018.html)               | -     |
+| -   | O método de introspecção capturou requisitos relacionados à privacidade e segurança de dados?            | Sim         | [Técnicas de Elicitação de Requisitos](https://requirements.com/)                                                  | -     |
+| -   | Os cenários descritos durante a introspecção são detalhados e incluem interações típicas dos usuários?   | Sim         | [Validação de Requisitos - PMI](https://www.pmi.org/learning/library/requirements-validation-7392)                 | -     |
+| -   | Os requisitos elicitados foram validados para garantir sua viabilidade técnica?                          | Não se aplica         | [IEEE 830 - Documentação de Requisitos](https://standards.ieee.org/standard/830-1998.html)                         | -     |
+| -   | Foram identificados exemplos claros de situações em que a rede social seria utilizada?                   | Sim         | [Práticas de Engenharia de Requisitos](https://sciencedirect.com/topics/computer-science/requirements-engineering) | -     |
+| -   | Há evidências de que os requisitos elicitados estão alinhados com as expectativas dos usuários?          | Sim         | [Cenários de Uso - SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering)            | -     |
 
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>  
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a> ; Gravação diponível neste <a href="">Link</a></p>    
+
+## Conclusão Introspecção
+Como fica evidente, a introspecção foi realizada de maneira correta e não foi identificado correções com base na tabela 7.
 
 ## Brainstorm
 
@@ -173,20 +180,12 @@ A tabela 10 descreve as perguntas para a inspeção da técnica de priorização
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>23/11</td>
+            <td>24/11</td>
             <td>1.0</td>
-            <td>Inspeção Personas, $100 e Perfil do usuário </td>
+            <td>Inspeção e criação do documento </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td>23/11</td>
+            <td>24/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-        </tr>
-                <tr>
-            <td>24/11</td>
-            <td>1.1</td>
-            <td>Inspeção Obersavação e three level scaling </td>
-            <td><a href="https://github.com/Jagaima">Davi Nobre </a></td>
-            <td>24/11</td>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
