@@ -16,8 +16,8 @@ theme:
   custom_dir: overrides
   name: material
   language: pt-BR
-  # logo: assets/imagens/logo.png
-  # favicon: assets/imagens/logo.png
+  logo: /assets/images/Bluesky_app_icon.png
+  favicon: /assets/images/icon.svg
 
   icon:
     repo: fontawesome/brands/github
@@ -103,6 +103,7 @@ nav:
       - Questionário Elicitação: PerfilUsuario/Tecnicas/Questionario.md
       - Observação: PerfilUsuario/Tecnicas/Observacao.md
       - Introspecção: PerfilUsuario/Tecnicas/Introspeccao.md
-
+      - Brainstorm: PerfilUsuario/Tecnicas/Brainstorm.md
     - Tecnicas de Priorização:
       - Three Level Sacale: PerfilUsuario/TecnicasPrior/Three.md
+      

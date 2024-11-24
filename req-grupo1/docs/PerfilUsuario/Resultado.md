@@ -155,7 +155,7 @@ De acordo com a figura 7, a maioria compartilha pouco conteúdo nas redes sociai
 
 <center><p><b>Figura 7:</b> Questão 10</p></center>
 <center><img src="../../assets/questionario/image10.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>FAutor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ---
 
@@ -393,42 +393,51 @@ De acordo com a tabela 9, seguem as respostas para a pergunta: Como você acredi
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p>
 
 
-### Avaliação Geral do Perfil de Usuário
-Com base nas respostas coletadas, a persona desse estudo pode ser descrita como uma jovem adulta com idade entre 22 e 27 anos, predominantemente estudante e com alta frequência de uso de redes sociais. A persona utiliza as redes tanto para conexões pessoais quanto para objetivos profissionais, valorizando conteúdo interessante e informativo, privacidade e controle sobre o que compartilha.
+### Principais Características do Perfil de Usuário
 
-#### Principais Características do Perfil de Usuário
-##### Faixa Etária e Ocupação:
- - Jovem adulta, com maioria na faixa dos 22-27 anos.
- - Principalmente estudantes, indicando foco em aprendizado, atualização e conexão com temas acadêmicos e profissionais.
-
+#### Dados Demográficos
+  - Idade: Predominância de jovens adultos entre 22 e 27 anos.
+  - Ocupação: Maioria estudantes universitários ou em início de carreira.
+  - Educação: Alto nível de envolvimento acadêmico, sugerindo usuários com bom letramento digital.
+#### Comportamento de Uso
 ##### Motivação para Uso de Redes Sociais:
- - Usa redes sociais para comunicação, entretenimento e atualização de notícias.
- - Valoriza a divulgação de trabalho e também busca conteúdo interessante e útil para compartilhar com seus seguidores.
-
-##### Expectativas e Preferências:
- - Deseja uma experiência intuitiva e de fácil uso, com design prático e autoexplicativo.
- - A persona valoriza a possibilidade de controle sobre a privacidade, incluindo escolher quem pode ver suas postagens e saber o que está sendo compartilhado.
- - Prefere feedbacks diretos como curtidas e comentários e espera que a rede facilite a interação social sem invadir a privacidade.
-
-##### Preocupação com Privacidade e Segurança:
- - A privacidade é uma prioridade, e a persona espera que as redes protejam os dados de acordo com as normas (como a LGPD), com a possibilidade de compartilhar dados apenas com consentimento.
- - A persona demonstra uma preocupação com a segurança dos dados e sente que, atualmente, a privacidade é ilusória, já que muitas plataformas vendem informações aos anunciantes.
-
-##### Atitudes em Relação ao Conteúdo e Interação:
- - Prefere conteúdo em formato de vídeo e imagens, que sejam curtos e visuais, com destaque para conteúdos interessantes ou úteis.
- - Evita conteúdos gerados por IA, preferindo aqueles criados por pessoas e profissionais confiáveis.
- - Gosta de manter uma interação leve com outras pessoas, geralmente por meio de curtidas, com um foco menor em comentários.
-
-##### Percepção sobre Bluesky:
- - A persona vê o Bluesky como uma alternativa ao Twitter, com um ambiente mais controlado e menos suscetível a conteúdos tóxicos e propagandas políticas.
- - Espera que a plataforma ajude a manter contato com pessoas com interesses semelhantes, possibilitando um ambiente seguro para engajamento e divulgação de conteúdo.
+  - Comunicação com amigos, familiares e colegas.
+  - Atualização em temas de interesse acadêmico ou profissional.
+  - Entretenimento leve, com preferência por conteúdos informativos e curtos.
+##### Frequência de Acesso:
+  - Alta frequência diária, com uso regular para se manter conectado(a) a diferentes círculos sociais e profissionais.
+##### Tipos de Conteúdo Consumido e Compartilhado:
+  - Formatos de vídeo, imagens e textos curtos, focados em curiosidades, notícias e materiais educativos.
+  - Compartilha conteúdo interessante para amigos e seguidores, com foco em relevância e utilidade.
+#### Preferências de Experiência
+##### Interface e Navegação:
+  - Busca uma interface simples e intuitiva, sem elementos que confundam ou frustrem a interação.
+Valorização de ferramentas autoexplicativas e diretas, que reduzam o tempo gasto aprendendo a usar a plataforma.
+##### Interação Social:
+  - Prefere interações leves, como curtidas, e utiliza comentários de forma mais ocasional.
+Busca interações genuínas com outras pessoas, evitando ambientes altamente comercializados.
+##### Privacidade e Segurança:
+  - Altamente consciente sobre questões de privacidade e controle de dados.
+  - Espera funcionalidades claras para gerenciar quem pode visualizar suas postagens e acessar suas informações.
+  - Evita plataformas que utilizam algoritmos invasivos para coleta ou venda de dados.
+#### Valores e Expectativas
+##### Valores:
+  - Conexões autênticas.
+  - Respeito à privacidade.
+  - Transparência nas práticas de uso e coleta de dados.
+##### Expectativas:
+  - Experiência fluida e segura, com proteção contra conteúdos tóxicos e excesso de anúncios.
+  - Algoritmos que priorizem relevância e qualidade em vez de viés comercial.
+#### Percepção sobre Plataformas Alternativas
+Usuários tendem a considerar plataformas como Bluesky ou Mastodon atrativas, principalmente por oferecerem ambientes menos saturados por propaganda ou conteúdos politicamente carregados.
+Buscam plataformas que incentivem interações positivas e relevantes, sem abrir mão do controle sobre suas informações.
 
 #### Perfil Geral do perfil de usuário
-Essa persona é um(a) jovem estudante preocupado(a) com privacidade, que busca se atualizar e conectar com pessoas e informações relevantes. Prefere uma experiência personalizada, espera controle sobre o que compartilha e é atraído(a) por redes sociais que possibilitam interação autêntica e segura, sem muita interferência de algoritmos comerciais. É ativo(a) nas redes, porém espera uma rede social que ofereça maior controle de dados e um ambiente positivo para engajamento.
+O perfil desse usuário é o de um jovem adulto, ativo em redes sociais e consciente do impacto de suas interações online. Ele busca equilíbrio entre entretenimento e utilidade, prioriza o controle sobre sua experiência digital e prefere redes que incentivem um engajamento positivo, seguro e autêntico. Suas necessidades e preocupações refletem uma geração mais crítica em relação ao uso comercial de dados e mais exigente em termos de design e funcionalidades.
 
-## Referências Bibliográficas / Bibliográfias
+## Referência Bibliográfica
 
-> <a name="1"></a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 1. <a name="1"></a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## :round_pushpin: Histórico de Versão 
 

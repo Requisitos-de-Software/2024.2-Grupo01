@@ -1,28 +1,22 @@
 # :mag_right: Grupo 1 - Requisitos de Software
 
-<!-- <div align="center">
-    Logo do nosso app
-</div> -->
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Logo do Bluesky</p></font>
+<figure>
+    <img src="./assets/images/Bluesky_app_icon.png"  style="width: 90%; height: auto; object-fit: cover;">
+</figure>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=en_US">Google Play</a>, 2024</p></font>
+</div>
 
-## :round_pushpin: Sobre o projeto:
+
+## :round_pushpin: Sobre o projeto
 
 Esta página reúne os artefatos produzidos ao longo da disciplina de Requisitos de Software na Universidade de Brasília (UnB) durante o segundo semestre de 2024.2. O projeto do grupo teve como foco principal a análise dos requisitos funcionais e não funcionais do aplicativo Bluesky, disponível para dispositivos mobile.
 
-<figure>
-    <img src="./assets/images/bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
-</figure>
-
-<!-- 
-## :round_pushpin: Nome do app
-Link do site: <a href="" target="_blank"></a> -->
-
-
-<!-- ## :round_pushpin: Direitos autorais e licença -->
-
-
-## :round_pushpin: Equipe do projeto:
+## :round_pushpin: Equipe do projeto
 Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
 <div align="center">
+    <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de integrantes</p></font>
     <table>
     <tr>
         <th>Foto</th>
@@ -61,7 +55,7 @@ Os integrantes que compõem o grupo 1 estão presentes na Tabela 1.
         <td><a href="https://github.com/Renatinha28">@Renatinha28</a></td>
     </tr>
     </table>
-    <p>Tabela 1: Integrantes do Grupo 1 (Fonte: autores, 2024)</p>
+    <font size="3"><p style="text-align: center"><b>Autor:</b> Carla</p></font>
 </div>
 
 

@@ -13,10 +13,11 @@ Após a coleta, os dados foram organizados em uma planilha compartilhada, permit
 A figura 1 apresenta as disponibilidades dos integrantes.
 
 <div style="text-align: center;">
-    <h2>Figura 1: disponibilidades</h2>
+    <font size="3"><p style="text-align: center"><b>Figura 1:</b> disponibilidades</p></font>
+    <img src="../image.png"  style="width: 90%; height: auto; object-fit: cover;">
+    <font size="3"><p style="text-align: center"><b>Autor:</b> Carla</p></font>
 </div>
-![alt text](image.png)
-<figcaption>Autor: Carla </figcaption>
+
 
 ## Conclusão
 
@@ -50,7 +51,7 @@ Após a análise dos resultados coletados, foi decidido que as reuniões ocorrer
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/11</td>
             <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
-            <td><a href=""></a></td>>
+            <td><a href=""></a></td>
         </tr>
     </table>
 </div>

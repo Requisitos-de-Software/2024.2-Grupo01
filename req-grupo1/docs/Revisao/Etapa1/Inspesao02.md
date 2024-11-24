@@ -30,7 +30,7 @@ Para realizar a inspeção, o Grupo 01 utilizará uma lista de verificação esp
 | 17 | No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | SIM |07/11 |
 | 18 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. | SIM |07/11 |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ### Conclusão
 A estrega está boa, mas foram encontrados alguns erros. Aqui vão algumas sugestões de melhoria:
@@ -45,8 +45,8 @@ A seguir se encontra o vídeo da verificação realizada pelo grupo 01, todos os
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WqJllyL1EPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Referência Bibliográfica / Bibliografia
-[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+## Bibliografia
+ > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -75,7 +75,7 @@ A seguir se encontra o vídeo da verificação realizada pelo grupo 01, todos os
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/11</td>
             <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
-            <td><a href=""></a></td>>
+            <td><a href=""></a></td>
         </tr>
     </table>
 </div>
