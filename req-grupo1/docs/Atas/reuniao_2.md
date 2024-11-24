@@ -1,30 +1,74 @@
-## Ata da reunião - 27/10/2024
+# Ata da Reunião - 27/10/2024
 
-## Dados da reunião
+## Dados da Reunião
 
-|                                         Alunos presentes                                         |    Data    | Horário de inicio e fim |      Local       |
-| :----------------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Carla A. C. Ribeiro, Davi S. B. Nobre, Eduarda R. Tavares, João V. L. Ribeiro, Renata Q. Kurzawa | 27/10/2024 |      20:00 - 20:15      | Plataforma Teams |
+| Alunos Presentes                                                              | Data       | Horário de Início e Fim | Local             |
+| ----------------------------------------------------------------------------- | ---------- | ----------------------- | ----------------- |
+| Carla A. C. Ribeiro, Davi S. B. Nobre, Eduarda R. Tavares, João V. L. Ribeiro, Renata Q. Kurzawa | 27/10/2024 | 20:00 - 20:15          | Plataforma Teams  |
 
-## Objetivos da reunião
+---
 
-- Discusão e escolha do aplicativo a ser avaliado
+## Objetivos da Reunião
 
-## Atividades acordadas
+1. **Discussão e seleção do aplicativo a ser avaliado**:
+   - Cada membro apresentou um aplicativo para análise, destacando suas vantagens e limitações.
+   - O grupo definiu critérios de escolha com base na relevância, acessibilidade e impacto no contexto atual.
 
-#### Aplicativos escolhidos por cada integrante 
+2. **Planejamento de atividades relacionadas ao app escolhido**:
+   - Definição de tarefas iniciais para a avaliação detalhada do aplicativo.
 
+---
+
+## Decisões e Tópicos Abordados
+
+1. **Apresentação dos aplicativos avaliados por cada integrante**:
+   - Cada membro explicou sua escolha, destacando a funcionalidade principal, público-alvo e aspectos únicos dos aplicativos.
+
+2. **Critérios de escolha do aplicativo**:
+   - **Facilidade de contato com usuários**: Prioridade para aplicativos com uma base de usuários acessível.
+   - **Relevância no cenário atual**: Aplicativos com destaque ou impacto significativo recente.
+
+3. **Aplicativo escolhido**:
+   - O grupo decidiu avaliar o **BlueSky** devido à sua crescente visibilidade após a proibição de um concorrente no Brasil e pela facilidade de acesso aos usuários da plataforma.
+
+---
+
+## Atividades Acordadas
+
+### Aplicativos Avaliados por Cada Integrante
 
 | **Integrante** | **Aplicativo Avaliado** |
 | -------------- | ----------------------- |
 | Renata         | SUS                     |
 | Davi           | FAB                     |
 | João           | BlueSky                 |
-| Duda           | ITA                     |
-| Carla          | Github                  |
+| Eduarda        | ITA                     |
+| Carla          | GitHub                  |
 
+### Justificativa para a escolha do BlueSky:
+- **Crescimento recente**: A visibilidade do BlueSky aumentou no mercado brasileiro após a proibição de um concorrente direto.
+- **Facilidade de estudo**: A base de usuários ativa facilita o contato e a obtenção de feedback direto.
+- **Impacto social e inovação**: Representa um exemplo relevante de inovação tecnológica no atual contexto digital.
 
-- O aplicativo escolhido após as discusões foi o BlueSky, considerando a facilidade de contato com os usuários da plataforma e a relevância no contexto atual, tendo em vista a maior visibilidade do aplicativo em decorrência da proibição do seu concorrente no Brasil.
+---
+
+## Próximos Passos
+
+1. **Tarefas iniciais**:
+   - Realizar uma análise preliminar do aplicativo com foco nos seguintes aspectos:
+     - Termos de uso e políticas de privacidade.
+     - Funcionalidades principais e diferenciais.
+     - Experiência do usuário e pontos de melhoria.
+
+2. **Entrega dos resultados**:
+   - Cada integrante será responsável por entregar feedback detalhado sobre suas observações até a próxima reunião (30/10/2024).
+
+---
+
+## Encerramento
+
+A reunião foi encerrada pontualmente às 20:15, com todos os membros cientes das atividades definidas e comprometidos com os prazos acordados.
+
 
 ## Vídeo da gravação
 

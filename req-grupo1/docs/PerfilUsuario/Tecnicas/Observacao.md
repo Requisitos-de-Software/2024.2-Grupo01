@@ -20,7 +20,7 @@ A observação será conduzida de forma direta, com foco nas interações dos us
 
 ### Perfil do Usuária Observado:
 
-Para confirmar que o usuário selecionado se enquadra no perfil traçado foi solicitado que o mesmo respondesse o formulário de perfil do usuário. As respostas estão disponibilizada na tabela () abaixo abaixo:
+Para confirmar que o usuário selecionado se enquadra no perfil traçado foi solicitado que o mesmo respondesse o formulário de perfil do usuário. As respostas estão disponibilizada na tabela 1 abaixo abaixo:
 
 <center>
 <font size="3"><b>Tabela 1:</b> Perfil do usuário observado.</font>
@@ -135,68 +135,83 @@ Dessa forma, com base no perfil do usuário traçado para a plataforma podemos a
 
 ## Resultados
 
-Com base na entrevista realizada a cima os seguintes requisitos, presentes na tabela 2, foram elicitados:
+Com base na entrevista realizada a cima os seguintes requisitos, presentes na tabela 2 e 3, foram elicitados:
 <center>
-<font size="3"><b>Tabela 2:</b> Resultados.</font>
-<table>
+<font size="3"><b>Tabela 2:</b> Requisitos Funcinoais</font>
+<table border="1" style="border-collapse: collapse; width: 100%;">
     <thead>
         <tr>
-            <th><strong>Identificação</strong></th>
-            <th><strong>Descrição</strong></th>
+            <th>ID</th>
+            <th>Descrição</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>OB01</td>
-            <td>Deve ser possível realizar o login</td>
+            <td>RF01</td>
+            <td>O sistema deve permitir que o usuário realize o login.</td>
         </tr>
         <tr>
-            <td>OB02</td>
-            <td>Deve ser possível recuperar a senha no aplicativo</td>
+            <td>RF02</td>
+            <td>O sistema deve permitir que o usuário recupere a senha no aplicativo.</td>
         </tr>
         <tr>
-            <td>OB03</td>
-            <td>Deve ser possível acessar novos conteúdos rapidamente na plataforma</td>
+            <td>RF03</td>
+            <td>O sistema deve permitir acesso rápido a novos conteúdos.</td>
         </tr>
         <tr>
-            <td>OB04</td>
-            <td>Deve ser possível realizar postagens na plataforma</td>
+            <td>RF04</td>
+            <td>O sistema deve permitir que o usuário realize postagens.</td>
         </tr>
         <tr>
-            <td>OB05</td>
-            <td>Deve ser possível editar um post da plataforma</td>
+            <td>RF05</td>
+            <td>O sistema deve permitir que o usuário edite suas postagens.</td>
         </tr>
         <tr>
-            <td>OB06</td>
-            <td>Deve ser possível pesquisar uma comunidade</td>
+            <td>RF06</td>
+            <td>O sistema deve permitir que o usuário pesquise comunidades.</td>
         </tr>
         <tr>
-            <td>OB07</td>
-            <td>Deve ser possível favoritar uma comunidade</td>
+            <td>RF07</td>
+            <td>O sistema deve permitir que o usuário favorite comunidades.</td>
         </tr>
         <tr>
-            <td>OB08</td>
-            <td>Deve ser possível enviar um post para outro usuário</td>
+            <td>RF08</td>
+            <td>O sistema deve permitir que o usuário envie posts para outros usuários.</td>
         </tr>
         <tr>
-            <td>OB09</td>
-            <td>Deve ser possível ver as mensagens com outros usuários</td>
+            <td>RF09</td>
+            <td>O sistema deve permitir que o usuário visualize mensagens com outros usuários.</td>
         </tr>
         <tr>
-            <td>OB10</td>
-            <td>Deve ser possível editar o conteúdo do perfil</td>
-        </tr>
-        <tr>
-            <td>OB11</td>
-            <td>Deve ser possível personalizar o aplicativo (dark mode, idiomas…)</td>
-        </tr>
-        <tr>
-            <td>OB12</td>
-            <td>Deve ser possível ver as notificações</td>
+            <td>RF10</td>
+            <td>O sistema deve permitir que o usuário edite o conteúdo do perfil.</td>
         </tr>
     </tbody>
 </table>
-<font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Carla Clementino</a></font> 
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 3:</b> Requisitos Não Funcinoais</font>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th>Identificação</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>RNF01</td>
+            <td>O sistema deve permitir a personalização do aplicativo (modo escuro, idiomas, etc.).</td>
+        </tr>
+        <tr>
+            <td>RNF02</td>
+            <td>O sistema deve exibir notificações de forma eficiente.</td>
+        </tr>
+    </tbody>
+</table>
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
 </center>
 
 Além dos requisitos elicitados, foi possível realizar algumas observações: 

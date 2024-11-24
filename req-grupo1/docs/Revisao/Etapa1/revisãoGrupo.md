@@ -105,7 +105,7 @@ A tabela 5 mostra a lista de verificação da disponibilidade dos membros e foi 
 |  24   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  25   |                           Possui uma introdução ?                            |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM"></a>Link</p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM">Link</a></p>
 
 ## App Escolhido
 A tabela 6 mostra a lista de verificação da disponibilidade dos membros e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).

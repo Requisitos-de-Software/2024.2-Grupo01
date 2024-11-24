@@ -95,6 +95,15 @@ As tabelas 1 e 2 descreve os requisitos priorizados, e sua legenda é:
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
+
+## Vídeo do Three Level Scale
+
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Three Level Scale</p></font>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IqMZ8OWETdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center"><b>Autor:</b> Renata Quadros</p></font>
+</div>
+
 ## Referências Bibliográficas 
 > 1. <a id="ref1"></a> Bilheteria Digital, 2024. Disponível em:https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em 20, nov. 2024.
 
