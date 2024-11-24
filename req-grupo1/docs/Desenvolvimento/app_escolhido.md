@@ -8,7 +8,7 @@ O objetivo deste documento é esclarecer o processo de escolha do aplicativo a s
 
 ## Metodologia
 
-Seguindo a metodologia estabelecida na seção de [apps avaliados](apps_avaliados.md), foi feita uma análise comparativa entre os aplicativos analisados individualmente por cada integrante do grupo a fim de compreender qual app melhor se encaixa nos critérios estabelecidos para a escolha. Com base nessa análise, a seleção final da aplicação foi efetuada. Para a representação do sistema será utillizado um rich picture, ferramenta visual que permite explorar, reconhecer e definir uma situação de forma não estruturada, representando-a em um diagrama com símbolos, desenhos e palavras. Essa técnica ajuda a compreender diversos aspectos e perspectivas de um contexto, facilitando discussões e gerando entendimento compartilhado entre as partes envolvidas. Ela foi desenvolvida dentro da Soft Systems Methodology (SSM) (2008) de Peter Checkland. [1](#c1)
+Seguindo a metodologia estabelecida na seção de [apps avaliados](apps_avaliados.md), foi feita uma análise comparativa entre os aplicativos analisados individualmente por cada integrante do grupo a fim de compreender qual app melhor se encaixa nos critérios estabelecidos para a escolha. Com base nessa análise, a seleção final da aplicação foi efetuada. Para a representação do sistema será utillizado um rich picture, ferramenta visual que permite explorar, reconhecer e definir uma situação de forma não estruturada, representando-a em um diagrama com símbolos, desenhos e palavras. Essa técnica ajuda a compreender diversos aspectos e perspectivas de um contexto, facilitando discussões e gerando entendimento compartilhado entre as partes envolvidas. Ela foi desenvolvida dentro da Soft Systems Methodology (SSM) (2008) de Peter Checkland. [¹](#c1)
 
 ## Critérios para escolha
 
@@ -31,11 +31,11 @@ Baseado nos critérios supracitados, o aplicativo BlueSky foi escolhido pelos se
 O rich picture mostrado na figura 1 ilustra os processos e interações do sistema da Bluesky
 
 <div style="text-align: center;">
-    <h2>Figura 1: Rich Picture: Bluesky</h2>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Rich Picture: Bluesky</p></font>
 </div>
 <figure>
     <img src="../../assets/images/rp-bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Autor: Jõao Vitor</figcaption>
+    <font size="3"><b>Autor:</b> Jõao Vitor</font>
 </figure>
 
 #### Descrição dos componentes
@@ -59,7 +59,7 @@ O rich picture mostrado na figura 1 ilustra os processos e interações do siste
 
 Com o intuito de realizar o trabalho dentro da legalidade, [os termos de serviço da BlueSky](https://bsky.social/about/support/tos) foram verificados para garantir que não hajam restrições para o uso do app no projeto da disciplina. Segundo os termos de serviço:
 
-"7. **Open Source.** Some of Bluesky Social’s software is subject to open source licenses from MIT or Apache. Those portions of the software may be used in accordance with those open source licenses, which may be found in each open source repository.". [2](#c2)
+"7. **Open Source.** Some of Bluesky Social’s software is subject to open source licenses from MIT or Apache. Those portions of the software may be used in accordance with those open source licenses, which may be found in each open source repository.". [²](#c2)
 
 Ainda, em seus repositórios, temos sua licença MIT:
 
@@ -69,7 +69,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.". [3](#c3)
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.". [³](#c3)
 
 A seguir a licença Apache 2.0:
 
@@ -123,11 +123,11 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-END OF TERMS AND CONDITIONS". [4](#c4)
+END OF TERMS AND CONDITIONS". [⁴](#c4)
 
 Assim, tem-se que os termos do aplicativo BlueSky permitem seu uso para estudo na disciplina.
 
-## Referência Bibliográfica / Bibliografia
+## Referência Bibliográfica
 <a id="c1"></a>
 > 1. BETTEREVALUATION. Rich Pictures. Disponível em: https://www.betterevaluation.org/methods-approaches/methods/rich-pictures. Acesso em: 29 out. 2024.
 <a id="c2"></a>

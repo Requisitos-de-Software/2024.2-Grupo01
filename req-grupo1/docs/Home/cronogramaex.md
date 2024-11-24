@@ -14,28 +14,28 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 
 ## Etapa 1
     Tabela 1: Cronograma planejado - Etapa 1 - Planejamento
-| Atividade                           | Período de Desenvolvimento      | Responsáveis                      | Período de Revisão               | Revisores                                  |
-|-------------------------------------|---------------------------------|-----------------------------------|----------------------------------|--------------------------------------------|
-| Heatmap                             | Início: 25/10 - Fim: 28/10      | Carla                             | Início: 03/11 - Fim: 03/11       | Renata                                     |
-| Apps avaliados                      | Início: 28/10 - Fim: 05/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 06/11       | Carla, Eduarda, Davi, João Vitor, Renata                                          |
-| App selecionado                     | Início: 03/11 - Fim: 03/11      | João Vitor                                 | Início: 06/11 - Fim: 06/11       | Renata                                           |
-| Cópia do termo de uso do app        | Início: 03/10 - Fim: 03/11      | João Vitor                                 | Início: 03/11 - Fim: 03/11       | Renata                                         |
-| Ferramentas selecionadas            | Início: 22/10 - Fim: 03/11      | Davi                              | Início: 03/11 - Fim: 03/11       | Renata                                    |
-| Cronograma planejado                | Início: 27/10 - Fim: 03/11      | João Vitor e Renata               | Início: 06/11 - Fim: 06/11       |  Davi   |
-| Rich picture                        | Início: 28/10 - Fim: 05/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 06/11       |  Davi, João Vitor, Renata   |  
-| Inspeção |  Início: 04/11 - Fim: 07/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 04/11 - Fim: 06/11|  Carla, Eduarda, Davi, João Vitor, Renata | 
-| Gravação da apresentação e entrega  | Início: 06/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | João Vitor                                     |
-| Atualização do cronograma executado | Início: 06/11 - Fim: 06/11      | Renata                            | Início: 06/11 - Fim: 06/11       | João Vitor                                 |
-| Correção pós apresentação           | Início: 12/11 - Fim: 14/11      | Carla, Eduarda, Davi, João Vitor, Renata | Início: 14/11 - Fim: 14/11       | Carla, Eduarda, Davi, João Vitor, Renata   |
+| Atividade                           | Período de Desenvolvimento | Responsáveis                             | Período de Revisão         | Revisores                                |
+| ----------------------------------- | -------------------------- | ---------------------------------------- | -------------------------- | ---------------------------------------- |
+| Heatmap                             | Início: 25/10 - Fim: 28/10 | Carla                                    | Início: 03/11 - Fim: 03/11 | Renata                                   |
+| Apps avaliados                      | Início: 28/10 - Fim: 05/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 06/11 | Carla, Eduarda, Davi, João Vitor, Renata |
+| App selecionado                     | Início: 03/11 - Fim: 03/11 | João Vitor                               | Início: 06/11 - Fim: 06/11 | Renata                                   |
+| Cópia do termo de uso do app        | Início: 03/10 - Fim: 03/11 | João Vitor                               | Início: 03/11 - Fim: 03/11 | Renata                                   |
+| Ferramentas selecionadas            | Início: 22/10 - Fim: 03/11 | Davi                                     | Início: 03/11 - Fim: 03/11 | Renata                                   |
+| Cronograma planejado                | Início: 27/10 - Fim: 03/11 | João Vitor e Renata                      | Início: 06/11 - Fim: 06/11 | Davi                                     |
+| Rich picture                        | Início: 28/10 - Fim: 05/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 03/11 - Fim: 06/11 | Davi, João Vitor, Renata                 |
+| Inspeção                            | Início: 04/11 - Fim: 07/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 04/11 - Fim: 06/11 | Carla, Eduarda, Davi, João Vitor, Renata |
+| Gravação da apresentação e entrega  | Início: 06/11 - Fim: 06/11 | Renata                                   | Início: 06/11 - Fim: 06/11 | João Vitor                               |
+| Atualização do cronograma executado | Início: 06/11 - Fim: 06/11 | Renata                                   | Início: 06/11 - Fim: 06/11 | João Vitor                               |
+| Correção pós apresentação           | Início: 12/11 - Fim: 14/11 | Carla, Eduarda, Davi, João Vitor, Renata | Início: 14/11 - Fim: 14/11 | Carla, Eduarda, Davi, João Vitor, Renata |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center"><b>Autor: </b><a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Bibliografia
-> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
-> 2023.2 Economia DF. Econimia DF, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/. Acesso em: 15, nov. 2024.
+> 2. 2023.2 Economia DF. Econimia DF, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/. Acesso em: 15, nov. 2024.
 
-> Bilheteria Digital. Bilheteria Digital, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 15, nov. 2024.
+> 3. Bilheteria Digital. Bilheteria Digital, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 15, nov. 2024.
 
 ## :round_pushpin: Histórico de Versão 
 

@@ -154,7 +154,6 @@ A tabela 5 mostra os resultados da pergunta: Se pudesse mudar algo no Bluesky, o
 Com base nos resultados, os requisitos elicitados através do questionário é mostrado na tabela 6.
 
 <center><p><b>Tabela 6:</b> Requisitos elicitados</p></center>
-<center>
 
 |ID|Descrição|Implementação|
 |:----:|:-------:|:-------:|
@@ -168,18 +167,18 @@ Com base nos resultados, os requisitos elicitados através do questionário é m
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
-## Referências Bibliográficas 
+## Referência Bibliográfica
 > 1. <a id="ref1"></a> VAZQUEZ, C. SIMÕES, G (2016). Engenharia de Requisitos: Software Orientado a Negócio. BRASPORT. Rio de Janeiro, 2016.
 
 > 2. <a id="ref2"></a> 2023.2 Economia DF. Econimia DF, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/. Acesso em: 15, nov. 2024.
 
 > 3. <a id="ref3"></a> Meu INSS, 2024.1. Disponível em: https://vitorfleonardo.github.io/2024.1-Meu-INSS/. Acesso em 16, nov. 2024.
 
-## Bibliográfias
+## Bibliográfia
 
-> <a name="1"></a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 1. <a name="1"></a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## :round_pushpin: Histórico de Versão 
+## :round_pushpin: Histórico de Versão
 
 <div align="center">
     <table>

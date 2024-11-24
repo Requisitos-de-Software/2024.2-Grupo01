@@ -22,32 +22,108 @@ A observação será conduzida de forma direta, com foco nas interações dos us
 
 Para confirmar que o usuário selecionado se enquadra no perfil traçado foi solicitado que o mesmo respondesse o formulário de perfil do usuário. As respostas estão disponibilizada na tabela () abaixo abaixo:
 
-| Pergunta | Resposta |
-|---------------|---------------|
-| Nome ? | Bruna de Araújo |
-| Qual sua idade ? | 22 - 27 |
-| Qual sua ocupação ou área de atuação? |   Estudante de Design |
-| Com que frequência você usa redes sociais? |  Alta  |
-| Qual é seu nível de conforto ao utilizar tecnologias digitais? |  Alta  |
-| Em uma escala de 1 a 5, o quanto você considera importante estar atualizado em relação a novas tecnologias? |  2/5  |
-| Você costuma explorar todas as funcionalidades das redes sociais que usa, ou prefere um uso mais básico? |  Prefiro um uso mais básico  |
-| Por que você utiliza redes sociais? (ex.: comunicação, entretenimento, trabalho, atualização de notícias) |  Comunicação, entendimento e notícias  |
-| O que você mais valoriza em uma rede social? (ex.: privacidade, liberdade de expressão, conteúdo interessante, conexão com amigos) |  Privacidade, conexão, conteúdo   |
-| Quais são suas principais expectativas ao participar de uma nova rede social? |  Que haja moderação    |
-| Com que frequência você compartilha conteúdo em redes sociais? |  Alta  |
-| Em que situações você considera um conteúdo importante o suficiente para compartilhar com seus seguidores? |  Crimes de guerra  |
-| Você prefere consumir conteúdo criado por amigos, empresas ou por perfis de entretenimento e notícias? |  Criado por amigos , empresas  |
-| Qual o tipo de conteúdo você mais gosta de ver? (ex.: texto, vídeo, imagens) |  Imagem e vídeo   |
-| Você possui rejeição ou aprovação a conteúdo gerado por IA? |  Rejeição  |
-| Como você prefere interagir em redes sociais: comentando, curtindo ou compartilhando? |  Curtindo  |
-| Você valoriza uma experiência de rede social mais personalizada ou prefere interações mais amplas e abertas? |  Personalizada  |
-| Como você enxerga a questão da privacidade em redes sociais? |  4/5  |
-| Quais são suas expectativas em relação ao controle do que é compartilhado sobre você? |  Não quero que sejam compartilhado nenhum conteúdo sobre mim sem minha prévia autorização   |
-| Você utiliza redes sociais para fortalecer conexões pessoais ou para expandir sua rede profissional? |  Entrenimento  |
-| Que tipo de feedback você espera receber nas suas postagens? (ex.: comentários, curtidas, novas conexões) |  Curtida  |
-| Como você acredita que a Bluesky pode ajudar a alcançar seus objetivos pessoais e sociais? |  Fazendo amigos  |
-
-<p align="center">Tabela 1: Perfil do usuário observado. Autor: <a href="https://github.com/Renatinha28">Carla Clementino</a>.</p> 
+<center>
+<font size="3"><b>Tabela 1:</b> Perfil do usuário observado.</font>
+<table>
+    <thead>
+        <tr>
+            <th>Pergunta</th>
+            <th>Resposta</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nome?</td>
+            <td>Bruna de Araújo</td>
+        </tr>
+        <tr>
+            <td>Qual sua idade?</td>
+            <td>22 - 27</td>
+        </tr>
+        <tr>
+            <td>Qual sua ocupação ou área de atuação?</td>
+            <td>Estudante de Design</td>
+        </tr>
+        <tr>
+            <td>Com que frequência você usa redes sociais?</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Qual é seu nível de conforto ao utilizar tecnologias digitais?</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Em uma escala de 1 a 5, o quanto você considera importante estar atualizado em relação a novas tecnologias?</td>
+            <td>2/5</td>
+        </tr>
+        <tr>
+            <td>Você costuma explorar todas as funcionalidades das redes sociais que usa, ou prefere um uso mais básico?</td>
+            <td>Prefiro um uso mais básico</td>
+        </tr>
+        <tr>
+            <td>Por que você utiliza redes sociais? (ex.: comunicação, entretenimento, trabalho, atualização de notícias)</td>
+            <td>Comunicação, entretenimento e notícias</td>
+        </tr>
+        <tr>
+            <td>O que você mais valoriza em uma rede social? (ex.: privacidade, liberdade de expressão, conteúdo interessante, conexão com amigos)</td>
+            <td>Privacidade, conexão, conteúdo</td>
+        </tr>
+        <tr>
+            <td>Quais são suas principais expectativas ao participar de uma nova rede social?</td>
+            <td>Que haja moderação</td>
+        </tr>
+        <tr>
+            <td>Com que frequência você compartilha conteúdo em redes sociais?</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Em que situações você considera um conteúdo importante o suficiente para compartilhar com seus seguidores?</td>
+            <td>Crimes de guerra</td>
+        </tr>
+        <tr>
+            <td>Você prefere consumir conteúdo criado por amigos, empresas ou por perfis de entretenimento e notícias?</td>
+            <td>Criado por amigos, empresas</td>
+        </tr>
+        <tr>
+            <td>Qual o tipo de conteúdo você mais gosta de ver? (ex.: texto, vídeo, imagens)</td>
+            <td>Imagem e vídeo</td>
+        </tr>
+        <tr>
+            <td>Você possui rejeição ou aprovação a conteúdo gerado por IA?</td>
+            <td>Rejeição</td>
+        </tr>
+        <tr>
+            <td>Como você prefere interagir em redes sociais: comentando, curtindo ou compartilhando?</td>
+            <td>Curtindo</td>
+        </tr>
+        <tr>
+            <td>Você valoriza uma experiência de rede social mais personalizada ou prefere interações mais amplas e abertas?</td>
+            <td>Personalizada</td>
+        </tr>
+        <tr>
+            <td>Como você enxerga a questão da privacidade em redes sociais?</td>
+            <td>4/5</td>
+        </tr>
+        <tr>
+            <td>Quais são suas expectativas em relação ao controle do que é compartilhado sobre você?</td>
+            <td>Não quero que sejam compartilhados nenhum conteúdo sobre mim sem minha prévia autorização</td>
+        </tr>
+        <tr>
+            <td>Você utiliza redes sociais para fortalecer conexões pessoais ou para expandir sua rede profissional?</td>
+            <td>Entretenimento</td>
+        </tr>
+        <tr>
+            <td>Que tipo de feedback você espera receber nas suas postagens? (ex.: comentários, curtidas, novas conexões)</td>
+            <td>Curtida</td>
+        </tr>
+        <tr>
+            <td>Como você acredita que a Bluesky pode ajudar a alcançar seus objetivos pessoais e sociais?</td>
+            <td>Fazendo amigos</td>
+        </tr>
+    </tbody>
+</table>
+<font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Carla Clementino</a></font> 
+</center>
 
 Dessa forma, com base no perfil do usuário traçado para a plataforma podemos afirmar que a pessoa escolhida para realizar a observação se enquadra no perfil de usuários da plataforma.
 
@@ -60,23 +136,68 @@ Dessa forma, com base no perfil do usuário traçado para a plataforma podemos a
 ## Resultados
 
 Com base na entrevista realizada a cima os seguintes requisitos, presentes na tabela 2, foram elicitados:
-
-| **Identificação** | **Descrição**                                         |
-|-------------------|-----------------------------------------------------|
-| OB01             | Deve ser possível realizar o login                   |
-| OB02             | Deve ser possível recuperar a senha no aplicativo    |
-| OB03             | Deve ser possível acessar novos conteúdos rapidamente na plataforma |
-| OB04             | Deve ser possível realizar postagens na plataforma   |
-| OB05             | Deve ser possível editar um post da plataforma       |
-| OB06             | Deve ser possível pesquisar uma comunidade           |
-| OB07             | Deve ser possível favoritar uma comunidade           |
-| OB08             | Deve ser possível enviar um post para outro usuário  |
-| OB09             | Deve ser possível ver as mensagens com outros usuários |
-| OB10             | Deve ser possível editar o conteúdo do perfil        |
-| OB11             | Deve ser possível personalizar o aplicativo (dark mode, idiomas…) |
-| OB12             | Deve ser possível ver as notificações                |
-
-<p align="center">Tabela 2: Requisitos Elicitados. Autor: <a href="https://github.com/Renatinha28">Carla Clementino</a>.</p> 
+<center>
+<font size="3"><b>Tabela 2:</b> Resultados.</font>
+<table>
+    <thead>
+        <tr>
+            <th><strong>Identificação</strong></th>
+            <th><strong>Descrição</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>OB01</td>
+            <td>Deve ser possível realizar o login</td>
+        </tr>
+        <tr>
+            <td>OB02</td>
+            <td>Deve ser possível recuperar a senha no aplicativo</td>
+        </tr>
+        <tr>
+            <td>OB03</td>
+            <td>Deve ser possível acessar novos conteúdos rapidamente na plataforma</td>
+        </tr>
+        <tr>
+            <td>OB04</td>
+            <td>Deve ser possível realizar postagens na plataforma</td>
+        </tr>
+        <tr>
+            <td>OB05</td>
+            <td>Deve ser possível editar um post da plataforma</td>
+        </tr>
+        <tr>
+            <td>OB06</td>
+            <td>Deve ser possível pesquisar uma comunidade</td>
+        </tr>
+        <tr>
+            <td>OB07</td>
+            <td>Deve ser possível favoritar uma comunidade</td>
+        </tr>
+        <tr>
+            <td>OB08</td>
+            <td>Deve ser possível enviar um post para outro usuário</td>
+        </tr>
+        <tr>
+            <td>OB09</td>
+            <td>Deve ser possível ver as mensagens com outros usuários</td>
+        </tr>
+        <tr>
+            <td>OB10</td>
+            <td>Deve ser possível editar o conteúdo do perfil</td>
+        </tr>
+        <tr>
+            <td>OB11</td>
+            <td>Deve ser possível personalizar o aplicativo (dark mode, idiomas…)</td>
+        </tr>
+        <tr>
+            <td>OB12</td>
+            <td>Deve ser possível ver as notificações</td>
+        </tr>
+    </tbody>
+</table>
+<font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Carla Clementino</a></font> 
+</center>
 
 Além dos requisitos elicitados, foi possível realizar algumas observações: 
 
@@ -91,7 +212,7 @@ Além dos requisitos elicitados, foi possível realizar algumas observações:
 > 2. REQUISTOS DE SOFTWARE. 2022.2-Grasshopper. Disponível em: https://github.com/Requisitos-de-Software/2022.2-Grasshopper. Acesso em: 17 nov. 2024.
 > 3. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-## Histórico de Versão 
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

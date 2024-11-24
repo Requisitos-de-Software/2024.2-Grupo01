@@ -29,7 +29,7 @@
 
 - A reunião foi realizada presencialmente
 
-## Histórico de Versão
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

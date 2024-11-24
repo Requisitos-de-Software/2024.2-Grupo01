@@ -2,8 +2,8 @@
 
 ## Dados da reunião
 
-|                                     Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
-| :--------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
+|                                         Alunos presentes                                         |    Data    | Horário de inicio e fim |      Local       |
+| :----------------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
 | Carla A. C. Ribeiro, Davi S. B. Nobre, Eduarda R. Tavares, João V. L. Ribeiro, Renata Q. Kurzawa | 27/10/2024 |      20:00 - 20:15      | Plataforma Teams |
 
 ## Objetivos da reunião
@@ -15,22 +15,26 @@
 #### Aplicativos escolhidos por cada integrante 
 
 
-| **Integrante** | **Aplicativo Avaliado**|
-|-------------------|-----------------------------------------------------|
-| Renata             | SUS                   |
-| Davi             | FAB                   |
-| João             | BlueSky                   |
-| Duda             | ITA                   |
-| Carla             | Github                  |
+| **Integrante** | **Aplicativo Avaliado** |
+| -------------- | ----------------------- |
+| Renata         | SUS                     |
+| Davi           | FAB                     |
+| João           | BlueSky                 |
+| Duda           | ITA                     |
+| Carla          | Github                  |
 
 
 - O aplicativo escolhido após as discusões foi o BlueSky, considerando a facilidade de contato com os usuários da plataforma e a relevância no contexto atual, tendo em vista a maior visibilidade do aplicativo em decorrência da proibição do seu concorrente no Brasil.
 
-## Link da gravação
+## Vídeo da gravação
 
-[Link da primeira reunião](https://www.youtube.com/watch?v=fs-xdm9dMw8&feature=youtu.be)
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Reunião 2</p></font>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fs-xdm9dMw8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center"><b>Autor:</b> Carla Clementino</p></font>
+</div>
 
-## Histórico de Versão
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

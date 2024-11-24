@@ -2,8 +2,8 @@
 
 ## Dados da reunião
 
-|                                     Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
-| :--------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
+|                               Alunos presentes                               |    Data    | Horário de inicio e fim |      Local       |
+| :--------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
 | Carla A. C. Ribeiro, Davi S. B. Nobre, João V. L. Ribeiro, Renata Q. Kurzawa | 25/10/2024 |      20:00 - 20:15      | Plataforma Teams |
 
 ## Objetivos da reunião
@@ -20,11 +20,14 @@
 - João e Renata: Cronograma detalhado das atividades
 - Eduarda: Introdução das rich pictures
 
-## Link da gravação
+## Vídeo da gravação
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Reunião 1</p></font>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Mt_284t8x0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center"><b>Autor:</b> Carla Clementino</p></font>
+</div>
 
-[Link da primeira reunião](https://youtu.be/Mt_284t8x0U)
-
-## Histórico de Versão
+## :round_pushpin: Histórico de Versão 
 
 <div align="center">
     <table>

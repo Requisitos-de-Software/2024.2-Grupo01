@@ -23,18 +23,18 @@ Esse processo, assim como na avaliação das revisões da etapa 1 como um todo, 
 A tabela 1 mostra a lista de verificação do rich picture Carteira de Trabalho Digital e foi construído pelo integrante: Eduarda. Cada membro fez ao menos uma pergunta do checklist. A realização desta verificação foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
     Tabela 1: Rich Picture Carteira de trabalho Digital
-| ID | Descrição | Avaliação | Referência |
-| :----: | :------------: | :----------: | :-----------: |
-| 33 | A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos) | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
-| 34 | As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses? | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png) |
-| 35 | Os armazenamentos de dados são representados por retângulos? | NÃO | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png) |
-| 36 | As setas estão fazendo a devida função de mostrar a direção do fluxo de dados? | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png) |
-| 37 | O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis? | SIM |[Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png) |
-| 38 | A rich picture tem uma conceitualização clara de uma solução de design? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png) |
-| 39 | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png) |
-| 40 | Os principais clientes, autores, donos do sistema estão sendo identificados? | SIM | [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png) |
+|  ID   |                                                      Descrição                                                      | Avaliação |                                             Referência                                             |
+| :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------------------------------------------------------------: |
+|  33   |          A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos)           |    SIM    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
+|  34   |         As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses?          |    SIM    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png) |
+|  35   |                            Os armazenamentos de dados são representados por retângulos?                             |    NÃO    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png) |
+|  36   |                   As setas estão fazendo a devida função de mostrar a direção do fluxo de dados?                    |    SIM    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png) |
+|  37   |       O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis?       |    SIM    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png) |
+|  38   |                       A rich picture tem uma conceitualização clara de uma solução de design?                       |    SIM    |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png)        |
+|  39   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |    SIM    |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)        |
+|  40   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |    SIM    |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)        |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/kR6O71EsSFc">Link</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/kR6O71EsSFc">Link</a></p> 
 
 
 ### Conclusão Crteira de Trabalho Digital. 
@@ -46,18 +46,18 @@ O rich picture avaliado atingiu praticamente todas as especificações exigidas,
 A tabela 2 mostra a lista de verificação do rich picture do Github Mobile, a realização desta verificação foi feita pelo integrante [João Ribeiro](https://github.com/Joa0V). A integrante [Eduarda](https://github.com/erteduarda) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
 
     Tabela 2: Rich Picture Github Mobile
-| ID | Descrição | Avaliação | Referência |
-| :----: | :------------: | :----------: | :-----------: |
-| 33 | A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos) | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
-| 34 | As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses? | NÃO | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png) |
-| 35 | Os armazenamentos de dados são representados por retângulos? | NÃO | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png) |
-| 36 | As setas estão fazendo a devida função de mostrar a direção do fluxo de dados? | SIM | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png) |
-| 37 | O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis? | SIM |[Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png) |
-| 38 | A rich picture tem uma conceitualização clara de uma solução de design? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png) |
-| 39 | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? | SIM |[David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png) |
-| 40 | Os principais clientes, autores, donos do sistema estão sendo identificados? | SIM | [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png) |
+|  ID   |                                                      Descrição                                                      | Avaliação |                                             Referência                                             |
+| :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :------------------------------------------------------------------------------------------------: |
+|  33   |          A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos)           |    SIM    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png) |
+|  34   |         As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses?          |    NÃO    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png) |
+|  35   |                            Os armazenamentos de dados são representados por retângulos?                             |    NÃO    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png) |
+|  36   |                   As setas estão fazendo a devida função de mostrar a direção do fluxo de dados?                    |    SIM    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png) |
+|  37   |       O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis?       |    SIM    | [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png) |
+|  38   |                       A rich picture tem uma conceitualização clara de uma solução de design?                       |    SIM    |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png)        |
+|  39   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |    SIM    |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)        |
+|  40   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |    SIM    |       [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)        |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a> <br/>Gravação diponível neste <a href="https://youtu.be/vGyj1yBfGVY">Link</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/vGyj1yBfGVY">Link</a></p> 
 
 
 ### Conclusão  Github Mobile
@@ -71,25 +71,25 @@ A tabela 9 mostra a lista de verificação do App escolhido, foi realizada pela 
 
 |  ID   |                                                      Descrição                                                      | Avaliação |                                                                   Referência                                                                   |
 | :---: | :-----------------------------------------------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  46   |                                               Possui uma introdução ?                                               |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  47   |                            Possui a motivação e os critérios de escolha do aplicativo ?                             |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  47   |                 Possui cópia do termo de serviço do aplicativo permitindo o estudo na disciplina ?                  |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  48   |          A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos)           |     SIM     |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png)                       |
-|  49   |         As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses?          |     SIM     |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png)                       |
-|  50   |                            Os armazenamentos de dados são representados por retângulos?                             |     SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png)                       |
-|  51   |                   As setas estão fazendo a devida função de mostrar a direção do fluxo de dados?                    |     SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png)                       |
-|  52   |       O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis?       |     SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png)                       |
-|  53   |                       A rich picture tem uma conceitualização clara de uma solução de design?                       |     SIM     |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png)                              |
-|  54   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |     SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)                              |
-|  55   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |     SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)                              |
+|  46   |                                               Possui uma introdução ?                                               |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  47   |                            Possui a motivação e os critérios de escolha do aplicativo ?                             |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  47   |                 Possui cópia do termo de serviço do aplicativo permitindo o estudo na disciplina ?                  |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  48   |          A rich picture conta uma história? (usa imagens, figuras, palavras-chaves e rótulos descritivos)           |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP1.png)                       |
+|  49   |         As operações estão especificando o que o sistema faz? Estão representados por círculos ou elipses?          |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP2.png)                       |
+|  50   |                            Os armazenamentos de dados são representados por retângulos?                             |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP3.png)                       |
+|  51   |                   As setas estão fazendo a devida função de mostrar a direção do fluxo de dados?                    |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP4.png)                       |
+|  52   |       O limite do sistema está representando o limite correto, isto é, apenas a parte que somos responsáveis?       |    SIM    |                       [Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”](../../assets/images/RP5.png)                       |
+|  53   |                       A rich picture tem uma conceitualização clara de uma solução de design?                       |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP6.png)                              |
+|  54   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)                              |
+|  55   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)                              |
 
-<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ### Conclusão Bluesky
 
 Como podemos ver na tabela 9 o Bluesky foi realizado atendendo todos os critérios estabelecidos. Com o rich picture realizado foi possível ter uma melhor clareza do aplicativo e insentivando sua escolha para o projeto.
 
-## Referências Bibliográficas/Bibliográfia
+## Bibliográfia
 
 > David Benyon, 2011, 2ª ed, Interação Humano-Computador
  

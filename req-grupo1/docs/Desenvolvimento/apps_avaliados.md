@@ -15,19 +15,18 @@ Para garantir uma avaliação justa e objetiva, adotamos uma metodologia que con
 Todos os Rich Pictures foram feitos contendo os elementos principais, de acordo com "Introducing Rich Pictures - Rich Picture Drawing Guidelines", como mostra a figura 1.
 
 <div style="text-align: center;">
-    <h2>Figura 1: Elementos - Rich Picture</h2>
+<font size="3"><p style="text-align: center"><b>Figura 1:</b> Elementos - Rich Picture</p></font>
 </div>
 <figure>
     <img src="../../assets/images/RP0.png"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: Introducing Rich Pictures - Rich Picture Drawing Guidelines  </figcaption>
+    <font size="3"><b>Fonte:</b> Introducing Rich Pictures - Rich Picture Drawing Guidelines</font>
 </figure>
 
 ## Tabela de apps avaliados
 A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho de cada descrição da avaliação neste documento, além do membro do grupo responsável pela avaliação.
 
 <div style="text-align: center;">
-    <p>Tabela 1: Apps avaliados</p>
-
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Apps avaliados</p></font>
     <table style="margin: 0 auto;">
         <tr>
             <th>App avaliado</th>
@@ -54,8 +53,7 @@ A Tabela 1 indica todos os aplicativos avaliados pelo grupo, indicando o caminho
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
-
-    <p>Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
+    <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font>
 </div>
 
 ## Meu SUS Digital
@@ -71,12 +69,13 @@ O Sistema Único de Saúde (SUS) é o sistema público de saúde brasileiro, cri
 Foi feito para o Meu SUS Digital uma representação, mostrado na Figura 2, em Rich Picture, que ajuda a ilustrar de forma visual e simplificada os processos e interações envolvidos. Através dessa abordagem visual, é possível visualizar melhor o funcionamento do sistema e facilitar a comunicação entre diferentes membros da equipe ou stakeholders que talvez não estejam familiarizados com os detalhes técnicos do projeto.
 
 <div style="text-align: center;">
-    <h2>Figura 2: Rich Picture: Meu SUS Digital</h2>
+<font size="3"><p style="text-align: center"><b>Figura 2:</b> Rich Picture: Meu SUS Digital</p></font>
 </div>
 <figure>
     <img src="../../assets/images/rp-renata.png" style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Autor: Renata Quadros</figcaption>
+    <font size="3"><b>Autor:</b> Renata Quadros</font>
 </figure>
+
 ### Descrição dos Componentes
 
 1. Usuário:
@@ -93,6 +92,7 @@ Foi feito para o Meu SUS Digital uma representação, mostrado na Figura 2, em R
     - Os nomes de cada ator são descritos logo abaixo do desenho de cada um.
     - Algumas descrições são utilizadas no fluxo (setas) para facilitar o entendimento
 
+---
 
 ## BlueSky
 A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às redes sociais tradicionais com uma abordagem descentralizada. Assim, sua proposta é promover a expressão de seus usuários de acordo com suas próprias regras, sem estar a mercê das decisões de uma grande corporação. Dentre os pontos positivos para a escolha do BlueSky para o projeto da disciplina Requisitos de Software estão:
@@ -107,11 +107,11 @@ A BlueSky é uma plataforma de rede social que surgiu como uma alternativa às r
 O rich picture da figura 3 ilustra os processos e interações do sistema da Bluesky
 
 <div style="text-align: center;">
-    <h2>Figura 3: Rich Picture: Bluesky</h2>
+<font size="3"><p style="text-align: center"><b>Figura 3:</b> Rich Picture: Bluesky</p></font>
 </div>
 <figure>
     <img src="../../assets/images/rp-bluesky.png"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Autor: João Vitor</figcaption>
+    <font size="3"><b>Autor:</b> João Vitor</font>
 </figure>
 
 #### Descrição dos componentes
@@ -131,6 +131,8 @@ O rich picture da figura 3 ilustra os processos e interações do sistema da Blu
 
     - Um usuário moderador tem a capacidade de classificar contas por meio de rótulos com base em suas ações no sistema. Além disso, é possível que um moderador bloqueie uma conta, caso a mesma infrinja os termos de uso.
 
+---
+
 ## Carteira de Trabalho Digital
 A Carteira de Trabalho Digital é um aplicativo desenvolvido pelo governo brasileiro para simplificar o acesso e gestão das informações trabalhistas dos cidadãos. Entre os benefícios de escolher a Carteira de Trabalho Digital para o projeto da disciplina de Requisitos de Software, destacam-se:
 
@@ -146,11 +148,11 @@ Carteira de Trabalho Digital, destacando as interações dos usuários com as fu
 app.
 
 <div style="text-align: center;">
-    <h2>Figura 4: Rich Picture: Carteira de Trabalho Digital</h2>
+<font size="3"><p style="text-align: center"><b>Figura 4:</b> Rich Picture: Carteira de Trabalho Digital</p></font>
 </div>
 <figure>
     <img src="../../assets/images/rp.png"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Autor: Eduarda </figcaption>
+    <font size="3"><b>Autor:</b> Eduarda </font>
 </figure>
 
 #### Descrição dos Componentes
@@ -168,6 +170,8 @@ trabalho de forma digital, conectando-se diretamente com a internet para enviar 
     - O app usa formulários para coletar dados dos usuários para o banco de vagas, e uma função de pesquisa
 para facilitar a consulta de informações sobre abono salarial, de forma ágil e intuitiva.
 
+---
+
 ## Força áerea brasileira
 Força áerea brasileira é uma organização militar brasileira que tem com o intuito manter a segurança áerea nacional. Sua comunicação principal com a população e a mídia se dá através de seu site e de deu app que será avaliado aqui. entre os pontos positivos para a escolha do app da FAB para o projeto da disciplina Requisitos de Software estão os seguintes:
 
@@ -180,11 +184,11 @@ Força áerea brasileira é uma organização militar brasileira que tem com o i
 A figura 5 mostra o Rich Picture que representa o fluxo de informações e os principais elementos do sistema na Força Aérea Brasileira. Destacando suas interações com o usuário e demais papeis que representam um todo de funcionalidades do app. 
 
 <div style="text-align: center;">
-    <h2>Figura 5: Rich Picture: Força áerea brasileira</h2>
+<font size="3"><p style="text-align: center"><b>Figura 5:</b> Rich Picture: Força áerea brasileira</p></font>
 </div>
 <figure>
     <img src="../../assets/images/img4.jpg"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Autor: Davi </figcaption>
+    <font size="3"><b>Autor:</b> Davi </font>
 </figure>
 
 ### Descrição dos Componentes
@@ -202,6 +206,7 @@ A figura 5 mostra o Rich Picture que representa o fluxo de informações e os pr
     - Os nomes de cada ator são descritos na área de legenda das imagens
     - Algumas descrições são utilizadas no fluxo (setas) para facilitar o entendimento
 
+---
 
 ## Github Mobile
 
@@ -209,11 +214,11 @@ A figura 5 mostra o Rich Picture que representa o fluxo de informações e os pr
 A figura 6 e 7 representa o Rich Picture realizado.
 
 <div style="text-align: center;">
-    <h2>Figura 6: Rich Picture: Github Mobile</h2>
+<font size="3"><p style="text-align: center"><b>Figura 6:</b> Rich Picture: Github Mobile</p></font>
 </div>
 <figure>
     <img src="../../assets/images/carla_rich_picture.jpg"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Autor: Carla A. C. Ribeiro </figcaption>
+    <font size="3"><b>Autor:</b> Carla A. C. Ribeiro </font>
 </figure>
 
 <div style="text-align: center;">
@@ -221,7 +226,7 @@ A figura 6 e 7 representa o Rich Picture realizado.
 </div>
 <figure>
     <img src="../../assets/images/rich_description.jpg"  style="width: 70%; height: auto; object-fit: cover;">
-    <figcaption>Autor: Carla A. C. Ribeiro </figcaption>
+    <font size="3"><b>Autor:</b> Carla A. C. Ribeiro </font>
 </figure>
 
 
@@ -235,15 +240,17 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
 
 <p>O GitHub Mobile oferece diversas funcionalidades que permitem aos usuários interagir de forma eficiente com seus projetos e colaborar com outros desenvolvedores. Entre as funcionalidades disponíveis, destacam-se:</p> <ul> <li><strong>Login:</strong> Permite aos usuários fazerem login na plataforma, garantindo acesso seguro e personalizado às suas informações e projetos.</li> <li><strong>Hospedagem de Projetos:</strong> Usuários podem hospedar seus próprios projetos, facilitando o compartilhamento e gerenciamento de código-fonte com colaboradores e a comunidade.</li> <li><strong>Visualizar Projetos:</strong> Os usuários podem explorar outros projetos hospedados na plataforma, contribuindo para a comunidade e aprendendo com diferentes abordagens e soluções de software.</li> <li><strong>Contribuição:</strong> Permite que os usuários contribuam com código ou melhorias para projetos de outros desenvolvedores, por meio de pull requests e submissões de alterações.</li> <li><strong>Debate:</strong> O GitHub Mobile possibilita a interação entre desenvolvedores por meio de discussões em issues, onde é possível debater ideias, tirar dúvidas e colaborar nas decisões de projeto.</li> <li><strong>Visualizar Versões:</strong> Usuários podem acessar e comparar diferentes versões de um projeto, analisando histórico de mudanças, correções de bugs e novas funcionalidades implementadas.</li> </ul>
 
+---
 
-## Referência Bibliográfica / Bibliografia
+## Referência Bibliográfica
 > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 <a id="c1"></a>
-> 2. Monk, A., & Howells, K. (n.d.). Introducing Rich Pictures: Rich Picture Drawing Guidelines.
-> 3. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
-> 4. GitHub Mobile. GitHub. Disponível em: https://github.com/mobile. Acesso em: 10 nov. 2024.
 
-
+## Bibliografia
+> 1. Monk, A., & Howells, K. (n.d.). Introducing Rich Pictures: Rich Picture Drawing Guidelines.
+> 2. Meu SUS Digital. SUS, 2024. Dispinível em: https://meususdigital.saude.gov.br/login. Acesso em: 06 nov 2024.
+> 3. GitHub Mobile. GitHub. Disponível em: https://github.com/mobile. Acesso em: 10 nov. 2024.
+> 4. Carteira de trabalho digital. Disponível em: https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital. Acessado em: 05 nov. 2024.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -289,7 +296,7 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>06/11</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td><a href=""></a></td>>
+            <td><a href=""></a></td>
         </tr>
         <tr>
             <td>05/11</td>
@@ -298,7 +305,7 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
             <td><a href="https://github.com/Jagaima">Carla Clementino</a></td>
             <td>06/11</td>
             <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
-            <td><a href=""></a></td>>
+            <td><a href=""></a></td>
         </tr>
         <tr>
             <td>15/11</td>
@@ -307,7 +314,7 @@ Representados por ícones de usuários, os usuários do GitHub Mobile têm acess
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/11</td>
             <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
-            <td><a href=""></a></td>>
+            <td><a href=""></a></td>
         </tr>
     </table>
 </div>

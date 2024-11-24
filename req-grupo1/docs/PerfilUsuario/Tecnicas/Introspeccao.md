@@ -28,7 +28,7 @@ Para minha introspeção eu imaginei o seguinte cenário: Eu coordeno um clube d
 | **RF08** | Os usuários devem poder interagir com postagens por meio de comentários, curtidas e respostas. | Davi |SIM|
 | **RF09** | O sistema deve permitir a aplicação de filtros avançados, como autor do post, data de publicação ou popularidade, para melhorar a experiência de busca. | Davi | NÃO|
 
-<p align="center">Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 ### Requisitos Não Funcionais
 
@@ -44,7 +44,7 @@ Para minha introspeção eu imaginei o seguinte cenário: Eu coordeno um clube d
 | **RNF07** | O sistema deve permitir que o usuário personalize seus feeds e notificações facilmente, com opções para ajustar preferências de conteúdo e formato. | Davi | SIM|
 | **RNF08** | O sistema deve garantir a privacidade do usuário, permitindo que ele controle quem pode ver suas atividades e reviews, com políticas claras sobre coleta e uso de dados. | Davi | SIM|
 
-<p align="center">Autor: <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 ## Introspeção de João Ribeiro.
 
@@ -73,7 +73,7 @@ Para a introspeção imaginei as [personas criadas](../Personas.md) em situaçõ
 | **RF26** |      Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de moderação para não permitir/permitir a interação com os perfis contidos na lista      |    João Ribeiro     |     SIM      |
 | **RF27** |                                                    O usuário deve poder visualizar a quantidade de vezes em que sua publicação foi visualizada                                                     |    João Ribeiro     |     NÃO      |
 
-<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ### Requisitos Não Funcionais
 
@@ -88,13 +88,13 @@ Para a introspeção imaginei as [personas criadas](../Personas.md) em situaçõ
 | **RNF14** |                                                     O aplicativo deve indicar ao usuário quando uma ação não pode ser concluída e o motivo para isso                                                     |    João Ribeiro     |     NÃO      |
 
 
-<p align="center">Autor: <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
 ## Referência Bibliográfica
 
-> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2024. Disponível em <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> </br> cessado no dia 17/11/2024 ás 20:00
+> 1. SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2024. Disponível em <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> </br> cessado no dia 17/11/2024 ás 20:00
 
-> Analise de requisitos bilheteria digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/> Acessado no dia 17/11/2024 ás 21:36
+> 2. Analise de requisitos bilheteria digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/> Acessado no dia 17/11/2024 ás 21:36
 
 ## :round_pushpin: Histórico de Versão 
 <div align="center">

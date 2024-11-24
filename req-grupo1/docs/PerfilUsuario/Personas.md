@@ -11,11 +11,13 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 
 ### **Persona 1 - primária**
 
-<figure>
-    <figcaption>Figura 1: Persona primária - Bruno Andrade</figcaption>
-    <img src="../../assets/images/personas/persona1.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: This person doesnt exists, 2024</figcaption>
-</figure>
+<div align="center">
+    <font size="3"><p style="text-align: center"><b> Figura 1:</b> Persona primária - Bruno Andrade</font>
+    <figure>
+        <img src="../../assets/images/personas/persona1.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
+    </figure>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
+</div>
 
 - **Nome**: Bruno Andrade
 - **Idade:** 23
@@ -31,11 +33,13 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 
 ### **Persona 2 - primária**
 
-<figure>
-    <figcaption>Figura 2: Persona primária - Fernanda Ramos</figcaption>
-    <img src="../../assets/images/personas/persona2.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: This person doesnt exists, 2024</figcaption>
-</figure>
+<div align="center">
+    <font size="3"><p style="text-align: center"><b> Figura 2:</b> Persona primária - Fernanda Ramos</font>
+    <figure>
+        <img src="../../assets/images/personas/persona2.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
+    </figure>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
+</div>
 
 - **Nome:** Fernanda Ramos
 - **Idade:** 19
@@ -51,11 +55,13 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 
 ### **Persona 3 - secundária**
 
-<figure>
-    <figcaption>Figura 2: Persona secundária - Juliana Almeida</figcaption>
-    <img src="../../assets/images/personas/persona3.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: This person doesnt exists, 2024</figcaption>
-</figure>
+<div align="center">
+    <font size="3"><p style="text-align: center"><b> Figura 3:</b> Persona secundária - Juliana Almeida</font>
+    <figure>
+        <img src="../../assets/images/personas/persona3.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
+    </figure>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
+</div>
 
 - **Nome:** Juliana Almeida
 - **Idade:** 33
@@ -70,12 +76,13 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 - **Breve descrição:** Juliana Almeida tem 33 anos e é profissional de saúde na área da psicologia. Ela busca estar sempre atualizada com os acontecimentos em âmbito geral e em sua área de atuação, assim, ela utiliza das redes sociais de 3 a 4 dias na semana para acompanhar novas pesquisas e debates sobre saúde mental. Para ela é importante que o conteúdo apresentado seja relevante e bem fundamentado, além de possível compartilhar esses conteúdos relevantes com seus seguidores. Ainda, por ser profissional da saúde, ela valoriza sua privacidade e está cada vez mais preocupada com a segurança de seus dados.
 
 ### **Persona 4 - antipersona**
-
-<figure>
-    <figcaption>Figura 2: Antipersona - Sérgio Rodrigues</figcaption>
-    <img src="../../assets/images/personas/persona4.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: This person doesnt exists, 2024</figcaption>
-</figure>
+<div align="center">
+    <font size="3"><p style="text-align: center"><b> Figura 4:</b> Antipersona - Sérgio Rodrigues</font>
+    <figure>
+        <img src="../../assets/images/personas/persona4.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
+    </figure>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
+</div>
 
 - **Nome:** Sérgio Rodrigues
 - **Idade:** 72
@@ -89,7 +96,7 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
     2. Que ofereça conteúdo fútil
 - **Breve descrição:** Sérgio tem 72 anos, hoje aposentado, passou a maior parte da vida trabalhando como contador, frequenta livrarias e tem como passa-tempo a jardinagem. Mora sozinho na mesma cidade que seus filhos e netos os quais o visitam com frequência. Entretanto, sente-se frustrado por não conseguir conectar-se com seus netos, já que passam a maior parte do tempo jogando e utilizando de redes sociais e não dão atenção às pessoas a sua volta. Ele gostaria de passar mais tempo com seus entes queridos e compartilhar momentos significativos.
 
-## Referência Bibliográfica / Bibliografia
+## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 > 2. Alan, C; Reimann, R; David, C. 2007. About Face 3: The Essentials of Interaction Design. Vol. 2007. Wiley, Nova Iorque.

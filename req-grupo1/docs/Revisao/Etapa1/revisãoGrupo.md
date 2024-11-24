@@ -24,14 +24,14 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 | :-------------: | :----: | :-----------------------------------: | :--------------------------------------: |
 |      Home       |  1.0   |                Renata                 |                   Davi                   |
 |      ATAs       |  1.0   |                Renata                 |                 Eduarda                  |
-|  Apresentação   |  1.0   |                Renata                 |                    João Ribeiro                     |
-|   Cronograma    |  1.1   |                Eduarda                |                    Carla                     |
+|  Apresentação   |  1.0   |                Renata                 |               João Ribeiro               |
+|   Cronograma    |  1.1   |                Eduarda                |                  Carla                   |
 | Disponibilidade |  1.0   |                Renata                 |                   Davi                   |
 |   Ferramentas   |  1.0   |             João Ribeiro              |                  Renata                  |
 | Apps Avaliados  |  1.4   |                 Davi                  | Carla, Davi, Eduarda, João Vitor, Renata |
-|  App escolhido  |  1.0   |             João Ribeiro              |                    Renata                    |
+|  App escolhido  |  1.0   |             João Ribeiro              |                  Renata                  |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center"><b>Autor:</b><a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 
 ## Home
@@ -48,7 +48,7 @@ A tabela 2 mostra a lista de verificação da página inicial e foi construído 
 |  06   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  07   |                           Possui uma introdução ?                            |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/9778qsS3u7s">Link</a></p>  
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/9778qsS3u7s">Link</a></p>  
 
 ### Conclusão Home.
 
@@ -60,14 +60,14 @@ A tabela 3 mostra a lista de verificação da apresentação após avaliação f
     Tabela 3: apresentações
 |  ID   |                                  Descrição                                   | Avaliação |                                                                   Referência                                                                   |
 | :---: | :--------------------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
-|  15   |                  Possui o histórico de versão padronizado ?                  |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  16   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  17   |                    Possui referência e/ou bibliografia ?                     |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  18   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  19   |                           Possui uma introdução ?                            |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
-|  20   |   As apresentações possuem vídeos na categoria "não listado" no youtube ?    |     SIM     | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  15   |                  Possui o histórico de versão padronizado ?                  |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  16   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                  |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  17   |                    Possui referência e/ou bibliografia ?                     |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  18   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  19   |                           Possui uma introdução ?                            |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
+|  20   |   As apresentações possuem vídeos na categoria "não listado" no youtube ?    |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ### Conclusão Apresentação.
 
@@ -91,7 +91,7 @@ A tabela 4 mostra a lista de verificação do cronograma do projeto e foi constr
 | 10  | Todas as tabelas e imagens são referenciadas no texto, possuem legendas e fontes?                   | SIM       | [Normas de Formatação para Imagens e Tabelas](https://www.normasbrasil.com.br/abnt/)                    |
 | 11  | O texto está conforme as normas padrão de escrita?                                                  | SIM       | [Normas de Especificação Técnica](https://www.normasbrasil.com.br/normas-de-escrita/)                   |
 
-<p align="center">Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/wC4EQEy_fhc">Link</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/wC4EQEy_fhc">Link</a></p>
 
 ## Disponibilidade
 A tabela 5 mostra a lista de verificação da disponibilidade dos membros e foi construído pela integrante [Renata](https://github.com/Renatinha28).A verificação dos itens desta tabela foi feita pelo integrante [Davi](https://github.com/Jagaima). A integrante [Renata](https://github.com/Renatinha28) ficou responsável pelas perguntas durante a revisão registrada em vídeo. 
@@ -105,7 +105,7 @@ A tabela 5 mostra a lista de verificação da disponibilidade dos membros e foi 
 |  24   | As tabelas ou imagens possuem legenda e fonte? Elas são chamadas nos textos? |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  25   |                           Possui uma introdução ?                            |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM"></a>Link</p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/ea-8hbItREM"></a>Link</p>
 
 ## App Escolhido
 A tabela 6 mostra a lista de verificação da disponibilidade dos membros e foi construído pela integrante [Eduarda Tavares](https://github.com/erteduarda).
@@ -125,7 +125,7 @@ A tabela 6 mostra a lista de verificação da disponibilidade dos membros e foi 
 |  55   | A rich picture capta os principais relacionamentos conceituais entre as principais entidades conceitual do sistema? |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP7.png)                              |
 |  56   |                    Os principais clientes, autores, donos do sistema estão sendo identificados?                     |    SIM    |                             [David Benyon, 2011, 2ª ed, Interação Humano-Computador](../../assets/images/RP8.png)                              |
 
-<p align="center">Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/3GW-YkQgrU0">Link</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/3GW-YkQgrU0">Link</a></p>
 
 ## Ferramentas
 A tabela 7 mostra a lista de verificação das ferramentas utilizadas/a serem utilizadas no projeto.
@@ -140,7 +140,7 @@ A tabela 7 mostra a lista de verificação das ferramentas utilizadas/a serem ut
 |  44   |                  Possui o histórico de versão padronizado ?                   |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  45   |                  Possui o(s) autor(es) e o(s) revisor(es) ?                   |    SIM    | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Autor: <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/0KakGA72RMU">Link</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a>; Gravação diponível neste <a href="https://youtu.be/0KakGA72RMU">Link</a></p>
 
 ## ATAs
 A tabela 8 mostra a lista de verificação das ATAS e foi construído pela integrante [Renata](https://github.com/Renatinha28).
@@ -156,20 +156,18 @@ A tabela 8 mostra a lista de verificação das ATAS e foi construído pela integ
 |  13   | As ATAs possuem data, horário de inicío e fim, participantes, objetivo, atividades definidas, entre outros? |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 |  14   |                                O artefato possui as gravações das reuniões?                                 |      SIM      | [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf) |
 
-<p align="center">Autor: <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/VYSEz68pLCg">Link</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a>; Gravação diponível neste <a href="https://youtu.be/VYSEz68pLCg">Link</a></p>
 
-## Referências Bibliográficas/Bibliográfia
+## Bibliográfia
 
-> David Benyon, 2011, 2ª ed, Interação Humano-Computador
+> 1. David Benyon, 2011, 2ª ed, Interação Humano-Computador
  
-> Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”
+> 2. Slide “Introducing Rich Pictures – Rich Picture Drawing Guidelines”
 
-> [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> 3. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
 
-## :round_pushpin: Histórico de Versão 
-
-https://youtu.be/wC4EQEy_fhc
+## :round_pushpin: Histórico de Versão
 
 <div align="center">
     <table>
@@ -220,7 +218,7 @@ https://youtu.be/wC4EQEy_fhc
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/11</td>
             <td><a href="https://github.com/Renatinha28">João Ribeiro</a></td>
-            <td><a href=""></a></td>>
+            <td><a href=""></a></td>
         </tr>
     </table>
 </div>
