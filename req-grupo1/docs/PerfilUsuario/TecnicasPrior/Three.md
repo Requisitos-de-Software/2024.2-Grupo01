@@ -32,7 +32,6 @@ As tabelas 1 e 2 descreve os requisitos priorizados, e sua legenda é:
 
 
 <center><p><b>Tabela 1:</b> Requisitos funcionais</p></center>
-<center>
 
 | Tipo | Descrição | ID | Prioridade |
 | :-----: | :-------: | :------: | :--------------: |
@@ -75,7 +74,6 @@ As tabelas 1 e 2 descreve os requisitos priorizados, e sua legenda é:
 
 
 <center><p><b>Tabela 2:</b> Requisitos não funcionais</p></center>
-<center>
 
 | Tipo | Descrição | ID | Prioridade |
 | :-----: | :-------: | :------: | :--------------: |

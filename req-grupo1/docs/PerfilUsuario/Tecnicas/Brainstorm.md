@@ -7,7 +7,7 @@ O processo de brainstorming foi conduzido presencialmente por Eduarda Rodrigues 
 
 Para garantir o bom andamento da atividade, foi realizada uma preparação prévia, incluindo um teste-piloto para verificar as questões formuladas, organizar os materiais necessários para registro das informações, estimar o tempo da reunião e assegurar que a moderadora e o escriba tivessem as habilidades adequadas para desempenhar seus papéis. Durante a sessão, todas as ideias apresentadas foram documentadas cuidadosamente, associando-as aos respectivos participantes, a fim de preservar a autoria e o contexto de cada contribuição.
 
-Os participantes foram submetidos a uma série de perguntas orientadas por palavras-chave (apresentadas na Tabela 1), com o objetivo de coletar insights que pudessem ser utilizados no processo de elicitação de requisitos para o aplicativo Blue Sky. O brainstorming seguiu uma abordagem estruturada, registrando todas as ideias propostas, que servirão como base para a construção das especificações funcionais do aplicativo.
+Os participantes foram submetidos a uma série de perguntas orientadas por palavras-chave (apresentadas na Tabela 1), com o objetivo de coletar insights que pudessem ser utilizados no processo de elicitação de requisitos para o aplicativo Bluesky. O brainstorming seguiu uma abordagem estruturada, registrando todas as ideias propostas, que servirão como base para a construção das especificações funcionais do aplicativo.
 
 ## Palavras-chave
 <div align="center">
@@ -73,15 +73,15 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
 </div>
 
 ## Perguntas
-1. Quais funcionalidades o Blue Sky deve oferecer para se destacar de outros aplicativos do mesmo segmento?
+1. Quais funcionalidades o Bluesky deve oferecer para se destacar de outros aplicativos do mesmo segmento?
     
-    <b>Ana Carolina:</b> Deve ter um algoritmo mais transparente, que não manipule tanto o que aparece no meu feed. Também seria incrível se o Blue Sky permitisse criar comunidades ou grupos privados para discussão de temas específicos.
+    <b>Ana Carolina:</b> Deve ter um algoritmo mais transparente, que não manipule tanto o que aparece no meu feed. Também seria incrível se o Bluesky permitisse criar comunidades ou grupos privados para discussão de temas específicos.
 
     <b>Letícia Sanda:</b> Uma funcionalidade essencial seria evitar publicidade intrusiva. Eu adoraria ver ferramentas que ajudem a encontrar conteúdo relevante, como filtros avançados para personalizar o feed.
 
-    <b>Eduardo Falkoski:</b> O diferencial seria uma opção de postagem colaborativa, onde várias pessoas podem criar um conteúdo juntos. Além disso, o Blue Sky poderia permitir edições de posts com um histórico visível para evitar desinformação.<br><br>   
+    <b>Eduardo Falkoski:</b> O diferencial seria uma opção de postagem colaborativa, onde várias pessoas podem criar um conteúdo juntos. Além disso, o Bluesky poderia permitir edições de posts com um histórico visível para evitar desinformação.<br><br>   
 
-2. Qual seria a maneira mais intuitiva de navegar pelas diferentes seções do Blue Sky?
+2. Qual seria a maneira mais intuitiva de navegar pelas diferentes seções do Bluesky?
    
     <b>Ana Carolina:</b> Uma barra fixa na parte inferior da tela, com ícones bem simples e autoexplicativos, como Feed, Explorar, Notificações e Perfil.
 
@@ -89,7 +89,7 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
     
     <b>Eduardo Falkoski:</b> A navegação deve ser baseada em abas superiores categorizadas, algo bem direto. Além disso, seria bom ter um menu lateral para configurações mais específicas.<br><br>
 
-3. Que tipo de notificações ou alertas você consideraria mais úteis no Blue Sky?
+3. Que tipo de notificações ou alertas você consideraria mais úteis no Bluesky?
 
     <b>Ana Carolina:</b> Alertas sobre interações importantes, como alguém respondendo diretamente a uma postagem minha ou uma mensagem privada. Não quero notificações genéricas de "Fulano postou algo".
 
@@ -97,7 +97,7 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
     
     <b>Eduardo Falkoski:</b> Prefiro notificações que destaquem atualizações de amigos ou perfis favoritos, mas sem exagerar. Algo como um "resumo diário" seria mais útil do que alertas constantes.<br><br>
 
-4. Como o Blue Sky poderia personalizar a experiência de acordo com suas preferências?
+4. Como o Bluesky poderia personalizar a experiência de acordo com suas preferências?
 
     <b>Ana Carolina:</b> Permitindo que eu escolha manualmente o tipo de conteúdo que quero ver no meu feed, sem depender tanto de algoritmos. Uma configuração para priorizar posts por cronologia seria ótima.
 
@@ -105,7 +105,7 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
     
     <b>Eduardo Falkoski:</b> Uma ideia seria permitir que os temas de interesse fossem configurados desde o início, com a possibilidade de ajustar isso com o tempo, conforme o meu uso.<br><br>
 
-5. Que tipo de recursos visuais ou interativos você acha que tornariam o Blue Sky mais atraente e funcional?
+5. Que tipo de recursos visuais ou interativos você acha que tornariam o Bluesky mais atraente e funcional?
 
     <b>Ana Carolina:</b> Animações leves e transições suaves entre seções. Além disso, avatares e emojis personalizados para as postagens seriam bem legais.
 
@@ -113,7 +113,7 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
     
     <b>Eduardo Falkoski:</b> Gráficos interativos, como enquetes em tempo real e visualização dinâmica de reações nos posts, onde você possa ver o que mais está engajando.<br><br>
 
-6. Quais informações precisam estar sempre acessíveis na tela inicial do Blue Sky?
+6. Quais informações precisam estar sempre acessíveis na tela inicial do Bluesky?
 
     <b>Ana Carolina:</b> Gostaria de ver o feed principal e notificações importantes. Também seria útil um botão para postar rapidamente algo.
 
@@ -121,7 +121,7 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
     
     <b>Eduardo Falkoski:</b> O feed, claro, mas também uma barra de busca fácil de acessar e links para as comunidades que eu sigo.<br><br>
 
-7. Que ferramentas ou funcionalidades adicionais o Blue Sky poderia oferecer para agregar mais valor ao usuário?
+7. Que ferramentas ou funcionalidades adicionais o Bluesky poderia oferecer para agregar mais valor ao usuário?
 
     <b>Ana Carolina:</b> Uma ferramenta de agendamento de postagens, para que eu possa criar conteúdo com antecedência e organizar minha presença online.
 
@@ -129,7 +129,7 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
     
     <b>Eduardo Falkoski:</b> O app poderia oferecer métricas sobre o alcance das postagens, como quem viu e engajou, sem comprometer a privacidade.<br><br>
 
-8. Se você pudesse descrever a principal vantagem do Blue Sky em uma palavra, qual seria e por quê?
+8. Se você pudesse descrever a principal vantagem do Bluesky em uma palavra, qual seria e por quê?
 
     <b>Ana Carolina:</b> "Controle" — porque quero sentir que tenho poder sobre o que vejo e compartilho, sem manipulações externas.
 
@@ -137,7 +137,7 @@ Os participantes foram submetidos a uma série de perguntas orientadas por palav
     
     <b>Eduardo Falkoski:</b> "Segurança" — porque é essencial ter um ambiente digital onde meus dados estejam protegidos e não sejam usados indevidamente.<br><br>
 
-9.  Como o Blue Sky pode ajudar a conectar usuários com interesses semelhantes de forma prática e segura?
+9.  Como o Bluesky pode ajudar a conectar usuários com interesses semelhantes de forma prática e segura?
 
     <b>Ana Carolina:</b> Criando comunidades segmentadas por interesse e permitindo que os usuários se conectem por meio de tópicos ou discussões relevantes.
 
