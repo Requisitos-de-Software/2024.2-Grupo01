@@ -220,13 +220,13 @@ Todos os requisitos da lista de verificação foram atendidos.
 
 ## Bibliográfia
 
-> 1 David Benyon, 2011, 2ª ed, Interação Humano-Computador
+> 1. David Benyon, 2011, 2ª ed, Interação Humano-Computador
  
-> 2 Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
+> 2. Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.
 
-> 3 ASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.
+> 3. ASQUEZ, Carlos Eduardo; SINÕES, Guilherme Siqueira. Engenharia de Requisitos. Brasil: Brasport, 2016.
 
-> 4 [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
+> 4. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
 ## :round_pushpin: Histórico de Versão 
 

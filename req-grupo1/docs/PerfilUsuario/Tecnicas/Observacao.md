@@ -221,7 +221,7 @@ Além dos requisitos elicitados, foi possível realizar algumas observações:
 - Não foi observado a opção de editar um post.
 
 
-## Referência Bibliográfica
+## Bibliografia
 
 > 1. REQUISTOS DE SOFTWARE. 2023.2-Skoob. Disponível em: https://github.com/Requisitos-de-Software/2023.2-Skoob. Acesso em: 17 nov. 2024.
 > 2. REQUISTOS DE SOFTWARE. 2022.2-Grasshopper. Disponível em: https://github.com/Requisitos-de-Software/2022.2-Grasshopper. Acesso em: 17 nov. 2024.

@@ -47,13 +47,6 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 
 ### **Persona 2 - primária**
 
-<<<<<<< HEAD
-<figure>
-    <figcaption>Figura 2: Fernanda Ramos</figcaption>
-    <img src="../../assets/images/personas/persona2.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: This person doesnt exists ³, 2024</figcaption>
-</figure>
-=======
 <div align="center">
     <font size="3"><p style="text-align: center"><b> Figura 2:</b> Persona primária - Fernanda Ramos</font>
     <figure>
@@ -61,7 +54,6 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
     </figure>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
 </div>
->>>>>>> FT-Brainstorm
 
 - **Status:** Persona primária
 
@@ -90,13 +82,6 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 
 ### **Persona 3 - secundária**
 
-<<<<<<< HEAD
-<figure>
-    <figcaption>Figura 2: Juliana Almeida</figcaption>
-    <img src="../../assets/images/personas/persona3.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: This person doesnt exists ³, 2024</figcaption>
-</figure>
-=======
 <div align="center">
     <font size="3"><p style="text-align: center"><b> Figura 3:</b> Persona secundária - Juliana Almeida</font>
     <figure>
@@ -104,7 +89,6 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
     </figure>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
 </div>
->>>>>>> FT-Brainstorm
 
 - **Status:** Persona secundária
 
@@ -131,14 +115,6 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 - **Breve descrição:** Juliana Almeida tem 33 anos e é profissional de saúde na área da psicologia. Ela busca estar sempre atualizada com os acontecimentos em âmbito geral e em sua área de atuação, assim, ela utiliza das redes sociais de 3 a 4 dias na semana para acompanhar novas pesquisas e debates sobre saúde mental. Para ela é importante que o conteúdo apresentado seja relevante e bem fundamentado, além de possível compartilhar esses conteúdos relevantes com seus seguidores. Ainda, por ser profissional da saúde, ela valoriza sua privacidade e está cada vez mais preocupada com a segurança de seus dados.
 
 ### **Persona 4 - antipersona**
-<<<<<<< HEAD
-
-<figure>
-    <figcaption>Figura 4: Sérgio Rodrigues</figcaption>
-    <img src="../../assets/images/personas/persona4.jpeg"  style="width: 50%; height: auto; object-fit: cover;">
-    <figcaption>Fonte: This person doesnt exists ³, 2024</figcaption>
-</figure>
-=======
 <div align="center">
     <font size="3"><p style="text-align: center"><b> Figura 4:</b> Antipersona - Sérgio Rodrigues</font>
     <figure>
@@ -146,7 +122,6 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
     </figure>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
 </div>
->>>>>>> FT-Brainstorm
 
 - **Status:** Antipersona
 
@@ -167,11 +142,7 @@ Com dados coletados no [questionário de perfil do usuário](PerfilUser.md) e [t
 - **Tarefas:**
     1. Quando é visitado por seus netos, ele lê algumas publicações e assiste à alguns vídeos mostrados por seus netos em seus celulares
 
-<<<<<<< HEAD
-- **Breve descrição:** Sérgio tem 72 anos, hoje aposentado, passou a maior parte da vida trabalhando como contador, frequenta livrarias e tem como passatempo a jardinagem. Mora sozinho na mesma cidade que seus filhos e netos os quais o visitam com frequência. Entretanto, sente-se frustrado por não conseguir conectar-se com seus netos, já que passam a maior parte do tempo jogando e utilizando de redes sociais e não dão atenção às pessoas a sua volta. Ele gostaria de passar mais tempo com seus entes queridos e compartilhar momentos significativos.
-=======
 ## Bibliografia
->>>>>>> FT-Brainstorm
 
 ## Referência Bibliográfica
 

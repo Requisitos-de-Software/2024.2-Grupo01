@@ -36,7 +36,7 @@ Nossa metodologia vai ser a obtenção desses dados através de um sistema de qu
 |                                              | 22  | Que tipo de feedback você espera receber nas suas postagens? (ex.: comentários, curtidas, novas conexões)                          | [¹](#1)  [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
 |                                              | 23  | Como você acredita que a Bluesky pode ajudar a alcançar seus objetivos pessoais e sociais?                                         | [¹](#1)  [Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G.D. J. (2021) Interação Humano-Computador e Experiência do usuário.Autopublicação. ISBN: 978-65-00-19677-1.](../../assets/images/perfil1.png) |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a> e <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi</a> e <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Termo de Consentimento para Participação no Formulário
 

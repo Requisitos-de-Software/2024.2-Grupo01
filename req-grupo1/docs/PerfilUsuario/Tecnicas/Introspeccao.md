@@ -90,7 +90,7 @@ Para a introspeção imaginei as [personas criadas](../Personas.md) em situaçõ
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p> 
 
-## Referência Bibliográfica
+## Bibliografia
 
 > 1. SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2024. Disponível em <https://aprender3.unb.br/pluginfile.php/2972449/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf> </br> cessado no dia 17/11/2024 ás 20:00
 
