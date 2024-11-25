@@ -282,7 +282,7 @@ Autopublicação. ISBN: 978-65-00-19677-1.
             <td>1.0</td>
             <td>Adicionando Brainstorm.</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
