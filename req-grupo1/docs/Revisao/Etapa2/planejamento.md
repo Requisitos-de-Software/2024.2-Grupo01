@@ -161,6 +161,8 @@ A tabela 9 descreve as perguntas para a inspeção da técnica *Three-level scal
 |  47   |         Há distinção entre requisitos médios e de baixa prioridade?          |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T1.png) | Carla  |
 |  48   | A técnica permite identificar prioridades de forma iterativa, se necessário? |     -     | [Software Requirements. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665.](../../assets/images/T2.png) |  Davi  |
 
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+
 ## $100
 A tabela 10 descreve as perguntas para a inspeção da técnica de priorização $100
 
