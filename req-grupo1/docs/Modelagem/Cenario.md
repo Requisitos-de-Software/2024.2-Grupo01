@@ -34,7 +34,7 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 | [Eduarda](https://github.com/erteduarda) | - |
 | [Davi](https://github.com/Jagaima) | - |
 | [João Vitor](https://github.com/Joa0V) | - |
-| [Renata](https://github.com/Renatinha28) | Editar uma publicação |
+| [Renata](https://github.com/Renatinha28) | [Editar uma publicação](#edição) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -46,6 +46,8 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 ### CEN03 - Davi
 
 ### CEN04 - João Vitor
+
+<a id="edição"></a>
 
 ### CEN05 - Fazer uma publicação
 A tabela 6 descreve o cenário do requisito funcional não implementado: editar publicações já postadas (encontrado a partir da lista de requisitos elicitados [RF5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28)

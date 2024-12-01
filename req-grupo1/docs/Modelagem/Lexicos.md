@@ -27,7 +27,7 @@ A tabela 1 descreve a funcionalidade do léxico e o integrante responsável pela
 ### L04 -
 ### L05 - Editar uma publicação
 
-O quinto Léxico, presente na tabela 6, descreve o requisito funcional não implementado: editar publicações já postadas (encontradas a partir da lista de elicitação [RF5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28). O léxico foi realizado com base no cenário feito: [Editar publicação](../Modelagem/Cenario.md)
+O quinto Léxico, presente na tabela 6, descreve o requisito funcional não implementado: editar publicações já postadas (encontradas a partir da lista de elicitação [RF5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28). O léxico foi realizado com base no cenário feito: [Editar publicação](../Modelagem/Cenario.md#edição)
 
 <center>
 <font size="3"><b>Tabela 6:</b> Léxico: editar uma publicação </font>
@@ -38,6 +38,23 @@ O quinto Léxico, presente na tabela 6, descreve o requisito funcional não impl
 | Impacto | Garante a atualidade e a correção das publicações |
 | Noção | Ação que permite ao usuário modificar o conteúdo ou atributos de uma publicação previamente criada. <br> O usuário está interessado em editar uma publicação <br> O usuário edita sua publicação conforme deseja <br> O usuário confirma as edições e a publicação é mostrada no perfil conforme a edição <br> |
 | Dicionário | Edição, Correção, Ajustes em publicações |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
+</center>
+
+## Junção de todos os Léxicos
+A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhorar a visualização.
+
+<center>
+<font size="3"><b>Tabela 7:</b> Léxicos </font>
+
+| Léxico | Dicionário | Noção | Impacto | Classificação | Restreabilidade | Cenário | Autor |
+|:------:|:---------:|:---------:|:---------:|:-------:|:---------:|:----------:|:---------:|
+| L01 | - | - | - | - | - | - | - |
+| L02 | - | - | - | - | - | - | - |
+| L03 | - | - | - | - | - | - | - |
+| L04 | - | - | - | - | - | - | - |
+| L05 - Editar Publicação |  Edição <br> Correção <br> Ajustes em publicações | Ação que permite ao usuário modificar o conteúdo ou atributos de uma publicação previamente criada. <br> O usuário está interessado em editar uma publicação <br> O usuário edita sua publicação conforme deseja <br> O usuário confirma as edições e a publicação é mostrada no perfil conforme a edição <br> | Garante a atualidade e a correção das publicações | Verbo | [RF5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Requisitosel/) <br> [OB5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/PerfilUser/) <br> [IS17](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Introspeccao/) | [Editar publicação](../Modelagem/Cenario.md#edição) |  [Renata](https://github.com/Renatinha28) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
