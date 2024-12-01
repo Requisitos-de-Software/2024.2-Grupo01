@@ -109,6 +109,8 @@ nav:
   - Modelagem: 
     - Cenários: Modelagem/Cenario.md
     - Léxicos: Modelagem/Lexicos.md
+    - Casos de Uso: Modelagem/Caso_de_uso.md
+    - Especificação Suplementar: Modelagem/Especificacao.md
 
   - Inspeção: 
     - Etapa 1:
