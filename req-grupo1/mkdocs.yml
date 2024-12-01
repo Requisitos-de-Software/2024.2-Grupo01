@@ -105,6 +105,11 @@ nav:
       - Three Level Scale: PerfilUsuario/TecnicasPrior/Three.md
       - First Things First: PerfilUsuario/TecnicasPrior/FirstThingsFirst.md
       - $100: PerfilUsuario/TecnicasPrior/100.md
+
+  - Modelagem: 
+    - Cenários: Modelagem/Cenario.md
+    - Léxicos: Modelagem/Lexicos.md
+
   - Inspeção: 
     - Etapa 1:
       - Planejamento Etapa 1: Revisao/Etapa1/planejamento1.md
@@ -115,6 +120,4 @@ nav:
       - Planejamento Etapa 2: Revisao/Etapa2/planejamento.md
       - Inspeção etapa 2: Revisao/Etapa2/resultado.md
       - Inspeção grupo 02: Revisao/Etapa2/Inspesao02.md
-  
-      
-      
+

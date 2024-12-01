@@ -36,7 +36,7 @@ As tabelas 1 e 2 descreve os requisitos elicitados, e sua legenda é:
 | RF2 | Deve ser possível recuperar a senha no aplicativo | OB2 | 
 | RF3 | Deve ser possível acessar novos conteúdos rapidamente na plataforma | OB3 | 
 | RF4 | Deve ser possível realizar postagens na plataforma| OB4 | 
-| RF5 | Deve ser possível ao usuário editar suas publicações já postadasa | OB5 e IS17 | 
+| RF5 | Deve ser possível ao usuário editar suas publicações já postadas | OB5 e IS17 | 
 | RF6 | O sistema deve permitir que o usuário faça buscas por posts relacionados ao seu interesse, usando palavras-chave, hashtags ou filtros específicos. | OB6 e IS2 | 
 | RF7 | Deve ser possível favoritar uma comunidade | OB7 | 
 | RF8 | O usuário deve poder criar seus próprios posts ,e compartilhá-los com um feed específico ou a comunidade em geral. | OB8 e IS6 | 
@@ -69,6 +69,7 @@ As tabelas 1 e 2 descreve os requisitos elicitados, e sua legenda é:
 | RF35 | O usuário deve poder configurar a privacidade das postagens | BT2 |
 | RF36 | O sistema deve enviar notificações sobre eventos em tempo real. | BT4 |
 | RF37 | O usuário deve poder acessar métricas sobre o alcance de suas postagens | BT5 |
+
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
