@@ -28,20 +28,40 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 <center>
 <font size="3"><b>Tabela 1:</b> Integrantes responsáveis por cada cenário</font>
 
-| Integrante | Cenário |
-|:----------:|:--------:|
-| [Carla](https://github.com/ccarlaa) | - |
-| [Eduarda](https://github.com/erteduarda) | - |
-| [Davi](https://github.com/Jagaima) | - |
-| [João Vitor](https://github.com/Joa0V) | - |
-| [Renata](https://github.com/Renatinha28) | [Editar uma publicação](#edição) |
+|                Integrante                |                           Cenário                           |
+| :--------------------------------------: | :---------------------------------------------------------: |
+|   [Carla](https://github.com/ccarlaa)    |                              -                              |
+| [Eduarda](https://github.com/erteduarda) | [Quantidade de visualizações em publicações](#visualizacao) |
+|    [Davi](https://github.com/Jagaima)    |                              -                              |
+|  [João Vitor](https://github.com/Joa0V)  |                              -                              |
+| [Renata](https://github.com/Renatinha28) |              [Editar uma publicação](#edição)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
 ### CEN01 - Carla
 
-### CEN02 - Eduarda 
+<a id="visualizacao"></a>
+
+### CEN02 - Quantidade de visualizações em publicações 
+A tabela 3 descreve o cenário do requisito funcional não implementado: Quantidade de visualizações em publicações [RF29](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/), que foi rastreada pela técnica de elicitação [IS27](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) e foi realizado pela integrante [Eduarda](https://github.com/erteduarda).
+
+<center>
+<font size="3"><b>Tabela 3:</b> Cenário: Quantidade de visualizações em publicações </font>
+
+|   Item    |                                                                                            Descrição                                                                                             |
+| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Título   |                                                                     Visualizar quantidade de visualizações de uma publicação                                                                     |
+| Objetivo  |                                              Permitir que o usuário veja o número de vezes que sua publicação foi visualizada no aplicativo Bluesky                                              |
+| Contexto  |                 Local: Tela do perfil do usuário ou publicação específica no Bluesky <br> Tempo: em tempo real <br> Pré-condição: O usuário ter publicações postadas no Bluesky                  |
+|  Atores   |                                                                                       Usuários do Bluesky                                                                                        |
+| Recursos  |                                                             Internet <br> Smartphone com o Bluesky instalado e com uma conta logada                                                              |
+| Episódios | O usuário seleciona o ícone de perfil <br> O usuário localiza a publicação que deseja verificar <br> O número de visualizações aparece descretamente no cando inferior direito de uma publicação |
+| Restrição |                                                          O número de visualizações está disponível apenas para as próprias publicações                                                           |
+|  Exceção  |                                                                     Falta de conexão com a internet <br> Aplicativo offline                                                                      |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
 
 ### CEN03 - Davi
 
@@ -50,27 +70,27 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 <a id="edição"></a>
 
 ### CEN05 - Fazer uma publicação
-A tabela 6 descreve o cenário do requisito funcional não implementado: editar publicações já postadas (encontrado a partir da lista de requisitos elicitados [RF5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Grupo01/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28)
+A tabela 6 descreve o cenário do requisito funcional não implementado: editar publicações já postadas (encontrado a partir da lista de requisitos elicitados [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28).
 
 <center>
 <font size="3"><b>Tabela 6:</b> Cenário: editar uma publicação </font>
 
-| Item | Descrição |
-|:----: | :------: |
-| Título | Editar uma publicação |
-| Objetivo | Permitir que o usuário edite uma publicação já postada no aplicativo Bluesky |
-| Contexto | Local: Tela do perfil do usuário no Bluesku <br> Tempo: aproximadamente até 1 minuto <br> Pré-condição: O usuário ter a publicação postada no Bluesky |
-| Atores | Usuários do Bluesky |
-| Recursos | Internet <br> Smartphone com o Bluesky instalado e com uma conta logada <br> Publicação já feita |
+|   Item    |                                                                                                                          Descrição                                                                                                                           |
+| :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Título   |                                                                                                                    Editar uma publicação                                                                                                                     |
+| Objetivo  |                                                                                         Permitir que o usuário edite uma publicação já postada no aplicativo Bluesky                                                                                         |
+| Contexto  |                                                    Local: Tela do perfil do usuário no Bluesku <br> Tempo: aproximadamente até 1 minuto <br> Pré-condição: O usuário ter a publicação postada no Bluesky                                                     |
+|  Atores   |                                                                                                                     Usuários do Bluesky                                                                                                                      |
+| Recursos  |                                                                               Internet <br> Smartphone com o Bluesky instalado e com uma conta logada <br> Publicação já feita                                                                               |
 | Episódios | O usuário seleciona o ícone de perfil <br> O usuário seleciona sua publicação que  quer editar <br> O usuário seleciona o ícone de edição <br> O usuário faz as correções <br> O usuário clica no ícone de "Salvar edições" <br> O sistema registra a edição |
-| Restrição | O usuário só pode editar suas próprias publicações feitas  |
-| Exceção | Falta de conexão com a internet <br> Aplicatico offline |
+| Restrição |                                                                                                  O usuário só pode editar suas próprias publicações feitas                                                                                                   |
+|  Exceção  |                                                                                                   Falta de conexão com a internet <br> Aplicatico offline                                                                                                    |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
 ## Bibliográfia
-> SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Último acesso em: 01 nov. 2024.
+> 1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Último acesso em: 01 nov. 2024.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -89,8 +109,16 @@ A tabela 6 descreve o cenário do requisito funcional não implementado: editar 
             <td>1.0</td>
             <td>Criação do documento e cenário: publicação </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>06/12</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>06/12</td>
+            <td>1.1</td>
+            <td>Criação do cenário: Quantidade de visualizações em publicações </td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td></td>
-            <td><a href=""></a></td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
