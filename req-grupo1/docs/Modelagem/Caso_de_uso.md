@@ -38,8 +38,8 @@ A tabela 1 mostra as especializações realizadas e o integrante responsável po
 | :--------------------------------------: | :----------------------------------------------------------: |
 |   [Carla](https://github.com/ccarlaa)    |                              -                               |
 | [Eduarda](https://github.com/erteduarda) | [Quantidade de visualizações em publicações](#visualizacao1) |
-|    [Davi](https://github.com/Jagaima)    |                              -                               |
 |  [João Vitor](https://github.com/Joa0V)  |                              -                               |
+|  [Davi](https://github.com/Jagaima)      |                              -                               |
 | [Renata](https://github.com/Renatinha28) |              [Editar uma publicação](#edição1)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -70,7 +70,28 @@ A tabela 3 descreve a especificação do caso de uso "Quantidade de visualizaç�
 <font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
 
-### UC03
+### UC03 - Salvar Post
+<a id="salvos1"></a>
+
+A tabela 4 descreve a especificação do caso de uso "Salvar Post". Foi feito pelo integrante [Davi](https://github.com/Jagaima).
+
+<center>
+<font size="3"><b>Tabela 4:</b> Salvar Post </font>
+
+| **UC03**           | **Descrição**                                                                                                                                                                                                                                     |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Data da criação** | 06/12                                                                                                                                                                                                                                           |
+| **Rastreabilidade** | [RF6](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/), [IS28](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/)                                                   |
+| **Atores**          | Usuários do Bluesky                                                                                                                                                                                                                              |
+| **Ação**            | O usuário salva uma publicação em sua lista de "Itens Salvos" para acesso futuro                                                                                                                                                                 |
+| **Pré-condições**   | O usuário deve estar logado no Bluesky e visualizar uma publicação válida                                                                                                                                                                        |
+| **Fluxo básico**    | 1. O usuário efetua login no Bluesky. <br> 2. O usuário localiza uma publicação no feed ou perfil. <br> 3. O sistema exibe a opção de "Salvar". <br> 4. O usuário clica na opção de "Salvar". <br> 5. O sistema adiciona a publicação à lista de "Itens Salvos". <br> 6. O sistema exibe confirmação da operação. |
+| **Fluxos alternativos** | 1. O usuário efetua login no Bluesky. <br> 2. O usuário acessa diretamente uma publicação específica. <br> 3. O sistema exibe a opção de "Salvar". <br> 4. O usuário clica na opção de "Salvar". <br> 5. O sistema adiciona a publicação à lista de "Itens Salvos". <br> 6. O sistema exibe uma confirmação da operação. |
+| **Fluxo de exceção** | 1. O usuário clica em "Salvar" em uma publicação. <br> 2. O sistema tenta processar a operação, mas ocorre uma falha (por exemplo, falta de conexão). <br> 3. O sistema exibe uma mensagem de erro informando o problema. <br> 4. O sistema não adiciona a publicação à lista de "Itens Salvos". |
+| **Pós-condições**   | O item é adicionado com sucesso à lista de "Itens Salvos" do usuário, disponível para consulta futura       
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
 
 ### UC04
 
@@ -133,8 +154,15 @@ A tabela 6 descreve a especificação do caso de uso "editar". Foi feito pela in
             <td>Ajuste do documento e especialização: quantidade de visualizações em publicações </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>06/12</td>
+            <td>1.2</td>
+            <td>caso de uso: Salvar postagem </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td></td>
             <td><a href="https://github.com/"></a></td>
-
         </tr>
     </table>
 </div>

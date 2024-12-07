@@ -17,8 +17,8 @@ A tabela 1 descreve a funcionalidade do léxico e o integrante responsável pela
 | :--------------------------------------: | :----------------------------------------: |
 |   [Carla](https://github.com/ccarlaa)    |                     -                      |
 | [Eduarda](https://github.com/erteduarda) | Quantidade de visualizações em publicações |
-|    [Davi](https://github.com/Jagaima)    |                     -                      |
-|  [João Vitor](https://github.com/Joa0V)  |                     -                      |
+|  [João Vitor](https://github.com/Joa0V)  |                    Salvar Post             |
+|  [Davi](https://github.com/Jagaima)      |                              -             |
 | [Renata](https://github.com/Renatinha28) |           Editar uma publicação            |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -42,8 +42,26 @@ O terceiro léxico, disponível na tabela 3, descreve o requisito funcional não
 <font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
 
-### L03 -
-### L04 -
+### L03:
+
+### L04 - Salvar um Post 
+O quarto Léxico está disponível na tabela 4, descreve o requisito funcional não implementado tens Salvos [RF12](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) que foi rastreado pela elicitação [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)
+
+<center>
+<font size="3"><b>Tabela 4:</b> Léxico: Salvar um Post </font>
+
+| **L04**      | **Descrição**                                                                                                                                                                                                                                                                                                                                                             |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                 |
+| **Impacto**        | Permite ao usuário armazenar itens de interesse para acesso futuro, aumentando a conveniência e retenção.                                                                                                                                                                                                                                                             |
+| **Noção**          | Ação que permite ao usuário adicionar uma publicação à sua lista de itens salvos. <br> O usuário acessa a publicação ou o feed. <br> O sistema exibe a opção de salvar o item. <br> Ao salvar, o item é adicionado à lista de "Itens Salvos". <br> Uma mensagem confirma a operação.                                                                                |
+| **Dicionário**     | Salvar, Publicação, Lista de Itens Salvos, Mensagem de Confirmação                                                                                                                                                                                                                                                                                                |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+
+
 ### L05 - Editar uma publicação
 
 O quinto Léxico, presente na tabela 6, descreve o requisito funcional não implementado: editar publicações já postadas (encontradas a partir da lista de elicitação [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28). O léxico foi realizado com base no cenário feito: [Editar publicação](../Modelagem/Cenario.md#edição).
@@ -72,7 +90,7 @@ A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhor
 |                       L01                        |                               -                                |                                                                                                                                                       -                                                                                                                                                        |                                   -                                    |       -       |                                                                                                                                                      -                                                                                                                                                      |                                         -                                          |                        -                         |
 | L02 - Quantidade de visualizações em publicações | Visualização, Contador de visualizações, Alcance de publicação |   Ação que permite ao usuário visualizar o número de vezes que uma publicação foi vista. <br> O usuário está interessado em verificar o alcance de sua publicação <br> O sistema exibe o contador de visualizações ao lado da publicação <br> O usuário pode acompanhar as visualizações em tempo real <br>    | Garante a transparência e acompanhamento do desempenho das publicações |     Verbo     |                                                     [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [IS27](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/)                                                      | [Quantidade de visualizações em publicações](../Modelagem/Cenario.md#visualizacao) | [Eduarda Tavares](https://github.com/erteduarda) |
 |                       L03                        |                               -                                |                                                                                                                                                       -                                                                                                                                                        |                                   -                                    |       -       |                                                                                                                                                      -                                                                                                                                                      |                                         -                                          |                        -                         |
-|                       L04                        |                               -                                |                                                                                                                                                       -                                                                                                                                                        |                                   -                                    |       -       |                                                                                                                                                      -                                                                                                                                                      |                                         -                                          |                        -                         |
+|      L04  - Salvar post|                                      Salvar, Adicionar aos Salvos                                                                               |                Ação que permite ao usuário adicionar uma publicação à sua lista de itens salvos. <br> O usuário acessa a publicação ou o feed. <br> O sistema exibe a opção de salvar o item. <br> Ao salvar, o item é adicionado à lista de "Itens Salvos". <br> Uma mensagem confirma a operação.                                                                                |          Permite ao usuário armazenar itens de interesse para acesso futuro, aumentando a conveniência e retenção                |      Verbo         |   [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)    |                                         [Salvar Post](../Modelagem/Cenario.md#salvos)                                     |                        [Davi Nobre](https://github.com/Jagaima)                |
 |             L05 - Editar Publicação              |        Edição <br> Correção <br> Ajustes em publicações        | Ação que permite ao usuário modificar o conteúdo ou atributos de uma publicação previamente criada. <br> O usuário está interessado em editar uma publicação <br> O usuário edita sua publicação conforme deseja <br> O usuário confirma as edições e a publicação é mostrada no perfil conforme a edição <br> |           Garante a atualidade e a correção das publicações            |     Verbo     | [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) <br> [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) |                [Editar publicação](../Modelagem/Cenario.md#edição)                 |     [Renata](https://github.com/Renatinha28)     |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -111,6 +129,14 @@ A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhor
             <td>1.1</td>
             <td>Ajuste do documento e léxico: publicação </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>06/12</td>
+            <td>1.2</td>
+            <td>Léxico: Salvar postagem </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>

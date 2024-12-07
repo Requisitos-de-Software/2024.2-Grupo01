@@ -32,7 +32,7 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 | :--------------------------------------: | :---------------------------------------------------------: |
 |   [Carla](https://github.com/ccarlaa)    |                              -                              |
 | [Eduarda](https://github.com/erteduarda) | [Quantidade de visualizações em publicações](#visualizacao) |
-|    [Davi](https://github.com/Jagaima)    |                              -                              |
+|    [Davi](https://github.com/Jagaima)    |                        [Salvar um post](#salvos)                     |
 |  [João Vitor](https://github.com/Joa0V)  |                              -                              |
 | [Renata](https://github.com/Renatinha28) |              [Editar uma publicação](#edição)               |
 
@@ -63,7 +63,31 @@ A tabela 3 descreve o cenário do requisito funcional não implementado: Quantid
 <font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
 
-### CEN03 - Davi
+### CEN03 - Salvar POST
+
+<a id="salvos"></a>
+
+ tabela 4 descreve o cenário do requisito funcional não implementado: Itens Salvos [RF12](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) que foi rastreado pela elicitação [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)
+
+#### Tabela: Cenário - Salvar um item em "Itens Salvos"
+
+<center>
+<font size="3"><b>Tabela 4:</b> Cenário: Salvar Post </font>
+
+| **Item**   | **Descrição**                                                                                                                                                                                      |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**  | Salvar um item em "Itens Salvos"                                                                                                                                                                  |
+| **Objetivo** | Permitir que o usuário salve um item de interesse para acessá-lo posteriormente em sua lista de "Itens Salvos".                                                                                  |
+| **Contexto** | Local: Tela do feed ou de publicação específica no Bluesky  <br> Tempo: Em tempo real  <br> Pré-condição: O usuário estar logado no aplicativo Bluesky.                                           |
+| **Atores**   | Usuários do Bluesky                                                                                                                                                                              |
+| **Recursos** | Internet <br> Smartphone com Bluesky instalado                                                                                                                                                   |
+| **Episódios** | 1. O usuário navega no feed ou acessa uma publicação específica. <br> 2. O usuário identifica um item que deseja salvar. <br> 3. O usuário seleciona o ícone "Salvar" associado à publicação. <br> 4. O item é adicionado à lista de "Itens Salvos". <br> 5. O sistema exibe uma mensagem de confirmação ("Item salvo com sucesso"). |
+| **Restrição** | Apenas itens públicos ou disponíveis ao usuário podem ser salvos.                                                                                                                               |
+| **Exceção**  | Falta de conexão com a internet <br> Falha ao salvar o item devido a problemas técnicos (mensagem de erro exibida: "Erro ao salvar o item. Tente novamente").                                     |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
 
 ### CEN04 - João Vitor
 
@@ -117,6 +141,14 @@ A tabela 6 descreve o cenário do requisito funcional não implementado: editar 
             <td>1.1</td>
             <td>Criação do cenário: Quantidade de visualizações em publicações </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td></td>
+            <td><a href="https://github.com/Jagaima">Davi NobreS</a></td>
+        </tr>
+        <tr>
+            <td>06/12</td>
+            <td>1.2</td>
+            <td>Cenário: Salvar postagem </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
