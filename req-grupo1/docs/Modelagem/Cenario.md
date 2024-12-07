@@ -33,7 +33,7 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 |   [Carla](https://github.com/ccarlaa)    |                              -                              |
 | [Eduarda](https://github.com/erteduarda) | [Quantidade de visualizações em publicações](#visualizacao) |
 |    [Davi](https://github.com/Jagaima)    |                        [Salvar um post](#salvos)                     |
-|  [João Vitor](https://github.com/Joa0V)  |                              -                              |
+|  [João Vitor](https://github.com/Joa0V)  |          [Criar um grupo de mensagem direta](#grupo)              |
 | [Renata](https://github.com/Renatinha28) |              [Editar uma publicação](#edição)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -88,8 +88,28 @@ A tabela 3 descreve o cenário do requisito funcional não implementado: Quantid
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
 
+<a id="grupo"></a>
 
-### CEN04 - João Vitor
+### CEN04 - Iniciar um grupo de mensagens diretas
+
+A tabela 5 descreve o cenário referente ao requisito funcional não implementado Grupo de mensagem direta ([RF23/IS20](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados)), elicitado pela técnica de introspecção([RF20](../PerfilUsuario/Tecnicas/Introspeccao.md/#requisitos-funcionais-1)).
+
+<center>
+<font size="3"><b>Tabela 5:</b> Cenário: Iniciar grupo de mensagens diretas </font>
+
+| **Item**   | **Descrição**                                                                                                                                                                                      |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Título**  | Iniciar um grupo de mensagens diretas                                                                                                                                                             |
+| **Objetivo** | Conversar com outros usuários                                                                                                                                                                    |
+| **Contexto** | Local: casa do usuário do Bluesky  <br> Tempo: durante uma sessão de 10 min no aplicativo  <br> Pré-condição: usuário já cadastrado na rede social                                               |
+| **Atores**   | Usuários comuns do Bluesky                                                                                                                                                                       |
+| **Recursos** | Smartphone com app Bluesky instalado <br> Acesso à internet                                                                                                                                      |
+| **Episódios** | 1. Usuário faz log-in no Bluesky <br> 2. Usuário vai à pagina de Chats <br> 3. Usuário inicia criação do chat em grupo <br> 4. Usuário define nome do chat <br> 5. Usuário adiciona outros usuários ao chat <br> 6. Usuário finaliza criação do chat em grupo <br> 7. Usuário manda uma mensagem no chat <br> 8. Usuário recebe uma mensagem no chat                                                                                                                                                      |
+| **Restrição** | Usuário pode adicionar ao chat apenas usuários que segue mutualmente <br> Usuários podem optar por não serem adicionados automaticamente a grupos                                               |
+| **Exceção**  | Sem conexão com o servidor: o sistema deve indicar que as operações não foram concluídas por falta de conexão                                                                                    |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
 
 <a id="edição"></a>
 
@@ -103,7 +123,7 @@ A tabela 6 descreve o cenário do requisito funcional não implementado: editar 
 | :-------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  Título   |                                                                                                                    Editar uma publicação                                                                                                                     |
 | Objetivo  |                                                                                         Permitir que o usuário edite uma publicação já postada no aplicativo Bluesky                                                                                         |
-| Contexto  |                                                    Local: Tela do perfil do usuário no Bluesku <br> Tempo: aproximadamente até 1 minuto <br> Pré-condição: O usuário ter a publicação postada no Bluesky                                                     |
+| Contexto  |                                                    Local: Tela do perfil do usuário no Bluesky <br> Tempo: aproximadamente até 1 minuto <br> Pré-condição: O usuário ter a publicação postada no Bluesky                                                     |
 |  Atores   |                                                                                                                     Usuários do Bluesky                                                                                                                      |
 | Recursos  |                                                                               Internet <br> Smartphone com o Bluesky instalado e com uma conta logada <br> Publicação já feita                                                                               |
 | Episódios | O usuário seleciona o ícone de perfil <br> O usuário seleciona sua publicação que  quer editar <br> O usuário seleciona o ícone de edição <br> O usuário faz as correções <br> O usuário clica no ícone de "Salvar edições" <br> O sistema registra a edição |
@@ -149,6 +169,14 @@ A tabela 6 descreve o cenário do requisito funcional não implementado: editar 
             <td>1.2</td>
             <td>Cenário: Salvar postagem </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>07/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>07/12</td>
+            <td>1.3</td>
+            <td>Cenário: Iniciar um grupo de mensagens diretas </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
