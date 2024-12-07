@@ -50,6 +50,8 @@ Para minha introspeção eu imaginei o seguinte cenário: Eu coordeno um clube d
 
 Para a introspeção imaginei as [personas criadas](../Personas.md) em situações em que tentavam atingir seus objetivos utilizando do app Bluesky. Na tabela 3 e 4, encontram-se os requisitos funcionais e não funcionais, respectivamente, elicitados com a técnica de instrospecção.
 
+<a id="reqfunc2"></a>
+
 ### Requisitos Funcionais
     Tabela 3: Requisitos Funcionais 2. 
 |  **ID**  |                                                                                                **Descrição**                                                                                       | **Autor da Elicitação** | **Implementado** |

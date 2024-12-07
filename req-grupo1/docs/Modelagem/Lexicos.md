@@ -17,8 +17,8 @@ A tabela 1 descreve a funcionalidade do léxico e o integrante responsável pela
 | :--------------------------------------: | :----------------------------------------: |
 |   [Carla](https://github.com/ccarlaa)    |                     -                      |
 | [Eduarda](https://github.com/erteduarda) | Quantidade de visualizações em publicações |
-|  [João Vitor](https://github.com/Joa0V)  |                    Salvar Post             |
-|  [Davi](https://github.com/Jagaima)      |                              -             |
+|  [João Vitor](https://github.com/Joa0V)  |               Mensagem direta              |
+|  [Davi](https://github.com/Jagaima)      |                 Salvar Post                |
 | [Renata](https://github.com/Renatinha28) |           Editar uma publicação            |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -42,10 +42,27 @@ O terceiro léxico, disponível na tabela 3, descreve o requisito funcional não
 <font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
 
-### L03:
+### L03 - Mensagem direta
+
+O terceiro Léxico apresentado na tabela 4 diz respeito a 'mensagem direta', símbolo ligado ao requisito funcional não implementado [RF23](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados) da lista de elicitação, proveniente da introspecção como [IS20](../PerfilUsuario/Tecnicas/Introspeccao.md/#requisitos-funcionais-1).
+
+<center>
+<font size="3"><b>Tabela 3:</b> Léxico: Mensagem direta </font>
+
+| Descrição     | Classificação                                                                                                                                                 |
+| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Classificação | Objeto                                                                                                                                                        |
+| Impacto       | Mensagens diretas podem ser iniciadas ou silenciadas. Há também a possibilidade de sair da conversa                                                           |
+| Noção         | Comunicação entre usuários realizada por trocas de mensagens privadas, ou seja, em um canal de comunicação que apenas os integrantes de tal canal tem acesso. |
+| Dicionário    | Chat, conversa                                                                                                                                                |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
 
 ### L04 - Salvar um Post 
-O quarto Léxico está disponível na tabela 4, descreve o requisito funcional não implementado tens Salvos [RF12](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) que foi rastreado pela elicitação [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)
+O quarto Léxico está disponível na tabela 4, descreve o requisito funcional não implementado tens Salvos [RF12](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) que foi rastreado pela elicitação [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/).
+
+
 
 <center>
 <font size="3"><b>Tabela 4:</b> Léxico: Salvar um Post </font>
@@ -89,7 +106,7 @@ A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhor
 | :----------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------------: |
 |                       L01                        |                               -                                |                                                                                                                                                       -                                                                                                                                                        |                                   -                                    |       -       |                                                                                                                                                      -                                                                                                                                                      |                                         -                                          |                        -                         |
 | L02 - Quantidade de visualizações em publicações | Visualização, Contador de visualizações, Alcance de publicação |   Ação que permite ao usuário visualizar o número de vezes que uma publicação foi vista. <br> O usuário está interessado em verificar o alcance de sua publicação <br> O sistema exibe o contador de visualizações ao lado da publicação <br> O usuário pode acompanhar as visualizações em tempo real <br>    | Garante a transparência e acompanhamento do desempenho das publicações |     Verbo     |                                                     [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [IS27](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/)                                                      | [Quantidade de visualizações em publicações](../Modelagem/Cenario.md#visualizacao) | [Eduarda Tavares](https://github.com/erteduarda) |
-|                       L03                        |                               -                                |                                                                                                                                                       -                                                                                                                                                        |                                   -                                    |       -       |                                                                                                                                                      -                                                                                                                                                      |                                         -                                          |                        -                         |
+|                        L03 - Mensagem direta                        |                               Chat, Conversa                                |                                                                                                                                                       Comunicação entre usuários realizada por trocas de mensagens privadas, ou seja, em um canal de comunicação que apenas os integrantes de tal canal tem acesso.                                                                                                                                                        |                                   Mensagens diretas podem ser iniciadas ou silenciadas. Há também a possibilidade de sair da conversa                                    |       Objeto       |                                                                                                                                                      [RF23](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados)<br>[IS20](../PerfilUsuario/Tecnicas/Introspeccao.md/#reqfunc2)                                                                                                                                                       |                                         [Iniciar um grupo de mensagens diretas](../Modelagem/Cenario.md/#grupo)                                   |                        [João Ribeiro](https://github.com/Joa0V)                         |
 |      L04  - Salvar post|                                      Salvar, Adicionar aos Salvos                                                                               |                Ação que permite ao usuário adicionar uma publicação à sua lista de itens salvos. <br> O usuário acessa a publicação ou o feed. <br> O sistema exibe a opção de salvar o item. <br> Ao salvar, o item é adicionado à lista de "Itens Salvos". <br> Uma mensagem confirma a operação.                                                                                |          Permite ao usuário armazenar itens de interesse para acesso futuro, aumentando a conveniência e retenção                |      Verbo         |   [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)    |                                         [Salvar Post](../Modelagem/Cenario.md#salvos)                                     |                        [Davi Nobre](https://github.com/Jagaima)                |
 |             L05 - Editar Publicação              |        Edição <br> Correção <br> Ajustes em publicações        | Ação que permite ao usuário modificar o conteúdo ou atributos de uma publicação previamente criada. <br> O usuário está interessado em editar uma publicação <br> O usuário edita sua publicação conforme deseja <br> O usuário confirma as edições e a publicação é mostrada no perfil conforme a edição <br> |           Garante a atualidade e a correção das publicações            |     Verbo     | [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) <br> [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) |                [Editar publicação](../Modelagem/Cenario.md#edição)                 |     [Renata](https://github.com/Renatinha28)     |
 
@@ -137,6 +154,14 @@ A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhor
             <td>1.2</td>
             <td>Léxico: Salvar postagem </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>07/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>07/12</td>
+            <td>1.3</td>
+            <td>Léxico: Mensagem direta</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
