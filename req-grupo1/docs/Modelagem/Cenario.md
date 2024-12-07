@@ -92,7 +92,7 @@ A tabela 3 descreve o cenário do requisito funcional não implementado: Quantid
 
 ### CEN04 - Iniciar um grupo de mensagens diretas
 
-A tabela 5 descreve o cenário referente ao requisito funcional não implementado Grupo de mensagem direta ([RF23/IS20](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados)), elicitado pela técnica de introspecção([RF20](../PerfilUsuario/Tecnicas/Introspeccao.md/#requisitos-funcionais-1)).
+A tabela 5 descreve o cenário referente ao requisito funcional não implementado Grupo de mensagem direta ([RF23](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados)), elicitado pela técnica de introspecção([IS20/RF20](../PerfilUsuario/Tecnicas/Introspeccao.md/#requisitos-funcionais-1)).
 
 <center>
 <font size="3"><b>Tabela 5:</b> Cenário: Iniciar grupo de mensagens diretas </font>

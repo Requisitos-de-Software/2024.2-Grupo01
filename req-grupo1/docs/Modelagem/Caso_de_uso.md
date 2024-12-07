@@ -38,8 +38,8 @@ A tabela 1 mostra as especializações realizadas e o integrante responsável po
 | :--------------------------------------: | :----------------------------------------------------------: |
 |   [Carla](https://github.com/ccarlaa)    |                              -                               |
 | [Eduarda](https://github.com/erteduarda) | [Quantidade de visualizações em publicações](#visualizacao1) |
-|  [João Vitor](https://github.com/Joa0V)  |                              -                               |
-|  [Davi](https://github.com/Jagaima)      |                              -                               |
+|  [João Vitor](https://github.com/Joa0V)  |         [Criar grupo de mensagem direta](#grupo1)            |
+|  [Davi](https://github.com/Jagaima)      |                  [Salvar Post](#salvos1)                     |
 | [Renata](https://github.com/Renatinha28) |              [Editar uma publicação](#edição1)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -69,9 +69,9 @@ A tabela 3 descreve a especificação do caso de uso "Quantidade de visualizaç�
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
 </center>
+<a id="salvos1"></a>
 
 ### UC03 - Salvar Post
-<a id="salvos1"></a>
 
 A tabela 4 descreve a especificação do caso de uso "Salvar Post". Foi feito pelo integrante [Davi](https://github.com/Jagaima).
 
@@ -93,7 +93,27 @@ A tabela 4 descreve a especificação do caso de uso "Salvar Post". Foi feito pe
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
 
-### UC04
+<a id="grupo1"></a>
+
+### UC04 - Criar grupo de mensagem direta
+
+<center>
+<font size="3"><b>Tabela 5:</b> Especialização: Criar grupo de mensagem direta </font>
+
+| UC04                | Descrição                                                                                                                                                                         |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Data da criação**     | 07/12                                                                                                                                                                             |
+ **Rastreabilidade**      | [RF23](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados) <br> [IS20](../PerfilUsuario/Tecnicas/Introspeccao.md/#requisitos-funcionais-1)                     |                            
+| **Atores**              | Usuário comum do Bluesky                                                                                                                                                          |
+| **Ação**                | O usuário cria um novo grupo de mensagem direta                                                                                                                                   |
+| **Pré-condições**       | O usuário já deve ter efetuado o log-in no sistema                                                                                                                                |
+| **Fluxo básico**        | 1. O usuário clica no botão 'Chat' na barra lateral<br>2. O sistema apresenta a página de Chats<br>3. O usuário clica no botão 'Novo chat'<br>4. O sistema apresenta as opções 'Chat' e 'Chat em grupo'<br>5. O usuário seleciona a opção 'Chat em grupo'<br>6. O sistema apresenta um pop-up para inserção do nome do grupo<br>7. O usuário define o nome do grupo de mensagem direta<br>8. O sistema apresenta um pop-up com uma lista de perfis para seleção dos  participantes do grupo<br>9. O usuário clica no botão 'Adicionar' relativo aos perfis que participarão do grupo<br>10. O sistema apresenta uma mensagem a cada adição<br>11. O usuário clica no botão 'Salvar'<br>12. O usuário finaliza a criação do grupo de mensagem |
+| **Fluxos alternativos** | No passo "8. O sistema apresenta um pop-up para seleção dos perfis que participarão do grupo", caso o usuário não<br> seja seguido mutualmente por outro usuário:<br>	1.1 O sistema apresenta uma mensagem indicando a falta de seguidores mútuos<br>	1.2 O usuário clica no botão 'Perfil' na barra lateral<br>	1.3 O sistema apresenta a página do perfil do usuário<br>	1.4 O usuário clica no botão 'seguidores'<br>	1.5 O sistema apresenta a página com uma lista de seguidores do perfil do usuário<br>	1.6 O usuário clica no botão 'Seguir de volta' nos perfis de seu interesse para integrar o grupo de mensagem direta<br>	1.7 Retorno ao passo 1<br><br>No passo "9. O usuário clica no botão 'Adicionar' relativo aos perfis que participarão do grupo", que se quer a <br>participação no grupo esteja configurado para não ser adicionado diretamente nos grupos de mensagem direta:<br>	2.1 O usuário clica no botão 'Solicitar' relativo aos perfis que se quer a participarão do grupo<br>	2.2 O sistema apresenta uma mensagem a cada solicitação<br>	2.3 Retorno ao passo 9 |
+| **Fluxo de Exceção**    | No passo "7. O usuário define o nome do grupo de mensagem direta", caso o nome definido não seja válido:<br>	3.1 O sistema apresenta uma mensagem indicando que o nome inserido não é válido<br>	3.2 Retorno ao passo 6<br><br>No passo "11. O usuário clica no botão 'Salvar'", caso o usuário não tenha nem adicionado nem solicitado<br> participação de ao menos um perfil:<br>	4.1 O sistema apresenta uma mensagem indicando a necessidade da adição ou solicitação de ao menos um perfil<br>	4.2 Retorno ao passo 8 |
+| **Pós-condições**       | Um novo grupo de mensagem direta é apresentado na página de Chats<br>Novas notificações podem ser recebidas referentes ao grupo de mensagem direta criado                                                                                                                                                                                                    |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
 
 <a id="edição1"></a>
 
@@ -161,6 +181,14 @@ A tabela 6 descreve a especificação do caso de uso "editar". Foi feito pela in
             <td>1.2</td>
             <td>caso de uso: Salvar postagem </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>07/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+                <tr>
+            <td>07/12</td>
+            <td>1.3</td>
+            <td>Caso de uso: Criar grupo de mensagem direta</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
