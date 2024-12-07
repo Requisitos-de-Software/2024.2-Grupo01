@@ -61,6 +61,28 @@ A tabela 3 se refere a inspeção dos cenários.
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/">-</a>; Gravação diponível neste <a href="https://youtu.be/">Link</a></p>
 
+## Léxicos
+A tabela 4 se refere a inspeção dos léxicos. 
+
+    Tabela 4: inspeção léxicos
+
+| **ID** |                                                                        **Descrição**                                                                         | **Avaliação** |                                                                                          **Referência**                                                                                           |                **Autor**                 |
+| :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------: |
+|   21   |                                                 Cada símbolo é descrito por ao menos uma noção e um impacto?                                                 |       -       |                       [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex1.PNG)                      | [João Ribeiro](https://github.com/Joa0V) |
+|   22   |                                                            Os símbolos descritos têm sinônimo(s)?                                                            |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex2.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
+|   23   | São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?<br>(Princípio do Vocabulário Mínimo) |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex3.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
+|   24   |                       São empregados símbolos da própria linguagem na descrição de noções e impactos?<br>(Princípio da Circularidade)                        |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex3.PNG) | [João Ribeiro](https://github.com/Joa0V) |
+|   25   |                                     Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?                                     |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG) | [João Ribeiro](https://github.com/Joa0V) |
+|   26   |                     Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?                     |       -       |                       [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                       | [João Ribeiro](https://github.com/Joa0V) |
+|   27   |                           Nos símbolos do tipo verbo, seus impactos são os reflexos da ação no ambiente e os estados decorrentes?                            |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
+|   28   |                      Nos símbolos do tipo objeto, suas noções os definem e identificam outros objetos com aos quais este se relaciona?                       |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG) | [João Ribeiro](https://github.com/Joa0V) |
+|   29   |                               Nos símbolos do tipo objeto, seus impactos são as ações passíveis de serem aplicadas ao objeto?                                |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG) | [João Ribeiro](https://github.com/Joa0V) |
+|   30   |                                 Nos símbolos do tipo estado, suas noções são seus significados e quais ações levaram a eles?                                 |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
+|   31   |                          Nos símbolos do tipo estado, seus impactos abrangem outros estados e ações originárias do estado descrito?                          |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p>
+
+
 ## Conclusão Perguntas Gerais
 
 ## Referência Bibliográfica
@@ -68,6 +90,7 @@ A tabela 3 se refere a inspeção dos cenários.
 > 2. <a href="2"></a>JACOBSON, Ivar; CHRISTERSON, Magnus; JONSSON, Patrik; ÖVERGAARD, Gunnar. Object-Oriented Software Engineering: A Use Case Driven Approach. Addison-Wesley, 1992.
 > 3. <a href="3"></a>COCKBURN, Alistair. Writing Effective Use Cases. Addison-Wesley, 2001.
 > 4. <a href="4"></a>LARMAN, Craig. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development. Prentice Hall, 2004.
+> 5. LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.
 
 ## Bibliográfia
 > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
@@ -91,5 +114,22 @@ A tabela 3 se refere a inspeção dos cenários.
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>25/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>06/12</td>
+            <td>1.1</td>
+            <td>Adicionando checklist dos Cenários</td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td>07/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>07/12</td>
+            <td>1.2</td>
+            <td>Adicionando lista de verificação dos Léxicos</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td><a href="https://github.com/"></a></td>
+        </tr>
     </table>
 </div>
