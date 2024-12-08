@@ -26,10 +26,12 @@ Essa metodologia assegura que os Casos de Uso sejam desenvolvidos de forma consi
 ## Diagrama de Casos de Uso
 
 A figura 1 representa o diagrama de casos de uso do Bluesky com as  funcionalidades trabalhadas.
-
 <center><p><b>Figura 1:</b> Diagrama de Caso de Uso </p></center>
-<center><img src="docs/assets/images/diagramacasodeuso.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+
+<figure markdown="span">
+  ![nome_da_imagem](../assets/images/diagramacasodeuso.png){ width="500" align="center" }
+  <figcaption><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></figcaption>
+</figure>
 
 ## Especialização dos casos de uso
 
