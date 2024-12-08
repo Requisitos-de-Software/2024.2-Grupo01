@@ -56,7 +56,7 @@ A tabela 3 se refere a inspeção dos cenários.
 |  ID   |                                        Descrição                                        | Avaliação |                      Referência                       |                  Autor                   |
 | :---: | :-------------------------------------------------------------------------------------: | :-------: | :---------------------------------------------------: | :--------------------------------------: |
 |  09   |             Há uma introdução no artefato que contextualize seu propósito?              |     -     |  JACOBSON, Ivar [²](#2); COCKBURN, Alistair [³](#3)   | [Eduarda](https://github.com/erteduarda) |
-|  10   |               O artefato inclui uma seção de referências ou bibliografia?               |     -     |  SOMMERVILLE[¹](#1), Ian; COCKBURN, Alistair [³](#3)  | [Eduarda](https://github.com/erteduarda) |
+|  10   |               O artefato inclui uma seção de referências ou bibliografia?               |     -     |  SOMMERVILLE[¹](#1), Ian; COCKBURN, Alistair [³](#3)  | [Renata Quadros](https://github.com/Renatinha28) |
 |  11   | O artefato contém um histórico de versões com id, descrição, data, autores e revisores? |     -     |     JACOBSON, Ivar [²](#2); LARMAN, Craig [⁴](#4)     | [Eduarda](https://github.com/erteduarda) |
 |  12   |         As tabelas e imagens são chamadas no texto e possuem legendas e fontes?         |     -     | SOMMERVILLE [¹](#1) , Ian; COCKBURN, Alistair [³](#3) | [Eduarda](https://github.com/erteduarda) |
 |  13   |           Os textos estão redigidos de acordo com as normas da língua padrão?           |     -     |       COCKBURN, Alistair; LARMAN, Craig [⁴](#4)       | [Eduarda](https://github.com/erteduarda) |
@@ -64,8 +64,8 @@ A tabela 3 se refere a inspeção dos cenários.
 |  15   |          O objetivo do cenário está claro e corresponde ao título apresentado?          |     -     |    SOMMERVILLE [¹](#1), Ian; LARMAN, Craig [⁴](#4)    | [Eduarda](https://github.com/erteduarda) |
 |  16   |   O contexto do cenário está bem descrito, incluindo local e pré-condições iniciais?    |     -     |   JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   | [Eduarda](https://github.com/erteduarda) |
 |  17   |    Os episódios do cenário estão organizados de forma lógica e conduzem ao objetivo?    |     -     | COCKBURN, Alistair [³](#3); SOMMERVILLE, Ian [¹](#1)  | [Eduarda](https://github.com/erteduarda) |
-|  18   |    O cenário apresenta situações plausíveis e relevantes de interação com o sistema?    |     -     |   JACOBSON, Ivar[²](#2); SOMMERVILLE, Ian  [¹](#1)    | [Eduarda](https://github.com/erteduarda) |
-|  19   |       Os atores descritos no cenário estão alinhados com o contexto apresentado?        |     -     |   COCKBURN, Alistair [³](#3); LARMAN, Craig [⁴](#4)   | [Eduarda](https://github.com/erteduarda) |
+|  18   |    O cenário apresenta situações plausíveis e relevantes de interação com o sistema?    |     -     |   JACOBSON, Ivar[²](#2); SOMMERVILLE, Ian  [¹](#1)    | Carla |
+|  19   |       Os atores descritos no cenário estão alinhados com o contexto apresentado?        |     -     |   COCKBURN, Alistair [³](#3); LARMAN, Craig [⁴](#4)   | [Davi Nobre](https://github.com/Jagaima) |
 |  20   |                Existe uma conexão clara entre os cenários e os léxicos?                 |     -     |   JACOBSON, Ivar[²](#2); COCKBURN, Alistair [³](#3)   | [Eduarda](https://github.com/erteduarda) |
 
 
@@ -79,12 +79,12 @@ A tabela 4 se refere a inspeção dos léxicos.
 | **ID** |                                                                        **Descrição**                                                                         | **Avaliação** |                                                                                          **Referência**                                                                                           |                **Autor**                 |
 | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------: |
 |   21   |                                                 Cada símbolo é descrito por ao menos uma noção e um impacto?                                                 |       -       |                       [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex1.PNG)                      | [João Ribeiro](https://github.com/Joa0V) |
-|   22   |                                                            Os símbolos descritos têm sinônimo(s)?                                                            |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex2.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
+|   22   |                                                            Os símbolos descritos têm sinônimo(s)?                                                            |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex2.PNG)                          | [Davi Nobre](https://github.com/Jagaima) |
 |   23   | São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?<br>(Princípio do Vocabulário Mínimo) |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex3.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
 |   24   |                       São empregados símbolos da própria linguagem na descrição de noções e impactos?<br>(Princípio da Circularidade)                        |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex3.PNG) | [João Ribeiro](https://github.com/Joa0V) |
-|   25   |                                     Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?                                     |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG) | [João Ribeiro](https://github.com/Joa0V) |
+|   25   |                                     Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?                                     |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG) | [Renata Quadros](https://github.com/Renatinha28) |
 |   26   |                     Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?                     |       -       |                       [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                       | [João Ribeiro](https://github.com/Joa0V) |
-|   27   |                           Nos símbolos do tipo verbo, seus impactos são os reflexos da ação no ambiente e os estados decorrentes?                            |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
+|   27   |                           Nos símbolos do tipo verbo, seus impactos são os reflexos da ação no ambiente e os estados decorrentes?                            |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                          | Carla |
 |   28   |                      Nos símbolos do tipo objeto, suas noções os definem e identificam outros objetos com aos quais este se relaciona?                       |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG) | [João Ribeiro](https://github.com/Joa0V) |
 |   29   |                               Nos símbolos do tipo objeto, seus impactos são as ações passíveis de serem aplicadas ao objeto?                                |       -       | [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG) | [João Ribeiro](https://github.com/Joa0V) |
 |   30   |                                 Nos símbolos do tipo estado, suas noções são seus significados e quais ações levaram a eles?                                 |       -       |                          [LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.](../../assets/images/inspecao3/inspLex4.PNG)                          | [João Ribeiro](https://github.com/Joa0V) |
@@ -92,6 +92,29 @@ A tabela 4 se refere a inspeção dos léxicos.
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></p>
 
+## Caso de Uso
+
+A tabela 5 descreve as perguntas da inpeção do Caso de Uso.
+
+    Tabela 3: inspeção cenários
+|  ID   |                                        Descrição                                        | Avaliação |                      Referência                       |                  Autor                   |
+| :---: | :-------------------------------------------------------------------------------------: | :-------: | :---------------------------------------------------: | :--------------------------------------: |
+|32| O diagrama de caso de uso possuí o sistema, atores, casos de uso e relacionamentos? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:35 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|33| O sistema é representado por um retangulo? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:47 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|34| O nome do sistema é inserido no topo? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:50 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|35| Tudo que acontece no sistema está dentro do retangulo? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:00 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28) |
+|36| O ator é representado por um boneco palito? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:12 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28) |
+|37| O(s) ator(es) é representado fora do retangulo ? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:48 <sup>[5](#ref5)</sup> | [João Ribeiro](https://github.com/Joa0V) |
+|38| O ator primário está do lado esquero e o secundário do lado direito ?  | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:52 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|39| Os casos de uso são representados por elipses? Eles representam ações? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 4:10 <sup>[5](#ref5)</sup>| [Renata Quadros](https://github.com/Renatinha28) |
+|40| Cada ator interage com ao menos um caso de uso? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 5:20 <sup>[5](#ref5)</sup> | [Eduarda](https://github.com/erteduarda) |
+|41| As associações são representadas por uma linha que liga o ator ao caso de uso? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 5:35  <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|42| Os relacionamentos de inclusão mostram dependencias entre o caso de uso base e o incluído? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 7:50 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|43| Os relacionamentos de extensão são casos de uso estendidos que as vezes podem acontecer e as vezes não? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 8:43 <sup>[5](#ref5)</sup> | Carla |
+|44| Nas generalizações os casos de uso secundários compartilham as características do caso de uso primário? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 10:47 <sup>[5](#ref5)</sup> | [Davi Nobre](https://github.com/Jagaima) |
+
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
 
 ## Referência Bibliográfica
 
@@ -99,12 +122,11 @@ A tabela 4 se refere a inspeção dos léxicos.
 > 2. <a href="2"></a>JACOBSON, Ivar; CHRISTERSON, Magnus; JONSSON, Patrik; ÖVERGAARD, Gunnar. Object-Oriented Software Engineering: A Use Case Driven Approach. Addison-Wesley, 1992.
 > 3. <a href="3"></a>COCKBURN, Alistair. Writing Effective Use Cases. Addison-Wesley, 2001.
 > 4. <a href="4"></a>LARMAN, Craig. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development. Prentice Hall, 2004.
-> 5. LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.
+> 5. <a id="ref5"></a> Lucid Software Português. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA. 
 
 ## Bibliográfia
-
 > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
-
+> 2. LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.
 
 ## :round_pushpin: Histórico de Versão 
 
@@ -121,7 +143,7 @@ A tabela 4 se refere a inspeção dos léxicos.
         <tr>
             <td>06/12</td>
             <td>1.0</td>
-            <td>Criação do documento e adicionando checklist dos Cenários</td>
+            <td>Criação do documento e adicionando inspeção dos Cenários</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
             <td>07/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
@@ -129,10 +151,18 @@ A tabela 4 se refere a inspeção dos léxicos.
         <tr>
             <td>07/12</td>
             <td>1.1</td>
-            <td>Adicionando lista de verificação dos Léxicos</td>
+            <td>Adicionando lista de inspeção dos Léxicos</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>08/12</td>
+            <td>1.2</td>
+            <td>Adicionando lista de inspeção do caso de uso</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>

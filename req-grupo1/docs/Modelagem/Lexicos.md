@@ -5,113 +5,79 @@ O Léxico é uma ferramenta utilizada para descrever os termos específicos de u
 O objetivo da aplicação do método léxico é identificar e documentar de forma clara e consistente os termos e conceitos relevantes ao contexto de um sistema, facilitando o entendimento compartilhado entre os stakeholders e contribuindo para a definição precisa dos requisitos. Essa abordagem permite reduzir ambiguidades, alinhar expectativas e garantir que o vocabulário específico do domínio seja compreendido e utilizado corretamente durante todo o ciclo de desenvolvimento.
 
 ## Metodologia 
-A metodologia para aplicação do método léxico começa com a identificação dos termos relevantes ao contexto do sistema, utilizando fontes como entrevistas com stakeholders, análise de documentos de domínio, cenários de uso e observações práticas. Em seguida, os termos são classificados com base em sua função no sistema, como verbos, substantivos ou estados. Cada termo identificado é descrito detalhadamente, incluindo uma noção, que define seu significado ou representação, e um impacto, que especifica os efeitos ou consequências associados a ele no sistema. O léxico elaborado é validado junto aos stakeholders, incorporando feedbacks para garantir que os termos sejam claros e adequados ao domínio do projeto. Durante todo o ciclo de vida do desenvolvimento, o léxico é revisado e atualizado conforme necessário, acompanhando mudanças no escopo ou requisitos. Por fim, o léxico é integrado a outras atividades, como a definição de casos de uso, especificações de requisitos e testes, servindo como uma base semântica para alinhar a comunicação entre equipes e reduzir ambiguidades.
-
-## Léxicos 
-A tabela 1 descreve a funcionalidade do léxico e o integrante responsável pela construção. Cada léxico feito foi realizado através dos cenários feitos anteriormente.
+A metodologia para aplicação do método léxico começa com a identificação dos termos relevantes ao contexto do sistema, utilizando fontes como entrevistas com stakeholders, análise de documentos de domínio, cenários de uso e observações práticas. Em seguida, os termos são classificados com base em sua função no sistema, como verbos, substantivos ou estados. Cada termo identificado é descrito detalhadamente, incluindo uma noção, que define seu significado ou representação, e um impacto, que especifica os efeitos ou consequências associados a ele no sistema. O léxico elaborado é validado junto aos stakeholders, incorporando feedbacks para garantir que os termos sejam claros e adequados ao domínio do projeto. Durante todo o ciclo de vida do desenvolvimento, o léxico é revisado e atualizado conforme necessário, acompanhando mudanças no escopo ou requisitos. Por fim, o léxico é integrado a outras atividades, como a definição de casos de uso, especificações de requisitos e testes, servindo como uma base semântica para alinhar a comunicação entre equipes e reduzir ambiguidades. A tabela 1 serve de orientação para como os léxicos serão organizados.
 
 <center>
-<font size="3"><b>Tabela 1:</b> Integrantes responsáveis por cada léxico</font>
+<font size="3"><b>Tabela 1:</b> Modelo dos léxicos </font>
+
+|Título|Classificação|Impacto|Noção|Dicionário|Autor| Restreabilidade | Cenário |
+|:----:|:------------:|:-----:|:----:|:------:|:----:|:----:|:------:|
+|Nome do léxico| Objeto/Estado/Verbo | Descrição do efeito/ocorrência/uso | Descrição de um símbolo | Sinônimo | Integrante responsável | Técnica de elicitação utilizada para identificar o requisito | Cenário utilizado para criação do léxico |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
+</center>
+
+## Léxicos 
+A tabela 2 descreve a funcionalidade do léxico e o integrante responsável pela construção. Cada léxico feito foi realizado através dos cenários feitos anteriormente.
+
+<center>
+<font size="3"><b>Tabela 2:</b> Integrantes responsáveis por cada funcionalidade do léxico</font>
 
 |                Integrante                |                   Léxico                   |
 | :--------------------------------------: | :----------------------------------------: |
-|   [Carla](https://github.com/ccarlaa)    |                     -                      |
-| [Eduarda](https://github.com/erteduarda) | Quantidade de visualizações em publicações |
-|  [João Vitor](https://github.com/Joa0V)  |               Mensagem direta              |
-|  [Davi](https://github.com/Jagaima)      |                 Salvar Post                |
-| [Renata](https://github.com/Renatinha28) |           Editar uma publicação            |
+|   [Carla](https://github.com/ccarlaa)    |                     L01 -                      |
+| [Eduarda](https://github.com/erteduarda) | L02 - Quantidade de visualizações em publicações |
+|  [João Vitor](https://github.com/Joa0V)  |               L03 - Mensagem direta              |
+|  [Davi](https://github.com/Jagaima)      |                 L04 - Salvar Post                |
+| [Renata](https://github.com/Renatinha28) |           L05 - Editar uma publicação            |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
-### L01 -
-### L02 - Quantidade de visualizações em publicações
-
-O terceiro léxico, disponível na tabela 3, descreve o requisito funcional não implementado: Quantidade de visualizações em publicações (encontrada a partir da lista de elicitação [RF29](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/), que foi rastreada pela técnica de elicitação [IS27](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/)) e foi realizado pela integrante [Eduarda](https://github.com/erteduarda). O léxico foi realizado com base no cenário feito: [Quantidade de visualizações em publicações](../Modelagem/Cenario.md#visualizacao).
+## Objetos
+Léxico de objetos engloba as palavras que representam coisas, seres ou entidades. Os objetos podem ser concretos, como “mesa” ou “cachorro”, ou abstratos, como “amor” ou “liberdade”. A tabela 3 descreve os léxicos do tipo objeto identificados através dos cenários realizados.
 
 <center>
-<font size="3"><b>Tabela 3:</b> Léxico: Quantidade de visualizações em publicações </font>
+<font size="3"><b>Tabela 3:</b> Léxicos : Objeto </font>
 
-|      L02      |                                                                                                                                                 Descrição                                                                                                                                                 |
-| :-----------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Classificação |                                                                                                                                                   Verbo                                                                                                                                                   |
-|    Impacto    |                                                                                                                  Garante a transparência e acompanhamento do desempenho das publicações                                                                                                                   |
-|     Noção     | Ação que permite ao usuário visualizar o número de vezes que uma publicação foi vista. <br> O usuário está interessado em verificar o alcance de sua publicação <br> O sistema exibe o contador de visualizações ao lado da publicação <br> O usuário pode acompanhar as visualizações em tempo real <br> |
-|  Dicionário   |                                                                                                                      Visualização, Contador de visualizações, Alcance de publicação                                                                                                                       |
-
-<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
-</center>
-
-### L03 - Mensagem direta
-
-O terceiro Léxico apresentado na tabela 4 diz respeito a 'mensagem direta', símbolo ligado ao requisito funcional não implementado [RF23](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados) da lista de elicitação, proveniente da introspecção como [IS20](../PerfilUsuario/Tecnicas/Introspeccao.md/#requisitos-funcionais-1).
-
-<center>
-<font size="3"><b>Tabela 3:</b> Léxico: Mensagem direta </font>
-
-| Descrição     | Classificação                                                                                                                                                 |
-| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Classificação | Objeto                                                                                                                                                        |
-| Impacto       | Mensagens diretas podem ser iniciadas ou silenciadas. Há também a possibilidade de sair da conversa                                                           |
-| Noção         | Comunicação entre usuários realizada por trocas de mensagens privadas, ou seja, em um canal de comunicação que apenas os integrantes de tal canal tem acesso. |
-| Dicionário    | Chat, conversa                                                                                                                                                |
-
-<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
-</center>
-
-### L04 - Salvar um Post 
-O quarto Léxico está disponível na tabela 4, descreve o requisito funcional não implementado tens Salvos [RF12](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) que foi rastreado pela elicitação [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/).
-
-
-
-<center>
-<font size="3"><b>Tabela 4:</b> Léxico: Salvar um Post </font>
-
-| **L04**      | **Descrição**                                                                                                                                                                                                                                                                                                                                                             |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Classificação** | Verbo                                                                                                                                                                                                                                                                                                                                                                 |
-| **Impacto**        | Permite ao usuário armazenar itens de interesse para acesso futuro, aumentando a conveniência e retenção.                                                                                                                                                                                                                                                             |
-| **Noção**          | Ação que permite ao usuário adicionar uma publicação à sua lista de itens salvos. <br> O usuário acessa a publicação ou o feed. <br> O sistema exibe a opção de salvar o item. <br> Ao salvar, o item é adicionado à lista de "Itens Salvos". <br> Uma mensagem confirma a operação.                                                                                |
-| **Dicionário**     | Salvar, Publicação, Lista de Itens Salvos, Mensagem de Confirmação                                                                                                                                                                                                                                                                                                |
-
-<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
-</center>
-
-
-
-### L05 - Editar uma publicação
-
-O quinto Léxico, presente na tabela 6, descreve o requisito funcional não implementado: editar publicações já postadas (encontradas a partir da lista de elicitação [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28). O léxico foi realizado com base no cenário feito: [Editar publicação](../Modelagem/Cenario.md#edição).
-
-<center>
-<font size="3"><b>Tabela 6:</b> Léxico: editar uma publicação </font>
-
-|      L05      |                                                                                                                                                   Descricção                                                                                                                                                   |
-| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Classificação |                                                                                                                                                     Verbo                                                                                                                                                      |
-|    Impacto    |                                                                                                                               Garante a atualidade e a correção das publicações                                                                                                                                |
-|     Noção     | Ação que permite ao usuário modificar o conteúdo ou atributos de uma publicação previamente criada. <br> O usuário está interessado em editar uma publicação <br> O usuário edita sua publicação conforme deseja <br> O usuário confirma as edições e a publicação é mostrada no perfil conforme a edição <br> |
-|  Dicionário   |                                                                                                                                    Edição, Correção, Ajustes em publicações                                                                                                                                    |
+|Título|Classificação|Impacto|Noção|Dicionário|Autor| Restreabilidade | Cenário |
+|:----:|:------------:|:-----:|:----:|:------:|:----:|:-----:|:-----:|
+| L05 - Usuário | Objeto | O usuário pode editar suas publicações | O “usuário” é um sujeito que interage com a plataforma e com as publicações. Ele é o ente que realiza a ação de editar, mas o termo em si não expressa uma ação nem um estado, apenas um ser que utiliza o serviço. | Utilizador/Desfrutador | [Renata Quadros](https://github.com/Renatinha28)| [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) <br> [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) |                [Editar publicação](../Modelagem/Cenario.md#edição)                 |    
+| L05 - Publicação | Objeto | O usuário pode visualizar, editar e interagir com publicações | A “publicação” é o conteúdo criado ou compartilhado por um usuário, como textos, imagens ou vídeos | Postagem/Divulgação | [Renata Quadros](https://github.com/Renatinha28) | [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) <br> [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) |                [Editar publicação](../Modelagem/Cenario.md#edição)                 |    
+| L03 - Mensagem direta | Objeto | Mensagens diretas podem ser iniciadas ou silenciadas. Há também a possibilidade de sair da conversa | Comunicação entre usuários realizada por trocas de mensagens privadas, ou seja, em um canal de comunicação que apenas os integrantes de tal canal tem acesso. | Chat, conversa | [João Ribeiro]() |  [RF23](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados)<br>[IS20](../PerfilUsuario/Tecnicas/Introspeccao.md/#reqfunc2) | [Iniciar um grupo de mensagens diretas](../Modelagem/Cenario.md/#grupo) | 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
-## Junção de todos os Léxicos
-A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhorar a visualização.
+## Estados
+Léxico de estados refere-se ao conjunto de palavras que expressam condições ou estados do sujeito, ao contrário de ações ou mudanças. Os verbos de estado descrevem o estado em que algo ou alguém se encontra, como sentimentos, características ou situações permanentes. A tabela 4 descrevem os léxicos encontrados do tipo estado
 
 <center>
-<font size="3"><b>Tabela 7:</b> Léxicos </font>
+<font size="3"><b>Tabela 4:</b> Léxicos : Estado </font>
 
-|                      Léxico                      |                           Dicionário                           |                                                                                                                                                     Noção                                                                                                                                                      |                                Impacto                                 | Classificação |                                                                                                                                               Restreabilidade                                                                                                                                               |                                      Cenário                                       |                      Autor                       |
-| :----------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------------: |
-|                       L01                        |                               -                                |                                                                                                                                                       -                                                                                                                                                        |                                   -                                    |       -       |                                                                                                                                                      -                                                                                                                                                      |                                         -                                          |                        -                         |
-| L02 - Quantidade de visualizações em publicações | Visualização, Contador de visualizações, Alcance de publicação |   Ação que permite ao usuário visualizar o número de vezes que uma publicação foi vista. <br> O usuário está interessado em verificar o alcance de sua publicação <br> O sistema exibe o contador de visualizações ao lado da publicação <br> O usuário pode acompanhar as visualizações em tempo real <br>    | Garante a transparência e acompanhamento do desempenho das publicações |     Verbo     |                                                     [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [IS27](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/)                                                      | [Quantidade de visualizações em publicações](../Modelagem/Cenario.md#visualizacao) | [Eduarda Tavares](https://github.com/erteduarda) |
-|                        L03 - Mensagem direta                        |                               Chat, Conversa                                |                                                                                                                                                       Comunicação entre usuários realizada por trocas de mensagens privadas, ou seja, em um canal de comunicação que apenas os integrantes de tal canal tem acesso.                                                                                                                                                        |                                   Mensagens diretas podem ser iniciadas ou silenciadas. Há também a possibilidade de sair da conversa                                    |       Objeto       |                                                                                                                                                      [RF23](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados)<br>[IS20](../PerfilUsuario/Tecnicas/Introspeccao.md/#reqfunc2)                                                                                                                                                       |                                         [Iniciar um grupo de mensagens diretas](../Modelagem/Cenario.md/#grupo)                                   |                        [João Ribeiro](https://github.com/Joa0V)                         |
-|      L04  - Salvar post|                                      Salvar, Adicionar aos Salvos                                                                               |                Ação que permite ao usuário adicionar uma publicação à sua lista de itens salvos. <br> O usuário acessa a publicação ou o feed. <br> O sistema exibe a opção de salvar o item. <br> Ao salvar, o item é adicionado à lista de "Itens Salvos". <br> Uma mensagem confirma a operação.                                                                                |          Permite ao usuário armazenar itens de interesse para acesso futuro, aumentando a conveniência e retenção                |      Verbo         |   [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)    |                                         [Salvar Post](../Modelagem/Cenario.md#salvos)                                     |                        [Davi Nobre](https://github.com/Jagaima)                |
-|             L05 - Editar Publicação              |        Edição <br> Correção <br> Ajustes em publicações        | Ação que permite ao usuário modificar o conteúdo ou atributos de uma publicação previamente criada. <br> O usuário está interessado em editar uma publicação <br> O usuário edita sua publicação conforme deseja <br> O usuário confirma as edições e a publicação é mostrada no perfil conforme a edição <br> |           Garante a atualidade e a correção das publicações            |     Verbo     | [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) <br> [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) |                [Editar publicação](../Modelagem/Cenario.md#edição)                 |     [Renata](https://github.com/Renatinha28)     |
+|Título|Classificação|Impacto|Noção|Dicionário|Autor|
+|:----:|:------------:|:-----:|:----:|:------:|:----:|
+
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
+
+## Verbos
+
+Os léxicos do tipo verbo são palavras que indicam ações ou processos. No léxico de verbos, estão presentes todos os verbos, que podem variar em tempos, modos e pessoas. A tabela 5 descreve os léxicos identificados do tipo verbo.
+
+<center>
+<font size="3"><b>Tabela 3:</b> Léxicos : Verbo </font>
+
+|Título|Classificação|Impacto|Noção|Dicionário|Autor| Restreabilidade | Cenário |
+|:----:|:------------:|:-----:|:----:|:------:|:----:|:----:|:-----:|
+| L05 - Editar publicação | Verbo | Garante a atualidade e a correção das publicações | Ação que permite ao usuário modificar o conteúdo ou atributos de uma publicação previamente criada. <br> O usuário está interessado em editar uma publicação <br> O usuário edita sua publicação conforme deseja <br> O usuário confirma as edições e a publicação é mostrada no perfil conforme a edição | Edição, Correção, Ajustes em publicações | [Renata Quadros](https://github.com/Renatinha28) | [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) <br> [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) |                [Editar publicação](../Modelagem/Cenario.md#edição)                 |     
+| L02 - Visualizar o número de vezes que uma publicação foi vista | Verbo | Garante a transparência e acompanhamento do desempenho das publicações | Ação que permite ao usuário visualizar o número de vezes que uma publicação foi vista. <br> O usuário está interessado em verificar o alcance de sua publicação <br> O sistema exibe o contador de visualizações ao lado da publicação <br> O usuário pode acompanhar as visualizações em tempo real | Visualização, Contador de visualizações, Alcance de publicação | [Eduarda Tavares](https://github.com/erteduarda) | [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) <br> [IS27](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/)                                                  | [Quantidade de visualizações em publicações](../Modelagem/Cenario.md#visualizacao) |
+| L04 - Salvar um post | Verbo | Permite ao usuário armazenar itens de interesse para acesso futuro, aumentando a conveniência e retenção. | Ação que permite ao usuário adicionar uma publicação à sua lista de itens salvos. <br> O usuário acessa a publicação ou o feed. <br> O sistema exibe a opção de salvar o item. <br> Ao salvar, o item é adicionado à lista de "Itens Salvos". <br> Uma mensagem confirma a operação. | Salvar, Publicação, Lista de Itens Salvos, Mensagem de Confirmação | [Davi Nobre](https://github.com/Jagaima) | [IS3](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/) e [IS22](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)    |                                         [Salvar Post](../Modelagem/Cenario.md#salvos)                                     |  
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
+</center>
+
 
 ## Bibliográfia
 > 1. SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf. Último acesso em: 01 dez. 2024.
@@ -146,7 +112,7 @@ A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhor
             <td>1.1</td>
             <td>Ajuste do documento e léxico: publicação </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td></td>
+            <td>07/12</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
@@ -162,8 +128,8 @@ A tabela 7 faz a junção de todos os léxicos feitos e tem como objetivo melhor
             <td>1.3</td>
             <td>Léxico: Mensagem direta</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

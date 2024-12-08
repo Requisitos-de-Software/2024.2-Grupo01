@@ -185,7 +185,7 @@ Onde dispositivos modernos abrangem smartphones e computadores modernos.
             <td>1.0</td>
             <td>Criação do documento e especificação suplementar </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td></td>
+            <td>07/12</td>
             <td><a href="https://github.com/Jagaima"> Davi Nobre</a></td>
         </tr>
         <tr>
@@ -193,8 +193,8 @@ Onde dispositivos modernos abrangem smartphones e computadores modernos.
             <td>1.1</td>
             <td> Adição das demais especificações </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

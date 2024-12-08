@@ -113,7 +113,7 @@ A tabela 5 descreve o cenário referente ao requisito funcional não implementad
 
 <a id="edição"></a>
 
-### CEN05 - Fazer uma publicação
+### CEN05 - Editar uma publicação
 A tabela 6 descreve o cenário do requisito funcional não implementado: editar publicações já postadas (encontrado a partir da lista de requisitos elicitados [RF5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/), que foram rastreadas pelas técnicas de elicitação [OB5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/PerfilUser/) e [IS17](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Introspeccao/)) e foi realizado pela integrante [Renata](https://github.com/Renatinha28).
 
 <center>
@@ -161,7 +161,7 @@ A tabela 6 descreve o cenário do requisito funcional não implementado: editar 
             <td>1.1</td>
             <td>Criação do cenário: Quantidade de visualizações em publicações </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td></td>
+            <td>07/12</td>
             <td><a href="https://github.com/Jagaima">Davi NobreS</a></td>
         </tr>
         <tr>
@@ -177,8 +177,8 @@ A tabela 6 descreve o cenário do requisito funcional não implementado: editar 
             <td>1.3</td>
             <td>Cenário: Iniciar um grupo de mensagens diretas </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

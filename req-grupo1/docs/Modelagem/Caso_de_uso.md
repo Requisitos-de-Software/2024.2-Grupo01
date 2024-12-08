@@ -27,6 +27,10 @@ Essa metodologia assegura que os Casos de Uso sejam desenvolvidos de forma consi
 
 A figura 1 representa o diagrama de casos de uso do Bluesky com as  funcionalidades trabalhadas.
 
+<center><p><b>Figura 1:</b> Diagrama de Caso de Uso </p></center>
+<center><img src="docs/assets/images/diagramacasodeuso.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
+
 ## Especialização dos casos de uso
 
 A tabela 1 mostra as especializações realizadas e o integrante responsável por cada uma.
@@ -173,7 +177,7 @@ A tabela 6 descreve a especificação do caso de uso "editar". Foi feito pela in
             <td>1.1</td>
             <td>Ajuste do documento e especialização: quantidade de visualizações em publicações </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
-            <td></td>
+            <td>07/12</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
@@ -189,8 +193,8 @@ A tabela 6 descreve a especificação do caso de uso "editar". Foi feito pela in
             <td>1.3</td>
             <td>Caso de uso: Criar grupo de mensagem direta</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
