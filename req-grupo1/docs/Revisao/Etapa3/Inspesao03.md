@@ -8,18 +8,6 @@ O principal objetivo desta inspeção é identificar inconsistências, erros e p
 Para realizar a inspeção, o Grupo 01 utilizará as mesmas listas de inspeção utilizada na inspeção do próprio grupo.
 
 ## Artefatos
-A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o integrante responsável pela realização da lista de verificação e o integrante responsável pela avaliação em si.
-
-    Tabela 1: Organização da inspeção
-|         Artefato          | Versão | Integrante responsável pela lista de verificação | Integrante responsável pela revisão |
-| :-----------------------: | :----: | :----------------------------------------------: | :---------------------------------: |
-|     Perguntas gerais      |  1.0   |                      Renata                      |                Davi                 |
-|         Cenários          |  1.0   |                     Eduarda                      | Carla, Davi, Eduarda, João e Renata |
-|          Léxico           |  1.1   |                       João                       | Carla, Davi, Eduarda, João e Renata |
-|        Caso de uso        |  1.0   |                       Davi                       |               Renata                |
-| Especificação Suplementar |  1.0   |                      Renata                      |                Carla                |
-
-<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Perguntas Gerais 
 A tabela 2 se refere a inspeção geral do projeto, todos os artefatos serão verificados a partir desta tabela. 

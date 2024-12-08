@@ -227,7 +227,7 @@ A tabela 6 descreve a especificação do caso de uso "editar". Foi feito pela in
             <td>Cenário: Trending Topics. </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>08/12</td>
-            <td><a href="https://github.com/">
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             </a></td>
     </table>
 </div>
