@@ -116,6 +116,28 @@ A tabela 5 descreve as perguntas da inpeção do Caso de Uso.
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
 
+
+## Especificação Suplementar
+
+A tabela 6 descreve as perguntas da Especificação Suplementar.
+
+    Tabela 3: inspeção cenários
+|  ID   |                                        Descrição                                        | Avaliação |                      Referência                       |                  Autor                   |
+| :---: | :-------------------------------------------------------------------------------------: | :-------: | :---------------------------------------------------: | :--------------------------------------: |
+|45| Possui o tópico de funcionalidades? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Davi Nobre](https://github.com/Jagaima)  |
+|46| Os requisitos apresentados são fundamentais ao usuário?  | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Davi Nobre](https://github.com/Jagaima)  |
+|47| Possui o tópico usabilidade? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Renata Quadros](https://github.com/Renatinha28)  |
+|48| Possui o tópico Confiabilidade? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Renata Quadros](https://github.com/Renatinha28) |
+|49| Possui o tópico desempenho? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Davi Nobre](https://github.com/Jagaima) |
+|50| Possui o tópico suporte? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [João Ribeiro](https://github.com/Joa0V) |
+|51| Possui o tópico restrições de desing? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Davi Nobre](https://github.com/Jagaima)  |
+|52| Possui o tópico requisitos de implementação? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Davi Nobre](https://github.com/Jagaima) |
+|53| Possui o tópico Requisitos físicos? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Eduarda](https://github.com/erteduarda) |
+|54| Possui o tópico requisitos de interface? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Davi Nobre](https://github.com/Jagaima)  |
+|55| O documento está usaando o FURPS+? | - | [Milene Serrano e Maurício Serrano. Requisitos - Aula 13](https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) | [Davi Nobre](https://github.com/Jagaima)  |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p>
+
 ## Referência Bibliográfica
 
 > 1. <a href="1"></a>SOMMERVILLE, Ian. Software Engineering. 10th Edition, Pearson, 2015.
@@ -127,6 +149,7 @@ A tabela 5 descreve as perguntas da inpeção do Caso de Uso.
 ## Bibliográfia
 > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 > 2. LEITE, Julio Cesar. Léxico Ampliado da Linguagem, 2012. Disponível em: https://www-di.inf.puc-rio.br/~julio/lal.pdf. Acesso em: 06/12/2024.
+> 3. Milene Serrano e Maurício Serrano. Requisitos - Aula 13. 2017. Disponível em: https://aprender3.unb.br/pluginfile.php/2972480/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf. Acesso em: 08 dez. 2024.
 
 ## :round_pushpin: Histórico de Versão 
 
