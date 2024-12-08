@@ -40,7 +40,7 @@ A tabela 1 mostra as especializações realizadas e o integrante responsável po
 
 |                Integrante                |                Especialização do Caso de Uso                 |
 | :--------------------------------------: | :----------------------------------------------------------: |
-|   [Carla](https://github.com/ccarlaa)    |                              -                               |
+|   [Carla](https://github.com/ccarlaa)    |   [Visualização de Trending Topics](#visualizacao0)                              |
 | [Eduarda](https://github.com/erteduarda) | [Quantidade de visualizações em publicações](#visualizacao1) |
 |  [João Vitor](https://github.com/Joa0V)  |         [Criar grupo de mensagem direta](#grupo1)            |
 |  [Davi](https://github.com/Jagaima)      |                  [Salvar Post](#salvos1)                     |
@@ -49,7 +49,30 @@ A tabela 1 mostra as especializações realizadas e o integrante responsável po
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
-### UC01
+<a id="visualizacao0"></a>
+### UC01 - Visualização de Trending Topics
+
+
+A tabela abaixo descreve a especificação do caso de uso **"Visualização de Trending Topics"**.  Foi feito pela integrante [Carla](https://github.com/ccarlaa).
+
+<center>
+<font size="3"><b>Tabela 2:</b> Visualização de Trending Topics</font>
+
+| **UC01**                     | **Descrição**                                                                 |
+|-------------------------------|-------------------------------------------------------------------------------|
+| **Data da criação**          | 08/12                                                                          |
+| **Rastreabilidade**          | [RF32](../PerfilUsuario/Tecnicas/Requisitosel.md/#requisitos-elicitados)<br>[QT5](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Questionario/)                                                                     |
+| **Atores**                   | Usuários do Bluesky                                                            |
+| **Ação**                     | O usuário visualiza os trending topics da rede social                         |
+| **Pré-condições**            | O usuário deve estar logado no Bluesky                                         |
+| **Fluxo básico**             | 1. O usuário efetua o login no Bluesky<br>2. O usuário acessa a seção de trending topics<br>3. Os trending topics são exibidos na interface            |
+| **Fluxos alternativos**      | 1. O usuário efetua o login no Bluesky<br>2. O usuário busca os trending topics em uma categoria específica<br>3. Os trending topics dessa categoria são exibidos  |
+| **Fluxo de exceção**         | 1. O usuário efetua o login no Bluesky<br>2. O sistema não consegue carregar os trending topics devido a uma falha (por exemplo, falta de conexão)<br>3. O sistema exibe uma mensagem de erro informando o problema<br>4. O usuário pode tentar novamente após restabelecer a conexão |
+| **Pós-condições**            | O usuário visualiza os trending topics disponíveis no Bluesky                 |
+| **Autor**                    | [Carla Clementino](https://github.com/ccarlaa)                                                                     |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
 
 <a id="visualizacao1"></a>
 
@@ -196,5 +219,13 @@ A tabela 6 descreve a especificação do caso de uso "editar". Foi feito pela in
             <td>08/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
+        <tr>
+            <td>08/12</td>
+            <td>1.4</td>
+            <td>Cenário: Trending Topics. </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/">
+            </a></td>
     </table>
 </div>
