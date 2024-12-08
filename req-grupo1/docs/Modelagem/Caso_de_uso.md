@@ -29,7 +29,7 @@ A figura 1 representa o diagrama de casos de uso do Bluesky com as  funcionalida
 <center><p><b>Figura 1:</b> Diagrama de Caso de Uso </p></center>
 
 <figure markdown="span">
-  ![nome_da_imagem](../assets/images/diagramacasodeuso.png){ width="500" align="center" }
+  ![nome_da_imagem](../assets/images/diagramacasodeuso.png){ width="700" align="center" }
   <figcaption><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></figcaption>
 </figure>
 
