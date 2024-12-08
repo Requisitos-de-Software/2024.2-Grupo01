@@ -30,7 +30,7 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 
 |                Integrante                |                           Cenário                           |
 | :--------------------------------------: | :---------------------------------------------------------: |
-|   [Carla](https://github.com/ccarlaa)    |                              -                              |
+|   [Carla](https://github.com/ccarlaa)    |       [Visualização de Trending Topics](#trending)                                                     |
 | [Eduarda](https://github.com/erteduarda) | [Quantidade de visualizações em publicações](#visualizacao) |
 |    [Davi](https://github.com/Jagaima)    |                        [Salvar um post](#salvos)                     |
 |  [João Vitor](https://github.com/Joa0V)  |          [Criar um grupo de mensagem direta](#grupo)              |
@@ -39,7 +39,29 @@ A tabela 1 descreve o integrante responsável por cada cenário realizado.
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
-### CEN01 - Carla
+<a id="trending"></a>
+
+### CEN01 - Visualização de Trending Topics
+
+A tabela a seguir descreve o cenário do requisito funcional **Trending Topics**, que ainda não foi implementado. Esse requisito foi rastreado pela técnica de elicitação questionário [REF32](https://requisitos-de-software.github.io/2024.2-Bluesky/PerfilUsuario/Tecnicas/Requisitosel/) e foi realizado pela integrante [Davi Nobre](https://github.com/Jagaima).
+
+
+<center>
+<font size="3"><b>Tabela 2:</b> Cenário: Visualização de Trending Topics. </font>
+
+| Item          | Descrição                                                                                 |
+|---------------|-------------------------------------------------------------------------------------------|
+| **Título**    | Visualizar Trending Topics no Bluesky                                                    |
+| **Objetivo**  | Permitir que o usuário veja uma lista de tópicos mais comentados no Bluesky em tempo real |
+| **Contexto**  | **Local**: Tela inicial do aplicativo Bluesky<br>**Tempo**: em tempo real<br>**Pré-condição**: O usuário deve estar logado no Bluesky e conectado à internet |
+| **Atores**    | Usuários do Bluesky                                                                      |
+| **Recursos**  | Internet<br>Smartphone com o aplicativo Bluesky instalado e conta logada                 |
+| **Episódios** | 1. O usuário abre o aplicativo Bluesky<br>2. O usuário acessa a aba de **Trending Topics** na tela inicial<br>3. O aplicativo exibe os tópicos mais comentados de acordo com a atividade recente |
+| **Restrição** | Os Trending Topics são atualizados a cada 5 minutos para refletir a atividade recente    |
+| **Exceção**   | Falta de conexão com a internet<br>Aplicativo offline                                    |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
 
 <a id="visualizacao"></a>
 
@@ -179,6 +201,15 @@ A tabela 6 descreve o cenário do requisito funcional não implementado: editar 
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>08/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>08/12</td>
+            <td>1.4</td>
+            <td>Cenário: Trending Topics. </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>08/12</td>
+            <td><a href="https://github.com/">
+            </a></td>
         </tr>
     </table>
 </div>
