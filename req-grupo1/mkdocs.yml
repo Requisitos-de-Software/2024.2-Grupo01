@@ -1,7 +1,7 @@
 site_name: grupo1
 
-repo_name: '2024.2-Grupo01'
-repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo01
+repo_name: '2024.2-Bluesky'
+repo_url: https://github.com/Requisitos-de-Software/2024.2-Bluesky
 # site_url: 
 edit_uri: edit/main/docs/
 
@@ -81,6 +81,7 @@ nav:
   - Apresentações: 
     - Apresentação 1: Home/apresentacao1.md
     - Apresentação 2: Home/apresentacao2.md
+    - Apresentação 3: Home/apresentacao3.md
   - Cronograma Executado: Home/cronogramaex.md
 
   - Desenvolvimento:
@@ -105,6 +106,13 @@ nav:
       - Three Level Scale: PerfilUsuario/TecnicasPrior/Three.md
       - First Things First: PerfilUsuario/TecnicasPrior/FirstThingsFirst.md
       - $100: PerfilUsuario/TecnicasPrior/100.md
+
+  - Modelagem: 
+    - Cenários: Modelagem/Cenario.md
+    - Léxicos: Modelagem/Lexicos.md
+    - Casos de Uso: Modelagem/Caso_de_uso.md
+    - Especificação Suplementar: Modelagem/Especificacao.md
+
   - Inspeção: 
     - Etapa 1:
       - Planejamento Etapa 1: Revisao/Etapa1/planejamento1.md
@@ -113,7 +121,11 @@ nav:
       - Inspesão grupo 02: Revisao/Etapa1/Inspesao02.md
     - Etapa 2:
       - Planejamento Etapa 2: Revisao/Etapa2/planejamento.md
-      - Inspeçao etapa 2: Revisao/Etapa2/resultado.md
-  
-      
-      
+      - Inspeção etapa 2: Revisao/Etapa2/resultado.md
+      - Inspeção grupo 02: Revisao/Etapa2/Inspesao02.md
+    - Etapa 3:
+      - Planejamento Etapa 3: Revisao/Etapa3/planejamento.md
+      - Inspeção etapa 3: Revisao/Etapa3/resultado.md
+      - Inspeção cenários: Revisao/Etapa3/cenarios.md
+      - Inspeção grupo 02: Revisao/Etapa3/Inspesao03.md
+

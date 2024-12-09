@@ -51,6 +51,21 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
+## Etapa 3
+    Tabela 3: Cronograma planejado - Etapa 3 - Modelagem
+| **Atividade**                                                          | **Período de Desenvolvimento** | **Responsáveis**                         | **Período de Revisão**    | **Revisores**                            |
+|------------------------------------------------------------------------|--------------------------------|------------------------------------------|---------------------------|------------------------------------------|
+| Cenários                                                              | Início: 03/12 - Fim: 08/12    | Renata, Davi, João, Eduarda e Carla      | Início: 08/12 - Fim: 08/12 | Renata, Davi, João, Eduarda e Carla|
+| Léxicos                                | Início: 03/12 - Fim: 08/12    | Renata, Davi, João, Eduarda e Carla | Início: 08/12 - Fim: 08/12 | Renata, Davi, João, Eduarda e Carla |
+| Casos de Uso                              | Início: 03/12 - Fim: 08/12    | Renata, Davi, João, Eduarda e Carla                       | Início: 08/12 - Fim: 08/12 | Renata, Davi, João, Eduarda e Carla                                 |
+| Especificação Suplementar                                 | Início: 03/12 - Fim: 08/12    | Davi e Renata                                  | Início: 08/12 - Fim: 08/12 | Carla                                 |                                |
+| Inspeção                                                              | Início: 03/12 - Fim: 07/12    | Carla, Eduarda, Davi, João Vitor, Renata | Início: 08/12 - Fim: 08/12 | Carla, Eduarda, Davi, João Vitor, Renata |
+| Gravação da apresentação e entrega                                    | Início: 08/12 - Fim: 08/12    | Carla, Eduarda, Davi, João Vitor, Renata | Início: 08/12 - Fim: 08/12 | João Vitor                             |
+| Atualização do cronograma executado                                   | Início: 08/12 - Fim: 08/12    | Carla                                   | Início: 08/12 - Fim: 08/12 | Renata                                   |
+| Correção pós apresentação                                             | Início: 08/12 - Fim: 10/12    | Carla, Eduarda, Davi, João Vitor, Renata | Início: 10/12 - Fim: 10/12 | Carla, Eduarda, Davi, João Vitor, Renata |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+
 ## Bibliografia
 > 1. [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
 
@@ -93,6 +108,14 @@ A metodologia adotada para o desenvolvimento deste cronograma executado baseia-s
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a> </td>
             <td>24/11</td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>08/12</td>
+            <td>1.3</td>
+            <td>Add etapa 3</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a> </td>
+            <td>08/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
