@@ -82,21 +82,25 @@ A tabela 5 descreve as perguntas da inpeção do Caso de Uso.
     Tabela 3: inspeção cenários
 |  ID   |                                        Descrição                                        | Avaliação |                      Referência                       |                  Autor                   |
 | :---: | :-------------------------------------------------------------------------------------: | :-------: | :---------------------------------------------------: | :--------------------------------------: |
-|32| O diagrama de caso de uso possuí o sistema, atores, casos de uso e relacionamentos? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:35 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
-|33| O sistema é representado por um retangulo? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:47 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
-|34| O nome do sistema é inserido no topo? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:50 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
-|35| Tudo que acontece no sistema está dentro do retangulo? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:00 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28) |
-|36| O ator é representado por um boneco palito? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:12 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28) |
-|37| O(s) ator(es) é representado fora do retangulo ? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:48 <sup>[5](#ref5)</sup> | [João Ribeiro](https://github.com/Joa0V) |
-|38| O ator primário está do lado esquero e o secundário do lado direito ?  | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:52 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
-|39| Os casos de uso são representados por elipses? Eles representam ações? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 4:10 <sup>[5](#ref5)</sup>| [Renata Quadros](https://github.com/Renatinha28) |
-|40| Cada ator interage com ao menos um caso de uso? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 5:20 <sup>[5](#ref5)</sup> | [Eduarda](https://github.com/erteduarda) |
-|41| As associações são representadas por uma linha que liga o ator ao caso de uso? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 5:35  <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
-|42| Os relacionamentos de inclusão mostram dependencias entre o caso de uso base e o incluído? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 7:50 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
-|43| Os relacionamentos de extensão são casos de uso estendidos que as vezes podem acontecer e as vezes não? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 8:43 <sup>[5](#ref5)</sup> | Carla |
-|44| Nas generalizações os casos de uso secundários compartilham as características do caso de uso primário? | - | Tutorial de Caso de Uso UML. YouTube. Minuto: 10:47 <sup>[5](#ref5)</sup> | [Davi Nobre](https://github.com/Jagaima) |
+|32| O diagrama de caso de uso possuí o sistema, atores, casos de uso e relacionamentos? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:35 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|33| O sistema é representado por um retangulo? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:47 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|34| O nome do sistema é inserido no topo? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 1:50 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|35| Tudo que acontece no sistema está dentro do retangulo? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:00 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28) |
+|36| O ator é representado por um boneco palito? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:12 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28) |
+|37| O(s) ator(es) é representado fora do retangulo ? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:48 <sup>[5](#ref5)</sup> | [João Ribeiro](https://github.com/Joa0V) |
+|38| O ator primário está do lado esquero e o secundário do lado direito ?  | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 2:52 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|39| Os casos de uso são representados por elipses? Eles representam ações? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 4:10 <sup>[5](#ref5)</sup>| [Renata Quadros](https://github.com/Renatinha28) |
+|40| Cada ator interage com ao menos um caso de uso? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 5:20 <sup>[5](#ref5)</sup> | [Eduarda](https://github.com/erteduarda) |
+|41| As associações são representadas por uma linha que liga o ator ao caso de uso? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 5:35  <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|42| Os relacionamentos de inclusão mostram dependencias entre o caso de uso base e o incluído? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 7:50 <sup>[5](#ref5)</sup> | [Renata Quadros](https://github.com/Renatinha28)  |
+|43| Os relacionamentos de extensão são casos de uso estendidos que as vezes podem acontecer e as vezes não? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 8:43 <sup>[5](#ref5)</sup> | Carla |
+|44| Nas generalizações os casos de uso secundários compartilham as características do caso de uso primário? | Sim | Tutorial de Caso de Uso UML. YouTube. Minuto: 10:47 <sup>[5](#ref5)</sup> | [Davi Nobre](https://github.com/Jagaima) |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros e Carla Clementino</a></p>
+
+<center>
+**Inspeção:** [Vídeo](https://youtu.be/3LRk-ipyNhY)
+</center>
 
 ## Conclusão Caso de uso 
 
@@ -148,6 +152,14 @@ A tabela 5 descreve as perguntas da inpeção do Caso de Uso.
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
             <td>08/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>09/12</td>
+            <td>1.2</td>
+            <td>Adicionando verificação dos Casos de Uso</td>
+            <td><a href="https://github.com/Joa0V">Carla Clementino</a></td>
+            <td>09/12</td>
+            <td><a href="https://github.com/Renatinha28">Eduarda Tavares</a></td>
         </tr>
     </table>
 </div>
