@@ -114,6 +114,7 @@ nav:
     - Especificação Suplementar: Modelagem/Especificacao.md
     - Ágil:
       - Histórias de Usuário: Modelagem/Agil/historia.md
+      - Backlog: Modelagem/Agil/Backlog.md
 
   - Inspeção: 
     - Etapa 1:

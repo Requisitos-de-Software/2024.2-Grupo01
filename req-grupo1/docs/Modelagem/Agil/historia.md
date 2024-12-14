@@ -41,6 +41,7 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 
 A tabela 2 mostra o modelo seguido para cada história de usuário realizada.
 
+
 <center>
 <font size="3"><b>Tabela 2:</b>Modelo para História de Usuário</font>
 
@@ -62,6 +63,8 @@ A tabela 2 mostra o modelo seguido para cada história de usuário realizada.
 
 As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integrante [Renata Quadros](https://github.com/Renatinha28)
 
+<a id="US01"></a>
+
 <center>
 <font size="3"><b>Tabela 3:</b>História de Usuário: Login</font>
 
@@ -69,7 +72,7 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 |:----:|:---------:|
 | USx(número de identificação) | US01 |
 | Tema | Fazer login |
-| Descrição | Eu, como usuário interessado em utilizar o Bluesky, desejo realizar o login para acessar o aplicativo |
+| Descrição | Eu, como usuário, desejo realizar o login no aplicativo Bluesky para acessar minha conta. |
 | Critérios de Aceitação | - O sistema deve permitir o login automatico caso o usuário tenha salvo <br> - O sistema deve redirecionar para tela inicial do app após a confirmação do login <br> - O sistema deve permitir o acesso apenas se o usuário e a senha estiverem corretos |
 | Prioridade PO | Alta |
 | Prioridade Usuário | Alta |
@@ -79,6 +82,8 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+<a id="US02"></a>
+
 <center>
 <font size="3"><b>Tabela 4:</b>História de Usuário: Recuperar senha</font>
 
@@ -86,7 +91,7 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 |:----:|:---------:|
 | USx(número de identificação) | US02 |
 | Tema | Recuperar senha |
-| Descrição | Eu, como usuário, desejo recuperar minha senha para acessar o aplicativo Bluesky |
+| Descrição | Eu, como usuário, desejo recuperar minha senha para acessar o aplicativo Bluesky em caso de esquecimento. |
 | Critérios de Aceitação |  - O sistema deve exibir um botão "Esqueci minha senha" na tela de login <br> - O usuário deve receber um e-mail com um link de redefinição de senha no e-mail cadastrado na conta <br> - O link enviado deve expirar após 10 minutos|
 | Prioridade PO | Alta |
 | Prioridade Usuário | Alta |
@@ -96,6 +101,8 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+<a id="US03"></a>
+
 <center>
 <font size="3"><b>Tabela 5:</b>História de Usuário: Acessar novos conteúdos</font>
 
@@ -103,7 +110,7 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 |:----:|:---------:|
 | USx(número de identificação) | US03 |
 | Tema | Acessar novos conteúdos rapidamente |
-| Descrição | Eu, como usuário do Bluesky, desejo acessar novos conteúdos rapidamente para ficar atualizado |
+| Descrição | Eu, como usuário, desejo acessar novos conteúdos rapidamente para estar atualizado com as últimas informações da plataforma. |
 | Critérios de Aceitação | - O sistema deve atualizar o feed automaticamente ao abrir o aplicativo <br> - O usuário deve ter a opção de atualizar o feed manualmente  |
 | Prioridade PO | Média |
 | Prioridade Usuário | Média |
@@ -113,6 +120,8 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+<a id="US04"></a>
+
 <center>
 <font size="3"><b>Tabela 6:</b>História de Usuário: realizar postagens</font>
 
@@ -120,7 +129,7 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 |:----:|:---------:|
 | USx(número de identificação) | US04 |
 | Tema | Realizar postagens |
-| Descrição | Eu, como usuário do Bluesky, desejo fazer postagens para compartilhar informações com outros usuários do Bluesky |
+| Descrição | Eu, como usuário, desejo realizar postagens na plataforma para compartilhar informações e ideias com outros usuários. |
 | Critérios de Aceitação | - O sistema deve permitir a criação de postagens com texto e imagens <br> - O botão "publicar" só deve ser habilitado após o preenchimento do campo de texto ou adição de imagem |
 | Prioridade PO | Alta |
 | Prioridade Usuário | Alta |
@@ -130,6 +139,8 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+<a id="US05"></a>
+
 <center>
 <font size="3"><b>Tabela 7:</b>História de Usuário: Editar publicações </font>
 
@@ -137,7 +148,7 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 |:----:|:---------:|
 | USx(número de identificação) | US05 |
 | Tema | Editar postagens |
-| Descrição | Eu, como usuário do Bluesky, desejo editar postagens para corrigir erros |
+| Descrição | Eu, como usuário, desejo editar minhas publicações já postadas para corrigir erros ou atualizar o conteúdo. |
 | Critérios de Aceitação | O sistema deve permitir edições de postagens já publicadas <br> - O sistema deve exibir uma mensagem de confirmação após a confirmação da edição |
 | Prioridade PO | Alta |
 | Prioridade Usuário | Alta |
@@ -147,14 +158,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+<a id="US06"></a>
+
 <center>
 <font size="3"><b>Tabela 8:</b>História de Usuário: Buscar por posts com palavras-chaves </font>
 
 | Item | Descrição |
 |:----:|:---------:|
-| USx(número de identificação) | US6 |
+| USx(número de identificação) | US06 |
 | Tema |  Busca com palavras-chaves |
-| Descrição | Eu, como usuário do Bluesky, desejo realizar buscas com palavras-chaves para encontrar conteúdos com facilidade |
+| Descrição | Eu, como usuário, desejo buscar posts relacionados ao meu interesse utilizando palavras-chave, hashtags ou filtros específicos, para encontrar conteúdos relevantes. |
 | Critérios de Aceitação | - O sistema deve permitir ao usuário interir palavras chaves na barra de busca <br> - Os resultados da busca devem ser exibidos ordenados por relevância |
 | Prioridade PO | Média |
 | Prioridade Usuário | Média |
@@ -164,14 +177,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+<a id="US07"></a>
+
 <center>
 <font size="3"><b>Tabela 9:</b>História de Usuário: Favoritar posts ou comunidades </font>
 
 | Item | Descrição |
 |:----:|:---------:|
-| USx(número de identificação) | US7 |
+| USx(número de identificação) | US07 |
 | Tema | Favoritar posts |
-| Descrição | Eu, como usuário do Bluesky, desejo favoritar posts para voltar a encontra-los quando quiser |
+| Descrição | Eu, como usuário, desejo favoritar comunidades para acessar rapidamente os conteúdos de maior interesse. |
 | Critérios de Aceitação |  - O sistema deve permitir ao usuário favoritar posts por meio de um ícone <br> - Os itens favoritados devem ser salvos na aba de "Favoritos" |
 | Prioridade PO | Média |
 | Prioridade Usuário | Média |
