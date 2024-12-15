@@ -118,7 +118,7 @@ Para uma abordagem completa, dividimos a metodologia em algimas fases, sendo ela
             <td>Criação do documento (Introdução, objetivo e metodologia) </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/12</td>
-            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
