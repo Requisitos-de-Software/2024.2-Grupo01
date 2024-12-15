@@ -115,6 +115,7 @@ nav:
     - Ágil:
       - Histórias de Usuário: Modelagem/Agil/historia.md
       - Backlog: Modelagem/Agil/Backlog.md
+      - NFR Framework: Modelagem/Agil/NFRs.md
 
   - Inspeção: 
     - Etapa 1:
