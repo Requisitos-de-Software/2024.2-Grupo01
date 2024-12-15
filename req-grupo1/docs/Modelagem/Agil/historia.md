@@ -30,9 +30,11 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 <center>
 <font size="3"><b>Tabela 1:</b> Desenvolvedor e PO</font>
 
-| História de Usuario | Desenvolvedor | Product Owner | Usuário |
-|:-------------------:|:-------------:|:-------------:|:--------:|
-| US01 até US07  | [Renata](https://github.com/Renatinha28) | - | - |
+| História de Usuario | Desenvolvedor                          | Product Owner | Usuário |
+|:--------------------:|:-------------------------------------:|:-------------:|:-------:|
+| US01 até US07        | [Renata](https://github.com/Renatinha28) | -             | -       |
+| US08 até US14        | [Davi Nobre](https://github.com/Jagaima) | -             | -       |
+
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -196,6 +198,150 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
+## Histórias de Usuário requisitos elicitados 08 a 14.
+
+As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo usuário [Davi Nobre](https://github.com/Jagaima)
+
+<a id="US08"></a>
+
+<center>
+<font size="3"><b>Tabela 10:</b>História de Usuário: criar seus próprios posts ,e compartilhá-los com um feed específico ou a comunidade em geral.</font>
+
+| Item | Descrição |
+|:----:|:---------:|
+| USx(número de identificação) | US08 |
+| Tema | Criar post e compartilha-los num feed. |
+| Descrição | Eu, como usuário comum do app, desejo criar uma publicação para que seja vista em um feed específico |
+| Critérios de Aceitação | - O sistema deve permitir escolher o feed para postar de acordo com a vontade de seu criador original ("#" ou palavras passe) <br> - O usuário pode ter um post em multiplos feeds <br> ... |
+| Prioridade PO | Média |
+| Prioridade Usuário | Média |
+| Status | Se a história foi Validada ou não pelo usuário |
+| Rastreabilidade | [OB8](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+
+<a id="US09"></a>
+
+<center>
+<font size="3"><b>Tabela 11:</b>História de Usuário: Ver mensagens com outros usuários</font>
+
+| Item | Descrição |
+|:----:|:---------:|
+| USx(número de identificação) | US09 |
+| Tema | Deve ser possível ver as mensagens com outros usuários |
+| Descrição | Eu, como usuário, desejo ver minhas mensagens com outro usuário para recordar um fato que foi conversado |
+| Critérios de Aceitação | - As mensagens devem ter data <br> - As mensagens devem ter confirmação de vizualização <br> ... |
+| Prioridade PO | Alta |
+| Prioridade Usuário | Alta |
+| Status | Se a história foi Validada ou não pelo usuário |
+| Rastreabilidade | [OB9](../../PerfilUsuario/Tecnicas/Observacao.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+<a id="US10"></a>
+
+
+<center>
+<font size="3"><b>Tabela 12:</b>História de Usuário: Editar o conteúdo do perfil</font>
+
+| Item | Descrição |
+|:----:|:---------:|
+| USx(número de identificação) | US10 |
+| Tema | Deve ser possível editar o conteúdo do perfil |
+| Descrição | Eu, como usuário, desejo editar meu perfil para mudar a aparência da minha página principal |
+| Critérios de Aceitação | - O numéro de vezes editado deve ser ilimitado <br> - O link conector (ex: .bsky.social) só pode ser mudado uma vez a cada 3 meses <br> ... |
+| Prioridade PO | Alta |
+| Prioridade Usuário | Alta |
+| Status | Se a história foi Validada ou não pelo usuário |
+| Rastreabilidade | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+
+
+<a id="US11"></a>
+
+<center>
+<font size="3"><b>Tabela 13:</b>História de Usuário: Notificar o usuário de posts com base em seus interesses</font>
+
+| Item | Descrição |
+|:----:|:---------:|
+| USx(número de identificação) | US11 |
+| Tema | O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados. |
+| Descrição | Eu, como usuário, desejo receber notificações de posts relacionados ao que gosto para conhecer novas contas a seguir e ficar atualizado. |
+| Critérios de Aceitação | - O numéro de vezes que a notificação é enviada no dia não deve exceder 3 <br> - se o usuário não abre as notificações normalmente, sua frequência deve ser de duas por semana <br> ... |
+| Prioridade PO | Baixa |
+| Prioridade Usuário | Baixa |
+| Status | Se a história foi Validada ou não pelo usuário |
+| Rastreabilidade | [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT3](../../PerfilUsuario/Tecnicas/Brainstorm.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+<a id="US12"></a>
+
+<center>
+<font size="3"><b>Tabela 14:</b>História de Usuário: Salvar posts de interesse</font>
+
+| Item | Descrição |
+|:----:|:---------:|
+| USx(número de identificação) | US12 |
+| Tema | O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura. |
+| Descrição | Eu, como usuário, desejo salvar posts relacionados ao que gosto para os rever quando quiser facilmente e manter nota de postagens importantes |
+| Critérios de Aceitação | - O usuário deve ter uma confirmação imediata que teve o post salvo <br> - se o usuário tem a conta privada, seus post não podem ir para nenhum itens salvos <br> ... |
+| Prioridade PO | Alta |
+| Prioridade Usuário | Alta |
+| Status | Se a história foi Validada ou não pelo usuário |
+| Rastreabilidade | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+<a id="US13"></a>
+
+<center>
+<font size="3"><b>Tabela 15:</b>História de Usuário: Gerẽnciar seus posts salvos por data e/ou hashtag </font>
+
+| Item | Descrição |
+|:----:|:---------:|
+| USx(número de identificação) | US13 |
+| Tema | O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag. |
+| Descrição | Eu, como usuário, desejo gerênciar meus posts salvos relacionados ao que gosto para me organizar com o que ainda preciso ou não. |
+| Critérios de Aceitação | - O usuário pode remover posts <br> - se o usuário original apagar o post, ele irá sumir do itens salvos e o usuário será notificado <br> ... |
+| Prioridade PO | Alta |
+| Prioridade Usuário | Alta |
+| Status | Se a história foi Validada ou não pelo usuário |
+| Rastreabilidade | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md)|
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+<a id="US14"></a>
+
+<center>
+<font size="3"><b>Tabela 16:</b>História de Usuário: Criar ou participar de feeds de com base em critérios como tipo de post, hashtag e usuários. </font>
+
+| Item | Descrição |
+|:----:|:---------:|
+| USx(número de identificação) | US14 |
+| Tema | O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas. |
+| Descrição | Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono. |
+| Critérios de Aceitação | - O usuário chefe pode definir quem vai ou não pro feed <br> - O feed pode ter alguma função específica EX: o feed programado para mostrar os post mais populares de uma conta <br> ... |
+| Prioridade PO | Alta |
+| Prioridade Usuário | Alta |
+| Status | Se a história foi Validada ou não pelo usuário |
+| Rastreabilidade | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md)|
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
+</center>
+
+
+
 #### Gravação com o PO
 
 #### Gravação com o Usuário
@@ -227,6 +373,14 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/12</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>14/12</td>
+            <td>1.1</td>
+            <td>Criação do documento e histórias de usuário de 8 até 14 </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>15/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
