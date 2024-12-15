@@ -14,6 +14,7 @@ T01 - Autenticação e Configurações de Usuário
 
 T02 - Publicações e Interações
 
+
 ## Épicos e Histórias de Usuário
 
 **ÉPICO 1.1**: Autenticação e Configurações de Usuário
@@ -23,6 +24,12 @@ US01: Eu, como usuário, desejo realizar o login no aplicativo Bluesky para aces
 **ÉPICO 1.2**: Autenticação e Configurações de Usuário
 
 US02: Eu, como usuário, desejo recuperar minha senha para acessar o aplicativo Bluesky em caso de esquecimento. (RF2)
+
+**ÉPICO 1.3** : Deve ser possível editar o conteúdo do perfil
+
+US10: Eu, como usuário, desejo editar meu perfil para mudar a aparência da minha página principal(OB10, IS12).
+
+
 
 
 **ÉPICO 2.1**: Publicações e Interações
@@ -46,6 +53,31 @@ US06: Eu, como usuário, desejo buscar posts relacionados ao meu interesse utili
 
 US07: Eu, como usuário, desejo favoritar comunidades para acessar rapidamente os conteúdos de maior interesse. (RF7)
 
+**ÉPICO 2.6**: Criar post e compartilha-los num feed.
+
+US8:Eu, como usuário comum do app, desejo criar uma publicação para que seja vista em um feed específico (OB8 e IS6)
+
+**ÉPICO 2.7**: Deve ser possível ver as mensagens com outros usuários
+
+US09: Eu, como usuário, desejo ver minhas mensagens com outro usuário para recordar um fato que foi conversado. (OB9)
+
+**ÉPICO 2.8**: O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados.
+
+US11: Eu, como usuário, desejo receber notificações de posts relacionados ao que gosto para conhecer novas contas a seguir e ficar atualizado. (OB12, IS7 e BT3)
+
+**ÉPICO 2.9**:O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura
+
+US12: Eu, como usuário, desejo salvar posts relacionados ao que gosto para os rever quando quiser facilmente e manter nota de postagens importantes (IS3 e IS22)
+
+**ÉPICO 2.10**: O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag.
+
+US13: Eu, como usuário, desejo gerênciar meus posts salvos relacionados ao que gosto para me organizar com o que ainda preciso ou não.(IS4)
+
+**ÉPICO 2.11**: O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas.
+
+US14: Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono. (IS5)
+
+
 ## Tabela com todos os épicos
 A tabela 1 organiza todos os épicos 
 
@@ -57,10 +89,17 @@ A tabela 1 organiza todos os épicos
 | T01 - Autenticação e Configurações de Usuário | Épico 1.1 | [US01](../../Modelagem/Agil/historia.md/#US01) | Alta | [OB1](../../PerfilUsuario/Tecnicas/Observacao.md), [IS1](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T01 - Autenticação e Configurações de Usuário | Épico 1.2 | [US02]() | Alta |  [OB2](../../PerfilUsuario/Tecnicas/Observacao.md) |
 | T02 - Publicações e Interações | Épico 2.1 | [US03](../../Modelagem/Agil/historia.md/#US03) | Média | [OB3](../../PerfilUsuario/Tecnicas/Observacao.md) |
-| T02 - Publicações e Interações | Épico 2.2 |[US04](../../Modelagem/Agil/historia.md/#US04) | Alta | [OB4](../../PerfilUsuario/Tecnicas/Observacao.md) |
-| T02 - Publicações e Interações | Épico 2.3 | [US05](../../Modelagem/Agil/historia.md/#US05) | Alta | [OB5](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS17](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
-| T02 - Publicações e Interações | Épico 2.4 | [US06](../../Modelagem/Agil/historia.md/#US06) | Média | [OB6](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS2](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
-| T02 - Publicações e Interações | Épico 2.5 | [US07](../../Modelagem/Agil/historia.md/#US07) |Média | [OB7](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T02 - Publicações e Interações | Épico 2.2 | [US04](../../Modelagem/Agil/historia.md/#US04) | Alta | [OB4](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T02 - Publicações e Interações | Épico 2.3 | [US05](../../Modelagem/Agil/historia.md/#US05) | Alta | [OB5](../../PerfilUsuario/Tecnicas/Observacao.md), [IS17](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.4 | [US06](../../Modelagem/Agil/historia.md/#US06) | Média | [OB6](../../PerfilUsuario/Tecnicas/Observacao.md), [IS2](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.5 | [US07](../../Modelagem/Agil/historia.md/#US07) | Média | [OB7](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T02 - Publicações e Interações | Épico 2.6 | [US08](../../Modelagem/Agil/historia.md/#US08) | Alta | [OB8](../../PerfilUsuario/Tecnicas/Observacao.md), [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.7 | [US09](../../Modelagem/Agil/historia.md/#US09) | Alta | [OB9](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T01 - Autenticação e Configurações de Usuário | Épico 1.3 | [US10](../../Modelagem/Agil/historia.md/#US10) | Alta | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md), [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.8 | [US11](../../Modelagem/Agil/historia.md/#US11) | Baixa | [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md), [BT3](../../PerfilUsuario/Tecnicas/Benchmarking.md) |
+| T02 - Publicações e Interações | Épico 2.9 | [US12](../../Modelagem/Agil/historia.md/#US12) | Alta | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.10 | [US13](../../Modelagem/Agil/historia.md/#US13) | Alta | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.11 | [US14](../../Modelagem/Agil/historia.md/#US14) | Alta | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -90,6 +129,14 @@ A tabela 1 organiza todos os épicos
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/12</td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+        </tr>
+        <tr>
+            <td>14/12</td>
+            <td>1.1</td>
+            <td>Adição de mais 7 backlogs </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>15/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>
