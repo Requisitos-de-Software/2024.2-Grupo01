@@ -30,10 +30,10 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 <center>
 <font size="3"><b>Tabela 1:</b> Desenvolvedor e PO</font>
 
-| História de Usuario | Desenvolvedor                          | Product Owner | Usuário |
-|:--------------------:|:-------------------------------------:|:-------------:|:-------:|
-| US01 até US07        | [Renata](https://github.com/Renatinha28) | -             | -       |
-| US08 até US14        | [Davi Nobre](https://github.com/Jagaima) | -             | -       |
+| História de Usuario | Desenvolvedor                          | Product Owner | Usuário | Link levando a gravação |
+|:--------------------:|:-------------------------------------:|:-------------:|:-------:|:-------:|
+| US01 até US07        | [Renata](https://github.com/Renatinha28) | -             | Amanda      | [Link](#1_a_7)
+| US08 até US14        | [Davi Nobre](https://github.com/Jagaima) | -             | -       | - |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -151,7 +151,7 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 | USx(número de identificação) | US05 |
 | Tema | Editar postagens |
 | Descrição | Eu, como usuário, desejo editar minhas publicações já postadas para corrigir erros ou atualizar o conteúdo. |
-| Critérios de Aceitação | O sistema deve permitir edições de postagens já publicadas <br> - O sistema deve exibir uma mensagem de confirmação após a confirmação da edição |
+| Critérios de Aceitação | - O sistema deve permitir edições de postagens já publicadas <br> - O sistema deve exibir uma mensagem de confirmação após a confirmação da edição <br> - O sistema de exibir na publicação editada uma mensagem de "editada" deixando claro quais postagens foram editadas |
 | Prioridade PO | Alta |
 | Prioridade Usuário | Alta |
 | Status | Validada|
@@ -197,6 +197,32 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
+
+### Validação com Usuário
+
+
+<a id="1_a_7"></a>
+
+O vídeo 1 contém a verificação das histórias de usuário e backlog do 1 ao 7. Foi realizado pela [Renata Quadros]() com a participação voluntária da Amanda atuando como usuário. Esta gravação foi realizada no dia 15/12/2024 às 16:00.
+
+<div align="center">
+    <font size="3">
+        <p style="text-align: center">
+            <b>Vídeo 1:</b> Validação histórias de usuário e backlog (1 ao 7)
+        </p>
+    </font>
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/AVD3JyGSZm8" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+    <font size="3">
+        <p style="text-align: center">
+            <b>Autor:</b> Renata Quadros
+        </p>
+    </font>
+</div>
 
 ## Histórias de Usuário requisitos elicitados 08 a 14.
 
@@ -560,8 +586,8 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
             <td>1.2</td>
             <td>Criação das histórias de usuário de 15 até 23 </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td>16/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

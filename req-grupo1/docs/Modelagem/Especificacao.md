@@ -49,6 +49,14 @@ A usabilidade trata da experiência do usuário ao interagir com o sistema. Foca
 | RU02 | A interface deve ser fácil de entender para usuários frequentes de redes sociais, permitindo que se familiarizem com feeds e listas em até 15 minutos. | RNF10 |
 | RU03 | O design do aplicativo deve ter uma aparência agradável e atrativa. | RNF14 |
 
+| ID | Descrição | Rastreabilidade |
+|:-----:|:-----:|:----:|
+| RU01 |  A interface deve ser intuitiva e fácil de usar, com elementos claramente definidos e organização lógica, para que qualquer usuário, independentemente de sua experiência, possa realizar tarefas como buscar, salvar e visualizar postagens rapidamente. | RNF5 e RNF14 | 
+| RU02 | O sistema deve ser projetado de forma que minimize a possibilidade de erros do usuário. Se um erro ocorrer, o sistema deve fornecer mensagens de erro claras e orientações para corrigi-los. | RNF13 |
+| RU03 | A interface deve ser projetada para que novos usuários possam se familiarizar rapidamente com os principais recursos, permitindo que usuários frequentes de redes sociais se adaptem em até 15 minutos. | RNF10 |
+| RU04 | O aplicativo deve ser adaptável a diferentes perfis de usuários, como diferentes faixas etárias ou habilidades tecnológicas. O design deve ser responsivo e fácil de ajustar às preferências do usuário. | RNF5 |
+
+
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
