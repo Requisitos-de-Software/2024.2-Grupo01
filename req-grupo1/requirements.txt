@@ -1,0 +1,7 @@
+# Arquivo requirements.txt para gerenciamento de dependências
+
+# MkDocs e tema Material para a criação do site estático
+mkdocs-material
+
+# Extensões de Markdown para funcionalidades extras
+pymdown-extensions[attr_list,md_in_html,blocks.caption,emoji,footnotes]
