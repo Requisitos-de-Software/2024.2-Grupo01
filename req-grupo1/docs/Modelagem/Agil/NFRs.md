@@ -225,7 +225,7 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Criação do documento (Introdução, objetivo e metodologia) </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Jagaima"></a></td>
         </tr>
         <tr>
             <td>16/12</td>
@@ -233,7 +233,7 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Add Fase 1, Fase 2 e Fase 3(Usabilidade) </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>16/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Jagaima"></a></td>
         </tr>
     </table>
 </div>
