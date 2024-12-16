@@ -530,7 +530,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | **Prioridade PO**            | Alta                                                                         |
 | **Prioridade Usuário**       | Alta                                                                         |
 | **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | OB6 e IS18                                                                   |
+| **Rastreabilidade**          | [IS21](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                   |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -552,7 +552,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | **Prioridade PO**            | Alta                                                                         |
 | **Prioridade Usuário**       | Alta                                                                         |
 | **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | OB7 e IS19                                                                   |
+| **Rastreabilidade**          | [IS23](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                   |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -572,7 +572,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | **Prioridade PO**            | Alta                                                                         |
 | **Prioridade Usuário**       | Alta                                                                         |
 | **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | OB8 e IS20                                                                   |
+| **Rastreabilidade**          | [IS24](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                    |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -593,7 +593,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | **Prioridade PO**            | Alta                                                                         |
 | **Prioridade Usuário**       | Alta                                                                         |
 | **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | OB9 e IS21                                                                   |
+| **Rastreabilidade**          | [IS25](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                   |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -614,7 +614,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | **Prioridade PO**            | Alta                                                                         |
 | **Prioridade Usuário**       | Alta                                                                         |
 | **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | OB11 e IS23                                                                  |
+| **Rastreabilidade**          | [IS26](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                  |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -635,7 +635,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | **Prioridade PO**            | Alta                                                                         |
 | **Prioridade Usuário**       | Média                                                                        |
 | **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | OB12 e IS24                                                                  |
+| **Rastreabilidade**          | [IS27](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                  |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -656,7 +656,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | **Prioridade PO**            | Alta                                                                         |
 | **Prioridade Usuário**       | Alta                                                                         |
 | **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | OB13 e IS25                                                                  |
+| **Rastreabilidade**          | [QT1](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                  |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
