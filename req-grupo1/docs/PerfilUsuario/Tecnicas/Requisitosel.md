@@ -77,6 +77,8 @@ As tabelas 1 e 2 descreve os requisitos elicitados, e sua legenda é:
 
 <center><p><b>Tabela 2:</b> Requisitos não funcionais</p></center>
 
+<a id="reqnaofun"></a>
+
 | Tipo | Descrição | ID |
 | :-----: | :-------: | :------: | 
 | RNF1 | Deve ser possível personalizar o aplicativo (dark mode, idiomas…) | OB11 | 
