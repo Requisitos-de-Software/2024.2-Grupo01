@@ -340,7 +340,180 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
 
+## Histórias de Usuário requisitos elicitados 15 a 23.
 
+As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo integrante [João Ribeiro](https://github.com/Joa0V)
+
+<a id="US15"></a>
+
+<center>
+<font size="3"><b>Tabela 17:</b>História de Usuário: Interagir com postagens por comentários, curtidas e respostas.</font>
+
+|             Item             |                                                                                                 Descrição                                                                                                  |
+| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                    US15                                                                                                    |
+|             Tema             |                                                                                          Publicações e Interações                                                                                          |
+|          Descrição           |                                   Eu, como usuário, desejo interagir com postagens por meio de comentários, curtidas e respostas para me expressar sobre uma publicação.                                   |
+|    Critérios de Aceitação    | - O aplicativo deve permitir fazer comentários e curtir uma publicação tanto em sua exibição em um feed quanto em sua página própria<br> - As respostas devem ser feitas à comentários ou outras respostas |
+|        Prioridade PO         |                                                                                                    Alta                                                                                                    |
+|      Prioridade Usuário      |                                                                                                    Alta                                                                                                    |
+|            Status            |                                                                               Se a história foi Validada ou não pelo usuário                                                                               |
+|       Rastreabilidade        |                                                                                                    [RF15](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS8](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS16](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [QT2](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                                    |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US16"></a>
+
+<center>
+<font size="3"><b>Tabela 18:</b>História de Usuário: Pesquisar publicações com filtros avançados.</font>
+
+|             Item             |                                                                                                                       Descrição                                                                                                                        |
+| :--------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                                          US16                                                                                                                          |
+|             Tema             |                                                                                                                Publicações e Interações                                                                                                                |
+|          Descrição           |                                              Eu, como usuário, desejo pesquisar publicações com filtros como autor do post, data de publicação ou popularidade, para melhorar minha experiência de busca.                                              |
+|    Critérios de Aceitação    | - Os filtros podem ser adicionados ou excluídos durante uma pesquisa<br>- Todos os filtros de uma pesquisa devem poder ser excluídos de uma só vez<br>- As mudanças de filtro devem ser refletidas nos resultados das pesquisas em menos de 3 segundos |
+|        Prioridade PO         |                                                                                                                          Alta                                                                                                                          |
+|      Prioridade Usuário      |                                                                                                                          Alta                                                                                                                          |
+|            Status            |                                                                                                     Se a história foi Validada ou não pelo usuário                                                                                                     |
+|       Rastreabilidade        |                                                                                                                       [RF16](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS9](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                        |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US17"></a>
+
+<center>
+<font size="3"><b>Tabela 19:</b>História de Usuário: Fazer log-in automático.</font>
+
+|             Item             |                                                                  Descrição                                                                  |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                    US17                                                                     |
+|             Tema             |                                                   Autenticação e Configurações de Usuário                                                   |
+|          Descrição           |      Eu, como usuário, desejo fazer log-in automático em minha conta criada agilizar o início do uso do sistema em cada sessão de uso.      |
+|    Critérios de Aceitação    | - O log-in automático deve ser explicitamente autorizado pelo usuário por uma checkbox<br>- O log-in automático deve poder ser desabilitado |
+|        Prioridade PO         |                                                             Alta, Média, Baixa                                                              |
+|      Prioridade Usuário      |                                                             Alta, Média, Baixa                                                              |
+|            Status            |                                               Se a história foi Validada ou não pelo usuário                                                |
+|       Rastreabilidade        |                                                                 [RF17](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS11](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                  |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US18"></a>
+
+<center>
+<font size="3"><b>Tabela 20:</b>História de Usuário: Fixar publicação no perfil.</font>
+
+|             Item             |                                                               Descrição                                                               |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                 US18                                                                  |
+|             Tema             |                                                       Publicações e Interações                                                        |
+|          Descrição           |         Eu, como usuário, desejo fixar uma publicação em seu perfil para dar destaque a publicação importante em meu perfil.          |
+|    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
+|        Prioridade PO         |                                                         Média                                                         |
+|      Prioridade Usuário      |                                                          Média                                                       |
+|            Status            |                                            Se a história foi Validada ou não pelo usuário                                             |
+|       Rastreabilidade        |                                                              [RF18](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS13](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                               |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US19"></a>
+
+<center>
+<font size="3"><b>Tabela 21:</b>História de Usuário: Tornar a conta privada.</font>
+
+|             Item             |                                                               Descrição                                                               |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                 US19                                                                  |
+|             Tema             |                                                       Publicações e Interações                                                        |
+|          Descrição           |         Eu, como usuário, desejo tornar minha conta privada para permitir que apenas seguidores consigam interagir diretamente comigo |
+|    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
+|        Prioridade PO         |                                                          Alta                                                          |
+|      Prioridade Usuário      |                                                          Alta                                                          |
+|            Status            |                                            Se a história foi Validada ou não pelo usuário                                             |
+|       Rastreabilidade        |     [RF19](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS14](../../PerfilUsuario/Tecnicas/Introspeccao.md)                        |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US20"></a>
+
+<center>
+<font size="3"><b>Tabela 22:</b>História de Usuário: Fazer publicações com texto, imagens e vídeos.</font>
+
+|             Item             |                                                                                                                      Descrição                                                                                                                       |
+| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                                         US20                                                                                                                         |
+|             Tema             |                                                                                                               Publicações e Interações                                                                                                               |
+|          Descrição           |                                                               Eu, como usuário, desejo fazer publicações contendo texto, imagens e vídeos para melhor me comunicar por meio dos posts.                                                               |
+|    Critérios de Aceitação    | - O conteúdo da publicação deve poder ser adicionado, modificado ou excluído durante a criação da publicação de acordo com a vontade de seu criador.<br>- Uma pré-visualização de imagens e vídeos deve ser exibida antes da postagem da publicação. |
+|        Prioridade PO         |                                                                                                                         Alta                                                                                                                         |
+|      Prioridade Usuário      |                                                                                                                         Alta                                                                                                                         |
+|            Status            |                                                                                                    Se a história foi Validada ou não pelo usuário                                                                                                    |
+|       Rastreabilidade        |                                                                                                                      [RF20](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS15](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                      |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US21"></a>
+
+<center>
+<font size="3"><b>Tabela 23:</b>História de Usuário: Vizualizar tradução de publicação.</font>
+
+|             Item             |                                                                                        Descrição                                                                                        |
+| :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                          US21                                                                                           |
+|             Tema             |                                                                                Publicações e Interações                                                                                 |
+|          Descrição           | Eu, como usuário, desejo visualizar publicações de diferentes idiomas traduzidas para meu idioma principal dentro do aplicativo para compreender usuários que falam diferentes línguas. |
+|    Critérios de Aceitação    |                      - A tradução deve ser disponibilizada na mesma página da publicação<br>- Caso haja impossibilidade de tradução, o usuário deve ser sinalizado                      |
+|        Prioridade PO         |                                                                                          Alta                                                                                           |
+|      Prioridade Usuário      |                                                                                          Alta                                                                                           |
+|            Status            |                                                                     Se a história foi Validada ou não pelo usuário                                                                      |
+|       Rastreabilidade        |                                                                                       [RF21](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS18](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                        |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US22"></a>
+
+<center>
+<font size="3"><b>Tabela 24:</b>História de Usuário: Enviar mensagens diretas a outro usuário.</font>
+
+|             Item             |                                                                             Descrição                                                                             |
+| :--------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                               US22                                                                                |
+|             Tema             |                                                                        Comunicação direta                                                                         |
+|          Descrição           |             Eu, como usuário, desejo mandar mensagens diretas a outro usuário, caso nos sigamos mutualmente para poder me comunicar de forma privada.             |
+|    Critérios de Aceitação    | - As mensagens diretas podem ser acessadas somente por usuários que façam parte do canal de comunicação privado <br>- Deve ser possível sair de conversas diretas |
+|        Prioridade PO         |                                                                               Média                                                                               |
+|      Prioridade Usuário      |                                                                               Média                                                                               |
+|            Status            |                                                          Se a história foi Validada ou não pelo usuário                                                           |
+|       Rastreabilidade        |                                                                            [RF22](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                             |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
+
+<a id="US23"></a>
+
+<center>
+<font size="3"><b>Tabela 25:</b>História de Usuário: Participar de grupos de mensagens privadas.</font>
+
+|             Item             |                                                                                                                                     Descrição                                                                                                                                      |
+| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                                                        US23                                                                                                                                        |
+|             Tema             |                                                                                                                                 Comunicação direta                                                                                                                                 |
+|          Descrição           |                                                               Eu, como usuário, desejo participar de grupos de mensagens privadas para poder me comunicar de forma privada com um grupo restrito de outros usuários.                                                               |
+|    Critérios de Aceitação    | - As mensagens de de grupos de mensagens privadas podem ser acessadas somente por usuários que façam parte do canal de comunicação privado<br>- Deve ser possível convidar usuários para o grupo de mensagens privadas<br>- Deve ser possível sair de grupos de mensagens privadas |
+|        Prioridade PO         |                                                                                                                                       Média                                                                                                                                        |
+|      Prioridade Usuário      |                                                                                                                                       Média                                                                                                                                        |
+|            Status            |                                                                                                                   Se a história foi Validada ou não pelo usuário                                                                                                                   |
+|       Rastreabilidade        |                                                                                                                                     [RF23](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS20](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                     |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+</center>
 
 #### Gravação com o PO
 
@@ -381,6 +554,14 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>15/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+            <tr>
+            <td>15/12</td>
+            <td>1.2</td>
+            <td>Criação das histórias de usuário de 15 até 23 </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
