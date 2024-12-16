@@ -515,6 +515,154 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
 
+<a id="US24"></a>
+
+<center>
+<font size="3"><b>Tabela 26:</b>O usuário deve poder mandar mídias como vídeos e áudios nas mensagens privadas.</font>
+
+
+| **Item**                     | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| **USx(número de identificação)** | US24                                                                         |
+| **Tema**                     | Enviar mídias em mensagens privadas                                           |
+| **Descrição**                | Eu, como usuário, desejo enviar vídeos e áudios em mensagens privadas para compartilhar conteúdos de forma mais completa e interativa. |
+| **Critérios de Aceitação**   | - O sistema deve permitir o envio de arquivos de vídeo e áudio em mensagens privadas. <br> - O sistema deve exibir uma mensagem de sucesso após o envio da mídia. <br> - O sistema deve notificar o destinatário sobre a nova mensagem contendo mídia. |
+| **Prioridade PO**            | Alta                                                                         |
+| **Prioridade Usuário**       | Alta                                                                         |
+| **Status**                   | Validada                                                                     |
+| **Rastreabilidade**          | OB6 e IS18                                                                   |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+<a id="US25"></a>
+
+
+<center>
+<font size="3"><b>Tabela 27:</b>O usuário deve poder criar, modificar e excluir suas listas de perfis de interesse.</font>
+
+
+| **Item**                     | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| **USx(número de identificação)** | US25                                                                         |
+| **Tema**                     | Listas de perfis de interesse                                                 |
+| **Descrição**                | Eu, como usuário, desejo criar, modificar e excluir minhas listas de perfis de interesse para organizar melhor minhas conexões e interações. |
+| **Critérios de Aceitação**   | - O sistema deve permitir a criação de novas listas de perfis de interesse. <br> - O sistema deve permitir a modificação de listas existentes. <br> - O sistema deve permitir a exclusão de listas de perfis de interesse. <br> - O sistema deve exibir uma mensagem de confirmação após a criação, modificação ou exclusão de uma lista. |
+| **Prioridade PO**            | Alta                                                                         |
+| **Prioridade Usuário**       | Alta                                                                         |
+| **Status**                   | Validada                                                                     |
+| **Rastreabilidade**          | OB7 e IS19                                                                   |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+<a id="US26"></a>
+
+<center>
+<font size="3"><b>Tabela 28:</b>Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de perfis de interesse para ter/deixar de ter acesso às publicações desses perfis por uma aba.</font>
+
+| **Item**                     | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| **USx(número de identificação)** | US26                                                                         |
+| **Tema**                     | Inscrição em listas de perfis de interesse                                    |
+| **Descrição**                | Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de perfis de interesse para ter ou deixar de ter acesso às publicações desses perfis por meio de uma aba. |
+| **Critérios de Aceitação**   | - O sistema deve permitir que o usuário se inscreva em listas de perfis de interesse. <br> - O sistema deve permitir que o usuário se desinscreva de listas de perfis de interesse. <br> - O sistema deve exibir uma aba com as publicações dos perfis aos quais o usuário está inscrito. <br> - O sistema deve atualizar a aba e as publicações conforme o status de inscrição ou desinscrição. |
+| **Prioridade PO**            | Alta                                                                         |
+| **Prioridade Usuário**       | Alta                                                                         |
+| **Status**                   | Validada                                                                     |
+| **Rastreabilidade**          | OB8 e IS20                                                                   |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+<a id="US27"></a>
+
+
+<center>
+<font size="3"><b>Tabela 29:</b>O usuário deve poder criar, modificar e excluir suas listas de moderação.</font>
+
+| **Item**                     | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| **USx(número de identificação)** | US27                                                                         |
+| **Tema**                     | Listas de moderação                                                           |
+| **Descrição**                | Eu, como usuário, desejo criar, modificar e excluir minhas listas de moderação para gerenciar melhor os perfis e conteúdos que preciso monitorar. |
+| **Critérios de Aceitação**   | - O sistema deve permitir a criação de novas listas de moderação. <br> - O sistema deve permitir a modificação de listas de moderação existentes. <br> - O sistema deve permitir a exclusão de listas de moderação. <br> - O sistema deve exibir uma mensagem de confirmação após a criação, modificação ou exclusão de uma lista de moderação. |
+| **Prioridade PO**            | Alta                                                                         |
+| **Prioridade Usuário**       | Alta                                                                         |
+| **Status**                   | Validada                                                                     |
+| **Rastreabilidade**          | OB9 e IS21                                                                   |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+<a id="US28"></a>
+
+
+<center>
+<font size="3"><b>Tabela 30:</b>Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de moderação para não permitir/permitir a interação com os perfis contidos na lista.</font>
+
+| **Item**                     | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| **USx(número de identificação)** | US28                                                                         |
+| **Tema**                     | Inscrição em listas de moderação                                              |
+| **Descrição**                | Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de moderação para permitir ou não a interação com os perfis contidos na lista. |
+| **Critérios de Aceitação**   | - O sistema deve permitir que o usuário se inscreva em listas de moderação. <br> - O sistema deve permitir que o usuário se desinscreva de listas de moderação. <br> - O sistema deve permitir ou restringir a interação com os perfis contidos na lista de moderação, dependendo do status de inscrição ou desinscrição do usuário. <br> - O sistema deve exibir uma mensagem de confirmação após a inscrição ou desinscrição de uma lista de moderação. |
+| **Prioridade PO**            | Alta                                                                         |
+| **Prioridade Usuário**       | Alta                                                                         |
+| **Status**                   | Validada                                                                     |
+| **Rastreabilidade**          | OB11 e IS23                                                                  |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+<a id="US29"></a>
+
+
+<center>
+<font size="3"><b>Tabela 31:</b>O usuário deve poder visualizar a quantidade de vezes em que sua publicação foi visualizada.</font>
+
+| **Item**                     | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| **USx(número de identificação)** | US29                                                                         |
+| **Tema**                     | Visualização de contagem de visualizações de publicações                       |
+| **Descrição**                | Eu, como usuário, desejo visualizar a quantidade de vezes em que minha publicação foi visualizada para entender o engajamento com o meu conteúdo. |
+| **Critérios de Aceitação**   | - O sistema deve exibir a contagem de visualizações de cada publicação do usuário. <br> - O sistema deve atualizar a contagem de visualizações em tempo real, sempre que a publicação for acessada. <br> - O sistema deve exibir a contagem de visualizações de forma clara e acessível. |
+| **Prioridade PO**            | Alta                                                                         |
+| **Prioridade Usuário**       | Média                                                                        |
+| **Status**                   | Validada                                                                     |
+| **Rastreabilidade**          | OB12 e IS24                                                                  |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+<a id="US30"></a>
+
+
+<center>
+<font size="3"><b>Tabela 32:</b>O aplicativo deve permitir ao usuário a comunicação, entreterimento e informações atualizadas.</font>
+
+| **Item**                     | **Descrição**                                                                 |
+|------------------------------|------------------------------------------------------------------------------|
+| **USx(número de identificação)** | US30                                                                         |
+| **Tema**                     | Comunicação, entretenimento e informações atualizadas                         |
+| **Descrição**                | Eu, como usuário, desejo que o aplicativo me permita comunicação, entretenimento e informações atualizadas, para que eu possa me manter informado e engajado com o conteúdo. |
+| **Critérios de Aceitação**   | - O sistema deve permitir a comunicação em tempo real entre os usuários. <br> - O sistema deve oferecer opções de entretenimento, como vídeos, jogos ou conteúdo multimídia. <br> - O sistema deve fornecer informações atualizadas, como notícias, eventos e alertas relevantes. <br> - O sistema deve garantir que o conteúdo seja atualizado de forma contínua e eficiente. |
+| **Prioridade PO**            | Alta                                                                         |
+| **Prioridade Usuário**       | Alta                                                                         |
+| **Status**                   | Validada                                                                     |
+| **Rastreabilidade**          | OB13 e IS25                                                                  |
+
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+
 #### Gravação com o PO
 
 #### Gravação com o Usuário
@@ -540,7 +688,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>14/12</td>
+        <td>14/12</td>
             <td>1.0</td>
             <td>Criação do documento e histórias de usuário de 1 até 7 </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
@@ -548,18 +696,26 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
         </tr>
         <tr>
-            <td>14/12</td>
+        <td>14/12</td>
             <td>1.1</td>
             <td>Criação do documento e histórias de usuário de 8 até 14 </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>15/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
-            <tr>
+        <tr>
             <td>15/12</td>
             <td>1.2</td>
             <td>Criação das histórias de usuário de 15 até 23 </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td><a href="https://github.com/"></a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>1.3</td>
+            <td>Criação das histórias de usuário de 24 até 30 </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td></td>
             <td><a href="https://github.com/"></a></td>
         </tr>
