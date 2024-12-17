@@ -12,7 +12,11 @@ O Softgoal Interdependency Graph (SIG) pode ser de três formas no NFR Framework
 - **Softgoals de Afirmação**: refletem as características específicas do domínio, como prioridades ou carga de trabalho, e ajudam no processo de decisão. Esses softgoals justificam as escolhas feitas durante o refinamento, priorização e seleção de componentes do sistema. Eles fornecem suporte para revisão, ajustes e rastreabilidade das decisões de desenvolvimento [(CHUNG et al., 2000)](#bibliografia).
 
 <center><p><b>Figura 1:</b> Tipos de Softgoals</p></center>  
-<center><img src="../../../assets/images/NFR1.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>  
+
+<figure markdown="span">
+  ![Tipos de Softgoals](../../assets/images/NFR1.png){ width="500" align="center" }
+</figure>
+
 <p align="center"><b>Fonte:</b> <a href="#bibliografia">(CHUNG et al., 2000)</a></p>  
 
 ## Objetivo  
@@ -91,8 +95,12 @@ Como já descrito anteriormente, os requisitos não-funcionais foram elicitados 
 
 Em busca de entender e organizar os requisitos não-funcionais foi feito a taxonomia, como mostra a figura 1. A taxonimia "é um esquema de classificação, que permite descrição de termos e suas relações no contexto de uma área de conhecimento" (Silva Reinaldo, 2019, p. 44). Anteriormente, foi realizada a [Espeção Suplementar](../../Modelagem/Especificacao.md) com a metodologia FURPS+, a Taxonomia foi contruída com base neste artefato. 
 
-<center><p><b>Figura 1:</b> Taxonomia</p></center>
-<center><img src="../../../assets/images/taxonomia.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><p><b>Figura 2:</b> Taxonomia</p></center>
+
+<figure markdown="span">
+  ![Tipos de Softgoals](../../assets/images/taxonomia.png){ width="800" align="center" }
+</figure>
+
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Fase 3: Criação de Grafos de Decomposição de Softgoals  
@@ -121,8 +129,12 @@ Após a taxonomia realizada, são realizados X Softgoals decompostos individualm
 
 A figura 2 mostra a decomposição do softgoal Usabilidade feito pela integrante [Renata Quadros](https://github.com/Renatinha28)
 
-<center><p><b>Figura 2:</b>Decomposição do softgoal Usabilidade</p></center>
-<center><img src="../../../assets/images/usabilidade.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><p><b>Figura 3: </b>Decomposição do softgoal Usabilidade</p></center>
+
+<figure markdown="span">
+  ![Tipos de Softgoals](../../assets/images/usabilidade1.png){ width="700" align="center" }
+</figure>
+
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de usabilidade e foi feito pela integrante  [Renata Quadros](https://github.com/Renatinha28).
@@ -195,8 +207,13 @@ As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de 
 
 As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas a Desempenho e foram feitas pelo integrante [Davi Nobre](https://github.com/Jagaima)
 
-<center><p><b>Figura 3:</b>Decomposição do softgoal Desempenho</p></center>
-<center><img src="../../../assets/images/nfrdavi.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><p><b>Figura 4: </b>Decomposição do softgoal Desempenho</p></center>
+
+<figure markdown="span">
+  ![NFR Davi](../../assets/images/nfrdavi.png){ width="700" align="center" }
+</figure>
+
+
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 <center><p><b>Tabela 6:</b> Cartão de especificação: Processamento </p></center>
@@ -240,7 +257,12 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 
 
 <center><p><b>Figura 4:</b>Decomposição do softgoal Suporte</p></center>
-<center><img src="../../../assets/images/nfr-suporte.png" alt="Descrição da imagem" width="800" style="border: 1px solid"/></center>
+
+<figure markdown="span">
+  ![NFR Davi](../../assets/images/nfr-suporte.png){ width="1100" align="center" }
+</figure>
+
+
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
 
@@ -255,10 +277,10 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 | **Origem**            | Stakeholder (Usuários)                                                                               |
 | **Critério de Aceitação** | O sistema deve se ajustar automaticamente ao tamanho da tela do dispositivo (mobile, tablet e desktop) sem perda de funcionalidade ou desorganização do layout. |
 | **Dependências**      | Implementação de design responsivo e testes em diferentes tamanhos de tela.                          |
-| **Prioridade**        | 1 (baseado na priorização feita) anteriormente)                                                      |
+| **Prioridade**        | 1 (baseado na priorização feita anteriormente)                                                      |
 | **Conflitos**         | Pode haver conflitos com componentes que não suportam responsividade.                               |
 | **História**          | Criado em 16/12/2024. Última modificação em 16/12/2024.                                             |
-                                       |
+                                       
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
@@ -273,7 +295,7 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 | **Origem**            | Stakeholder (Usuários)                                                                              |
 | **Critério de Aceitação** | O usuário deve ser capaz de encontrar e abrir os Termos de Serviço e a Política de Privacidade realizando no máximo 5 cliques a partir da tela inicial. |
 | **Dependências**      | Implementação de links visíveis e acessíveis nos menus ou rodapé do sistema.                        |
-| **Prioridade**        | 1 (baseado na priorização feita) anteriormente)                                                     |
+| **Prioridade**        | 1 (baseado na priorização feita anteriormente)                                                     |
 | **Conflitos**         | Pode haver desafios em organizar links e menus sem comprometer a experiência do usuário.           |
 | **História**          | Criado em 16/12/2024. Última modificação em 16/12/2024.                                            |
 
@@ -292,7 +314,7 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 | **Origem**                | Stakeholder (Usuários)                                                                                  |
 | **Critério de Aceitação** | O sistema deve exibir uma explicação acessível e compreensível sobre o funcionamento das recomendações em uma seção específica do sistema. |
 | **Dependências**          | Implementação de documentação ou seção dedicada na interface do usuário para detalhar os algoritmos.     |
-| **Prioridade**            | 2 (baseado na priorização feita) anteriormente)                                                         |
+| **Prioridade**            | 1 (baseado na priorização feita anteriormente)                                                         |
 | **Conflitos**             | Pode haver complexidade em simplificar a explicação dos algoritmos sem expor informações proprietárias. |
 | **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                |
 
