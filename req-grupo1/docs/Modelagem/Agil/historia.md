@@ -83,7 +83,7 @@ A tabela 3 mostra o modelo seguido para cada história de usuário realizada.
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
-### Histórias de Usuário : requisitos elicitados 1 até 7
+### Histórias de Usuário: requisitos elicitados 1 até 7
 
 As tabelas 4 até 10 descrevem as histórias de usuário realizadas pela integrante [Renata Quadros](https://github.com/Renatinha28)
 
@@ -416,7 +416,7 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |    Critérios de Aceitação    | - Os filtros podem ser adicionados ou excluídos durante uma pesquisa<br>- Todos os filtros de uma pesquisa devem poder ser excluídos de uma só vez<br>- As mudanças de filtro devem ser refletidas nos resultados das pesquisas em menos de 3 segundos |
 |      Prioridade Usuário      |                                                                                                                          Alta                                                                                                                          |
 |            Status            |                                                                                                     Se a história foi Validada ou não pelo usuário                                                                                                     |
-|       Rastreabilidade        |                                                                                                                       [RF16](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS9](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                        |
+|       Rastreabilidade        |                                                                       [RF16](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS9](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                        |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -434,7 +434,7 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |    Critérios de Aceitação    | - O log-in automático deve ser explicitamente autorizado pelo usuário por uma checkbox<br>- O log-in automático deve poder ser desabilitado |
 |      Prioridade Usuário      |                                                             Alta, Média, Baixa                                                              |
 |            Status            |                                               Se a história foi Validada ou não pelo usuário                                                |
-|       Rastreabilidade        |                                                                 [RF17](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS11](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                  |
+|       Rastreabilidade        |                 [RF17](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS11](../../PerfilUsuario/Tecnicas/Introspeccao.md)                  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -452,7 +452,7 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
 |      Prioridade Usuário      |                                                          Média                                                       |
 |            Status            |                                            Se a história foi Validada ou não pelo usuário                                             |
-|       Rastreabilidade        |                                                              [RF18](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS13](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                               |
+|       Rastreabilidade        |              [RF18](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS13](../../PerfilUsuario/Tecnicas/Introspeccao.md)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -466,11 +466,11 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 | USx(número de identificação) |                                                                 US19                                                                  |
 |             Tema             |                                                       Publicações e Interações                                                        |
-|          Descrição           |         Eu, como usuário, desejo tornar minha conta privada para permitir que apenas seguidores consigam interagir diretamente comigo |
+|          Descrição           |     Eu, como usuário, desejo tornar minha conta privada para permitir que apenas seguidores consigam interagir diretamente comigo     |
 |    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
 |      Prioridade Usuário      |                                                          Alta                                                          |
 |            Status            |                                            Se a história foi Validada ou não pelo usuário                                             |
-|       Rastreabilidade        |     [RF19](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS14](../../PerfilUsuario/Tecnicas/Introspeccao.md)                        |
+|       Rastreabilidade        |              [RF19](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS14](../../PerfilUsuario/Tecnicas/Introspeccao.md)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -488,7 +488,7 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |    Critérios de Aceitação    | - O conteúdo da publicação deve poder ser adicionado, modificado ou excluído durante a criação da publicação de acordo com a vontade de seu criador.<br>- Uma pré-visualização de imagens e vídeos deve ser exibida antes da postagem da publicação. |
 |      Prioridade Usuário      |                                                                                                                         Alta                                                                                                                         |
 |            Status            |                                                                                                    Se a história foi Validada ou não pelo usuário                                                                                                    |
-|       Rastreabilidade        |                                                                                                                      [RF20](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS15](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                      |
+|       Rastreabilidade        |                                                                      [RF20](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS15](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                      |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -506,7 +506,7 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |    Critérios de Aceitação    |                      - A tradução deve ser disponibilizada na mesma página da publicação<br>- Caso haja impossibilidade de tradução, o usuário deve ser sinalizado                      |
 |      Prioridade Usuário      |                                                                                          Alta                                                                                           |
 |            Status            |                                                                     Se a história foi Validada ou não pelo usuário                                                                      |
-|       Rastreabilidade        |                                                                                       [RF21](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS18](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                        |
+|       Rastreabilidade        |                                       [RF21](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS18](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                        |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -524,7 +524,7 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |    Critérios de Aceitação    | - As mensagens diretas podem ser acessadas somente por usuários que façam parte do canal de comunicação privado <br>- Deve ser possível sair de conversas diretas |
 |      Prioridade Usuário      |                                                                               Média                                                                               |
 |            Status            |                                                          Se a história foi Validada ou não pelo usuário                                                           |
-|       Rastreabilidade        |                                                                            [RF22](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                             |
+|       Rastreabilidade        |                            [RF22](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../../PerfilUsuario/Tecnicas/Introspeccao.md)                             |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -542,7 +542,7 @@ As próximas 9 tabelas a seguir(18, 19, 20, 21, 22, 23, 24, 25 e 26) contém as 
 |    Critérios de Aceitação    | - As mensagens de de grupos de mensagens privadas podem ser acessadas somente por usuários que façam parte do canal de comunicação privado<br>- Deve ser possível convidar usuários para o grupo de mensagens privadas<br>- Deve ser possível sair de grupos de mensagens privadas |
 |      Prioridade Usuário      |                                                                                                                                       Média                                                                                                                                        |
 |            Status            |                                                                                                                   Se a história foi Validada ou não pelo usuário                                                                                                                   |
-|       Rastreabilidade        |                                                                                                                                     [RF23](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS20](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                     |
+|       Rastreabilidade        |                                                                                     [RF23](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS20](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                     |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -691,6 +691,132 @@ As tabelas 27, 28, 29, 30, 31, 32 e 33 se referem as histórias de usuário feit
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
 </center>
 
+### Histórias de Usuário: requisitos elicitados 31 até 37
+
+As tabelas 33 até 39 descrevem as histórias de usuário realizadas pela integrante [Eduarda Tavares](https://github.com/erteduarda)
+
+<center>
+<font size="3"><b>Tabela 33: </b>O aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social".</font>
+ 
+| **Item**                   | **Descrição**                                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF31**                   | O aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social".                                                    |
+| **Tema**                   | Comunicação                                                                                                                           |
+| **Descrição**              | Eu, como usuário, desejo que o aplicativo me permita linkar para outras pessoas sem a necessidade de incluir o sufixo ".bsky.social". |
+| **Critérios de Aceitação** | - O sistema deve permitir a criação de links diretos para outros usuários sem o uso obrigatório do sufixo ".bsky.social".             |
+| **Prioridade PO**          | Média                                                                                                                                 |
+| **Prioridade Usuário**     | Alta                                                                                                                                  |
+| **Status**                 | Em andamento                                                                                                                          |
+| **Rastreabilidade**        | [QT3](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                   |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 34: </b>O aplicativo deve permitir Trending Topics.</font>
+
+| **Item**                   | **Descrição**                                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF32**                   | O aplicativo deve permitir Trending Topics.                                                                                           |
+| **Tema**                   | Engajamento e Descoberta                                                                                                              |
+| **Descrição**              | Eu, como usuário, desejo visualizar os assuntos mais comentados no momento, para que eu possa acompanhar as tendências atuais.        |
+| **Critérios de Aceitação** | - O sistema deve listar os assuntos mais populares com base em interações e menções.<br> - A lista deve ser atualizada em tempo real. |
+| **Prioridade PO**          | Alta                                                                                                                                  |
+| **Prioridade Usuário**     | Alta                                                                                                                                  |
+| **Status**                 | Em validação                                                                                                                          |
+| **Rastreabilidade**        | [QT5](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                   |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 35: </b>O aplicativo deve permitir o sistema de tags fora do post.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF33**                   | O aplicativo deve permitir o sistema de tags fora do post.                                                                                                     |
+| **Tema**                   | Organização e Acessibilidade                                                                                                                                   |
+| **Descrição**              | Eu, como usuário, desejo gerenciar as tags de uma postagem separadamente, para organizar melhor o conteúdo sem poluir o texto da postagem.                     |
+| **Critérios de Aceitação** | - O sistema deve permitir que as tags sejam adicionadas ou removidas fora do corpo principal do post.<br> - As tags devem ser facilmente visíveis e clicáveis. |
+| **Prioridade PO**          | Média                                                                                                                                                          |
+| **Prioridade Usuário**     | Alta                                                                                                                                                           |
+| **Status**                 | Aguardando Implementação                                                                                                                                       |
+| **Rastreabilidade**        | [QT4](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                                            |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 36: </b>O usuário deve poder criar comunidades ou grupos privados.</font>
+
+| **Item**                   | **Descrição**                                                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **RF34**                   | O usuário deve poder criar comunidades ou grupos privados.                                                                         |
+| **Tema**                   | Socialização e Privacidade                                                                                                         |
+| **Descrição**              | Eu, como usuário, desejo criar comunidades ou grupos privados, para compartilhar conteúdos específicos com um público selecionado. |
+| **Critérios de Aceitação** | - O sistema deve permitir a criação de grupos públicos e privados.<br> - O criador do grupo deve gerenciar os membros e o acesso.  |
+| **Prioridade PO**          | Alta                                                                                                                               |
+| **Prioridade Usuário**     | Alta                                                                                                                               |
+| **Status**                 | Não iniciado                                                                                                                       |
+| **Rastreabilidade**        | [BT1](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                  |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 37: </b>O usuário deve poder configurar a privacidade das postagens.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF35**                   | O usuário deve poder configurar a privacidade das postagens.                                                                                             |
+| **Tema**                   | Privacidade e Controle                                                                                                                                   |
+| **Descrição**              | Eu, como usuário, desejo configurar a privacidade das minhas postagens, para controlar quem pode visualizar ou interagir com o conteúdo.                 |
+| **Critérios de Aceitação** | - O sistema deve oferecer opções de privacidade, como público, privado e personalizado.<br> - A configuração deve ser facilmente ajustável pelo usuário. |
+| **Prioridade PO**          | Alta                                                                                                                                                     |
+| **Prioridade Usuário**     | Alta                                                                                                                                                     |
+| **Status**                 | Em andamento                                                                                                                                             |
+| **Rastreabilidade**        | [BT2](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                                        |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 38: </b>O sistema deve enviar notificações sobre eventos em tempo real.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF36**                   | O sistema deve enviar notificações sobre eventos em tempo real.                                                                                                   |
+| **Tema**                   | Notificações e Alertas                                                                                                                                            |
+| **Descrição**              | Eu, como usuário, desejo receber notificações em tempo real sobre eventos importantes, para me manter informado e engajado.                                       |
+| **Critérios de Aceitação** | - O sistema deve enviar notificações em tempo real sobre interações, menções ou eventos configurados.<br> - As notificações devem ser configuráveis pelo usuário. |
+| **Prioridade PO**          | Média                                                                                                                                                             |
+| **Prioridade Usuário**     | Alta                                                                                                                                                              |
+| **Status**                 | Validada                                                                                                                                                          |
+| **Rastreabilidade**        | [BT4](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                                                 |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 39: </b>O usuário deve poder acessar métricas sobre o alcance de suas postagens.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF37**                   | O usuário deve poder acessar métricas sobre o alcance de suas postagens.                                                                            |
+| **Tema**                   | Análise e Métricas                                                                                                                                  |
+| **Descrição**              | Eu, como usuário, desejo acessar métricas detalhadas sobre o alcance das minhas postagens, para analisar o engajamento e a performance do conteúdo. |
+| **Critérios de Aceitação** | - O sistema deve fornecer métricas como visualizações, curtidas, compartilhamentos e alcance.<br> - Os dados devem ser atualizados em tempo real.   |
+| **Prioridade PO**          | Alta                                                                                                                                                |
+| **Prioridade Usuário**     | Alta                                                                                                                                                |
+| **Status**                 | Em desenvolvimento                                                                                                                                  |
+| **Rastreabilidade**        | [BT5](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                                   |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<a id="31_a_37"></a>
+
+#### Gravação com o PO e Usuário
 
 
 ## Bibliografia
@@ -744,6 +870,14 @@ As tabelas 27, 28, 29, 30, 31, 32 e 33 se referem as histórias de usuário feit
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>17/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>17/12</td>
+            <td>1.4</td>
+            <td>Criação das histórias de usuário de 31 até 37 </td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td>17/12</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
     </table>
 </div>
