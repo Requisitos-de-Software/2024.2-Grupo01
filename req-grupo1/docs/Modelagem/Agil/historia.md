@@ -30,10 +30,11 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 <center>
 <font size="3"><b>Tabela 1:</b> Desenvolvedor e PO</font>
 
-| História de Usuario | Desenvolvedor                          | Product Owner | Usuário | Link levando a gravação |
-|:--------------------:|:-------------------------------------:|:-------------:|:-------:|:-------:|
-| US01 até US07        | [Renata](https://github.com/Renatinha28) | -             | Amanda      | [Link](#1_a_7)
-| US08 até US14        | [Davi Nobre](https://github.com/Jagaima) | -             | -       | - |
+| História de Usuario |                  Desenvolvedor                   | Product Owner |   Usuário    | Link levando a gravação |
+| :-----------------: | :----------------------------------------------: | :-----------: | :----------: | :---------------------: |
+|    US01 até US07    |     [Renata](https://github.com/Renatinha28)     |       -       |    Amanda    |     [Link](#1_a_7)      |
+|    US08 até US14    |     [Davi Nobre](https://github.com/Jagaima)     |       -       |      -       |            -            |
+|    US31 até US37    | [Eduarda Tavares](https://github.com/erteduarda) | Ana Carolina  | Ana Carolina |    [Link](#31_a_37)     |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
@@ -47,21 +48,21 @@ A tabela 2 mostra o modelo seguido para cada história de usuário realizada.
 <center>
 <font size="3"><b>Tabela 2:</b>Modelo para História de Usuário</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | USx |
-| Tema | Título |
-| Descrição | Eu, como [tipo de usuário], desejo [ação desejada] para [objetivo] |
-| Critérios de Aceitação | - [Critério 1] <br> - [Critério 2] <br> ... |
-| Prioridade PO | Alta, Média, Baixa |
-| Prioridade Usuário | Alta, Média, Baixa |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | Código do requisito |
+|             Item             |                             Descrição                              |
+| :--------------------------: | :----------------------------------------------------------------: |
+| USx(número de identificação) |                                USx                                 |
+|             Tema             |                               Título                               |
+|          Descrição           | Eu, como [tipo de usuário], desejo [ação desejada] para [objetivo] |
+|    Critérios de Aceitação    |            - [Critério 1] <br> - [Critério 2] <br> ...             |
+|        Prioridade PO         |                         Alta, Média, Baixa                         |
+|      Prioridade Usuário      |                         Alta, Média, Baixa                         |
+|            Status            |           Se a história foi Validada ou não pelo usuário           |
+|       Rastreabilidade        |                        Código do requisito                         |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
 
-### Histórias de Usuário : requisitos elicitados 1 até 7
+### Histórias de Usuário: requisitos elicitados 1 até 7
 
 As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integrante [Renata Quadros](https://github.com/Renatinha28)
 
@@ -70,16 +71,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <center>
 <font size="3"><b>Tabela 3:</b>História de Usuário: Login</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US01 |
-| Tema | Fazer login |
-| Descrição | Eu, como usuário, desejo realizar o login no aplicativo Bluesky para acessar minha conta. |
-| Critérios de Aceitação | - O sistema deve permitir o login automatico caso o usuário tenha salvo <br> - O sistema deve redirecionar para tela inicial do app após a confirmação do login <br> - O sistema deve permitir o acesso apenas se o usuário e a senha estiverem corretos |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Validada |
-| Rastreabilidade | [OB1](../../PerfilUsuario/Tecnicas/Observacao.md), [IS1](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|             Item             |                                                                                                                        Descrição                                                                                                                         |
+| :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                                           US01                                                                                                                           |
+|             Tema             |                                                                                                                       Fazer login                                                                                                                        |
+|          Descrição           |                                                                                Eu, como usuário, desejo realizar o login no aplicativo Bluesky para acessar minha conta.                                                                                 |
+|    Critérios de Aceitação    | - O sistema deve permitir o login automatico caso o usuário tenha salvo <br> - O sistema deve redirecionar para tela inicial do app após a confirmação do login <br> - O sistema deve permitir o acesso apenas se o usuário e a senha estiverem corretos |
+|        Prioridade PO         |                                                                                                                           Alta                                                                                                                           |
+|      Prioridade Usuário      |                                                                                                                           Alta                                                                                                                           |
+|            Status            |                                                                                                                         Validada                                                                                                                         |
+|       Rastreabilidade        |                                               [OB1](../../PerfilUsuario/Tecnicas/Observacao.md), [IS1](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -89,16 +90,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <center>
 <font size="3"><b>Tabela 4:</b>História de Usuário: Recuperar senha</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US02 |
-| Tema | Recuperar senha |
-| Descrição | Eu, como usuário, desejo recuperar minha senha para acessar o aplicativo Bluesky em caso de esquecimento. |
-| Critérios de Aceitação |  - O sistema deve exibir um botão "Esqueci minha senha" na tela de login <br> - O usuário deve receber um e-mail com um link de redefinição de senha no e-mail cadastrado na conta <br> - O link enviado deve expirar após 10 minutos|
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Validada |
-| Rastreabilidade | [OB2](../../PerfilUsuario/Tecnicas/Observacao.md) |
+|             Item             |                                                                                                              Descrição                                                                                                               |
+| :--------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                                 US02                                                                                                                 |
+|             Tema             |                                                                                                           Recuperar senha                                                                                                            |
+|          Descrição           |                                                              Eu, como usuário, desejo recuperar minha senha para acessar o aplicativo Bluesky em caso de esquecimento.                                                               |
+|    Critérios de Aceitação    | - O sistema deve exibir um botão "Esqueci minha senha" na tela de login <br> - O usuário deve receber um e-mail com um link de redefinição de senha no e-mail cadastrado na conta <br> - O link enviado deve expirar após 10 minutos |
+|        Prioridade PO         |                                                                                                                 Alta                                                                                                                 |
+|      Prioridade Usuário      |                                                                                                                 Alta                                                                                                                 |
+|            Status            |                                                                                                               Validada                                                                                                               |
+|       Rastreabilidade        |                                                                                          [OB2](../../PerfilUsuario/Tecnicas/Observacao.md)                                                                                           |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -108,16 +109,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <center>
 <font size="3"><b>Tabela 5:</b>História de Usuário: Acessar novos conteúdos</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US03 |
-| Tema | Acessar novos conteúdos rapidamente |
-| Descrição | Eu, como usuário, desejo acessar novos conteúdos rapidamente para estar atualizado com as últimas informações da plataforma. |
-| Critérios de Aceitação | - O sistema deve atualizar o feed automaticamente ao abrir o aplicativo <br> - O usuário deve ter a opção de atualizar o feed manualmente  |
-| Prioridade PO | Média |
-| Prioridade Usuário | Média |
-| Status | Validada |
-| Rastreabilidade | [OB3](../../PerfilUsuario/Tecnicas/Observacao.md) |
+|             Item             |                                                                 Descrição                                                                 |
+| :--------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                   US03                                                                    |
+|             Tema             |                                                    Acessar novos conteúdos rapidamente                                                    |
+|          Descrição           |       Eu, como usuário, desejo acessar novos conteúdos rapidamente para estar atualizado com as últimas informações da plataforma.        |
+|    Critérios de Aceitação    | - O sistema deve atualizar o feed automaticamente ao abrir o aplicativo <br> - O usuário deve ter a opção de atualizar o feed manualmente |
+|        Prioridade PO         |                                                                   Média                                                                   |
+|      Prioridade Usuário      |                                                                   Média                                                                   |
+|            Status            |                                                                 Validada                                                                  |
+|       Rastreabilidade        |                                             [OB3](../../PerfilUsuario/Tecnicas/Observacao.md)                                             |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -127,16 +128,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <center>
 <font size="3"><b>Tabela 6:</b>História de Usuário: realizar postagens</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US04 |
-| Tema | Realizar postagens |
-| Descrição | Eu, como usuário, desejo realizar postagens na plataforma para compartilhar informações e ideias com outros usuários. |
-| Critérios de Aceitação | - O sistema deve permitir a criação de postagens com texto e imagens <br> - O botão "publicar" só deve ser habilitado após o preenchimento do campo de texto ou adição de imagem |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Validada |
-| Rastreabilidade | [OB4](../../PerfilUsuario/Tecnicas/Observacao.md) |
+|             Item             |                                                                                    Descrição                                                                                     |
+| :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                       US04                                                                                       |
+|             Tema             |                                                                                Realizar postagens                                                                                |
+|          Descrição           |                              Eu, como usuário, desejo realizar postagens na plataforma para compartilhar informações e ideias com outros usuários.                               |
+|    Critérios de Aceitação    | - O sistema deve permitir a criação de postagens com texto e imagens <br> - O botão "publicar" só deve ser habilitado após o preenchimento do campo de texto ou adição de imagem |
+|        Prioridade PO         |                                                                                       Alta                                                                                       |
+|      Prioridade Usuário      |                                                                                       Alta                                                                                       |
+|            Status            |                                                                                     Validada                                                                                     |
+|       Rastreabilidade        |                                                                [OB4](../../PerfilUsuario/Tecnicas/Observacao.md)                                                                 |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -146,16 +147,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <center>
 <font size="3"><b>Tabela 7:</b>História de Usuário: Editar publicações </font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US05 |
-| Tema | Editar postagens |
-| Descrição | Eu, como usuário, desejo editar minhas publicações já postadas para corrigir erros ou atualizar o conteúdo. |
-| Critérios de Aceitação | - O sistema deve permitir edições de postagens já publicadas <br> - O sistema deve exibir uma mensagem de confirmação após a confirmação da edição <br> - O sistema de exibir na publicação editada uma mensagem de "editada" deixando claro quais postagens foram editadas |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Validada|
-| Rastreabilidade | [OB5](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS17](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|             Item             |                                                                                                                                  Descrição                                                                                                                                  |
+| :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                                                    US05                                                                                                                                     |
+|             Tema             |                                                                                                                              Editar postagens                                                                                                                               |
+|          Descrição           |                                                                                 Eu, como usuário, desejo editar minhas publicações já postadas para corrigir erros ou atualizar o conteúdo.                                                                                 |
+|    Critérios de Aceitação    | - O sistema deve permitir edições de postagens já publicadas <br> - O sistema deve exibir uma mensagem de confirmação após a confirmação da edição <br> - O sistema de exibir na publicação editada uma mensagem de "editada" deixando claro quais postagens foram editadas |
+|        Prioridade PO         |                                                                                                                                    Alta                                                                                                                                     |
+|      Prioridade Usuário      |                                                                                                                                    Alta                                                                                                                                     |
+|            Status            |                                                                                                                                  Validada                                                                                                                                   |
+|       Rastreabilidade        |                                                                                  [OB5](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS17](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                   |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -165,16 +166,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <center>
 <font size="3"><b>Tabela 8:</b>História de Usuário: Buscar por posts com palavras-chaves </font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US06 |
-| Tema |  Busca com palavras-chaves |
-| Descrição | Eu, como usuário, desejo buscar posts relacionados ao meu interesse utilizando palavras-chave, hashtags ou filtros específicos, para encontrar conteúdos relevantes. |
-| Critérios de Aceitação | - O sistema deve permitir ao usuário interir palavras chaves na barra de busca <br> - Os resultados da busca devem ser exibidos ordenados por relevância |
-| Prioridade PO | Média |
-| Prioridade Usuário | Média |
-| Status | Validada |
-| Rastreabilidade | [OB6](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS2](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|             Item             |                                                                              Descrição                                                                               |
+| :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                 US06                                                                                 |
+|             Tema             |                                                                      Busca com palavras-chaves                                                                       |
+|          Descrição           | Eu, como usuário, desejo buscar posts relacionados ao meu interesse utilizando palavras-chave, hashtags ou filtros específicos, para encontrar conteúdos relevantes. |
+|    Critérios de Aceitação    |       - O sistema deve permitir ao usuário interir palavras chaves na barra de busca <br> - Os resultados da busca devem ser exibidos ordenados por relevância       |
+|        Prioridade PO         |                                                                                Média                                                                                 |
+|      Prioridade Usuário      |                                                                                Média                                                                                 |
+|            Status            |                                                                               Validada                                                                               |
+|       Rastreabilidade        |                               [OB6](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS2](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -184,16 +185,16 @@ As tabelas 3 até 9 descrevem as histórias de usuário realizadas pela integran
 <center>
 <font size="3"><b>Tabela 9:</b>História de Usuário: Favoritar posts ou comunidades </font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US07 |
-| Tema | Favoritar posts |
-| Descrição | Eu, como usuário, desejo favoritar comunidades para acessar rapidamente os conteúdos de maior interesse. |
-| Critérios de Aceitação |  - O sistema deve permitir ao usuário favoritar posts por meio de um ícone <br> - Os itens favoritados devem ser salvos na aba de "Favoritos" |
-| Prioridade PO | Média |
-| Prioridade Usuário | Média |
-| Status | Validada |
-| Rastreabilidade | [OB7](../../PerfilUsuario/Tecnicas/Observacao.md) |
+|             Item             |                                                                  Descrição                                                                   |
+| :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                     US07                                                                     |
+|             Tema             |                                                               Favoritar posts                                                                |
+|          Descrição           |                   Eu, como usuário, desejo favoritar comunidades para acessar rapidamente os conteúdos de maior interesse.                   |
+|    Critérios de Aceitação    | - O sistema deve permitir ao usuário favoritar posts por meio de um ícone <br> - Os itens favoritados devem ser salvos na aba de "Favoritos" |
+|        Prioridade PO         |                                                                    Média                                                                     |
+|      Prioridade Usuário      |                                                                    Média                                                                     |
+|            Status            |                                                                   Validada                                                                   |
+|       Rastreabilidade        |                                              [OB7](../../PerfilUsuario/Tecnicas/Observacao.md)                                               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
 </center>
@@ -233,16 +234,16 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <center>
 <font size="3"><b>Tabela 10:</b>História de Usuário: criar seus próprios posts ,e compartilhá-los com um feed específico ou a comunidade em geral.</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US08 |
-| Tema | Criar post e compartilha-los num feed. |
-| Descrição | Eu, como usuário comum do app, desejo criar uma publicação para que seja vista em um feed específico |
-| Critérios de Aceitação | - O sistema deve permitir escolher o feed para postar de acordo com a vontade de seu criador original ("#" ou palavras passe) <br> - O usuário pode ter um post em multiplos feeds <br> ... |
-| Prioridade PO | Média |
-| Prioridade Usuário | Média |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | [OB8](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|             Item             |                                                                                          Descrição                                                                                          |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                            US08                                                                                             |
+|             Tema             |                                                                           Criar post e compartilha-los num feed.                                                                            |
+|          Descrição           |                                            Eu, como usuário comum do app, desejo criar uma publicação para que seja vista em um feed específico                                             |
+|    Critérios de Aceitação    | - O sistema deve permitir escolher o feed para postar de acordo com a vontade de seu criador original ("#" ou palavras passe) <br> - O usuário pode ter um post em multiplos feeds <br> ... |
+|        Prioridade PO         |                                                                                            Média                                                                                            |
+|      Prioridade Usuário      |                                                                                            Média                                                                                            |
+|            Status            |                                                                       Se a história foi Validada ou não pelo usuário                                                                        |
+|       Rastreabilidade        |                                           [OB8](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                           |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
@@ -254,16 +255,16 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <center>
 <font size="3"><b>Tabela 11:</b>História de Usuário: Ver mensagens com outros usuários</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US09 |
-| Tema | Deve ser possível ver as mensagens com outros usuários |
-| Descrição | Eu, como usuário, desejo ver minhas mensagens com outro usuário para recordar um fato que foi conversado |
-| Critérios de Aceitação | - As mensagens devem ter data <br> - As mensagens devem ter confirmação de vizualização <br> ... |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | [OB9](../../PerfilUsuario/Tecnicas/Observacao.md) |
+|             Item             |                                                Descrição                                                 |
+| :--------------------------: | :------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                   US09                                                   |
+|             Tema             |                          Deve ser possível ver as mensagens com outros usuários                          |
+|          Descrição           | Eu, como usuário, desejo ver minhas mensagens com outro usuário para recordar um fato que foi conversado |
+|    Critérios de Aceitação    |     - As mensagens devem ter data <br> - As mensagens devem ter confirmação de vizualização <br> ...     |
+|        Prioridade PO         |                                                   Alta                                                   |
+|      Prioridade Usuário      |                                                   Alta                                                   |
+|            Status            |                              Se a história foi Validada ou não pelo usuário                              |
+|       Rastreabilidade        |                            [OB9](../../PerfilUsuario/Tecnicas/Observacao.md)                             |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -274,16 +275,16 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <center>
 <font size="3"><b>Tabela 12:</b>História de Usuário: Editar o conteúdo do perfil</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US10 |
-| Tema | Deve ser possível editar o conteúdo do perfil |
-| Descrição | Eu, como usuário, desejo editar meu perfil para mudar a aparência da minha página principal |
-| Critérios de Aceitação | - O numéro de vezes editado deve ser ilimitado <br> - O link conector (ex: .bsky.social) só pode ser mudado uma vez a cada 3 meses <br> ... |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|             Item             |                                                                  Descrição                                                                  |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                    US10                                                                     |
+|             Tema             |                                                Deve ser possível editar o conteúdo do perfil                                                |
+|          Descrição           |                         Eu, como usuário, desejo editar meu perfil para mudar a aparência da minha página principal                         |
+|    Critérios de Aceitação    | - O numéro de vezes editado deve ser ilimitado <br> - O link conector (ex: .bsky.social) só pode ser mudado uma vez a cada 3 meses <br> ... |
+|        Prioridade PO         |                                                                    Alta                                                                     |
+|      Prioridade Usuário      |                                                                    Alta                                                                     |
+|            Status            |                                               Se a história foi Validada ou não pelo usuário                                                |
+|       Rastreabilidade        |                  [OB10](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md)                  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -295,16 +296,16 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <center>
 <font size="3"><b>Tabela 13:</b>História de Usuário: Notificar o usuário de posts com base em seus interesses</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US11 |
-| Tema | O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados. |
-| Descrição | Eu, como usuário, desejo receber notificações de posts relacionados ao que gosto para conhecer novas contas a seguir e ficar atualizado. |
-| Critérios de Aceitação | - O numéro de vezes que a notificação é enviada no dia não deve exceder 3 <br> - se o usuário não abre as notificações normalmente, sua frequência deve ser de duas por semana <br> ... |
-| Prioridade PO | Baixa |
-| Prioridade Usuário | Baixa |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT3](../../PerfilUsuario/Tecnicas/Brainstorm.md) |
+|             Item             |                                                                                        Descrição                                                                                        |
+| :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                          US11                                                                                           |
+|             Tema             |                                    O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados.                                    |
+|          Descrição           |                        Eu, como usuário, desejo receber notificações de posts relacionados ao que gosto para conhecer novas contas a seguir e ficar atualizado.                         |
+|    Critérios de Aceitação    | - O numéro de vezes que a notificação é enviada no dia não deve exceder 3 <br> - se o usuário não abre as notificações normalmente, sua frequência deve ser de duas por semana <br> ... |
+|        Prioridade PO         |                                                                                          Baixa                                                                                          |
+|      Prioridade Usuário      |                                                                                          Baixa                                                                                          |
+|            Status            |                                                                     Se a história foi Validada ou não pelo usuário                                                                      |
+|       Rastreabilidade        |               [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT3](../../PerfilUsuario/Tecnicas/Brainstorm.md)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -314,16 +315,16 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <center>
 <font size="3"><b>Tabela 14:</b>História de Usuário: Salvar posts de interesse</font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US12 |
-| Tema | O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura. |
-| Descrição | Eu, como usuário, desejo salvar posts relacionados ao que gosto para os rever quando quiser facilmente e manter nota de postagens importantes |
-| Critérios de Aceitação | - O usuário deve ter uma confirmação imediata que teve o post salvo <br> - se o usuário tem a conta privada, seus post não podem ir para nenhum itens salvos <br> ... |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|             Item             |                                                                               Descrição                                                                               |
+| :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                 US12                                                                                  |
+|             Tema             |                                      O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura.                                       |
+|          Descrição           |             Eu, como usuário, desejo salvar posts relacionados ao que gosto para os rever quando quiser facilmente e manter nota de postagens importantes             |
+|    Critérios de Aceitação    | - O usuário deve ter uma confirmação imediata que teve o post salvo <br> - se o usuário tem a conta privada, seus post não podem ir para nenhum itens salvos <br> ... |
+|        Prioridade PO         |                                                                                 Alta                                                                                  |
+|      Prioridade Usuário      |                                                                                 Alta                                                                                  |
+|            Status            |                                                            Se a história foi Validada ou não pelo usuário                                                             |
+|       Rastreabilidade        |                              [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md)                               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -333,16 +334,16 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <center>
 <font size="3"><b>Tabela 15:</b>História de Usuário: Gerẽnciar seus posts salvos por data e/ou hashtag </font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US13 |
-| Tema | O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag. |
-| Descrição | Eu, como usuário, desejo gerênciar meus posts salvos relacionados ao que gosto para me organizar com o que ainda preciso ou não. |
-| Critérios de Aceitação | - O usuário pode remover posts <br> - se o usuário original apagar o post, ele irá sumir do itens salvos e o usuário será notificado <br> ... |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md)|
+|             Item             |                                                                         Descrição                                                                          |
+| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                            US13                                                                            |
+|             Tema             | O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag. |
+|          Descrição           |              Eu, como usuário, desejo gerênciar meus posts salvos relacionados ao que gosto para me organizar com o que ainda preciso ou não.              |
+|    Critérios de Aceitação    |       - O usuário pode remover posts <br> - se o usuário original apagar o post, ele irá sumir do itens salvos e o usuário será notificado <br> ...        |
+|        Prioridade PO         |                                                                            Alta                                                                            |
+|      Prioridade Usuário      |                                                                            Alta                                                                            |
+|            Status            |                                                       Se a história foi Validada ou não pelo usuário                                                       |
+|       Rastreabilidade        |                                                    [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                     |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -352,16 +353,16 @@ As próximas 7 tabelas a seguir contem as histórias de usuário criados pelo us
 <center>
 <font size="3"><b>Tabela 16:</b>História de Usuário: Criar ou participar de feeds de com base em critérios como tipo de post, hashtag e usuários. </font>
 
-| Item | Descrição |
-|:----:|:---------:|
-| USx(número de identificação) | US14 |
-| Tema | O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas. |
-| Descrição | Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono. |
-| Critérios de Aceitação | - O usuário chefe pode definir quem vai ou não pro feed <br> - O feed pode ter alguma função específica EX: o feed programado para mostrar os post mais populares de uma conta <br> ... |
-| Prioridade PO | Alta |
-| Prioridade Usuário | Alta |
-| Status | Se a história foi Validada ou não pelo usuário |
-| Rastreabilidade | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md)|
+|             Item             |                                                                                        Descrição                                                                                        |
+| :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                          US14                                                                                           |
+|             Tema             | O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas. |
+|          Descrição           |                                   Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono.                                   |
+|    Critérios de Aceitação    | - O usuário chefe pode definir quem vai ou não pro feed <br> - O feed pode ter alguma função específica EX: o feed programado para mostrar os post mais populares de uma conta <br> ... |
+|        Prioridade PO         |                                                                                          Alta                                                                                           |
+|      Prioridade Usuário      |                                                                                          Alta                                                                                           |
+|            Status            |                                                                     Se a história foi Validada ou não pelo usuário                                                                      |
+|       Rastreabilidade        |                                                                   [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                   |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -375,16 +376,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <center>
 <font size="3"><b>Tabela 17:</b>História de Usuário: Interagir com postagens por comentários, curtidas e respostas.</font>
 
-|             Item             |                                                                                                 Descrição                                                                                                  |
-| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| USx(número de identificação) |                                                                                                    US15                                                                                                    |
-|             Tema             |                                                                                          Publicações e Interações                                                                                          |
-|          Descrição           |                                   Eu, como usuário, desejo interagir com postagens por meio de comentários, curtidas e respostas para me expressar sobre uma publicação.                                   |
-|    Critérios de Aceitação    | - O aplicativo deve permitir fazer comentários e curtir uma publicação tanto em sua exibição em um feed quanto em sua página própria<br> - As respostas devem ser feitas à comentários ou outras respostas |
-|        Prioridade PO         |                                                                                                    Alta                                                                                                    |
-|      Prioridade Usuário      |                                                                                                    Alta                                                                                                    |
-|            Status            |                                                                               Se a história foi Validada ou não pelo usuário                                                                               |
-|       Rastreabilidade        |                                                                                                    [RF15](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS8](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS16](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [QT2](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                                    |
+|             Item             |                                                                                                       Descrição                                                                                                        |
+| :--------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| USx(número de identificação) |                                                                                                          US15                                                                                                          |
+|             Tema             |                                                                                                Publicações e Interações                                                                                                |
+|          Descrição           |                                         Eu, como usuário, desejo interagir com postagens por meio de comentários, curtidas e respostas para me expressar sobre uma publicação.                                         |
+|    Critérios de Aceitação    |       - O aplicativo deve permitir fazer comentários e curtir uma publicação tanto em sua exibição em um feed quanto em sua página própria<br> - As respostas devem ser feitas à comentários ou outras respostas       |
+|        Prioridade PO         |                                                                                                          Alta                                                                                                          |
+|      Prioridade Usuário      |                                                                                                          Alta                                                                                                          |
+|            Status            |                                                                                     Se a história foi Validada ou não pelo usuário                                                                                     |
+|       Rastreabilidade        | [RF15](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS8](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS16](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [QT2](../../PerfilUsuario/Tecnicas/Questionario.md) |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -403,7 +404,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 |        Prioridade PO         |                                                                                                                          Alta                                                                                                                          |
 |      Prioridade Usuário      |                                                                                                                          Alta                                                                                                                          |
 |            Status            |                                                                                                     Se a história foi Validada ou não pelo usuário                                                                                                     |
-|       Rastreabilidade        |                                                                                                                       [RF16](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS9](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                        |
+|       Rastreabilidade        |                                                                       [RF16](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS9](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                        |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -422,7 +423,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 |        Prioridade PO         |                                                             Alta, Média, Baixa                                                              |
 |      Prioridade Usuário      |                                                             Alta, Média, Baixa                                                              |
 |            Status            |                                               Se a história foi Validada ou não pelo usuário                                                |
-|       Rastreabilidade        |                                                                 [RF17](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS11](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                  |
+|       Rastreabilidade        |                 [RF17](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS11](../../PerfilUsuario/Tecnicas/Introspeccao.md)                  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -438,10 +439,10 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 |             Tema             |                                                       Publicações e Interações                                                        |
 |          Descrição           |         Eu, como usuário, desejo fixar uma publicação em seu perfil para dar destaque a publicação importante em meu perfil.          |
 |    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
-|        Prioridade PO         |                                                         Média                                                         |
-|      Prioridade Usuário      |                                                          Média                                                       |
+|        Prioridade PO         |                                                                 Média                                                                 |
+|      Prioridade Usuário      |                                                                 Média                                                                 |
 |            Status            |                                            Se a história foi Validada ou não pelo usuário                                             |
-|       Rastreabilidade        |                                                              [RF18](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS13](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                               |
+|       Rastreabilidade        |              [RF18](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS13](../../PerfilUsuario/Tecnicas/Introspeccao.md)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -455,12 +456,12 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 | USx(número de identificação) |                                                                 US19                                                                  |
 |             Tema             |                                                       Publicações e Interações                                                        |
-|          Descrição           |         Eu, como usuário, desejo tornar minha conta privada para permitir que apenas seguidores consigam interagir diretamente comigo |
+|          Descrição           |     Eu, como usuário, desejo tornar minha conta privada para permitir que apenas seguidores consigam interagir diretamente comigo     |
 |    Critérios de Aceitação    | - A publicação destacada deve ser a primeira a ser exibida no perfil do usuário<br>- A publicação destacada deve poder ser desafixada |
-|        Prioridade PO         |                                                          Alta                                                          |
-|      Prioridade Usuário      |                                                          Alta                                                          |
+|        Prioridade PO         |                                                                 Alta                                                                  |
+|      Prioridade Usuário      |                                                                 Alta                                                                  |
 |            Status            |                                            Se a história foi Validada ou não pelo usuário                                             |
-|       Rastreabilidade        |     [RF19](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS14](../../PerfilUsuario/Tecnicas/Introspeccao.md)                        |
+|       Rastreabilidade        |              [RF19](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS14](../../PerfilUsuario/Tecnicas/Introspeccao.md)               |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -479,7 +480,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 |        Prioridade PO         |                                                                                                                         Alta                                                                                                                         |
 |      Prioridade Usuário      |                                                                                                                         Alta                                                                                                                         |
 |            Status            |                                                                                                    Se a história foi Validada ou não pelo usuário                                                                                                    |
-|       Rastreabilidade        |                                                                                                                      [RF20](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS15](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                      |
+|       Rastreabilidade        |                                                                      [RF20](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS15](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                      |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -498,7 +499,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 |        Prioridade PO         |                                                                                          Alta                                                                                           |
 |      Prioridade Usuário      |                                                                                          Alta                                                                                           |
 |            Status            |                                                                     Se a história foi Validada ou não pelo usuário                                                                      |
-|       Rastreabilidade        |                                                                                       [RF21](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS18](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                        |
+|       Rastreabilidade        |                                       [RF21](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS18](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                        |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -517,7 +518,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 |        Prioridade PO         |                                                                               Média                                                                               |
 |      Prioridade Usuário      |                                                                               Média                                                                               |
 |            Status            |                                                          Se a história foi Validada ou não pelo usuário                                                           |
-|       Rastreabilidade        |                                                                            [RF22](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                             |
+|       Rastreabilidade        |                            [RF22](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS19](../../PerfilUsuario/Tecnicas/Introspeccao.md)                             |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -536,7 +537,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 |        Prioridade PO         |                                                                                                                                       Média                                                                                                                                        |
 |      Prioridade Usuário      |                                                                                                                                       Média                                                                                                                                        |
 |            Status            |                                                                                                                   Se a história foi Validada ou não pelo usuário                                                                                                                   |
-|       Rastreabilidade        |                                                                                                                                     [RF23](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS20](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                     |
+|       Rastreabilidade        |                                                                                     [RF23](../../PerfilUsuario/Tecnicas/Requisitosel.md), [IS20](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                     |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
@@ -547,16 +548,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <font size="3"><b>Tabela 26:</b>O usuário deve poder mandar mídias como vídeos e áudios nas mensagens privadas.</font>
 
 
-| **Item**                     | **Descrição**                                                                 |
-|------------------------------|------------------------------------------------------------------------------|
-| **USx(número de identificação)** | US24                                                                         |
-| **Tema**                     | Enviar mídias em mensagens privadas                                           |
-| **Descrição**                | Eu, como usuário, desejo enviar vídeos e áudios em mensagens privadas para compartilhar conteúdos de forma mais completa e interativa. |
-| **Critérios de Aceitação**   | - O sistema deve permitir o envio de arquivos de vídeo e áudio em mensagens privadas. <br> - O sistema deve exibir uma mensagem de sucesso após o envio da mídia. <br> - O sistema deve notificar o destinatário sobre a nova mensagem contendo mídia. |
-| **Prioridade PO**            | Alta                                                                         |
-| **Prioridade Usuário**       | Alta                                                                         |
-| **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | [IS21](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                   |
+| **Item**                         | **Descrição**                                                                                                                                                                                                                                          |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **USx(número de identificação)** | US24                                                                                                                                                                                                                                                   |
+| **Tema**                         | Enviar mídias em mensagens privadas                                                                                                                                                                                                                    |
+| **Descrição**                    | Eu, como usuário, desejo enviar vídeos e áudios em mensagens privadas para compartilhar conteúdos de forma mais completa e interativa.                                                                                                                 |
+| **Critérios de Aceitação**       | - O sistema deve permitir o envio de arquivos de vídeo e áudio em mensagens privadas. <br> - O sistema deve exibir uma mensagem de sucesso após o envio da mídia. <br> - O sistema deve notificar o destinatário sobre a nova mensagem contendo mídia. |
+| **Prioridade PO**                | Alta                                                                                                                                                                                                                                                   |
+| **Prioridade Usuário**           | Alta                                                                                                                                                                                                                                                   |
+| **Status**                       | Validada                                                                                                                                                                                                                                               |
+| **Rastreabilidade**              | [IS21](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                                                                                   |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -569,16 +570,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <font size="3"><b>Tabela 27:</b>O usuário deve poder criar, modificar e excluir suas listas de perfis de interesse.</font>
 
 
-| **Item**                     | **Descrição**                                                                 |
-|------------------------------|------------------------------------------------------------------------------|
-| **USx(número de identificação)** | US25                                                                         |
-| **Tema**                     | Listas de perfis de interesse                                                 |
-| **Descrição**                | Eu, como usuário, desejo criar, modificar e excluir minhas listas de perfis de interesse para organizar melhor minhas conexões e interações. |
-| **Critérios de Aceitação**   | - O sistema deve permitir a criação de novas listas de perfis de interesse. <br> - O sistema deve permitir a modificação de listas existentes. <br> - O sistema deve permitir a exclusão de listas de perfis de interesse. <br> - O sistema deve exibir uma mensagem de confirmação após a criação, modificação ou exclusão de uma lista. |
-| **Prioridade PO**            | Alta                                                                         |
-| **Prioridade Usuário**       | Alta                                                                         |
-| **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | [IS23](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                   |
+| **Item**                         | **Descrição**                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **USx(número de identificação)** | US25                                                                                                                                                                                                                                                                                                                                      |
+| **Tema**                         | Listas de perfis de interesse                                                                                                                                                                                                                                                                                                             |
+| **Descrição**                    | Eu, como usuário, desejo criar, modificar e excluir minhas listas de perfis de interesse para organizar melhor minhas conexões e interações.                                                                                                                                                                                              |
+| **Critérios de Aceitação**       | - O sistema deve permitir a criação de novas listas de perfis de interesse. <br> - O sistema deve permitir a modificação de listas existentes. <br> - O sistema deve permitir a exclusão de listas de perfis de interesse. <br> - O sistema deve exibir uma mensagem de confirmação após a criação, modificação ou exclusão de uma lista. |
+| **Prioridade PO**                | Alta                                                                                                                                                                                                                                                                                                                                      |
+| **Prioridade Usuário**           | Alta                                                                                                                                                                                                                                                                                                                                      |
+| **Status**                       | Validada                                                                                                                                                                                                                                                                                                                                  |
+| **Rastreabilidade**              | [IS23](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                                                                                                                                                                      |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -589,16 +590,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <center>
 <font size="3"><b>Tabela 28:</b>Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de perfis de interesse para ter/deixar de ter acesso às publicações desses perfis por uma aba.</font>
 
-| **Item**                     | **Descrição**                                                                 |
-|------------------------------|------------------------------------------------------------------------------|
-| **USx(número de identificação)** | US26                                                                         |
-| **Tema**                     | Inscrição em listas de perfis de interesse                                    |
-| **Descrição**                | Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de perfis de interesse para ter ou deixar de ter acesso às publicações desses perfis por meio de uma aba. |
-| **Critérios de Aceitação**   | - O sistema deve permitir que o usuário se inscreva em listas de perfis de interesse. <br> - O sistema deve permitir que o usuário se desinscreva de listas de perfis de interesse. <br> - O sistema deve exibir uma aba com as publicações dos perfis aos quais o usuário está inscrito. <br> - O sistema deve atualizar a aba e as publicações conforme o status de inscrição ou desinscrição. |
-| **Prioridade PO**            | Alta                                                                         |
-| **Prioridade Usuário**       | Alta                                                                         |
-| **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | [IS24](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                    |
+| **Item**                         | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **USx(número de identificação)** | US26                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Tema**                         | Inscrição em listas de perfis de interesse                                                                                                                                                                                                                                                                                                                                                       |
+| **Descrição**                    | Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de perfis de interesse para ter ou deixar de ter acesso às publicações desses perfis por meio de uma aba.                                                                                                                                                                                                              |
+| **Critérios de Aceitação**       | - O sistema deve permitir que o usuário se inscreva em listas de perfis de interesse. <br> - O sistema deve permitir que o usuário se desinscreva de listas de perfis de interesse. <br> - O sistema deve exibir uma aba com as publicações dos perfis aos quais o usuário está inscrito. <br> - O sistema deve atualizar a aba e as publicações conforme o status de inscrição ou desinscrição. |
+| **Prioridade PO**                | Alta                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Prioridade Usuário**           | Alta                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Status**                       | Validada                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Rastreabilidade**              | [IS24](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                                                                                                                                                                                                                             |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -610,16 +611,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <center>
 <font size="3"><b>Tabela 29:</b>O usuário deve poder criar, modificar e excluir suas listas de moderação.</font>
 
-| **Item**                     | **Descrição**                                                                 |
-|------------------------------|------------------------------------------------------------------------------|
-| **USx(número de identificação)** | US27                                                                         |
-| **Tema**                     | Listas de moderação                                                           |
-| **Descrição**                | Eu, como usuário, desejo criar, modificar e excluir minhas listas de moderação para gerenciar melhor os perfis e conteúdos que preciso monitorar. |
-| **Critérios de Aceitação**   | - O sistema deve permitir a criação de novas listas de moderação. <br> - O sistema deve permitir a modificação de listas de moderação existentes. <br> - O sistema deve permitir a exclusão de listas de moderação. <br> - O sistema deve exibir uma mensagem de confirmação após a criação, modificação ou exclusão de uma lista de moderação. |
-| **Prioridade PO**            | Alta                                                                         |
-| **Prioridade Usuário**       | Alta                                                                         |
-| **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | [IS25](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                   |
+| **Item**                         | **Descrição**                                                                                                                                                                                                                                                                                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **USx(número de identificação)** | US27                                                                                                                                                                                                                                                                                                                                            |
+| **Tema**                         | Listas de moderação                                                                                                                                                                                                                                                                                                                             |
+| **Descrição**                    | Eu, como usuário, desejo criar, modificar e excluir minhas listas de moderação para gerenciar melhor os perfis e conteúdos que preciso monitorar.                                                                                                                                                                                               |
+| **Critérios de Aceitação**       | - O sistema deve permitir a criação de novas listas de moderação. <br> - O sistema deve permitir a modificação de listas de moderação existentes. <br> - O sistema deve permitir a exclusão de listas de moderação. <br> - O sistema deve exibir uma mensagem de confirmação após a criação, modificação ou exclusão de uma lista de moderação. |
+| **Prioridade PO**                | Alta                                                                                                                                                                                                                                                                                                                                            |
+| **Prioridade Usuário**           | Alta                                                                                                                                                                                                                                                                                                                                            |
+| **Status**                       | Validada                                                                                                                                                                                                                                                                                                                                        |
+| **Rastreabilidade**              | [IS25](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                                                                                                                                                                            |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -631,16 +632,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <center>
 <font size="3"><b>Tabela 30:</b>Caso não seja o criador da lista, o usuário deve poder inscrever-se/deixar de ser inscrito em listas de moderação para não permitir/permitir a interação com os perfis contidos na lista.</font>
 
-| **Item**                     | **Descrição**                                                                 |
-|------------------------------|------------------------------------------------------------------------------|
-| **USx(número de identificação)** | US28                                                                         |
-| **Tema**                     | Inscrição em listas de moderação                                              |
-| **Descrição**                | Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de moderação para permitir ou não a interação com os perfis contidos na lista. |
-| **Critérios de Aceitação**   | - O sistema deve permitir que o usuário se inscreva em listas de moderação. <br> - O sistema deve permitir que o usuário se desinscreva de listas de moderação. <br> - O sistema deve permitir ou restringir a interação com os perfis contidos na lista de moderação, dependendo do status de inscrição ou desinscrição do usuário. <br> - O sistema deve exibir uma mensagem de confirmação após a inscrição ou desinscrição de uma lista de moderação. |
-| **Prioridade PO**            | Alta                                                                         |
-| **Prioridade Usuário**       | Alta                                                                         |
-| **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | [IS26](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                  |
+| **Item**                         | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **USx(número de identificação)** | US28                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Tema**                         | Inscrição em listas de moderação                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Descrição**                    | Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de moderação para permitir ou não a interação com os perfis contidos na lista.                                                                                                                                                                                                                                                                                                  |
+| **Critérios de Aceitação**       | - O sistema deve permitir que o usuário se inscreva em listas de moderação. <br> - O sistema deve permitir que o usuário se desinscreva de listas de moderação. <br> - O sistema deve permitir ou restringir a interação com os perfis contidos na lista de moderação, dependendo do status de inscrição ou desinscrição do usuário. <br> - O sistema deve exibir uma mensagem de confirmação após a inscrição ou desinscrição de uma lista de moderação. |
+| **Prioridade PO**                | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Prioridade Usuário**           | Alta                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Status**                       | Validada                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Rastreabilidade**              | [IS26](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -652,16 +653,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <center>
 <font size="3"><b>Tabela 31:</b>O usuário deve poder visualizar a quantidade de vezes em que sua publicação foi visualizada.</font>
 
-| **Item**                     | **Descrição**                                                                 |
-|------------------------------|------------------------------------------------------------------------------|
-| **USx(número de identificação)** | US29                                                                         |
-| **Tema**                     | Visualização de contagem de visualizações de publicações                       |
-| **Descrição**                | Eu, como usuário, desejo visualizar a quantidade de vezes em que minha publicação foi visualizada para entender o engajamento com o meu conteúdo. |
-| **Critérios de Aceitação**   | - O sistema deve exibir a contagem de visualizações de cada publicação do usuário. <br> - O sistema deve atualizar a contagem de visualizações em tempo real, sempre que a publicação for acessada. <br> - O sistema deve exibir a contagem de visualizações de forma clara e acessível. |
-| **Prioridade PO**            | Alta                                                                         |
-| **Prioridade Usuário**       | Média                                                                        |
-| **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | [IS27](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                  |
+| **Item**                         | **Descrição**                                                                                                                                                                                                                                                                            |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **USx(número de identificação)** | US29                                                                                                                                                                                                                                                                                     |
+| **Tema**                         | Visualização de contagem de visualizações de publicações                                                                                                                                                                                                                                 |
+| **Descrição**                    | Eu, como usuário, desejo visualizar a quantidade de vezes em que minha publicação foi visualizada para entender o engajamento com o meu conteúdo.                                                                                                                                        |
+| **Critérios de Aceitação**       | - O sistema deve exibir a contagem de visualizações de cada publicação do usuário. <br> - O sistema deve atualizar a contagem de visualizações em tempo real, sempre que a publicação for acessada. <br> - O sistema deve exibir a contagem de visualizações de forma clara e acessível. |
+| **Prioridade PO**                | Alta                                                                                                                                                                                                                                                                                     |
+| **Prioridade Usuário**           | Média                                                                                                                                                                                                                                                                                    |
+| **Status**                       | Validada                                                                                                                                                                                                                                                                                 |
+| **Rastreabilidade**              | [IS27](../../PerfilUsuario/Tecnicas/Introspeccao.md)                                                                                                                                                                                                                                     |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
@@ -673,25 +674,148 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
 <center>
 <font size="3"><b>Tabela 32:</b>O aplicativo deve permitir ao usuário a comunicação, entreterimento e informações atualizadas.</font>
 
-| **Item**                     | **Descrição**                                                                 |
-|------------------------------|------------------------------------------------------------------------------|
-| **USx(número de identificação)** | US30                                                                         |
-| **Tema**                     | Comunicação, entretenimento e informações atualizadas                         |
-| **Descrição**                | Eu, como usuário, desejo que o aplicativo me permita comunicação, entretenimento e informações atualizadas, para que eu possa me manter informado e engajado com o conteúdo. |
-| **Critérios de Aceitação**   | - O sistema deve permitir a comunicação em tempo real entre os usuários. <br> - O sistema deve oferecer opções de entretenimento, como vídeos, jogos ou conteúdo multimídia. <br> - O sistema deve fornecer informações atualizadas, como notícias, eventos e alertas relevantes. <br> - O sistema deve garantir que o conteúdo seja atualizado de forma contínua e eficiente. |
-| **Prioridade PO**            | Alta                                                                         |
-| **Prioridade Usuário**       | Alta                                                                         |
-| **Status**                   | Validada                                                                     |
-| **Rastreabilidade**          | [QT1](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                  |
+| **Item**                         | **Descrição**                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **USx(número de identificação)** | US30                                                                                                                                                                                                                                                                                                                                                                           |
+| **Tema**                         | Comunicação, entretenimento e informações atualizadas                                                                                                                                                                                                                                                                                                                          |
+| **Descrição**                    | Eu, como usuário, desejo que o aplicativo me permita comunicação, entretenimento e informações atualizadas, para que eu possa me manter informado e engajado com o conteúdo.                                                                                                                                                                                                   |
+| **Critérios de Aceitação**       | - O sistema deve permitir a comunicação em tempo real entre os usuários. <br> - O sistema deve oferecer opções de entretenimento, como vídeos, jogos ou conteúdo multimídia. <br> - O sistema deve fornecer informações atualizadas, como notícias, eventos e alertas relevantes. <br> - O sistema deve garantir que o conteúdo seja atualizado de forma contínua e eficiente. |
+| **Prioridade PO**                | Alta                                                                                                                                                                                                                                                                                                                                                                           |
+| **Prioridade Usuário**           | Alta                                                                                                                                                                                                                                                                                                                                                                           |
+| **Status**                       | Validada                                                                                                                                                                                                                                                                                                                                                                       |
+| **Rastreabilidade**              | [QT1](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                                                                                                                                                                                                                                                            |
 
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
 </center>
 
+### Histórias de Usuário: requisitos elicitados 31 até 37
 
-#### Gravação com o PO
+As tabelas 33 até 39 descrevem as histórias de usuário realizadas pela integrante [Eduarda Tavares](https://github.com/erteduarda)
 
-#### Gravação com o Usuário
+<center>
+<font size="3"><b>Tabela 33: </b>O aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social".</font>
+ 
+| **Item**                   | **Descrição**                                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF31**                   | O aplicativo deve permitir linkar para outras pessoas sem o sufixo ".bsky.social".                                                    |
+| **Tema**                   | Comunicação                                                                                                                           |
+| **Descrição**              | Eu, como usuário, desejo que o aplicativo me permita linkar para outras pessoas sem a necessidade de incluir o sufixo ".bsky.social". |
+| **Critérios de Aceitação** | - O sistema deve permitir a criação de links diretos para outros usuários sem o uso obrigatório do sufixo ".bsky.social".             |
+| **Prioridade PO**          | Média                                                                                                                                 |
+| **Prioridade Usuário**     | Alta                                                                                                                                  |
+| **Status**                 | Em andamento                                                                                                                          |
+| **Rastreabilidade**        | [QT3](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                   |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 34: </b>O aplicativo deve permitir Trending Topics.</font>
+
+| **Item**                   | **Descrição**                                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF32**                   | O aplicativo deve permitir Trending Topics.                                                                                           |
+| **Tema**                   | Engajamento e Descoberta                                                                                                              |
+| **Descrição**              | Eu, como usuário, desejo visualizar os assuntos mais comentados no momento, para que eu possa acompanhar as tendências atuais.        |
+| **Critérios de Aceitação** | - O sistema deve listar os assuntos mais populares com base em interações e menções.<br> - A lista deve ser atualizada em tempo real. |
+| **Prioridade PO**          | Alta                                                                                                                                  |
+| **Prioridade Usuário**     | Alta                                                                                                                                  |
+| **Status**                 | Em validação                                                                                                                          |
+| **Rastreabilidade**        | [QT5](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                   |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 35: </b>O aplicativo deve permitir o sistema de tags fora do post.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF33**                   | O aplicativo deve permitir o sistema de tags fora do post.                                                                                                     |
+| **Tema**                   | Organização e Acessibilidade                                                                                                                                   |
+| **Descrição**              | Eu, como usuário, desejo gerenciar as tags de uma postagem separadamente, para organizar melhor o conteúdo sem poluir o texto da postagem.                     |
+| **Critérios de Aceitação** | - O sistema deve permitir que as tags sejam adicionadas ou removidas fora do corpo principal do post.<br> - As tags devem ser facilmente visíveis e clicáveis. |
+| **Prioridade PO**          | Média                                                                                                                                                          |
+| **Prioridade Usuário**     | Alta                                                                                                                                                           |
+| **Status**                 | Aguardando Implementação                                                                                                                                       |
+| **Rastreabilidade**        | [QT4](../../PerfilUsuario/Tecnicas/Questionario.md)                                                                                                            |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 36: </b>O usuário deve poder criar comunidades ou grupos privados.</font>
+
+| **Item**                   | **Descrição**                                                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **RF34**                   | O usuário deve poder criar comunidades ou grupos privados.                                                                         |
+| **Tema**                   | Socialização e Privacidade                                                                                                         |
+| **Descrição**              | Eu, como usuário, desejo criar comunidades ou grupos privados, para compartilhar conteúdos específicos com um público selecionado. |
+| **Critérios de Aceitação** | - O sistema deve permitir a criação de grupos públicos e privados.<br> - O criador do grupo deve gerenciar os membros e o acesso.  |
+| **Prioridade PO**          | Alta                                                                                                                               |
+| **Prioridade Usuário**     | Alta                                                                                                                               |
+| **Status**                 | Não iniciado                                                                                                                       |
+| **Rastreabilidade**        | [BT1](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                  |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 37: </b>O usuário deve poder configurar a privacidade das postagens.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF35**                   | O usuário deve poder configurar a privacidade das postagens.                                                                                             |
+| **Tema**                   | Privacidade e Controle                                                                                                                                   |
+| **Descrição**              | Eu, como usuário, desejo configurar a privacidade das minhas postagens, para controlar quem pode visualizar ou interagir com o conteúdo.                 |
+| **Critérios de Aceitação** | - O sistema deve oferecer opções de privacidade, como público, privado e personalizado.<br> - A configuração deve ser facilmente ajustável pelo usuário. |
+| **Prioridade PO**          | Alta                                                                                                                                                     |
+| **Prioridade Usuário**     | Alta                                                                                                                                                     |
+| **Status**                 | Em andamento                                                                                                                                             |
+| **Rastreabilidade**        | [BT2](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                                        |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 38: </b>O sistema deve enviar notificações sobre eventos em tempo real.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF36**                   | O sistema deve enviar notificações sobre eventos em tempo real.                                                                                                   |
+| **Tema**                   | Notificações e Alertas                                                                                                                                            |
+| **Descrição**              | Eu, como usuário, desejo receber notificações em tempo real sobre eventos importantes, para me manter informado e engajado.                                       |
+| **Critérios de Aceitação** | - O sistema deve enviar notificações em tempo real sobre interações, menções ou eventos configurados.<br> - As notificações devem ser configuráveis pelo usuário. |
+| **Prioridade PO**          | Média                                                                                                                                                             |
+| **Prioridade Usuário**     | Alta                                                                                                                                                              |
+| **Status**                 | Validada                                                                                                                                                          |
+| **Rastreabilidade**        | [BT4](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                                                 |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<center>
+<font size="3"><b>Tabela 39: </b>O usuário deve poder acessar métricas sobre o alcance de suas postagens.</font>
+
+| **Item**                   | **Descrição**                                                                                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **RF37**                   | O usuário deve poder acessar métricas sobre o alcance de suas postagens.                                                                            |
+| **Tema**                   | Análise e Métricas                                                                                                                                  |
+| **Descrição**              | Eu, como usuário, desejo acessar métricas detalhadas sobre o alcance das minhas postagens, para analisar o engajamento e a performance do conteúdo. |
+| **Critérios de Aceitação** | - O sistema deve fornecer métricas como visualizações, curtidas, compartilhamentos e alcance.<br> - Os dados devem ser atualizados em tempo real.   |
+| **Prioridade PO**          | Alta                                                                                                                                                |
+| **Prioridade Usuário**     | Alta                                                                                                                                                |
+| **Status**                 | Em desenvolvimento                                                                                                                                  |
+| **Rastreabilidade**        | [BT5](../../PerfilUsuario/Tecnicas/Brainstorm.md)                                                                                                   |
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></font> 
+</center>
+
+<a id="31_a_37"></a>
+
+#### Gravação com o PO e Usuário
+
 
 ## Bibliografia
 
@@ -742,8 +866,16 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
             <td>1.3</td>
             <td>Criação das histórias de usuário de 24 até 30 </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
-            <td></td>
+            <td>17/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>17/12</td>
+            <td>1.4</td>
+            <td>Criação das histórias de usuário de 31 até 37 </td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td>17/12</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
     </table>
 </div>
