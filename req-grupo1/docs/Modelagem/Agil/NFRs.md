@@ -191,7 +191,65 @@ As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
-### Confiabilidade 
+### Desempenho 
+
+As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas a Desempenho e foram feitas pelo integrante [Davi Nobre](https://github.com/Jagaima)
+
+<center><p><b>Figura 3:</b>Decomposição do softgoal Desempenho</p></center>
+<center><img src="../../../assets/images/nfrdavi.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+
+<center><p><b>Tabela 6:</b> Cartão de especificação: Processamento </p></center>
+
+| Item | Descrição |
+|:-----:|:---------:|
+| **Nr Requisito** : NFR05| **Classificação**: Desempenho | 
+| **Descrição** | O sistema deve processar buscas e carregar feeds rapidamente, garantindo fluidez mesmo com grandes volumes de dados |
+| **Justificativa** | O sistema deve oferecer uma navegação satisfatória sem grandes tempos de carregamento entre o servidor e o dispositivo. |
+| **Origem** | Stakeholder (Usuários) |
+| **Critério de Aceitação** | O sistema deve manter um tempo constante de pelo menos 3 segundos minimo por carregamento (assumindo que a conexão do usuário também seja adequada) com margem de folga pra eventualidades. |
+| **Dependências** | Requisitos relacionados navegação do usuário no sistema |
+| **Prioridade** | 1 (baseado na priorização feita anteriormente) |
+| **Conflitos** | Pode conflitar com requisitos que dependem de grande volume de dados armazenados no servidor dedicado. |
+| **História** | Criado em 16/12/2024. Última modificação em 16/12/2024. |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+
+
+
+<center><p><b>Tabela 7:</b> Cartão de especificação: Escalonamento</p></center>
+
+| Item | Descrição |
+|:-----:|:---------:|
+| **Nr Requisito** : NFR06| **Classificação**: Desempenho | 
+| **Descrição** | O sistema deve ser escalável, suportando um número crescente de usuários e postagens sem comprometer o desempenho. |
+| **Justificativa** | O sistema deve aguentar picos anormais de usuários para não afastar novos clientes em momentos de popularidade da plataforma |
+| **Origem** |Stakeholder (Usuários) |
+| **Critério de Aceitação** | O sistema deve ter um armazenameto de memória que suporte em seus servidores pelo menos o pico total de usuários (1 milhão) sem cair  |
+| **Dependências** | Este requisito depende de outros requisitos que possam ter como características detalhes físicos do ambiente do produto.  |
+| **Prioridade** | 9 |
+| **Conflitos** | Este requisito pode vir a se tornar conflitante com o citado acima por dependerem ambos de serviços de desempenho no servidor |
+| **História** | Criado em 16/12/2024. Última modificação em 16/12/2024. |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+
+
+
+<center><p><b>Tabela 8:</b> Cartão de especificação modelo</p></center>
+
+| Item | Descrição |
+|:-----:|:---------:|
+| **Nr Requisito** : NFR07| **Classificação**: Desempenho | 
+| **Descrição** | Cada ação no aplicativo deve ter um tempo de resposta inferior a 3 segundos. |
+| **Justificativa** | Com a evolução da tecnologia tempos longos de resposta dão a impressão errônea de travamento |
+| **Origem** | Stakeholder (Usuários) |
+| **Critério de Aceitação** | O sistema deve sempre operar na margem dos três segundos com exceção dos momentos em que o servidor perder qualquer margem de folga |
+| **Dependências** | Este requisitos tem depêndencia com o NFR05 |
+| **Prioridade** | 6 |
+| **Conflitos** | RPode conflitar com requisitos que dependem de grande volume de dados armazenados no servidor dedicado. |
+| **História** | Criado em 16/12/2024. Última modificação em 16/12/2024. |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 ## Bibliografia  
 
@@ -225,7 +283,7 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Criação do documento (Introdução, objetivo e metodologia) </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>15/12</td>
-            <td><a href="https://github.com/Jagaima"></a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
         <tr>
             <td>16/12</td>
@@ -233,7 +291,15 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Add Fase 1, Fase 2 e Fase 3(Usabilidade) </td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>16/12</td>
-            <td><a href="https://github.com/Jagaima"></a></td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>1.2</td>
+            <td>Adicionando partes 5,6,7 (Desempenho) </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>16/12</td>
+            <td><a href="https://github.com/"></a></td>
         </tr>
     </table>
 </div>
