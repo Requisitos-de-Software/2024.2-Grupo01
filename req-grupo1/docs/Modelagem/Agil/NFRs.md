@@ -234,22 +234,70 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
 
+### Suporte 
 
-<center><p><b>Tabela 8:</b> Cartão de especificação modelo</p></center>
+As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas a Suporte e foram feitas pela integrante Carla Clementino.
 
-| Item | Descrição |
-|:-----:|:---------:|
-| **Nr Requisito** : NFR07| **Classificação**: Desempenho | 
-| **Descrição** | Cada ação no aplicativo deve ter um tempo de resposta inferior a 3 segundos. |
-| **Justificativa** | Com a evolução da tecnologia tempos longos de resposta dão a impressão errônea de travamento |
-| **Origem** | Stakeholder (Usuários) |
-| **Critério de Aceitação** | O sistema deve sempre operar na margem dos três segundos com exceção dos momentos em que o servidor perder qualquer margem de folga |
-| **Dependências** | Este requisitos tem depêndencia com o NFR05 |
-| **Prioridade** | 6 |
-| **Conflitos** | RPode conflitar com requisitos que dependem de grande volume de dados armazenados no servidor dedicado. |
-| **História** | Criado em 16/12/2024. Última modificação em 16/12/2024. |
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
+<center><p><b>Figura 4:</b>Decomposição do softgoal Suporte</p></center>
+<center><img src="../../../assets/images/nfr-suporte.png" alt="Descrição da imagem" width="800" style="border: 1px solid"/></center>
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+
+
+<center><p><b>Tabela 8:</b> Cartão de especificação: Compatibilidade</p></center>
+
+| **Item**             | **Descrição**                                                                                          |
+|-----------------------|-------------------------------------------------------------------------------------------------------|
+| **Nr Requisito** :    | **RNF7**                                                                                            |
+| **Classificação**     | Compatibilidade                                                                                          |
+| **Descrição**         | O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela. |
+| **Justificativa**     | Garantir que o sistema proporcione uma boa experiência de navegação em qualquer dispositivo, aumentando a acessibilidade e o engajamento dos usuários. |
+| **Origem**            | Stakeholder (Usuários)                                                                               |
+| **Critério de Aceitação** | O sistema deve se ajustar automaticamente ao tamanho da tela do dispositivo (mobile, tablet e desktop) sem perda de funcionalidade ou desorganização do layout. |
+| **Dependências**      | Implementação de design responsivo e testes em diferentes tamanhos de tela.                          |
+| **Prioridade**        | 1 (baseado na priorização feita) anteriormente)                                                      |
+| **Conflitos**         | Pode haver conflitos com componentes que não suportam responsividade.                               |
+| **História**          | Criado em 16/12/2024. Última modificação em 16/12/2024.                                             |
+                                       |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+
+<center><p><b>Tabela 9:</b> Cartão de especificação: Transparência de Politicas Internas.</p></center>
+
+| **Item**             | **Descrição**                                                                                         |
+|-----------------------|------------------------------------------------------------------------------------------------------|
+| **Nr Requisito** :    | **RNF12**                                                                                           |
+| **Classificação**     | Transparência                                                                                       |
+| **Descrição**         | O sistema deve ser transparente no uso de dados, permitindo que o usuário acesse os Termos de Serviço e a Política de Privacidade em até 5 cliques. |
+| **Justificativa**     | Garantir que os usuários possam acessar facilmente informações sobre o uso de dados, aumentando a confiança na plataforma. |
+| **Origem**            | Stakeholder (Usuários)                                                                              |
+| **Critério de Aceitação** | O usuário deve ser capaz de encontrar e abrir os Termos de Serviço e a Política de Privacidade realizando no máximo 5 cliques a partir da tela inicial. |
+| **Dependências**      | Implementação de links visíveis e acessíveis nos menus ou rodapé do sistema.                        |
+| **Prioridade**        | 1 (baseado na priorização feita) anteriormente)                                                     |
+| **Conflitos**         | Pode haver desafios em organizar links e menus sem comprometer a experiência do usuário.           |
+| **História**          | Criado em 16/12/2024. Última modificação em 16/12/2024.                                            |
+
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+
+
+<center><p><b>Tabela 10:</b> Cartão de especificação: Transparência de Dados.</p></center>
+
+| **Item**                 | **Descrição**                                                                                             |
+|---------------------------|----------------------------------------------------------------------------------------------------------|
+| **Nr Requisito** :        | **RNF15**                                                                                               |
+| **Classificação**         | Transparência                                                                                           |
+| **Descrição**             | A plataforma deve garantir transparência nos algoritmos de recomendação, explicando claramente como as sugestões são feitas. |
+| **Justificativa**         | Aumentar a confiança dos usuários na plataforma ao fornecer informações claras sobre como os algoritmos de recomendação funcionam. |
+| **Origem**                | Stakeholder (Usuários)                                                                                  |
+| **Critério de Aceitação** | O sistema deve exibir uma explicação acessível e compreensível sobre o funcionamento das recomendações em uma seção específica do sistema. |
+| **Dependências**          | Implementação de documentação ou seção dedicada na interface do usuário para detalhar os algoritmos.     |
+| **Prioridade**            | 2 (baseado na priorização feita) anteriormente)                                                         |
+| **Conflitos**             | Pode haver complexidade em simplificar a explicação dos algoritmos sem expor informações proprietárias. |
+| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+
 
 ## Bibliografia  
 
@@ -298,6 +346,14 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>1.2</td>
             <td>Adicionando partes 5,6,7 (Desempenho) </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
+            <td>16/12</td>
+            <td><a href="https://github.com/"></a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>1.2</td>
+            <td>Adicionando suporte </td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>16/12</td>
             <td><a href="https://github.com/"></a></td>
         </tr>
