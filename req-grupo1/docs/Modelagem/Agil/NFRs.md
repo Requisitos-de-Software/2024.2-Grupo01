@@ -98,7 +98,7 @@ Em busca de entender e organizar os requisitos não-funcionais foi feito a taxon
 <center><p><b>Figura 2:</b> Taxonomia</p></center>
 
 <figure markdown="span">
-  ![Tipos de Softgoals](../../assets/images/taxonomia1.png){ width="800" align="center" }
+  ![Tipos de Softgoals](../../assets/images/taxonomia.png){ width="800" align="center" }
 </figure>
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
@@ -143,7 +143,7 @@ As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de 
 
 | Item | Descrição |
 |:-----:|:---------:|
-| **Nr Requisito**: NFR01| **Classificação***: Usabilidade |
+| **Nr Requisito**: NFR01| **Classificação**: Usabilidade |
 | **Descrição** | O sistema deve prevenir erros comuns dos usuários, oferecendo validação de entradas e mensagens de erro claras.|
 | **Justificativa** | Garantir que os usuários não cometam erros inesperados ao usar a plataforma, melhorando a experiência geral. |
 | **Origem** | Stakeholder(Usuários)  |
@@ -369,7 +369,7 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Adicionando partes 5,6,7 (Desempenho) </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>16/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
         <tr>
             <td>16/12</td>
@@ -377,7 +377,7 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Adicionando suporte </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>16/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

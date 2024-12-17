@@ -12,12 +12,11 @@ Nesta etapa foram entregues: cenários, léxicos, casos de uso, especificação 
 
 ### Vídeo da apresentação
 
-<center>
-<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Apresentação 3</p></font>
-
-[Vídeo](https://www.youtube.com/watch?v=e38KBms_VU0)
-
+<div align="center">
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Apresentação 1</p></font>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/e38KBms_VU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center"><b>Autor:</b> Carla Clementino</p></font>
+</div>
 
 ## Referência Bibliográfica
 > 1. <a name="1"></a>[Plano de ensino](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/52/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf)
