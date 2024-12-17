@@ -131,7 +131,7 @@ As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de 
 
 | Item | Descrição |
 |:-----:|:---------:|
-| **Nr Requisito**: NFR01| **Classificação***: Usabilidade |
+| **Nr Requisito**: NFR01| **Classificação**: Usabilidade |
 | **Descrição** | O sistema deve prevenir erros comuns dos usuários, oferecendo validação de entradas e mensagens de erro claras.|
 | **Justificativa** | Garantir que os usuários não cometam erros inesperados ao usar a plataforma, melhorando a experiência geral. |
 | **Origem** | Stakeholder(Usuários)  |
