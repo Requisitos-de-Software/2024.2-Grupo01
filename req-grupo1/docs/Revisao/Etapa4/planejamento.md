@@ -48,7 +48,25 @@ A tabela 2 se refere a inspeção geral do projeto, todos os artefatos serão ve
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
 ## Histórias de Usuário
-A tabela 3...
+
+A tabela 3 se refere as perguntas da inspeção das histórias de usuário.
+
+| **ID** | **Descrição**                                                                                              | **Avaliação** | **Referência**                                                                                   |
+|--------|----------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------|
+| x      | As Histórias de Usuário?                                                                                  | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | Os títulos das histórias de usuário são auto-explicativos?                                               | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | O “quem”, “o que” e o “por que” estão definidos na história de usuário?                                  | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | A participação do cliente e/ou persona na validação das histórias de usuário?                            | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | A história possui critérios de aceitação?                                                                | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | A participação do cliente e/ou persona na elicitação de requisitos?                                      | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | Todas as histórias de usuários podem ser testadas?                                                       | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | As histórias de usuário são adequadas para representar a experiência do usuário no Bluesky?              | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| x      | As histórias de usuário possuem um usuário?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w)               |
+| x      | As histórias de usuário possuem uma ação?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) 
+| x      | As histórias de usuário possuem um dado?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) 
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p>  
+
 
 ## Backlog
 A tabela 4...
@@ -95,6 +113,14 @@ A tabela 5 se refere as perguntas da inspeção do NFR Framework.
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
             <td>17/12</td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+        </tr>
+        <tr>
+            <td>17/12</td>
+            <td>1.1</td>
+            <td>Adiciona inspeção das histórias de usuário</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+            <td>17/12</td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
