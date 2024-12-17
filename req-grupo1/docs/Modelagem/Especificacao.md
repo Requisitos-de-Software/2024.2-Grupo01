@@ -43,11 +43,6 @@ A usabilidade trata da experiência do usuário ao interagir com o sistema. Foca
 <center>
 <font size="3"><b>Tabela 2:</b> Usabilidade </font>
 
-| ID | Descrição | Rastreabilidade |
-|:-----:|:-----:|:----:|
-| RU01 | A interface do usuário deve ser intuitiva e fácil de usar, com opções bem definidas para buscar, salvar e visualizar postagens. O design deve ser centrado no usuário e acessível a diferentes perfis de idade. | RNF5 |
-| RU02 | A interface deve ser fácil de entender para usuários frequentes de redes sociais, permitindo que se familiarizem com feeds e listas em até 15 minutos. | RNF10 |
-| RU03 | O design do aplicativo deve ter uma aparência agradável e atrativa. | RNF14 |
 
 | ID | Descrição | Rastreabilidade |
 |:-----:|:-----:|:----:|

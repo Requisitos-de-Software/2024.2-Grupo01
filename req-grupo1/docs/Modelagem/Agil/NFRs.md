@@ -92,7 +92,7 @@ Como já descrito anteriormente, os requisitos não-funcionais foram elicitados 
 Em busca de entender e organizar os requisitos não-funcionais foi feito a taxonomia, como mostra a figura 1. A taxonimia "é um esquema de classificação, que permite descrição de termos e suas relações no contexto de uma área de conhecimento" (Silva Reinaldo, 2019, p. 44). Anteriormente, foi realizada a [Espeção Suplementar](../../Modelagem/Especificacao.md) com a metodologia FURPS+, a Taxonomia foi contruída com base neste artefato. 
 
 <center><p><b>Figura 1:</b> Taxonomia</p></center>
-<center><img src="../../../assets/images/taxonomia1.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><img src="../../../assets/images/taxonomia.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 ## Fase 3: Criação de Grafos de Decomposição de Softgoals  
@@ -122,7 +122,7 @@ Após a taxonomia realizada, são realizados X Softgoals decompostos individualm
 A figura 2 mostra a decomposição do softgoal Usabilidade feito pela integrante [Renata Quadros](https://github.com/Renatinha28)
 
 <center><p><b>Figura 2:</b>Decomposição do softgoal Usabilidade</p></center>
-<center><img src="../../../assets/images/usabilidade1.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<center><img src="../../../assets/images/usabilidade.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de usabilidade e foi feito pela integrante  [Renata Quadros](https://github.com/Renatinha28).
@@ -347,7 +347,7 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Adicionando partes 5,6,7 (Desempenho) </td>
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>16/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
         <tr>
             <td>16/12</td>
@@ -355,7 +355,7 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Adicionando suporte </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>16/12</td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
 </div>

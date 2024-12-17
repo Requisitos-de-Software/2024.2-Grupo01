@@ -231,8 +231,9 @@ A tabela 1 organiza todos os épicos
             <td>1.3</td>
             <td>Adição dos itens de backlog das US de 15 a 23 </td>
             <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
-            <td></td>
-            <td></td>
+            <td>17/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
         </tr>
     </table>
 </div>
