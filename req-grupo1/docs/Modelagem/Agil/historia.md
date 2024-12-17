@@ -743,7 +743,7 @@ As próximas 9 tabelas a seguir contém as histórias de usuário criados pelo i
             <td>Criação das histórias de usuário de 24 até 30 </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td></td>
-            <td><a href="https://github.com/"></a></td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
         </tr>
     </table>
 </div>
