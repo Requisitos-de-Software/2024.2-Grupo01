@@ -53,31 +53,17 @@ Para uma abordagem completa, dividimos a metodologia em algimas fases, sendo ela
 
     -	Dependências e restrições.
 
-    -	Os cartões também ajudam a capturar os trade-offs entre alternativas e priorizações.
+    -	Os cartões ajudam a capturar os trade-offs entre alternativas e priorizações.
 
-- **Fase 4: Organização da Taxonomia de Softgoals no SIG Final**:
+- **Fase 4: SIG**:
 
-    Após a criação dos grafos de decomposição, a taxonomia é refinada e consolidada:
+    Após a criação dos grafos de decomposição, o SIG é consolidado:
 
-    -	Hierarquia organizada: Garantir que os softgoals estejam estruturados de forma clara, agrupados por prioridade e dependências.
+    -	SIG: Integrar todos os softgoals, suas contribuições e refinamentos no grafo final, criando uma visão abrangente dos RNFs para o sistema Bluesky.
 
-    -	SIG final: Integrar todos os softgoals, suas contribuições e refinamentos no grafo final, criando uma visão abrangente dos RNFs para o sistema Bluesky.
-
-- **Fase 5: Listagem de Correlações no SIG**:
-
-    Conforme descrito no NFR Framework, cada relação no SIG deve ser analisada e documentada:
-
-    -	Listar as correlações entre os softgoals, indicando as contribuições positivas e negativas.
-
-    -	Identificar conflitos que exigem resoluções e apontar onde há suporte mútuo entre RNFs.
-
-- **Fase 6: Avaliação e Validação**:
+- **Fase 5: Avaliação e Validação**:
 
     Por fim, validar o artefato construído, considerando os seguintes passos:
-
-    -	Operacionalização e priorização: Propor soluções práticas para atender os softgoals prioritários.
-
-    -	Afirmação de design: Revisar e justificar decisões com base em softgoals de afirmação que documentem os motivos das escolhas realizadas.
 
     -	Seleção entre alternativas: Comparar diferentes abordagens utilizando critérios de qualidade, custos e impacto para selecionar a melhor solução.
 
@@ -95,7 +81,7 @@ Em busca de entender e organizar os requisitos não-funcionais foi feito a taxon
 <center><img src="../../../assets/images/taxonomia.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
-## Fase 3: Criação de Grafos de Decomposição de Softgoals  
+## Fase 3: Criação de Grafos de Decomposição de Softgoals e Criação de Cartões de Especificação
 
 Após a taxonomia realizada, são realizados X Softgoals decompostos individualmente e os cartões de especificação com o objetivo de ilustrar os requisitos não-funcionais no contexto real de um sistema. A tabela 1 mostra o modelo que deve ser seguido para a construção dos cartões e foi realizado pela integrante [Renata Quadros](https://github.com/Renatinha28).
 
@@ -191,6 +177,29 @@ As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
+#### Validação Usuário
+
+O vídeo 1 contém a validação do SIG informal da Usabilidade. Foi realizado pela [Renata Quadros](https://github.com/Renatinha28) com a participação voluntária do Heder atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 18:30.
+
+<div align="center">
+    <font size="3">
+        <p style="text-align: center">
+            <b>Vídeo 1:</b> Validação Usabilidade
+        </p>
+    </font>
+    <iframe id="video1" width="560" height="315" 
+        src="https://www.youtube.com/embed/6ZAnIDab7u0" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+    <font size="3">
+        <p style="text-align: center">
+            <b>Autor:</b> Renata Quadros
+        </p>
+    </font>
+</div>
+
 ### Desempenho 
 
 As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas a Desempenho e foram feitas pelo integrante [Davi Nobre](https://github.com/Jagaima)
@@ -255,10 +264,9 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 | **Origem**            | Stakeholder (Usuários)                                                                               |
 | **Critério de Aceitação** | O sistema deve se ajustar automaticamente ao tamanho da tela do dispositivo (mobile, tablet e desktop) sem perda de funcionalidade ou desorganização do layout. |
 | **Dependências**      | Implementação de design responsivo e testes em diferentes tamanhos de tela.                          |
-| **Prioridade**        | 1 (baseado na priorização feita) anteriormente)                                                      |
+| **Prioridade**        | 1 (baseado na priorização feita anteriormente)                                                      |
 | **Conflitos**         | Pode haver conflitos com componentes que não suportam responsividade.                               |
-| **História**          | Criado em 16/12/2024. Última modificação em 16/12/2024.                                             |
-                                       |
+| **História**          | Criado em 16/12/2024. Última modificação em 16/12/2024.                                            |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
@@ -273,7 +281,7 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 | **Origem**            | Stakeholder (Usuários)                                                                              |
 | **Critério de Aceitação** | O usuário deve ser capaz de encontrar e abrir os Termos de Serviço e a Política de Privacidade realizando no máximo 5 cliques a partir da tela inicial. |
 | **Dependências**      | Implementação de links visíveis e acessíveis nos menus ou rodapé do sistema.                        |
-| **Prioridade**        | 1 (baseado na priorização feita) anteriormente)                                                     |
+| **Prioridade**        | 1 (baseado na priorização feita anteriormente)                                                     |
 | **Conflitos**         | Pode haver desafios em organizar links e menus sem comprometer a experiência do usuário.           |
 | **História**          | Criado em 16/12/2024. Última modificação em 16/12/2024.                                            |
 
@@ -292,7 +300,7 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 | **Origem**                | Stakeholder (Usuários)                                                                                  |
 | **Critério de Aceitação** | O sistema deve exibir uma explicação acessível e compreensível sobre o funcionamento das recomendações em uma seção específica do sistema. |
 | **Dependências**          | Implementação de documentação ou seção dedicada na interface do usuário para detalhar os algoritmos.     |
-| **Prioridade**            | 2 (baseado na priorização feita) anteriormente)                                                         |
+| **Prioridade**            | 2 (baseado na priorização feita anteriormente)                                                         |
 | **Conflitos**             | Pode haver complexidade em simplificar a explicação dos algoritmos sem expor informações proprietárias. |
 | **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                |
 
