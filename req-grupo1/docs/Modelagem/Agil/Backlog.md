@@ -61,33 +61,33 @@ US16: Eu, como usuário, desejo pesquisar publicações com filtros como autor d
 
 US07: Eu, como usuário, desejo favoritar comunidades para acessar rapidamente os conteúdos de maior interesse. (RF7)
 
-**ÉPICO 2.6**: Criar post e compartilha-los num feed.
+**ÉPICO 2.6**: Publicações e Interações
 
 US8:Eu, como usuário comum do app, desejo criar uma publicação para que seja vista em um feed específico (OB8 e IS6)
 
-**ÉPICO 2.7**: Deve ser possível ver as mensagens com outros usuários
+**ÉPICO 2.7**: Publicações e Interações
 
 US09: Eu, como usuário, desejo ver minhas mensagens com outro usuário para recordar um fato que foi conversado. (OB9)
 
 US22: Eu, como usuário, desejo mandar mensagens diretas a outro usuário, caso nos sigamos mutualmente para poder me comunicar de forma privada. [RF22](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS19](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)
 
-**ÉPICO 2.8**: O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados.
+**ÉPICO 2.8**: Publicações e Interações
 
 US11: Eu, como usuário, desejo receber notificações de posts relacionados ao que gosto para conhecer novas contas a seguir e ficar atualizado. (OB12, IS7 e BT3)
 
-**ÉPICO 2.9**:O usuário deve poder salvar Posts de interesse em uma seção dedicada para consulta futura
+**ÉPICO 2.9**: Publicações e Interações
 
 US12: Eu, como usuário, desejo salvar posts relacionados ao que gosto para os rever quando quiser facilmente e manter nota de postagens importantes (IS3 e IS22)
 
-**ÉPICO 2.10**: O sistema deve disponibilizar uma seção onde o usuário possa visualizar e gerenciar todas os posts salvos, com opções de ordenação por data, e/ou hashtag.
+**ÉPICO 2.10**: Publicações e Interações
 
 US13: Eu, como usuário, desejo gerênciar meus posts salvos relacionados ao que gosto para me organizar com o que ainda preciso ou não.(IS4)
 
-**ÉPICO 2.11**: O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas.
+**ÉPICO 2.11**: Publicações e Interações
 
 US14: Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono. (IS5)
 
-**ÉPICO 2.12**: O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas.
+**ÉPICO 2.12**: Publicações e Interações
 
 US14: Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono. (IS5)
 
