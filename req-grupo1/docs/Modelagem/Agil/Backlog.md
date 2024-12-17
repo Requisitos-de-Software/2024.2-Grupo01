@@ -151,6 +151,8 @@ A tabela 1 organiza todos os épicos
 |:----:|:-----:|:------------------:|:----------:|:------:|
 | T01 - Autenticação e Configurações de Usuário | Épico 1.1 | [US01](../../Modelagem/Agil/historia.md/#US01) | Alta | [OB1](../../PerfilUsuario/Tecnicas/Observacao.md), [IS1](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T01 - Autenticação e Configurações de Usuário | Épico 1.2 | [US02]() | Alta |  [OB2](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T01 - Autenticação e Configurações de Usuário\| | Épico 1.1  | [US17](../../Modelagem/Agil/historia.md/#US17) | Alta       | [IS11](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T01 - Autenticação e Configurações de Usuário | Épico 1.3 | [US10](../../Modelagem/Agil/historia.md/#US10) | Alta | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md), [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.1 | [US03](../../Modelagem/Agil/historia.md/#US03) | Média | [OB3](../../PerfilUsuario/Tecnicas/Observacao.md) |
 | T02 - Publicações e Interações | Épico 2.2 | [US04](../../Modelagem/Agil/historia.md/#US04) | Alta | [OB4](../../PerfilUsuario/Tecnicas/Observacao.md) |
 | T02 - Publicações e Interações | Épico 2.3 | [US05](../../Modelagem/Agil/historia.md/#US05) | Alta | [OB5](../../PerfilUsuario/Tecnicas/Observacao.md), [IS17](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
@@ -158,14 +160,12 @@ A tabela 1 organiza todos os épicos
 | T02 - Publicações e Interações | Épico 2.5 | [US07](../../Modelagem/Agil/historia.md/#US07) | Média | [OB7](../../PerfilUsuario/Tecnicas/Observacao.md) |
 | T02 - Publicações e Interações | Épico 2.6 | [US08](../../Modelagem/Agil/historia.md/#US08) | Alta | [OB8](../../PerfilUsuario/Tecnicas/Observacao.md), [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.7 | [US09](../../Modelagem/Agil/historia.md/#US09) | Alta | [OB9](../../PerfilUsuario/Tecnicas/Observacao.md) |
-| T01 - Autenticação e Configurações de Usuário | Épico 1.3 | [US10](../../Modelagem/Agil/historia.md/#US10) | Alta | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md), [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.8 | [US11](../../Modelagem/Agil/historia.md/#US11) | Baixa | [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md), [BT3](../../PerfilUsuario/Tecnicas/Benchmarking.md) |
 | T02 - Publicações e Interações | Épico 2.9 | [US12](../../Modelagem/Agil/historia.md/#US12) | Alta | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.10 | [US13](../../Modelagem/Agil/historia.md/#US13) | Média | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.11 | [US14](../../Modelagem/Agil/historia.md/#US14) | Média | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações                  | Épico 2.20 | [US15](../../Modelagem/Agil/historia.md/#US15) | Alta       | [IS8](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/), [IS16](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/),  [QT2](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Questionario/) |
 | T02 - Publicações e Interações                  | Épico 2.4  | [US16](../../Modelagem/Agil/historia.md/#US16) | Alta       | [IS9](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
-| T01 - Autenticação e Configurações de Usuário\| | Épico 1.1  | [US17](../../Modelagem/Agil/historia.md/#US17) | Alta       | [IS11](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
 | T02 - Publicações e Interações                  | Épico 2.21 | [US18](../../Modelagem/Agil/historia.md/#US18) | Média      | [IS13](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
 | T02 - Publicações e Interações                  | Épico 2.22 | [US19](../../Modelagem/Agil/historia.md/#US19) | Alta       | [IS14](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
 | T02 - Publicações e Interações                  | Épico 2.2  | [US20](../../Modelagem/Agil/historia.md/#US20) | Alta       | [IS15](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
