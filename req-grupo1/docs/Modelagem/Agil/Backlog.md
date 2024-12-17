@@ -23,6 +23,8 @@ T02 - Publicações e Interações
 
 US01: Eu, como usuário, desejo realizar o login no aplicativo Bluesky para acessar minha conta. (RF1)
 
+US17: Eu, como usuário, desejo fazer log-in automático em minha conta criada agilizar o início do uso do sistema em cada sessão de uso. ([RF17](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS11](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
+
 **ÉPICO 1.2**: Autenticação e Configurações de Usuário
 
 US02: Eu, como usuário, desejo recuperar minha senha para acessar o aplicativo Bluesky em caso de esquecimento. (RF2)
@@ -42,6 +44,8 @@ US03: Eu, como usuário, desejo acessar novos conteúdos rapidamente para estar 
 
 US04: Eu, como usuário, desejo realizar postagens na plataforma para compartilhar informações e ideias com outros usuários. (RF4)
 
+US20: Eu, como usuário, desejo fazer publicações contendo texto, imagens e vídeos para melhor me comunicar por meio dos posts. ([RF20](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS15](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
+
 **ÉPICO 2.3**: Publicações e Interações
 
 US05: Eu, como usuário, desejo editar minhas publicações já postadas para corrigir erros ou atualizar o conteúdo. (RF5)
@@ -50,6 +54,8 @@ US05: Eu, como usuário, desejo editar minhas publicações já postadas para co
 
 
 US06: Eu, como usuário, desejo buscar posts relacionados ao meu interesse utilizando palavras-chave, hashtags ou filtros específicos, para encontrar conteúdos relevantes. (RF6)
+
+US16: Eu, como usuário, desejo pesquisar publicações com filtros como autor do post, data de publicação ou popularidade, para melhorar minha experiência de busca. ([RF16](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS9](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
 
 **ÉPICO 2.5**: Publicações e Interações
 
@@ -62,6 +68,8 @@ US8:Eu, como usuário comum do app, desejo criar uma publicação para que seja 
 **ÉPICO 2.7**: Deve ser possível ver as mensagens com outros usuários
 
 US09: Eu, como usuário, desejo ver minhas mensagens com outro usuário para recordar um fato que foi conversado. (OB9)
+
+US22: Eu, como usuário, desejo mandar mensagens diretas a outro usuário, caso nos sigamos mutualmente para poder me comunicar de forma privada. [RF22](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS19](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)
 
 **ÉPICO 2.8**: O sistema deve notificar o usuário sobre novos posts com base nos interesses e feeds personalizados configurados.
 
@@ -113,6 +121,24 @@ US29: Eu, como usuário, desejo visualizar a quantidade de vezes em que minha pu
 
 US30: Eu, como usuário, desejo que o aplicativo me permita comunicação, entretenimento e informações atualizadas, para que eu possa me manter informado e engajado com o conteúdo.. (QT1)
 
+**ÉPICO 2.20**
+
+US15: Eu, como usuário, desejo interagir com postagens por meio de comentários, curtidas e respostas para me expressar sobre uma publicação. ([RF15](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/) [IS8](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/) e [IS16](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/) e [QT2](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Questionario/))
+
+**ÉPICO 2.21**
+
+US18: Eu, como usuário, desejo fixar uma publicação em seu perfil para dar destaque a publicação importante em meu perfil. ([RF18](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS13](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
+
+**ÉPICO 2.22**
+
+US19: Eu, como usuário, desejo tornar minha conta privada para permitir que apenas seguidores consigam interagir diretamente comigo. ([RF19](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS14](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
+
+**ÉPICO 2.23**
+US21: Eu, como usuário, desejo visualizar publicações de diferentes idiomas traduzidas para meu idioma principal dentro do aplicativo para compreender usuários que falam diferentes línguas. ([RF21](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS18](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
+
+**ÉPICO 2.24**
+US23: Eu, como usuário, desejo participar de grupos de mensagens privadas para poder me comunicar de forma privada com um grupo restrito de outros usuários. ([RF23](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS20](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
+
 <!--  -->
 
 ## Tabela com todos os épicos
@@ -137,6 +163,15 @@ A tabela 1 organiza todos os épicos
 | T02 - Publicações e Interações | Épico 2.9 | [US12](../../Modelagem/Agil/historia.md/#US12) | Alta | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.10 | [US13](../../Modelagem/Agil/historia.md/#US13) | Média | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.11 | [US14](../../Modelagem/Agil/historia.md/#US14) | Média | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações                  | Épico 2.20 | [US15](../../Modelagem/Agil/historia.md/#US15) | Alta       | [IS8](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/), [IS16](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/),  [QT2](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Questionario/) |
+| T02 - Publicações e Interações                  | Épico 2.4  | [US16](../../Modelagem/Agil/historia.md/#US16) | Alta       | [IS9](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T01 - Autenticação e Configurações de Usuário\| | Épico 1.1  | [US17](../../Modelagem/Agil/historia.md/#US17) | Alta       | [IS11](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T02 - Publicações e Interações                  | Épico 2.21 | [US18](../../Modelagem/Agil/historia.md/#US18) | Média      | [IS13](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T02 - Publicações e Interações                  | Épico 2.22 | [US19](../../Modelagem/Agil/historia.md/#US19) | Alta       | [IS14](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T02 - Publicações e Interações                  | Épico 2.2  | [US20](../../Modelagem/Agil/historia.md/#US20) | Alta       | [IS15](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T02 - Publicações e Interações                  | Épico 2.23 | [US21](../../Modelagem/Agil/historia.md/#US21) | Alta       | [IS18](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T02 - Publicações e Interações                  | Épico 2.7  | [US22](../../Modelagem/Agil/historia.md/#US22) | Média      | [IS19](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
+| T02 - Publicações e Interações                  | Épico 2.24 | [US23](../../Modelagem/Agil/historia.md/#US23) | Média      | [IS20](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/)|
 | T02 - Publicações e Interações | Épico 2.13 | [US24](../../Modelagem/Agil/historia.md/#US24) | Média | [IS21](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.14 | [US25](../../Modelagem/Agil/historia.md/#US25) | Alta | [IS23](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
 | T02 - Publicações e Interações | Épico 2.15 | [US26](../../Modelagem/Agil/historia.md/#US26) | Alta | [IS24](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
@@ -146,7 +181,7 @@ A tabela 1 organiza todos os épicos
 | T02 - Publicações e Interações | Épico 2.19 | [US30](../../Modelagem/Agil/historia.md/#US30) | Alta | [QT1](../../PerfilUsuario/Tecnicas/Qualidade.md) |
 
 
-<font size="3"><b>Autor:</b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+<font size="3"><b>Autores:</b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
 </center>
 
 ## Bibliografia
@@ -187,9 +222,17 @@ A tabela 1 organiza todos os épicos
             <td>16/12</td>
             <td>1.2</td>
             <td>Adição dos backlogs dos requisitos de 24 ate 30 </td>
-            <td><a href="https://github.com/Jagaima">Carla Clementino</a></td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>16/12</td>
             <td><a href="https://github.com//Jagaima">Davi Nobre</a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>1.3</td>
+            <td>Adição dos itens de backlog das US de 15 a 23 </td>
+            <td><a href="https://github.com/Joa0V">João Ribeiro</a></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
 </div>
