@@ -24,8 +24,8 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 |Artefato| Versão | Integrante responsável pela lista de verificação | Integrante responsável pela revisão |
 |:-----------------------: | :----: | :----------------------------------------------: | :---------------------------------: |
 |Perguntas gerais| - | Renata | Renata |
-|Histórias de Usuário| - | Carla | Eduarda |
-|Backlog| - | João | Renata |
+|Histórias de Usuário| - | Carla | Renata |
+|Backlog| - | Renata | João |
 |NFR| - | Renata | Carla |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
@@ -51,25 +51,36 @@ A tabela 2 se refere a inspeção geral do projeto, todos os artefatos serão ve
 A tabela 3...
 
 ## Backlog
-A tabela 4...
+A tabela 4 se refere as perguntas da inspeção do Backlog.
+
+    Tabela 4: Backlog
+| ID | Descrição | Avaliação | Referência  | Autor |
+|:---:|:---------------------------------------------------------------------------------------------------------:|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
+| x | Possui os backlogs? | - | [Plano de ensino](../../assets/images/back1.png) | Davi |
+| x | O backlog possui épicos e temas bem definidos e descritos? | - | [Plano de ensino](../../assets/images/back2.png) | João |
+| x | O backlog foi realizado através de histórias de usuário? | - | [Backlog do produto](../../assets/images/back3.png) | Carla |
+| x | O backlog está ordanizado em uma ordem de prioridade? | - |[Backlog do produto](../../assets/images/back4.png) | Renata |
+| x | Os itens são nomeados? | - | [Backlog do produto](../../assets/images/back5.png) | Eduarda |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
 ## NFR Framework
 A tabela 5 se refere as perguntas da inspeção do NFR Framework.
 
     Tabela 5: NFR
-| ID | Descrição | Avaliação | Referência  |
-|:---:|:---------------------------------------------------------------------------------------------------------:|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-| x | O gitPages possui o NFR Framework? | - | [Plano de ensino](../../assets/images/NFR9.png) |
-| x | Existe a definição do RNF e as fontes de evidência na literatura? | - | [Plano de ensino](../../assets/images/NFR10.png) |
-| x | Existe o cartão de especificação do RNF? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR2.png) |
-| x | Os softgoals condizem com o contexto? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) |
-| x | Softgoals representam metas bem definidas? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) |
-| x | Os impactos foram corretamente propagados? | - | [Plano de ensino](../../assets/images/NFR11.png)  |
-| x | Os softgoals e seus inter-relacionamentos são representados em um grafo SIG? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR4.png) |
-| x | Os softgoals são representados de acordo com cada tipo? NFR, Operacionalização ou Afirmação. | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR5.png) |
-| x | As decomposições são tratadas da maneira correta? NFR, Operacionalização ou Afirmação | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR6.png) |
-| x | As contribuições estão utilizadas corretamente? AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR7.png) |
-| x | É realizado um procedimento de avaliação? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR8.png) |
+| ID | Descrição | Avaliação | Referência  | Autor |
+|:---:|:---------------------------------------------------------------------------------------------------------:|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|
+| x | O gitPages possui o NFR Framework? | - | [Plano de ensino](../../assets/images/NFR9.png) |Renata |
+| x | Existe a definição do RNF e as fontes de evidência na literatura? | - | [Plano de ensino](../../assets/images/NFR10.png) |Renata |
+| x | Existe o cartão de especificação do RNF? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR2.png) | Renata |
+| x | Os softgoals condizem com o contexto? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) | Renata |
+| x | Softgoals representam metas bem definidas? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) | Renata |
+| x | Os impactos foram corretamente propagados? | - | [Plano de ensino](../../assets/images/NFR11.png)  | Renata |
+| x | Os softgoals e seus inter-relacionamentos são representados em um grafo SIG? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR4.png) | Renata |
+| x | Os softgoals são representados de acordo com cada tipo? NFR, Operacionalização ou Afirmação. | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR5.png) | Eduarda |
+| x | As decomposições são tratadas da maneira correta? NFR, Operacionalização ou Afirmação | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR6.png) | Carla |
+| x | As contribuições estão utilizadas corretamente? AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR7.png) | joão |
+| x | É realizado um procedimento de avaliação? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR8.png) | Davi |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
