@@ -96,17 +96,17 @@ Após a taxonomia realizada, são realizados X Softgoals decompostos individualm
 
 <center><p><b>Tabela 1:</b> Cartão de especificação modelo</p></center>
 
-| Item | Descrição |
-|:-----:|:---------:|
-| **Nr Requisito** (Um número sequencial)| **Classificação**: Classificação do RNF conforme hierarquia do catálogo | 
-| **Descrição** | Declaração única do significado do requisito |
-| **Justificativa** | Justificativa sobre a criação do requisito |
-| **Origem** | Origem do requisito (stakeholder, norma técnica, etc) |
-| **Critério de Aceitação** | Métrica do requisito que possa ser testada e que deve ser satisfeita |
-| **Dependências** | Requisitos relacionados a este |
-| **Prioridade** | Um número usado para decidiar a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
-| **Conflitos** | Requisitos conflitantes com este |
-| **História** | Data de criação e de modificações |
+|                  Item                   |                                                                      Descrição                                                                       |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** (Um número sequencial) |                                       **Classificação**: Classificação do RNF conforme hierarquia do catálogo                                        |
+|              **Descrição**              |                                                     Declaração única do significado do requisito                                                     |
+|            **Justificativa**            |                                                      Justificativa sobre a criação do requisito                                                      |
+|               **Origem**                |                                                Origem do requisito (stakeholder, norma técnica, etc)                                                 |
+|        **Critério de Aceitação**        |                                         Métrica do requisito que possa ser testada e que deve ser satisfeita                                         |
+|            **Dependências**             |                                                            Requisitos relacionados a este                                                            |
+|             **Prioridade**              | Um número usado para decidiar a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
+|              **Conflitos**              |                                                           Requisitos conflitantes com este                                                           |
+|              **História**               |                                                          Data de criação e de modificações                                                           |
 
 <p align="center"><b>Fonte:</b> <a href="#cartao">Adaptado de (ROBERTSON; ROBERTSON, 2012)</a></p> 
 
@@ -143,49 +143,49 @@ As tabelas 2, 3, 4 e 5 mostram o cartão suplementar de cada softgoal dentro de 
 
 <center><p><b>Tabela 3</b> Cartão de especificação: Capacidade de Aprendizado </p></center>
 
-| Item  |Descrição  |
-|:-------------------------:|:------------------------------------------------------------------------------------------------------------------:|
-| **Nr Requisito**: NFR02    | **Classificação**: Usabilidade  |
-| **Descrição** | O sistema deve permitir que novos usuários aprendam a usá-lo de forma eficiente dentro de 30 minutos de uso.        |
-| **Justificativa** | A facilidade de aprendizado reduz a frustração e acelera a adoção do sistema por novos usuários.  |
-| **Origem**  | Stakeholder (Usuários e equipe de produto)    |
-| **Critério de Aceitação**    | O tempo médio de aprendizado de um usuário deve ser inferior a 60 segundos   |
-| **Dependências**  | Nenhum    |
-| **Prioridade**            | 9 |
-| **Conflitos**             | Nenhum |
-| **História**  | Criado em 16/12/2024. Última modificação em 16/12/2024.   |
+|           Item            |                                                  Descrição                                                   |
+| :-----------------------: | :----------------------------------------------------------------------------------------------------------: |
+|  **Nr Requisito**: NFR02  |                                        **Classificação**: Usabilidade                                        |
+|       **Descrição**       | O sistema deve permitir que novos usuários aprendam a usá-lo de forma eficiente dentro de 30 minutos de uso. |
+|     **Justificativa**     |       A facilidade de aprendizado reduz a frustração e acelera a adoção do sistema por novos usuários.       |
+|        **Origem**         |                                  Stakeholder (Usuários e equipe de produto)                                  |
+| **Critério de Aceitação** |                  O tempo médio de aprendizado de um usuário deve ser inferior a 60 segundos                  |
+|     **Dependências**      |                                                    Nenhum                                                    |
+|      **Prioridade**       |                                                      9                                                       |
+|       **Conflitos**       |                                                    Nenhum                                                    |
+|       **História**        |                           Criado em 16/12/2024. Última modificação em 16/12/2024.                            |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 <center><p><b>Tabela 4</b> Cartão de especificação: Intuitivo </p></center>
 
-| Item                 | Descrição      |
-|:-------------------------:|:------------------------------------------------------------------------------------------------------------------:|
-| **Nr Requisito**: NFR03    | **Classificação**: Usabilidade   |
-| **Descrição**             | O sistema deve ser intuitivo, permitindo que usuários naveguem e encontrem funcionalidades sem necessidade de treinamento.|
-| **Justificativa**         | Facilitar a navegação sem a necessidade de suportes externos melhora a experiência do usuário e reduz o tempo de adaptação.|
-| **Origem**  | Stakeholder (Usuários)         |
-| **Critério de Aceitação**    | 85% dos usuários devem ser capazes de concluir tarefas principais sem ajuda externa após 10 minutos de uso.         |
-| **Dependências**  | Requisitos de design de interface e feedback visual claro.  |
-| **Prioridade**   | 10 |
-| **Conflitos**  | Pode entrar em conflito com requisitos de design altamente personalizado ou complexo.    |
-| **História** | Criado em 16/12/2024. Última modificação em 16/12/2024.       |
+|           Item            |                                                          Descrição                                                          |
+| :-----------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|  **Nr Requisito**: NFR03  |                                               **Classificação**: Usabilidade                                                |
+|       **Descrição**       | O sistema deve ser intuitivo, permitindo que usuários naveguem e encontrem funcionalidades sem necessidade de treinamento.  |
+|     **Justificativa**     | Facilitar a navegação sem a necessidade de suportes externos melhora a experiência do usuário e reduz o tempo de adaptação. |
+|        **Origem**         |                                                   Stakeholder (Usuários)                                                    |
+| **Critério de Aceitação** |         85% dos usuários devem ser capazes de concluir tarefas principais sem ajuda externa após 10 minutos de uso.         |
+|     **Dependências**      |                                 Requisitos de design de interface e feedback visual claro.                                  |
+|      **Prioridade**       |                                                             10                                                              |
+|       **Conflitos**       |                    Pode entrar em conflito com requisitos de design altamente personalizado ou complexo.                    |
+|       **História**        |                                   Criado em 16/12/2024. Última modificação em 16/12/2024.                                   |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
 <center><p><b>Tabela 5</b> Cartão de especificação: Adaptabilidade </p></center>
 
-| Item               | Descrição   |
-|:-------------------------:|:------------------------------------------------------------------------------------------------------------------:|
-| **Nr Requisito**: NFR04    | **Classificação**: Usabilidade      |
-| **Descrição**             | O sistema deve ser adaptável, permitindo que os usuários personalizem sua interface de acordo com suas preferências.|
-| **Justificativa**         | Oferecer flexibilidade nas configurações melhora a experiência do usuário e atende às diferentes necessidades dos usuários.|
-| **Origem**                | Stakeholder (Usuários)   |
-| **Critério de Aceitação**    | Pelo menos 70% das funcionalidades do sistema devem ser personalizáveis pelo usuário (cores, layouts, preferências).|
-| **Dependências**          | Requisitos de configuração de interface e armazenamento de preferências do usuário.                                 |
-| **Prioridade**            | 7  |
-| **Conflitos**             | Pode conflitar com requisitos que priorizam a uniformidade e simplicidade da interface para todos os usuários.     |
-| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.  |
+|           Item            |                                                          Descrição                                                          |
+| :-----------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|  **Nr Requisito**: NFR04  |                                               **Classificação**: Usabilidade                                                |
+|       **Descrição**       |    O sistema deve ser adaptável, permitindo que os usuários personalizem sua interface de acordo com suas preferências.     |
+|     **Justificativa**     | Oferecer flexibilidade nas configurações melhora a experiência do usuário e atende às diferentes necessidades dos usuários. |
+|        **Origem**         |                                                   Stakeholder (Usuários)                                                    |
+| **Critério de Aceitação** |    Pelo menos 70% das funcionalidades do sistema devem ser personalizáveis pelo usuário (cores, layouts, preferências).     |
+|     **Dependências**      |                     Requisitos de configuração de interface e armazenamento de preferências do usuário.                     |
+|      **Prioridade**       |                                                              7                                                              |
+|       **Conflitos**       |       Pode conflitar com requisitos que priorizam a uniformidade e simplicidade da interface para todos os usuários.        |
+|       **História**        |                                   Criado em 16/12/2024. Última modificação em 16/12/2024.                                   |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -227,17 +227,17 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 
 <center><p><b>Tabela 6:</b> Cartão de especificação: Processamento </p></center>
 
-| Item | Descrição |
-|:-----:|:---------:|
-| **Nr Requisito** : NFR05| **Classificação**: Desempenho | 
-| **Descrição** | O sistema deve processar buscas e carregar feeds rapidamente, garantindo fluidez mesmo com grandes volumes de dados |
-| **Justificativa** | O sistema deve oferecer uma navegação satisfatória sem grandes tempos de carregamento entre o servidor e o dispositivo. |
-| **Origem** | Stakeholder (Usuários) |
+|           Item            |                                                                                          Descrição                                                                                          |
+| :-----------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** : NFR05  |                                                                                **Classificação**: Desempenho                                                                                |
+|       **Descrição**       |                                     O sistema deve processar buscas e carregar feeds rapidamente, garantindo fluidez mesmo com grandes volumes de dados                                     |
+|     **Justificativa**     |                                   O sistema deve oferecer uma navegação satisfatória sem grandes tempos de carregamento entre o servidor e o dispositivo.                                   |
+|        **Origem**         |                                                                                   Stakeholder (Usuários)                                                                                    |
 | **Critério de Aceitação** | O sistema deve manter um tempo constante de pelo menos 3 segundos minimo por carregamento (assumindo que a conexão do usuário também seja adequada) com margem de folga pra eventualidades. |
-| **Dependências** | Requisitos relacionados navegação do usuário no sistema |
-| **Prioridade** | 1 (baseado na priorização feita anteriormente) |
-| **Conflitos** | Pode conflitar com requisitos que dependem de grande volume de dados armazenados no servidor dedicado. |
-| **História** | Criado em 16/12/2024. Última modificação em 16/12/2024. |
+|     **Dependências**      |                                                                   Requisitos relacionados navegação do usuário no sistema                                                                   |
+|      **Prioridade**       |                                                                       1 (baseado na priorização feita anteriormente)                                                                        |
+|       **Conflitos**       |                                           Pode conflitar com requisitos que dependem de grande volume de dados armazenados no servidor dedicado.                                            |
+|       **História**        |                                                                   Criado em 16/12/2024. Última modificação em 16/12/2024.                                                                   |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
@@ -245,17 +245,17 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 
 <center><p><b>Tabela 7:</b> Cartão de especificação: Escalonamento</p></center>
 
-| Item | Descrição |
-|:-----:|:---------:|
-| **Nr Requisito** : NFR06| **Classificação**: Desempenho | 
-| **Descrição** | O sistema deve ser escalável, suportando um número crescente de usuários e postagens sem comprometer o desempenho. |
-| **Justificativa** | O sistema deve aguentar picos anormais de usuários para não afastar novos clientes em momentos de popularidade da plataforma |
-| **Origem** |Stakeholder (Usuários) |
-| **Critério de Aceitação** | O sistema deve ter um armazenameto de memória que suporte em seus servidores pelo menos o pico total de usuários (1 milhão) sem cair  |
-| **Dependências** | Este requisito depende de outros requisitos que possam ter como características detalhes físicos do ambiente do produto.  |
-| **Prioridade** | 9 |
-| **Conflitos** | Este requisito pode vir a se tornar conflitante com o citado acima por dependerem ambos de serviços de desempenho no servidor |
-| **História** | Criado em 16/12/2024. Última modificação em 16/12/2024. |
+|           Item            |                                                              Descrição                                                               |
+| :-----------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** : NFR06  |                                                    **Classificação**: Desempenho                                                     |
+|       **Descrição**       |          O sistema deve ser escalável, suportando um número crescente de usuários e postagens sem comprometer o desempenho.          |
+|     **Justificativa**     |     O sistema deve aguentar picos anormais de usuários para não afastar novos clientes em momentos de popularidade da plataforma     |
+|        **Origem**         |                                                        Stakeholder (Usuários)                                                        |
+| **Critério de Aceitação** | O sistema deve ter um armazenameto de memória que suporte em seus servidores pelo menos o pico total de usuários (1 milhão) sem cair |
+|     **Dependências**      |       Este requisito depende de outros requisitos que possam ter como características detalhes físicos do ambiente do produto.       |
+|      **Prioridade**       |                                                                  9                                                                   |
+|       **Conflitos**       |    Este requisito pode vir a se tornar conflitante com o citado acima por dependerem ambos de serviços de desempenho no servidor     |
+|       **História**        |                                       Criado em 16/12/2024. Última modificação em 16/12/2024.                                        |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></p> 
 
@@ -277,13 +277,13 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 
 <center><p><b>Tabela 8:</b> Cartão de especificação: Compatibilidade</p></center>
 
-| **Item**             | **Descrição**                                                                                          |
-|-----------------------|-------------------------------------------------------------------------------------------------------|
-| **Nr Requisito** :    | **RNF7**                                                                                            |
-| **Classificação**     | Compatibilidade                                                                                          |
-| **Descrição**         | O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela. |
-| **Justificativa**     | Garantir que o sistema proporcione uma boa experiência de navegação em qualquer dispositivo, aumentando a acessibilidade e o engajamento dos usuários. |
-| **Origem**            | Stakeholder (Usuários)                                                                               |
+| **Item**                  | **Descrição**                                                                                                                                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito** :        | **RNF7**                                                                                                                                                        |
+| **Classificação**         | Compatibilidade                                                                                                                                                 |
+| **Descrição**             | O sistema deve ser compatível com dispositivos móveis modernos, oferecendo uma interface responsiva e acessível em diferentes tamanhos de tela.                 |
+| **Justificativa**         | Garantir que o sistema proporcione uma boa experiência de navegação em qualquer dispositivo, aumentando a acessibilidade e o engajamento dos usuários.          |
+| **Origem**                | Stakeholder (Usuários)                                                                                                                                          |
 | **Critério de Aceitação** | O sistema deve se ajustar automaticamente ao tamanho da tela do dispositivo (mobile, tablet e desktop) sem perda de funcionalidade ou desorganização do layout. |
 | **Dependências**      | Implementação de design responsivo e testes em diferentes tamanhos de tela.                          |
 | **Prioridade**        | 1 (baseado na priorização feita anteriormente)                                                      |
@@ -295,13 +295,13 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 
 <center><p><b>Tabela 9:</b> Cartão de especificação: Transparência de Politicas Internas.</p></center>
 
-| **Item**             | **Descrição**                                                                                         |
-|-----------------------|------------------------------------------------------------------------------------------------------|
-| **Nr Requisito** :    | **RNF12**                                                                                           |
-| **Classificação**     | Transparência                                                                                       |
-| **Descrição**         | O sistema deve ser transparente no uso de dados, permitindo que o usuário acesse os Termos de Serviço e a Política de Privacidade em até 5 cliques. |
-| **Justificativa**     | Garantir que os usuários possam acessar facilmente informações sobre o uso de dados, aumentando a confiança na plataforma. |
-| **Origem**            | Stakeholder (Usuários)                                                                              |
+| **Item**                  | **Descrição**                                                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito** :        | **RNF12**                                                                                                                                               |
+| **Classificação**         | Transparência                                                                                                                                           |
+| **Descrição**             | O sistema deve ser transparente no uso de dados, permitindo que o usuário acesse os Termos de Serviço e a Política de Privacidade em até 5 cliques.     |
+| **Justificativa**         | Garantir que os usuários possam acessar facilmente informações sobre o uso de dados, aumentando a confiança na plataforma.                              |
+| **Origem**                | Stakeholder (Usuários)                                                                                                                                  |
 | **Critério de Aceitação** | O usuário deve ser capaz de encontrar e abrir os Termos de Serviço e a Política de Privacidade realizando no máximo 5 cliques a partir da tela inicial. |
 | **Dependências**      | Implementação de links visíveis e acessíveis nos menus ou rodapé do sistema.                        |
 | **Prioridade**        | 1 (baseado na priorização feita anteriormente)                                                     |
@@ -314,21 +314,98 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 
 <center><p><b>Tabela 10:</b> Cartão de especificação: Transparência de Dados.</p></center>
 
-| **Item**                 | **Descrição**                                                                                             |
-|---------------------------|----------------------------------------------------------------------------------------------------------|
-| **Nr Requisito** :        | **RNF15**                                                                                               |
-| **Classificação**         | Transparência                                                                                           |
-| **Descrição**             | A plataforma deve garantir transparência nos algoritmos de recomendação, explicando claramente como as sugestões são feitas. |
-| **Justificativa**         | Aumentar a confiança dos usuários na plataforma ao fornecer informações claras sobre como os algoritmos de recomendação funcionam. |
-| **Origem**                | Stakeholder (Usuários)                                                                                  |
+| **Item**                  | **Descrição**                                                                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Nr Requisito** :        | **RNF15**                                                                                                                                  |
+| **Classificação**         | Transparência                                                                                                                              |
+| **Descrição**             | A plataforma deve garantir transparência nos algoritmos de recomendação, explicando claramente como as sugestões são feitas.               |
+| **Justificativa**         | Aumentar a confiança dos usuários na plataforma ao fornecer informações claras sobre como os algoritmos de recomendação funcionam.         |
+| **Origem**                | Stakeholder (Usuários)                                                                                                                     |
 | **Critério de Aceitação** | O sistema deve exibir uma explicação acessível e compreensível sobre o funcionamento das recomendações em uma seção específica do sistema. |
-| **Dependências**          | Implementação de documentação ou seção dedicada na interface do usuário para detalhar os algoritmos.     |
-| **Prioridade**            | 2 (baseado na priorização feita) anteriormente)                                                         |
-| **Conflitos**             | Pode haver complexidade em simplificar a explicação dos algoritmos sem expor informações proprietárias. |
-| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                |
+| **Dependências**          | Implementação de documentação ou seção dedicada na interface do usuário para detalhar os algoritmos.                                       |
+| **Prioridade**            | 2 (baseado na priorização feita) anteriormente)                                                                                            |
+| **Conflitos**             | Pode haver complexidade em simplificar a explicação dos algoritmos sem expor informações proprietárias.                                    |
+| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                                                    |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
 
+### Confiabilidade 
+
+A **Confiabilidade** abrange a proteção dos dados, segurança das interações e a garantia de alta disponibilidade do sistema. O objetivo é assegurar que o sistema funcione continuamente, protegendo informações sensíveis e criando um ambiente seguro e estável para os usuários.  
+
+A figura 5 mostra a decomposição do softgoal Confiabilidade feito pela integrante [Eduarda Tavares](https://github.com/erteduarda)
+
+<center><p><b>Figura 2:</b>Decomposição do softgoal Usabilidade</p></center>
+<center><img src="../../../assets/images/Confiabilidade.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+
+<center><p><b>Tabela 11: </b>Cartão de especificação - Proteção de Dados Sensíveis</p></center>
+
+| **Item**                  | **Descrição**                                                                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito**          | **RC01**                                                                                                                                                                        |
+| **Classificação**         | Confiabilidade                                                                                                                                                                  |
+| **Descrição**             | Todos os dados sensíveis devem ser protegidos por criptografia, com autenticação segura e proteção contra ataques como SQL Injection e XSS.                                     |
+| **Justificativa**         | Garantir que informações sensíveis não sejam comprometidas e proteger os usuários contra ataques maliciosos.                                                                    |
+| **Origem**                | Stakeholder (Equipe de Segurança e Usuários)                                                                                                                                    |
+| **Critério de Aceitação** | Os dados sensíveis devem ser criptografados em repouso e em trânsito com algoritmos como AES-256.<br> O sistema deve prevenir ataques SQL Injection e XSS em todas as entradas. |
+| **Dependências**          | Implementação de protocolos de segurança, como HTTPS e autenticação baseada em token.                                                                                           |
+| **Prioridade**            | 10                                                                                                                                                                              |
+| **Conflitos**             | Pode impactar o desempenho em caso de grandes volumes de dados.                                                                                                                 |
+| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                                                                                         |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+
+<center><p><b>Tabela 12: </b>Cartão de especificação - Alta Disponibilidade</p></center>
+
+| **Item**                  | **Descrição**                                                                                                           |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito**          | **RC02**                                                                                                                |
+| **Classificação**         | Confiabilidade                                                                                                          |
+| **Descrição**             | O sistema deve ter alta disponibilidade, operando continuamente com redundância de servidores para evitar interrupções. |
+| **Justificativa**         | Garantir a continuidade do serviço, minimizando o tempo de inatividade e aumentando a confiança do usuário.             |
+| **Origem**                | Stakeholder (Equipe Técnica e Usuários)                                                                                 |
+| **Critério de Aceitação** | O sistema deve ter uma disponibilidade de 99,9%, com mecanismos de failover e servidores redundantes.                   |
+| **Dependências**          | Implementação de balanceamento de carga e monitoramento de servidores.                                                  |
+| **Prioridade**            | 9                                                                                                                       |
+| **Conflitos**             | Pode aumentar os custos de infraestrutura devido à necessidade de redundância.                                          |
+| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                                 |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+
+<center><p><b>Tabela 13: </b>Cartão de especificação - Proteção contra Conteúdos Nocivos</p></center>
+
+| **Item**                  | **Descrição**                                                                                               |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito**          | **RC03**                                                                                                    |
+| **Classificação**         | Confiabilidade                                                                                              |
+| **Descrição**             | O sistema deve proteger os usuários de conteúdos nocivos, promovendo um ambiente saudável.                  |
+| **Justificativa**         | Manter um ambiente seguro e livre de conteúdos prejudiciais é essencial para a experiência do usuário.      |
+| **Origem**                | Stakeholder (Usuários e Equipe de Moderação)                                                                |
+| **Critério de Aceitação** | Implementação de filtros de moderação automática e denúncias manuais para remoção de conteúdos inadequados. |
+| **Dependências**          | Algoritmos de moderação e equipe de monitoramento ativa.                                                    |
+| **Prioridade**            | 8                                                                                                           |
+| **Conflitos**             | Pode impactar a liberdade de expressão se não for corretamente implementado.                                |
+| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                     |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+
+<center><p><b>Tabela 14: </b>Cartão de especificação - Conformidade com a LGPD</p></center>
+
+| **Item**                  | **Descrição**                                                                                                        |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Nr Requisito**          | **RC04**                                                                                                             |
+| **Classificação**         | Confiabilidade                                                                                                       |
+| **Descrição**             | O sistema deve proteger os dados dos usuários de acordo com a LGPD (Lei Geral de Proteção de Dados).                 |
+| **Justificativa**         | Garantir a conformidade legal e a confiança dos usuários no tratamento de seus dados pessoais.                       |
+| **Origem**                | Regulamentação Legal (LGPD) e Stakeholder (Equipe de Compliance)                                                     |
+| **Critério de Aceitação** | Os dados dos usuários devem ser coletados e processados com consentimento explícito, seguindo os princípios da LGPD. |
+| **Dependências**          | Implementação de políticas de privacidade e controles de acesso aos dados.                                           |
+| **Prioridade**            | 10                                                                                                                   |
+| **Conflitos**             | Pode exigir ajustes nos processos existentes e no armazenamento de dados.                                            |
+| **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                              |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
 ## Bibliografia  
 
@@ -386,6 +463,14 @@ requirements right. Addison-wesley: [s.n.], 2012.
             <td>Adicionando suporte </td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
             <td>16/12</td>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>1.3</td>
+            <td>Adicionando confiabilidade </td>
+            <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td>17/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         </tr>
     </table>
