@@ -17,6 +17,8 @@ T02 - Publicações e Interações
 
 ## Épicos e Histórias de Usuário
 
+<!-- AUTENTICACAO E CONFIGURACOES DE USUARIO -->
+
 **ÉPICO 1.1**: Autenticação e Configurações de Usuário
 
 US01: Eu, como usuário, desejo realizar o login no aplicativo Bluesky para acessar minha conta. (RF1)
@@ -30,7 +32,7 @@ US02: Eu, como usuário, desejo recuperar minha senha para acessar o aplicativo 
 US10: Eu, como usuário, desejo editar meu perfil para mudar a aparência da minha página principal(OB10, IS12).
 
 
-
+<!-- PUBLICACOES E INTERACOES  -->
 
 **ÉPICO 2.1**: Publicações e Interações
 
@@ -77,6 +79,41 @@ US13: Eu, como usuário, desejo gerênciar meus posts salvos relacionados ao que
 
 US14: Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono. (IS5)
 
+**ÉPICO 2.12**: O sistema deve permitir que o usuário crie ou use feeds (micro fóruns de posts) de terceiros personalizados com base em critérios como tipo de post, usuários ou hashtags relacionadas.
+
+US14: Eu, como usuário, desejo participar ou criar um feed para ter um espaço sobre um tipo de conteúdo que me relaciono. (IS5)
+
+<!-- Carla -->
+
+**ÉPICO 2.13**: Publicações e Interações
+
+US24: Eu, como usuário, desejo enviar vídeos e áudios em mensagens privadas para compartilhar conteúdos de forma mais completa e interativa. (IS21)
+  
+**ÉPICO 2.14**: Publicações e Interações
+
+US25: Eu, como usuário, desejo criar, modificar e excluir minhas listas de perfis de interesse para organizar melhor minhas conexões e interações. (IS23)
+
+**ÉPICO 2.15**: Publicações e Interações
+
+US26: Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de perfis de interesse para ter ou deixar de ter acesso às publicações desses perfis por meio de uma aba. (IS24)
+
+**ÉPICO 2.16**: Publicações e Interações
+
+US27: Eu, como usuário, desejo criar, modificar e excluir minhas listas de moderação para gerenciar melhor os perfis e conteúdos que preciso monitorar. (IS25)
+
+**ÉPICO 2.17**: Publicações e Interações
+
+US28: Eu, como usuário, desejo inscrever-me ou deixar de ser inscrito em listas de moderação para permitir ou não a interação com os perfis contidos na lista. (IS26)
+
+**ÉPICO 2.18**: Publicações e Interações
+
+US29: Eu, como usuário, desejo visualizar a quantidade de vezes em que minha publicação foi visualizada para entender o engajamento com o meu conteúdo. (IS27)
+
+**ÉPICO 2.19**: Publicações e Interações   
+
+US30: Eu, como usuário, desejo que o aplicativo me permita comunicação, entretenimento e informações atualizadas, para que eu possa me manter informado e engajado com o conteúdo.. (QT1)
+
+<!--  -->
 
 ## Tabela com todos os épicos
 A tabela 1 organiza todos os épicos 
@@ -84,24 +121,32 @@ A tabela 1 organiza todos os épicos
 <center>
 <font size="3"><b>Tabela 1:</b> Backlog </font>
 
-| Tema | Épico | História de Usuário | Prioridade | Rastreabilidade | Autor | Validação |
-|:----:|:-----:|:------------------:|:----------:|:------:|:-------:|:--------:|
-| T01 - Autenticação e Configurações de Usuário | Épico 1.1 | [US01](../../Modelagem/Agil/historia.md/#US01) | Alta | [OB1](../../PerfilUsuario/Tecnicas/Observacao.md), [IS1](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../../PerfilUsuario/Tecnicas/Introspeccao.md) | [Renata Quadros](https://github.com/Renatinha28)| [Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T01 - Autenticação e Configurações de Usuário | Épico 1.2 | [US02]() | Alta |  [OB2](../../PerfilUsuario/Tecnicas/Observacao.md) | [Renata Quadros](https://github.com/Renatinha28)|[Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T01 - Autenticação e Configurações de Usuário | Épico 1.3 | [US10](../../Modelagem/Agil/historia.md/#US10) | Alta | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md), [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) | [Davi Nobre](https://github.com/Jagaima) | - |
-| T02 - Publicações e Interações | Épico 2.1 | [US03](../../Modelagem/Agil/historia.md/#US03) | Média | [OB3](../../PerfilUsuario/Tecnicas/Observacao.md) |[Renata Quadros](https://github.com/Renatinha28)|[Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T02 - Publicações e Interações | Épico 2.2 | [US04](../../Modelagem/Agil/historia.md/#US04) | Alta | [OB4](../../PerfilUsuario/Tecnicas/Observacao.md) |[Renata Quadros](https://github.com/Renatinha28)|[Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T02 - Publicações e Interações | Épico 2.3 | [US05](../../Modelagem/Agil/historia.md/#US05) | Alta | [OB5](../../PerfilUsuario/Tecnicas/Observacao.md), [IS17](../../PerfilUsuario/Tecnicas/Introspeccao.md) |[Renata Quadros](https://github.com/Renatinha28)|[Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T02 - Publicações e Interações | Épico 2.4 | [US06](../../Modelagem/Agil/historia.md/#US06) | Média | [OB6](../../PerfilUsuario/Tecnicas/Observacao.md), [IS2](../../PerfilUsuario/Tecnicas/Introspeccao.md) | [Renata Quadros](https://github.com/Renatinha28)|[Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T02 - Publicações e Interações | Épico 2.5 | [US07](../../Modelagem/Agil/historia.md/#US07) | Média | [OB7](../../PerfilUsuario/Tecnicas/Observacao.md) |[Renata Quadros](https://github.com/Renatinha28)| [Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T02 - Publicações e Interações | Épico 2.6 | [US08](../../Modelagem/Agil/historia.md/#US08) | Alta | [OB8](../../PerfilUsuario/Tecnicas/Observacao.md), [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md) | [Renata Quadros](https://github.com/Renatinha28)|[Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T02 - Publicações e Interações | Épico 2.7 | [US09](../../Modelagem/Agil/historia.md/#US09) | Alta | [OB9](../../PerfilUsuario/Tecnicas/Observacao.md) |[Renata Quadros](https://github.com/Renatinha28)| [Link da validação com usuário](../../Modelagem/Agil/historia.md/#1_a_7) |
-| T02 - Publicações e Interações | Épico 2.8 | [US11](../../Modelagem/Agil/historia.md/#US11) | Baixa | [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md), [BT3](../../PerfilUsuario/Tecnicas/Benchmarking.md) |  [Davi Nobre](https://github.com/Jagaima) | - |
-| T02 - Publicações e Interações | Épico 2.9 | [US12](../../Modelagem/Agil/historia.md/#US12) | Alta | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |  [Davi Nobre](https://github.com/Jagaima) | - |
-| T02 - Publicações e Interações | Épico 2.10 | [US13](../../Modelagem/Agil/historia.md/#US13) | Alta | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md) |  [Davi Nobre](https://github.com/Jagaima) | - |
-| T02 - Publicações e Interações | Épico 2.11 | [US14](../../Modelagem/Agil/historia.md/#US14) | Alta | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md) |  [Davi Nobre](https://github.com/Jagaima) | - |
+| Tema | Épico | História de Usuário | Prioridade | Rastreabilidade |
+|:----:|:-----:|:------------------:|:----------:|:------:|
+| T01 - Autenticação e Configurações de Usuário | Épico 1.1 | [US01](../../Modelagem/Agil/historia.md/#US01) | Alta | [OB1](../../PerfilUsuario/Tecnicas/Observacao.md), [IS1](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS10](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T01 - Autenticação e Configurações de Usuário | Épico 1.2 | [US02]() | Alta |  [OB2](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T02 - Publicações e Interações | Épico 2.1 | [US03](../../Modelagem/Agil/historia.md/#US03) | Média | [OB3](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T02 - Publicações e Interações | Épico 2.2 | [US04](../../Modelagem/Agil/historia.md/#US04) | Alta | [OB4](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T02 - Publicações e Interações | Épico 2.3 | [US05](../../Modelagem/Agil/historia.md/#US05) | Alta | [OB5](../../PerfilUsuario/Tecnicas/Observacao.md), [IS17](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.4 | [US06](../../Modelagem/Agil/historia.md/#US06) | Média | [OB6](../../PerfilUsuario/Tecnicas/Observacao.md), [IS2](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.5 | [US07](../../Modelagem/Agil/historia.md/#US07) | Média | [OB7](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T02 - Publicações e Interações | Épico 2.6 | [US08](../../Modelagem/Agil/historia.md/#US08) | Alta | [OB8](../../PerfilUsuario/Tecnicas/Observacao.md), [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.7 | [US09](../../Modelagem/Agil/historia.md/#US09) | Alta | [OB9](../../PerfilUsuario/Tecnicas/Observacao.md) |
+| T01 - Autenticação e Configurações de Usuário | Épico 1.3 | [US10](../../Modelagem/Agil/historia.md/#US10) | Alta | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md), [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.8 | [US11](../../Modelagem/Agil/historia.md/#US11) | Baixa | [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md), [BT3](../../PerfilUsuario/Tecnicas/Benchmarking.md) |
+| T02 - Publicações e Interações | Épico 2.9 | [US12](../../Modelagem/Agil/historia.md/#US12) | Alta | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md), [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.10 | [US13](../../Modelagem/Agil/historia.md/#US13) | Média | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.11 | [US14](../../Modelagem/Agil/historia.md/#US14) | Média | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.13 | [US24](../../Modelagem/Agil/historia.md/#US24) | Média | [IS21](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.14 | [US25](../../Modelagem/Agil/historia.md/#US25) | Alta | [IS23](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.15 | [US26](../../Modelagem/Agil/historia.md/#US26) | Alta | [IS24](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.16 | [US27](../../Modelagem/Agil/historia.md/#US27) | Média | [IS25](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.17 | [US28](../../Modelagem/Agil/historia.md/#US28) | Alta | [IS26](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.18 | [US29](../../Modelagem/Agil/historia.md/#US29) | Baixa | [IS27](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+| T02 - Publicações e Interações | Épico 2.19 | [US30](../../Modelagem/Agil/historia.md/#US30) | Alta | [QT1](../../PerfilUsuario/Tecnicas/Qualidade.md) |
 
-<font size="3"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></font> 
+
+<font size="3"><b>Autor:</b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
 </center>
 
 ## Bibliografia
@@ -137,6 +182,14 @@ A tabela 1 organiza todos os épicos
             <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>15/12</td>
             <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        </tr>
+        <tr>
+            <td>16/12</td>
+            <td>1.2</td>
+            <td>Adição dos backlogs dos requisitos de 24 ate 30 </td>
+            <td><a href="https://github.com/Jagaima">Carla Clementino</a></td>
+            <td>16/12</td>
+            <td><a href="https://github.com//Jagaima">Davi Nobre</a></td>
         </tr>
     </table>
 </div>
