@@ -262,9 +262,9 @@ As próximas tabelas a seguir, 11, 12, 13, 14, 15, 16 e 17 contem as histórias 
 | Descrição | Eu, como usuário comum do app, desejo criar uma publicação para que seja vista em um feed específico |
 | Critérios de Aceitação | - O sistema deve permitir escolher o feed para postar de acordo com a vontade de seu criador original ("#" ou palavras passe) <br> - O usuário pode ter um post em multiplos feeds <br> ... |
 | Prioridade Usuário | Média |
-| Status | Se a história foi Validada ou não pelo usuário |
+| Status | Validada |
 | Rastreabilidade | [OB8](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS6](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
-
+|  Validação      | [1:41](https://youtu.be/2_AKIl8GcdQ?si=hlpLgvfOaJDqAsDT&t=101)  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -284,6 +284,7 @@ As próximas tabelas a seguir, 11, 12, 13, 14, 15, 16 e 17 contem as histórias 
 | Prioridade Usuário | Alta |
 | Status | Se a história foi Validada ou não pelo usuário |
 | Rastreabilidade | [OB9](../../PerfilUsuario/Tecnicas/Observacao.md) |
+|  Validação      | [2:10](https://youtu.be/2_AKIl8GcdQ?si=62tdeWWU87D5KKXb&t=130)  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -303,6 +304,7 @@ As próximas tabelas a seguir, 11, 12, 13, 14, 15, 16 e 17 contem as histórias 
 | Prioridade Usuário | Alta |
 | Status | Se a história foi Validada ou não pelo usuário |
 | Rastreabilidade | [OB10](../../PerfilUsuario/Tecnicas/Observacao.md) e [IS12](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|  Validação      | [2:41](https://youtu.be/2_AKIl8GcdQ?si=62ye4sFFi57npZy6&t=161)  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -323,6 +325,7 @@ As próximas tabelas a seguir, 11, 12, 13, 14, 15, 16 e 17 contem as histórias 
 | Prioridade Usuário | Baixa |
 | Status | Se a história foi Validada ou não pelo usuário |
 | Rastreabilidade | [OB12](../../PerfilUsuario/Tecnicas/Observacao.md), [IS7](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [BT3](../../PerfilUsuario/Tecnicas/Brainstorm.md) |
+|  Validação      | [3:23](https://youtu.be/2_AKIl8GcdQ?si=EG8MPkz6ZTQRi9Vc&t=203)  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -341,6 +344,7 @@ As próximas tabelas a seguir, 11, 12, 13, 14, 15, 16 e 17 contem as histórias 
 | Prioridade Usuário | Alta |
 | Status | Se a história foi Validada ou não pelo usuário |
 | Rastreabilidade | [IS3](../../PerfilUsuario/Tecnicas/Introspeccao.md) e [IS22](../../PerfilUsuario/Tecnicas/Introspeccao.md) |
+|  Validação      | [4:14](https://youtu.be/2_AKIl8GcdQ?si=baiyMHfgmjRFUjP-&t=254)  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -359,6 +363,7 @@ As próximas tabelas a seguir, 11, 12, 13, 14, 15, 16 e 17 contem as histórias 
 | Prioridade Usuário | Alta |
 | Status | Se a história foi Validada ou não pelo usuário |
 | Rastreabilidade | [IS4](../../PerfilUsuario/Tecnicas/Introspeccao.md)|
+|  Validação      | [4:56](https://youtu.be/2_AKIl8GcdQ?si=h4G44Mq3CcVs_ASE&t=296)  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
@@ -377,9 +382,39 @@ As próximas tabelas a seguir, 11, 12, 13, 14, 15, 16 e 17 contem as histórias 
 | Prioridade Usuário | Alta |
 | Status | Se a história foi Validada ou não pelo usuário |
 | Rastreabilidade | [IS5](../../PerfilUsuario/Tecnicas/Introspeccao.md)|
+|  Validação      | [5:44](https://youtu.be/2_AKIl8GcdQ?si=X7UGLBLDgF1_t7y7&t=344)  |
 
 <font size="3"><b>Autor:</b> <a href="https://github.com/Jagaima">Davi Nobre</a></font> 
 </center>
+
+
+
+### Validação com Usuário
+
+
+<a id="8_a_14"></a>
+
+O vídeo 2 contém a verificação das histórias de usuário e backlog do 8 ao 14. Foi realizado por [Davi Nobre]() com a participação voluntária da Inara atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 17:00.
+
+<div align="center">
+    <font size="3">
+        <p style="text-align: center">
+            <b>Vídeo 2:</b> Validação histórias de usuário e backlog 8 a 14
+        </p>
+    </font>
+    <iframe id="video1" width="560" height="315" 
+        src="https://youtu.be/2_AKIl8GcdQ?si=i4vmU_AUrgtgFNzI" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
+    <font size="3">
+        <p style="text-align: center">
+            <b>Autor:</b> Davi Nobre
+        </p>
+    </font>
+</div>
+
 
 ### Histórias de Usuário requisitos elicitados 15 a 23.
 
@@ -891,6 +926,14 @@ As tabelas 33 até 39 descrevem as histórias de usuário realizadas pela integr
             <td>1.4</td>
             <td>Criação das histórias de usuário de 31 até 37 </td>
             <td><a href="https://github.com/erteduarda">Eduarda Tavares</a></td>
+            <td>17/12</td>
+            <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
+        </tr>
+        <tr>
+            <td>17/12</td>
+            <td>1.5</td>
+            <td>Adição dos vídeos de validação </td>
+            <td><a href="https://github.com/Jagaima">Davi Nobre</a></td>
             <td>17/12</td>
             <td><a href="https://github.com/ccarlaa">Carla Clementino</a></td>
         </tr>
