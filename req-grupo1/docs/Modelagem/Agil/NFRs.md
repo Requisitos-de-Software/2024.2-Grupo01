@@ -265,7 +265,7 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas a Suporte e foram feitas pela integrante Carla Clementino.
 
 
-<center><p><b>Figura 4:</b>Decomposição do softgoal Suporte</p></center>
+<center><p><b>Figura 5:</b>Decomposição do softgoal Suporte</p></center>
 
 <figure markdown="span">
   ![NFR Carla](../../assets/images/nfr-suporte.png){ width="1100" align="center" }
@@ -349,7 +349,7 @@ A **Confiabilidade** abrange a proteção dos dados, segurança das interações
 
 A figura 5 mostra a decomposição do softgoal Confiabilidade feito pela integrante [Eduarda Tavares](https://github.com/erteduarda)
 
-<center><p><b>Figura 2:</b>Decomposição do softgoal Usabilidade</p></center>
+<center><p><b>Figura 6:</b>Decomposição do softgoal Usabilidade</p></center>
 <center><img src="../../../assets/images/Confiabilidade.png" alt="Descrição da imagem" width="600" style="border: 1px solid"/></center>
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
 
@@ -366,6 +366,10 @@ A figura 5 mostra a decomposição do softgoal Confiabilidade feito pela integra
 | **Critério de Aceitação** | Os dados sensíveis devem ser criptografados em repouso e em trânsito com algoritmos como AES-256.<br> O sistema deve prevenir ataques SQL Injection e XSS em todas as entradas. |
 | **Dependências**          | Implementação de protocolos de segurança, como HTTPS e autenticação baseada em token.                                                                                           |
 | **Prioridade**            | 10                                                                                                                                                                              |
+
+
+<font size="3"><b>Autores: </b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a></font>  
+</center>
 | **Conflitos**             | Pode impactar o desempenho em caso de grandes volumes de dados.                                                                                                                 |
 | **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                                                                                         |
 
@@ -425,7 +429,7 @@ A figura 5 mostra a decomposição do softgoal Confiabilidade feito pela integra
 ### Compilado
 
 <center>
-<font size="3"><b>Vídeo 2: </b> NFR Framework - Compilado</font>
+<font size="3"><b>Figura 7: </b> NFR Framework - Compilado</font>
 
 <iframe 
   src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=taxonomia.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1xL-6k82F284j4BSH8AL3dxy1DzRufv8j%26export%3Ddownload" 
