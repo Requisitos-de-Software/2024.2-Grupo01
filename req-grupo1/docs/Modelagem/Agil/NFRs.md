@@ -355,22 +355,6 @@ A figura 5 mostra a decomposição do softgoal Confiabilidade feito pela integra
 
 <center><p><b>Tabela 11: </b>Cartão de especificação - Proteção de Dados Sensíveis</p></center>
 
-### Compilado
-
-<center>
-<font size="3"><b>Vídeo 2: </b> NFR Framework - Compilado</font>
-
-<iframe 
-  src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=taxonomia.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1xL-6k82F284j4BSH8AL3dxy1DzRufv8j%26export%3Ddownload" 
-  width="1000" 
-  height="300" 
-  allow="autoplay">
-</iframe>
-
-
-<font size="3"><b>Autores: </b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a></font>  
-</center>
-
 
 | **Item**                  | **Descrição**                                                                                                                                                                   |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -437,6 +421,22 @@ A figura 5 mostra a decomposição do softgoal Confiabilidade feito pela integra
 | **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                              |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/erteduarda">Eduarda Tavares</a></p> 
+
+### Compilado
+
+<center>
+<font size="3"><b>Vídeo 2: </b> NFR Framework - Compilado</font>
+
+<iframe 
+  src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=taxonomia.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1xL-6k82F284j4BSH8AL3dxy1DzRufv8j%26export%3Ddownload" 
+  width="1000" 
+  height="300" 
+  allow="autoplay">
+</iframe>
+
+
+<font size="3"><b>Autores: </b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a></font>  
+</center>
 
 ## Bibliografia  
 
