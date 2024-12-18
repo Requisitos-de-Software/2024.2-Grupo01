@@ -7,14 +7,14 @@ O objetivo deste documento é consolidar as apresentações do Grupo 01, permiti
 ## Metodologia
 A metodologia adotada para este documento consiste na gravação de todas as apresentações realizadas pelo Grupo 01 ao longo do semestre. Cada apresentação foi registrada em vídeo para garantir a preservação do conteúdo e facilitar o acesso a ele a qualquer momento. Além disso, todas as apresentações vão ser alocadas no YouTube na categoria "não listado".[¹](#1)
 
-## Apresentação 3
-Nesta etapa foram entregues: cenários, léxicos, casos de uso, especificação suplementar e verificação da etapa 3. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 08/12/2024 e todos os integrantes estavam presentes.
+## Apresentação 4
+Nesta etapa foram entregues: Histórias de usuário, backlog, NFR e verificação da etapa 4. O link para o vídeo da apresentação é apresentado logo a seguir. A data da gravação foi dia 17/12/2024 e todos os integrantes estavam presentes.
 
 ### Vídeo da apresentação
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Apresentação 3</p></font>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/e38KBms_VU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center"><b>Vídeo 1:</b> Apresentação 4</p></font>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1u218_1E8cc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <font size="3"><p style="text-align: center"><b>Autor:</b> Carla Clementino</p></font>
 </div>
 
@@ -34,7 +34,7 @@ Nesta etapa foram entregues: cenários, léxicos, casos de uso, especificação 
             <th>Revisor</th>
         </tr>
         <tr>
-            <td>08/12</td>
+            <td>17/12</td>
             <td>1.0</td>
             <td>Criação do documento</td>
             <td><a href="https://github.com/erteduarda">Carla Clementino</a></td>
