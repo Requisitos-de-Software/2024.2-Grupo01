@@ -268,7 +268,7 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 <center><p><b>Figura 4:</b>Decomposição do softgoal Suporte</p></center>
 
 <figure markdown="span">
-  ![NFR Davi](../../assets/images/nfr-suporte.png){ width="1100" align="center" }
+  ![NFR Carla](../../assets/images/nfr-suporte.png){ width="1100" align="center" }
 </figure>
 
 
@@ -328,6 +328,20 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 | **História**              | Criado em 16/12/2024. Última modificação em 16/12/2024.                                                                                    |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p> 
+
+## **Validação com Usuário**
+
+O vídeo 2 contém a verificação do NFR framework relacionadas a Suporte . Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
+
+<center>
+<font size="3"><b>Vídeo 2: </b> NFR Framework - Suporte</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/FTJsXKkJa90" title="NFR - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
+</center>
 
 ### Confiabilidade 
 
