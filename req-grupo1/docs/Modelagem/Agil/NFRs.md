@@ -265,24 +265,7 @@ As pŕoximas 3(três) tabelas e a figura 3 de NFR framework estão relacionadas 
 
 O vídeo 2 contém a validação do SIG informal da Usabilidade. Foi realizado por [Davi Nobre](https://github.com/Jagaima) com a participação voluntária da Inara atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 17:10.
 
-<div align="center">
-    <font size="3">
-        <p style="text-align: center">
-            <b>Vídeo 2:</b> Validação Desempenho
-        </p>
-    </font>
-    <iframe id="video1" width="560" height="315" 
-        src="https://youtu.be/z_b9CnGQ5P8" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
-    <font size="3">
-        <p style="text-align: center">
-            <b>Autor:</b> Davi Nobre
-        </p>
-    </font>
-</div>
+<iframe width="1366" height="514" src="https://www.youtube.com/embed/z_b9CnGQ5P8" title="Verificação NFR framework com o usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Suporte 
 
