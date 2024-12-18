@@ -24,9 +24,9 @@ A tabela 1 mostra cada artefato revisado, a versão que está sendo revisada, o 
 |Artefato| Versão | Integrante responsável pela lista de verificação | Integrante responsável pela revisão |
 |:-----------------------: | :----: | :----------------------------------------------: | :---------------------------------: |
 |Perguntas gerais| - | Renata | Renata |
-|Histórias de Usuário| - | Carla | Renata |
-|Backlog| - | Renata | João |
-|NFR| - | Renata | Carla |
+|Histórias de Usuário| 1.4 | Carla | Renata |
+|Backlog| 1.4 | Renata | Renata |
+|NFR| 1.3 | Renata | Renata |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p> 
 
@@ -53,17 +53,17 @@ A tabela 3 se refere as perguntas da inspeção das histórias de usuário.
 
 | **ID** | **Descrição**                                                                                              | **Avaliação** | **Referência**                                                                                   |
 |--------|----------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------|
-| x      | As Histórias de Usuário?                                                                                  | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | Os títulos das histórias de usuário são auto-explicativos?                                               | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | O “quem”, “o que” e o “por que” estão definidos na história de usuário?                                  | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | A participação do cliente e/ou persona na validação das histórias de usuário?                            | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | A história possui critérios de aceitação?                                                                | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | A participação do cliente e/ou persona na elicitação de requisitos?                                      | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | Todas as histórias de usuários podem ser testadas?                                                       | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | As histórias de usuário são adequadas para representar a experiência do usuário no Bluesky?              | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
-| x      | As histórias de usuário possuem um usuário?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w)               |
-| x      | As histórias de usuário possuem uma ação?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) 
-| x      | As histórias de usuário possuem um dado?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) 
+| 09      | As Histórias de Usuário?                                                                                  | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 10      | Os títulos das histórias de usuário são auto-explicativos?                                               | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 11     | O “quem”, “o que” e o “por que” estão definidos na história de usuário?                                  | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 12      | A participação do cliente e/ou persona na validação das histórias de usuário?                            | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 13     | A história possui critérios de aceitação?                                                                | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 14     | A participação do cliente e/ou persona na elicitação de requisitos?                                      | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 15     | Todas as histórias de usuários podem ser testadas?                                                       | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 16     | As histórias de usuário são adequadas para representar a experiência do usuário no Bluesky?              | -            |[Plano de ensino](../../assets/images/NFR10.png)                                                                               |
+| 17     | As histórias de usuário possuem um usuário?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w)               |
+| 18     | As histórias de usuário possuem uma ação?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) 
+| 19     | As histórias de usuário possuem um dado?              | -            |[Guia definitivo para Histórias de Usuário](https://www.youtube.com/watch?v=pLJ3LxR292w) 
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></p>  
 
@@ -74,11 +74,11 @@ A tabela 4 se refere as perguntas da inspeção do Backlog.
     Tabela 4: Backlog
 | ID | Descrição | Avaliação | Referência  | Autor |
 |:---:|:---------------------------------------------------------------------------------------------------------:|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:------:|
-| x | Possui os backlogs? | - | [Plano de ensino](../../assets/images/back1.png) | Davi |
-| x | O backlog possui épicos e temas bem definidos e descritos? | - | [Plano de ensino](../../assets/images/back2.png) | João |
-| x | O backlog foi realizado através de histórias de usuário? | - | [Backlog do produto](../../assets/images/back3.png) | Carla |
-| x | O backlog está ordanizado em uma ordem de prioridade? | - |[Backlog do produto](../../assets/images/back4.png) | Renata |
-| x | Os itens são nomeados? | - | [Backlog do produto](../../assets/images/back5.png) | Eduarda |
+| 20 | Possui os backlogs? | - | [Plano de ensino](../../assets/images/back1.png) | Davi |
+| 21 | O backlog possui épicos e temas bem definidos e descritos? | - | [Plano de ensino](../../assets/images/back2.png) | João |
+| 22| O backlog foi realizado através de histórias de usuário? | - | [Backlog do produto](../../assets/images/back3.png) | Carla |
+| 23| O backlog está ordanizado em uma ordem de prioridade? | - |[Backlog do produto](../../assets/images/back4.png) | Renata |
+| 24| Os itens são nomeados? | - | [Backlog do produto](../../assets/images/back5.png) | Eduarda |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
@@ -88,17 +88,17 @@ A tabela 5 se refere as perguntas da inspeção do NFR Framework.
     Tabela 5: NFR
 | ID | Descrição | Avaliação | Referência  | Autor |
 |:---:|:---------------------------------------------------------------------------------------------------------:|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|
-| x | O gitPages possui o NFR Framework? | - | [Plano de ensino](../../assets/images/NFR9.png) |Renata |
-| x | Existe a definição do RNF e as fontes de evidência na literatura? | - | [Plano de ensino](../../assets/images/NFR10.png) |Renata |
-| x | Existe o cartão de especificação do RNF? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR2.png) | Renata |
-| x | Os softgoals condizem com o contexto? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) | Renata |
-| x | Softgoals representam metas bem definidas? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) | Renata |
-| x | Os impactos foram corretamente propagados? | - | [Plano de ensino](../../assets/images/NFR11.png)  | Renata |
-| x | Os softgoals e seus inter-relacionamentos são representados em um grafo SIG? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR4.png) | Renata |
-| x | Os softgoals são representados de acordo com cada tipo? NFR, Operacionalização ou Afirmação. | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR5.png) | Eduarda |
-| x | As decomposições são tratadas da maneira correta? NFR, Operacionalização ou Afirmação | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR6.png) | Carla |
-| x | As contribuições estão utilizadas corretamente? AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR7.png) | joão |
-| x | É realizado um procedimento de avaliação? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR8.png) | Davi |
+| 25 | O gitPages possui o NFR Framework? | - | [Plano de ensino](../../assets/images/NFR9.png) |Renata |
+| 26 | Existe a definição do RNF e as fontes de evidência na literatura? | - | [Plano de ensino](../../assets/images/NFR10.png) |Renata |
+| 27 | Existe o cartão de especificação do RNF? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR2.png) | Renata |
+| 28 | Os softgoals condizem com o contexto? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) | Renata |
+| 29 | Softgoals representam metas bem definidas? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR3.png) | Renata |
+| 30 | Os impactos foram corretamente propagados? | - | [Plano de ensino](../../assets/images/NFR11.png)  | Renata |
+| 31 | Os softgoals e seus inter-relacionamentos são representados em um grafo SIG? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR4.png) | Renata |
+| 32 | Os softgoals são representados de acordo com cada tipo? NFR, Operacionalização ou Afirmação. | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR5.png) | Eduarda |
+| 33 | As decomposições são tratadas da maneira correta? NFR, Operacionalização ou Afirmação | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR6.png) | Carla |
+| 34 | As contribuições estão utilizadas corretamente? AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR7.png) | joão |
+| 35 | É realizado um procedimento de avaliação? | - | [ILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019](../../assets/images/NFR8.png) | Davi |
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/Renatinha28">Renata Quadros</a></p>  
 
