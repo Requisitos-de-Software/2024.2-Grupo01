@@ -691,6 +691,21 @@ As tabelas 27, 28, 29, 30, 31, 32 e 33 se referem as histórias de usuário feit
 <font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
 </center>
 
+### Validação com Usuário
+
+
+<a id="24_a_30"></a>
+
+O vídeo 3 contém a verificação das histórias de usuário e backlog do 24 ao 30. Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
+
+<font size="3"><b>Vídeo 3:</b> Validação histórias de usuário e backlog (24 ao 30)</font>
+
+<center>
+<iframe width="824" height="464" src="https://www.youtube.com/embed/e_JuoM2vYrk" title="Historias de usuario - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+
+
 ### Histórias de Usuário: requisitos elicitados 31 até 37
 
 As tabelas 33 até 39 descrevem as histórias de usuário realizadas pela integrante [Eduarda Tavares](https://github.com/erteduarda)

@@ -141,7 +141,6 @@ US21: Eu, como usuário, desejo visualizar publicações de diferentes idiomas t
 
 US23: Eu, como usuário, desejo participar de grupos de mensagens privadas para poder me comunicar de forma privada com um grupo restrito de outros usuários. ([RF23](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS20](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
 
-<!--  -->
 
 ## Tabela com todos os épicos
 A tabela 1 organiza todos os épicos 
@@ -183,7 +182,22 @@ A tabela 1 organiza todos os épicos
 |          T02 - Publicações e Interações          | Épico 2.24  | [US23](../../Modelagem/Agil/historia.md/#US23) | Média | [IS20](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/) |
 
 
-<font size="3"><b>Autores:</b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+<font size="3"><b>Autores: </b><a href="https://github.com/Renatinha28">Renata Quadros</a>; <a href="https://github.com/Jagaima">Davi Nobre</a>; <a href="https://github.com/ccarlaa">Carla Clementino</a>; <a href="https://github.com/Joa0V">João Ribeiro</a></font> 
+
+</center>
+
+## **Validação com Usuário**
+
+O vídeo 1 contém a verificação dos Épicos do 2.13 ao 2.19. Foi realizado pela [Carla Clementino](https://github.com/ccarlaa) com a participação voluntária da Bruna de Araújo atuando como usuário. Esta gravação foi realizada no dia 17/12/2024 às 21:00.
+
+<center>
+<font size="3"><b>Vídeo 1: </b> Validação dos Épicos do 2.13 ao 2.19</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/fxegp7EpalU" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><b>Autor:</b> <a href="https://github.com/ccarlaa">Carla Clementino</a></font> 
+</center>
+
 </center>
 
 ## Bibliografia
