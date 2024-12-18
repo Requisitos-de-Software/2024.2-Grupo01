@@ -141,8 +141,6 @@ US21: Eu, como usuário, desejo visualizar publicações de diferentes idiomas t
 
 US23: Eu, como usuário, desejo participar de grupos de mensagens privadas para poder me comunicar de forma privada com um grupo restrito de outros usuários. ([RF23](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Requisitosel/), [IS20](http://127.0.0.1:8000/PerfilUsuario/Tecnicas/Introspeccao/))
 
-<<<<<<< HEAD
-=======
 **ÉPICO 2.31**  
 O sistema deve permitir linkar para outras pessoas sem o sufixo ".bsky.social".  
 
@@ -178,7 +176,6 @@ O sistema deve fornecer métricas sobre o alcance das postagens.
 
 US37: Eu, como usuário, desejo acessar métricas detalhadas sobre o alcance das minhas postagens, para analisar o engajamento e a performance do conteúdo. (RF37, BT5) 
 
->>>>>>> b9afb93 (Adicionando backlog requisitos 31 - 37)
 
 ## Tabela com todos os épicos
 A tabela 1 organiza todos os épicos 
