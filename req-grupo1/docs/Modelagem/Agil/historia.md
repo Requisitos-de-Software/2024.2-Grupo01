@@ -227,24 +227,7 @@ As tabelas 4 até 10 descrevem as histórias de usuário realizadas pela integra
 
 O vídeo 1 contém a verificação das histórias de usuário e backlog do 1 ao 7. Foi realizado pela [Renata Quadros]() com a participação voluntária da Amanda atuando como usuário. Esta gravação foi realizada no dia 15/12/2024 às 16:00.
 
-<div align="center">
-    <font size="3">
-        <p style="text-align: center">
-            <b>Vídeo 1:</b> Validação histórias de usuário e backlog (1 ao 7)
-        </p>
-    </font>
-    <iframe id="video1" width="560" height="315" 
-        src="https://www.youtube.com/embed/AVD3JyGSZm8" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
-    <font size="3">
-        <p style="text-align: center">
-            <b>Autor:</b> Renata Quadros
-        </p>
-    </font>
-</div>
+<iframe width="1366" height="514" src="https://www.youtube.com/embed/2_AKIl8GcdQ" title="Verificação História de usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Histórias de Usuário requisitos elicitados 08 a 14.
 
